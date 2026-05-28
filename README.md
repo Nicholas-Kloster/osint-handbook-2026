@@ -1,13 +1,55 @@
 # OSINT Tools and Resources Handbook 2026
 
-**6,718 tools across 214 categories** scraped from [osinthandbook.com](https://www.osinthandbook.com).
-Click any category to see the full list of tools with descriptions and URLs.
+**6,718 tools. 5,569 unique URLs. 214 categories.** Scraped from [osinthandbook.com](https://www.osinthandbook.com).
 
-| Format | File |
-|--------|------|
-| JSON | [data/tools.json](data/tools.json) |
-| CSV | [data/tools.csv](data/tools.csv) |
-| Scraper | [scraper.py](scraper.py) |
+## Quick Search
+
+```bash
+# Clone once
+git clone https://github.com/Nicholas-Kloster/osint-handbook-2026.git && cd osint-handbook-2026
+
+# Search by keyword (name, URL, description)
+./search.sh github
+./search.sh "face recognition"
+./search.sh shodan
+
+# Get URLs only
+./search.sh twitter --url
+
+# See which categories match
+./search.sh phone --category
+
+# Grep the flat CSV directly
+grep -i "recon" data/tools-flat.csv | cut -d',' -f3
+```
+
+**Python:**
+```python
+import json
+data = json.load(open("data/tools.json"))
+# All tools flat
+tools = [t for cat in data["categories"] for t in cat["tools"]]
+# Search
+results = [t for t in tools if "shodan" in t["url"].lower()]
+```
+
+**Just the URLs:**
+```bash
+# 5,569 unique URLs, one per line
+cat data/urls.txt
+grep github data/urls.txt
+```
+
+## Data Files
+
+| File | Description |
+|------|-------------|
+| [data/tools.json](data/tools.json) | Full dataset — name, URL, description, category (JSON) |
+| [data/tools-flat.csv](data/tools-flat.csv) | Flat CSV — category, name, url, description |
+| [data/urls.txt](data/urls.txt) | All unique URLs, one per line (5,569) |
+| [data/tools.csv](data/tools.csv) | Original CSV |
+| [search.sh](search.sh) | CLI search script |
+| [scraper.py](scraper.py) | Source scraper |
 
 ## Search Tools
 

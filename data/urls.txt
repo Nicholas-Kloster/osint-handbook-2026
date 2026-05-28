@@ -361,6 +361,7 @@ http://www.qiqqa.com
 http://www.radio-portal.org
 http://www.radioteam.eu
 http://www.raptmedia.com
+http://www.ratemyemployer.ca/
 http://www.rba.co.uk/sources/
 http://www.rba.co.uk/sources/registers.htm
 http://www.readthewords.com
@@ -449,6 +450,7 @@ https://99bitcoins.com
 https://9gag.com/video
 https://a4lg.com/downloads/vxshare
 https://aadinternals.com/osint
+https://aaroncti.com/
 https://abbreviations.yourdictionary.com
 https://abhijithb200.github.io/investigator
 https://about.gitlab.com/
@@ -642,6 +644,7 @@ https://bellingcat.gitbook.io/toolkit
 https://bellingcat.github.io/name-variant-search/
 https://bellingcat.github.io/telegram-group-joiner
 https://bellingcat.github.io/tiktok-timestamp
+https://benjaminstrick.com/blog/
 https://berify.com
 https://bertha.ai
 https://beta.thestorygraph.com
@@ -657,6 +660,7 @@ https://bibdesk.sourceforge.io
 https://bigrigvin.com/
 https://biluppgifter.se
 https://bioone.org
+https://bird.tools/
 https://birdhunt.huntintel.io/
 https://bitbo.io
 https://bitcoin.org
@@ -915,6 +919,7 @@ https://cirt.net/passwords
 https://citationsy.com
 https://citeseer.ist.psu.edu
 https://citizen.com/explore
+https://citizenevidence.org/
 https://city-webcams.com
 https://cityprotect.com
 https://civitai.com
@@ -974,6 +979,7 @@ https://copilot.microsoft.com
 https://copyleaks.com/ai-content-detector
 https://copyseeker.net
 https://core.ac.uk
+https://corma.de/blog/
 https://corona.cast.uark.edu/
 https://corporation.directory/secstates
 https://countrycode.org
@@ -987,6 +993,7 @@ https://creators.spotify.com/pod/profile/osint-cocktail
 https://creators.spotify.com/pod/profile/the-osintion
 https://credder.com
 https://crimnet.dcpc.interno.gov.it/crimnet/en/stolen_lost_vehicle_number_plate_researching
+https://crisismapping.ning.com/
 https://croppola.com/
 https://crt.sh
 https://cryptocurrencyalerting.com/
@@ -1027,6 +1034,7 @@ https://darknetpages.com
 https://darkweb-archive.activetk.jp
 https://darkweb-sites.org
 https://darkwebfans.com
+https://darkwebinformer.com/tag/osint
 https://darkweblinks.wiki
 https://darkwebmarket.net
 https://dash.harvard.edu/home
@@ -1082,6 +1090,7 @@ https://developer.twitter.com/en
 https://developers.facebook.com/tools/ct/search/
 https://developers.google.com/chart
 https://developers.google.com/maps
+https://dfrlab.org/
 https://dht.chylex.com/
 https://dialindia.com/
 https://dictation.io
@@ -1147,6 +1156,7 @@ https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html
 https://doodle.com
 https://dorkgenius.com/
 https://dorkking.blindf.com
+https://dorkking.blindf.com/
 https://dorks.faisalahmed.me/
 https://dorks.xen00rw.me/
 https://dotdb.com/
@@ -1230,6 +1240,7 @@ https://endchan.net
 https://endnote.com/
 https://enigma.com
 https://eos.com/landviewer/?lat=46.7512&lng=7.6217&z=11
+https://epcyber.com/blog
 https://epicbrowser.com/index.html
 https://epicvin.com/
 https://epieos.com
@@ -1267,6 +1278,8 @@ https://explore.whatismybrowser.com/useragents/parse/#google_vignette
 https://explorer.bitcoin.com
 https://exportcomments.com
 https://exportgram.net/
+https://exposingtheinvisible.org/
+https://exposingtheinvisible.org/en/read
 https://extract.pics
 https://eyeforai.xyz
 https://eyeofjustice.com/od/
@@ -1280,6 +1293,7 @@ https://facedetection.com
 https://faceonlive.com/face-search-online/
 https://factualsearch.news
 https://fairsharing.org
+https://fairygodboss.com/
 https://fakeinet.com/list-of-scams-and-fake-online-shops-of-internet
 https://fakeinfo.net/
 https://fakeinfo.net/drivers-license-generator
@@ -1336,7 +1350,9 @@ https://focus.universite-paris-saclay.fr
 https://fofa.so
 https://followerwonk.com/
 https://followgraph.vercel.app/
+https://followmoneyfightslavery.org/
 https://forebears.io/
+https://forensic-architecture.org/
 https://fortune.com/global500/
 https://fotoflexer.com
 https://fotoforensics.com/
@@ -1986,6 +2002,7 @@ https://info.publicintelligence.net/ROCICInternationalNames.pdf
 https://infogr.am
 https://infolanka.com/
 https://informationlaundromat.com
+https://informnapalm.org/
 https://infostealer.profiler.me
 https://infotrail.io
 https://infringement.report/api/raider-reverse-image-search
@@ -2089,6 +2106,7 @@ https://kikfriender.com
 https://kikusernames.com
 https://kindlenationdaily.com/
 https://kissflow.com
+https://kit.exposingtheinvisible.org/
 https://klart.co
 https://klaxoon.com
 https://knewz.com
@@ -2159,6 +2177,7 @@ https://lmstudio.ai
 https://loc.alize.us
 https://localbitcoins.com
 https://localmonero.co/blocks
+https://locate.international/
 https://logically.ai/
 https://logs.ivr.fi/
 https://logseq.com/
@@ -2222,6 +2241,7 @@ https://meawfy.com
 https://medee.mn/
 https://mediaarea.net/en/MediaInfo
 https://mediabiasfactcheck.com
+https://medium.com/@stegers
 https://medium.com/osint/the-osint-toolkit-3b9233d1cdf9
 https://meetedgar.com
 https://meetfranz.com
@@ -2307,6 +2327,7 @@ https://namevine.com
 https://narrationbox.com
 https://navigates.gates.com
 https://nbox.notif.me
+https://ncptf.org/
 https://ndltd.org/
 https://neatline.org/
 https://neighbor.report
@@ -2835,6 +2856,7 @@ https://sitecheck.sucuri.net
 https://sitechecker.pro/similar-websites
 https://sitelookup.mcafee.com/en/feedback/url?action=checksingle&url=
 https://sitereview.bluecoat.com
+https://sites.google.com/bellingcat.com/bellingcat-volunteer-community
 https://sites.google.com/view/l33tech/tools/ods
 https://sizeof.cat/project/twitch-payout-search/
 https://skedsocial.com
@@ -3083,6 +3105,7 @@ https://steller.co
 https://stemic.app
 https://stevemorse.org/arabic/ara2eng.html
 https://sticktock.com
+https://stopthetraffik.org/
 https://stopthinkconnect.org
 https://storiesig.com/
 https://stormboard.com
@@ -3130,6 +3153,7 @@ https://sync.me
 https://syncmarx.mcleodgaming.com
 https://syncthing.net
 https://syntax.goldenowl.ai
+https://syntax.goldenowl.ai/
 https://t.me/FindNameVk_bot
 https://t.me/HowToFind_bot
 https://t.me/LinkCreatorBot
@@ -3151,6 +3175,7 @@ https://tana.inc
 https://tankaru.github.io/OpenSwitchMapsWeb/index.html
 https://tankertrackers.com
 https://targethunter.ru
+https://targetjobs.co.uk/
 https://taskboard.matthewross.me
 https://tastedive.com/books
 https://tazaa.com/#gsc.tab=0
@@ -3670,6 +3695,7 @@ https://www.aviationnews-online.com
 https://www.aware-online.com/en/osint-tools/
 https://www.aware-online.com/en/osint-tools/company-search-tool
 https://www.aware-online.com/en/osint-tools/youtube-search-tool/
+https://www.aware-online.com/en/osint-tutorials/
 https://www.aware-online.com/osint-tools/bestandstypen-search-tool/
 https://www.aware-online.com/osint-tools/cryptocurrency-search-tool/
 https://www.aware-online.com/osint-tools/e-mail-search-tool/
@@ -3707,6 +3733,7 @@ https://www.beenverified.com/
 https://www.befunky.com
 https://www.behindthename.com
 https://www.behindthename.com/random/
+https://www.bellingcat.com/
 https://www.bellingcat.com/book/
 https://www.bellingcat.com/category/resources/podcasts/
 https://www.benchmarkemail.com
@@ -3747,6 +3774,7 @@ https://www.bleachbit.org
 https://www.blinkist.com
 https://www.blockchain.com
 https://www.blockexplorer.com
+https://www.blockint.nl/blog/
 https://www.blocklayer.com/scale-fixereng
 https://www.blocklist.de/en/index.html
 https://www.blockonomics.co
@@ -3799,6 +3827,7 @@ https://www.captivoice.com
 https://www.caravanvindecoder.com
 https://www.carbonite.com
 https://www.cardetective.com
+https://www.careerbliss.com/reviews
 https://www.careerbliss.com/salary
 https://www.careerboutique.com/salary
 https://www.careerbuilder.com
@@ -3877,6 +3906,7 @@ https://www.corporateinformation.com/
 https://www.corporationwiki.com
 https://www.countrycallingcodes.com
 https://www.cozi.com/
+https://www.cqcore.uk/home-page/blog-posts/
 https://www.craft.do
 https://www.craiyon.com
 https://www.crawlcenter.com/external-link-checker
@@ -3994,6 +4024,7 @@ https://www.dropsend.com/
 https://www.dsb.dk
 https://www.duplicati.com
 https://www.duplichecker.com/reverse-image-search.php
+https://www.dutchosintguy.com/blog
 https://www.dxing.com/scanfreq.htm
 https://www.dxzone.com
 https://www.earthcam.com/
@@ -4015,6 +4046,7 @@ https://www.eff.org/privacybadger
 https://www.egerin.com/
 https://www.egnyte.com
 https://www.egroupware.org/
+https://www.einvestigator.com/
 https://www.elastic.io
 https://www.elliptic.co
 https://www.elsevier.com
@@ -4051,6 +4083,7 @@ https://www.europages.co.uk/
 https://www.europeana.eu
 https://www.europeandataportal.eu
 https://www.europlates.eu
+https://www.europol.europa.eu/stopchildabuse
 https://www.eventbrite.ca/o/trace-labs-18447984222
 https://www.everycaller.com
 https://www.evoto.ai
@@ -4101,6 +4134,7 @@ https://www.fastemoji.com
 https://www.fastpeoplesearch.com/
 https://www.favihash.com/
 https://www.faxvin.com/
+https://www.fbi.gov/wanted/ecap
 https://www.fbiic.gov/public/2008/nov/Naming_practice_guide_UK_2006.pdf
 https://www.feedly.com/
 https://www.feedspot.com
@@ -4205,6 +4239,7 @@ https://www.givero.com
 https://www.givewater.com
 https://www.glasscubes.com
 https://www.glassdoor.com
+https://www.glassdoor.com/
 https://www.glassdoor.com/Salaries/index.htm
 https://www.gling.ai
 https://www.globaleaks.org
@@ -4349,6 +4384,7 @@ https://www.inkitt.com
 https://www.inkl.com
 https://www.inmarsat.com/en/support-and-info/support/ships-directory.html
 https://www.innocentive.com/
+https://www.innocentlivesfoundation.org/
 https://www.inoreader.com
 https://www.instafollowers.co/find-tiktok-user-id
 https://www.instantcheckmate.com
@@ -4408,6 +4444,7 @@ https://www.jobs.de
 https://www.jobs.pl/
 https://www.jobsearchintelligence.com/etc/jobseekers/salary-calculator.php
 https://www.jobvertise.com/resumes/search
+https://www.jobvoting.de/
 https://www.jobware.de
 https://www.joesandbox.com
 https://www.journalmap.org
@@ -4436,6 +4473,7 @@ https://www.kompass.com
 https://www.krea.ai
 https://www.ktab.io
 https://www.kukarella.com
+https://www.kununu.com/
 https://www.kwai.com/
 https://www.lacnic.net/
 https://www.lastpass.com/features/username-generator
@@ -4571,6 +4609,7 @@ https://www.medicaltenders.com
 https://www.meetingone.com
 https://www.meetsidekick.com/
 https://www.meetways.com
+https://www.meinchef.de/
 https://www.meistertask.com
 https://www.meltwater.com
 https://www.memuplay.com
@@ -4611,7 +4650,9 @@ https://www.mindnode.com/
 https://www.mindomo.com
 https://www.minv.sk/?odcudzene-mot-vozidla
 https://www.misp-project.org/
+https://www.missingkids.org/
 https://www.missingpersonshackathon.com.au
+https://www.missingpersonshackathon.com.au/
 https://www.mmnt.ru/
 https://www.mobilefish.com/services/hash_generator/hash_generator.php
 https://www.mobilegeographics.com/skunktracker
@@ -4915,6 +4956,7 @@ https://www.rakia.ai
 https://www.random.org/passwords/
 https://www.rapid7.com/db/
 https://www.ratsit.se/
+https://www.rattis.net/
 https://www.ravelin.com
 https://www.rawshorts.com/
 https://www.re3data.org
@@ -4930,6 +4972,7 @@ https://www.reddit.com/r/PictureGame/
 https://www.reddit.com/r/RBI/
 https://www.reddit.com/r/TOR
 https://www.reddit.com/r/TraceAnObject
+https://www.reddit.com/r/TraceAnObject/
 https://www.reddit.com/r/bookclub
 https://www.reddit.com/r/bookquotes
 https://www.reddit.com/r/books
@@ -5052,6 +5095,7 @@ https://www.seatguru.com
 https://www.securityweek.com
 https://www.see.cam/
 https://www.seek.com.au/
+https://www.seek.com.au/companies/
 https://www.seekoin.com
 https://www.sejda.com/pdf-editor
 https://www.semanticscholar.org
@@ -5234,6 +5278,7 @@ https://www.thefreedictionary.com/
 https://www.thegenealogist.co.uk
 https://www.thehacklabs.com
 https://www.thehoth.com/backlinks-checker/
+https://www.thejobcrowd.com/
 https://www.thelayoff.com
 https://www.thescipub.com/
 https://www.thetimenow.com/
@@ -5268,6 +5313,7 @@ https://www.topazlabs.com/topaz-video-ai
 https://www.topmarks.co.uk
 https://www.topographymaps.com
 https://www.torproject.org
+https://www.tracelabs.org/
 https://www.tracelabs.org/initiatives/search-party
 https://www.tracelabs.org/trace-labs-osint-vm
 https://www.track-trace.com/

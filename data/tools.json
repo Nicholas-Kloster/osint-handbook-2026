@@ -1,7 +1,7 @@
 {
   "source": "osinthandbook.com",
   "year": 2026,
-  "total_categories": 215,
+  "total_categories": 219,
   "total_tools": 6718,
   "categories": [
     {
@@ -34956,6 +34956,360 @@
           "name": "UK OSINT",
           "url": "https://www.youtube.com/@UKOSINT/videos",
           "description": ""
+        }
+      ]
+    },
+    {
+      "slug": "company-reviews",
+      "name": "Company Reviews",
+      "tools": [
+        {
+          "name": "CareerBliss",
+          "url": "https://www.careerbliss.com/reviews",
+          "description": "Company reviews and salary data for job seekers."
+        },
+        {
+          "name": "Companize",
+          "url": "https://www.companize.com/",
+          "description": "Company information and employee reviews."
+        },
+        {
+          "name": "Fairygodboss",
+          "url": "https://fairygodboss.com/",
+          "description": "Company reviews focused on women in the workplace."
+        },
+        {
+          "name": "Glassdoor",
+          "url": "https://www.glassdoor.com/",
+          "description": "Employee reviews, salaries, and interview experiences by company."
+        },
+        {
+          "name": "Indeed Company Reviews",
+          "url": "https://www.indeed.com/companies",
+          "description": "Company reviews and ratings from Indeed job seekers."
+        },
+        {
+          "name": "Jobvoting",
+          "url": "https://www.jobvoting.de/",
+          "description": "German-language employer review platform."
+        },
+        {
+          "name": "Kununu",
+          "url": "https://www.kununu.com/",
+          "description": "European employer review platform with workplace culture ratings."
+        },
+        {
+          "name": "meinChef",
+          "url": "https://www.meinchef.de/",
+          "description": "German-language platform for anonymous employer reviews."
+        },
+        {
+          "name": "RateMyEmployer",
+          "url": "http://www.ratemyemployer.ca/",
+          "description": "Canadian employer review site."
+        },
+        {
+          "name": "SEEK Company Reviews",
+          "url": "https://www.seek.com.au/companies/",
+          "description": "Australian job platform with company reviews and ratings."
+        },
+        {
+          "name": "TargetJobs",
+          "url": "https://targetjobs.co.uk/",
+          "description": "UK graduate employer reviews and career guidance."
+        },
+        {
+          "name": "The Job Crowd",
+          "url": "https://www.thejobcrowd.com/",
+          "description": "UK graduate employer reviews and rankings."
+        }
+      ]
+    },
+    {
+      "slug": "web-intelligence-search-engine-dorking",
+      "name": "Web Intelligence Search Engine Dorking",
+      "tools": [
+        {
+          "name": "All-Dorks-in-one-place",
+          "url": "https://github.com/RhackrExplorer/All-Dorks-in-one-place",
+          "description": "GitHub repository compiling dorks across multiple search engines."
+        },
+        {
+          "name": "Ashok",
+          "url": "https://github.com/powerexploit/Ashok",
+          "description": "OSINT tool for finding information using Google dorks."
+        },
+        {
+          "name": "Bug Bounty Helper",
+          "url": "https://dorks.faisalahmed.me/",
+          "description": "Google dorks generator for bug bounty hunters."
+        },
+        {
+          "name": "Deep Dork",
+          "url": "https://guilherme-moraiss.github.io/Deep-Dork-Web/",
+          "description": "Web-based Google dorking tool."
+        },
+        {
+          "name": "DorkGPT",
+          "url": "https://www.dorkgpt.com/",
+          "description": "AI-powered Google dork generator."
+        },
+        {
+          "name": "DorkKing",
+          "url": "https://dorkking.blindf.com/",
+          "description": "Dork generator and search tool."
+        },
+        {
+          "name": "dorks_hunter",
+          "url": "https://github.com/six2dez/dorks_hunter",
+          "description": "Multi-target Google dork scanning tool."
+        },
+        {
+          "name": "dorks-eye",
+          "url": "https://github.com/BullsEye0/dorks-eye",
+          "description": "Google dork scanner for finding sensitive data."
+        },
+        {
+          "name": "Fast Google Dorks Scan",
+          "url": "https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan",
+          "description": "Fast scanner using Google dorks for OSINT."
+        },
+        {
+          "name": "FileHunt",
+          "url": "https://filehunt.3kh0.net/",
+          "description": "Dork-based file hunting tool."
+        },
+        {
+          "name": "Go-Dork",
+          "url": "https://github.com/dwisiswant0/go-dork",
+          "description": "Fast Google dorking tool written in Go."
+        },
+        {
+          "name": "Golden Owl Advanced Dorking",
+          "url": "https://syntax.goldenowl.ai/",
+          "description": "AI-powered advanced search syntax generator."
+        },
+        {
+          "name": "Google Dorks for Bug Bounty",
+          "url": "https://taksec.github.io/google-dorks-bug-bounty/",
+          "description": "Curated Google dorks for bug bounty hunting."
+        },
+        {
+          "name": "Google Hacking Database",
+          "url": "https://www.exploit-db.com/google-hacking-database",
+          "description": "Exploit-DB maintained database of Google dorks."
+        },
+        {
+          "name": "GooHak",
+          "url": "https://github.com/1N3/Goohak",
+          "description": "Google hacking tool for finding vulnerable targets."
+        },
+        {
+          "name": "Oxdork",
+          "url": "https://github.com/rly0nheart/oxdork",
+          "description": "Google dorking tool for OSINT and security research."
+        },
+        {
+          "name": "pagodo",
+          "url": "https://github.com/opsdisk/pagodo",
+          "description": "Passive Google dork scanner using the GHDB."
+        },
+        {
+          "name": "Pentest Tools Google Hacking",
+          "url": "https://pentest-tools.com/information-gathering/google-hacking",
+          "description": "Online Google hacking tool for pentesters."
+        },
+        {
+          "name": "SDorker",
+          "url": "https://github.com/TheSpeedX/SDorker",
+          "description": "Fast Google dork scanner."
+        }
+      ]
+    },
+    {
+      "slug": "blogs-and-websites",
+      "name": "Blogs and Websites",
+      "tools": [
+        {
+          "name": "Benjamin Strick Blog",
+          "url": "https://benjaminstrick.com/blog/",
+          "description": "OSINT and investigative journalism blog."
+        },
+        {
+          "name": "Aaron CTI",
+          "url": "https://aaroncti.com/",
+          "description": "Cyber threat intelligence and OSINT blog."
+        },
+        {
+          "name": "Citizen Evidence Lab",
+          "url": "https://citizenevidence.org/",
+          "description": "Amnesty International project on open source investigation techniques."
+        },
+        {
+          "name": "Aware Online OSINT Tutorials",
+          "url": "https://www.aware-online.com/en/osint-tutorials/",
+          "description": "OSINT tutorials and training resources."
+        },
+        {
+          "name": "Bellingcat",
+          "url": "https://www.bellingcat.com/",
+          "description": "Open source and social media investigation outlet."
+        },
+        {
+          "name": "Bird.tools",
+          "url": "https://bird.tools/",
+          "description": "OSINT tools and resources collection."
+        },
+        {
+          "name": "Blockint Blog",
+          "url": "https://www.blockint.nl/blog/",
+          "description": "Dutch OSINT and blockchain intelligence blog."
+        },
+        {
+          "name": "Rattis",
+          "url": "https://www.rattis.net/",
+          "description": "OSINT research and tools blog."
+        },
+        {
+          "name": "Corma Blog",
+          "url": "https://corma.de/blog/",
+          "description": "OSINT and digital investigation blog."
+        },
+        {
+          "name": "CQCore Blog",
+          "url": "https://www.cqcore.uk/home-page/blog-posts/",
+          "description": "OSINT and cyber intelligence blog."
+        },
+        {
+          "name": "Dark Web Informer OSINT",
+          "url": "https://darkwebinformer.com/tag/osint",
+          "description": "Dark web and OSINT news and analysis."
+        },
+        {
+          "name": "DFRLab",
+          "url": "https://dfrlab.org/",
+          "description": "Atlantic Council Digital Forensic Research Lab."
+        },
+        {
+          "name": "Dutch OSINT Guy",
+          "url": "https://www.dutchosintguy.com/blog",
+          "description": "OSINT tips, tricks and tutorials blog."
+        },
+        {
+          "name": "eInvestigator",
+          "url": "https://www.einvestigator.com/",
+          "description": "Digital investigation and OSINT resources."
+        },
+        {
+          "name": "EPC Cyber Blog",
+          "url": "https://epcyber.com/blog",
+          "description": "Cybersecurity and OSINT blog."
+        },
+        {
+          "name": "Exposing the Invisible",
+          "url": "https://exposingtheinvisible.org/",
+          "description": "Tactical Tech project on open source investigation."
+        },
+        {
+          "name": "Exposing the Invisible Read",
+          "url": "https://exposingtheinvisible.org/en/read",
+          "description": "Articles and guides from Exposing the Invisible."
+        },
+        {
+          "name": "Exposing the Invisible Kit",
+          "url": "https://kit.exposingtheinvisible.org/",
+          "description": "Investigation toolkit from Exposing the Invisible."
+        },
+        {
+          "name": "Henk van Ess Medium",
+          "url": "https://medium.com/@stegers",
+          "description": "OSINT journalist and trainer blog on Medium."
+        },
+        {
+          "name": "Forensic Architecture",
+          "url": "https://forensic-architecture.org/",
+          "description": "Research agency using spatial and visual analysis for human rights investigations."
+        }
+      ]
+    },
+    {
+      "slug": "volunteer-work",
+      "name": "Volunteer Work",
+      "tools": [
+        {
+          "name": "Follow Money Fight Slavery",
+          "url": "https://followmoneyfightslavery.org/",
+          "description": "OSINT volunteer network focused on combating human trafficking."
+        },
+        {
+          "name": "Bellingcat Volunteer Community",
+          "url": "https://sites.google.com/bellingcat.com/bellingcat-volunteer-community",
+          "description": "Bellingcat community for volunteer open source investigators."
+        },
+        {
+          "name": "Citizen Evidence Lab",
+          "url": "https://citizenevidence.org/",
+          "description": "Amnesty International volunteer investigation project."
+        },
+        {
+          "name": "Crisis Mapping",
+          "url": "https://crisismapping.ning.com/",
+          "description": "Community for crisis mapping and humanitarian OSINT volunteers."
+        },
+        {
+          "name": "FBI ECAP",
+          "url": "https://www.fbi.gov/wanted/ecap",
+          "description": "FBI Endangered Child Alert Program seeking public help identifying suspects."
+        },
+        {
+          "name": "Innocent Lives Foundation",
+          "url": "https://www.innocentlivesfoundation.org/",
+          "description": "Volunteer OSINT organization identifying anonymous child predators."
+        },
+        {
+          "name": "InformNapalm",
+          "url": "https://informnapalm.org/",
+          "description": "Volunteer OSINT community investigating Russian military aggression."
+        },
+        {
+          "name": "Locate International",
+          "url": "https://locate.international/",
+          "description": "Volunteer organization using OSINT to locate missing persons."
+        },
+        {
+          "name": "Missing Persons Hackathon",
+          "url": "https://www.missingpersonshackathon.com.au/",
+          "description": "Australian volunteer hackathon for finding missing persons."
+        },
+        {
+          "name": "NCPTF",
+          "url": "https://ncptf.org/",
+          "description": "National Child Protection Task Force using OSINT to protect children."
+        },
+        {
+          "name": "r/TraceAnObject",
+          "url": "https://www.reddit.com/r/TraceAnObject/",
+          "description": "Reddit community for tracing objects in crime evidence."
+        },
+        {
+          "name": "Europol Stop Child Abuse",
+          "url": "https://www.europol.europa.eu/stopchildabuse",
+          "description": "Europol volunteer program to identify child abuse perpetrators."
+        },
+        {
+          "name": "Stop The Traffik",
+          "url": "https://stopthetraffik.org/",
+          "description": "Global movement using data and intelligence to prevent human trafficking."
+        },
+        {
+          "name": "Trace Labs",
+          "url": "https://www.tracelabs.org/",
+          "description": "Non-profit using crowdsourced OSINT to find missing persons."
+        },
+        {
+          "name": "NCMEC",
+          "url": "https://www.missingkids.org/",
+          "description": "National Center for Missing and Exploited Children."
         }
       ]
     }

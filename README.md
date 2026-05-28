@@ -1,16 +1,18 @@
 # OSINT Tools and Resources Handbook 2026
 
-A machine-readable dataset of OSINT tools scraped from [osinthandbook.com](https://www.osinthandbook.com) — the live, updated successor to the i-intelligence OSINT Handbook.
+A machine-readable dataset of every OSINT tool listed on [osinthandbook.com](https://www.osinthandbook.com) — the live, continuously-updated successor to the i-intelligence OSINT Handbook.
 
-The original 2020 PDF is intentionally difficult to extract programmatically. This repo fixes that.
+**6,718 tools across 214 categories.** Name, description, and URL for every entry.
+
+The original site is intentionally difficult to extract programmatically. This repo fixes that.
 
 ## Data
 
-| File | Description |
-|------|-------------|
-| `data/tools.json` | All tools by category — JSON, structured |
-| `data/tools.csv` | Flat CSV: `category, tool_name, url` |
-| `data/handbook_2020_categories.json` | Category index from the 2020 PDF (45 categories, 7,442 tools) |
+| File | Format | Contents |
+|------|--------|----------|
+| `data/tools.json` | JSON | All tools by category — name, description, URL |
+| `data/tools.csv` | CSV | Flat: `category, tool_name, description, url` |
+| `data/handbook_2020_categories.json` | JSON | Category index from the 2020 PDF (45 categories, 7,442 tools) |
 
 ### tools.json structure
 
@@ -18,41 +20,51 @@ The original 2020 PDF is intentionally difficult to extract programmatically. Th
 {
   "source": "osinthandbook.com",
   "year": 2026,
-  "total_categories": 49,
-  "total_tools": 732,
+  "total_categories": 214,
+  "total_tools": 6718,
   "categories": [
     {
       "slug": "academic-research-tools",
       "name": "Academic Research Tools",
       "tools": [
-        { "name": "Google Scholar", "url": "https://scholar.google.com/" }
+        {
+          "name": "Google Scholar",
+          "url": "https://scholar.google.com/",
+          "description": "A freely accessible web search engine for scholarly literature."
+        }
       ]
     }
   ]
 }
 ```
 
-## Coverage
-
-49 categories scraped from osinthandbook.com. The site paginates — each category shows up to 20 tools in the initial render. Run the scraper to pull updated data.
-
 ## Scraper
 
-Requires Python 3.11+ and Playwright:
+Requires Python 3.11+, Playwright, and httpx:
 
 ```bash
 pip install playwright httpx
 playwright install chromium
 
-# Scrape a batch of category URLs
-python scraper.py '["https://www.osinthandbook.com/academic-research-tools"]' output.json
+python scraper.py [output_path]
 ```
 
-The scraper uses headless Chromium to render the JS-heavy site and extracts tool name + URL pairs from each category page.
+The scraper clicks the **Export** button on each category page — Softr's native CSV export — rather than parsing rendered HTML. This gets 100% of the tools including all paginated results.
 
-## Categories
+## Largest Categories
 
-Academic Research Tools · Add-On Security · Android Emulators · Anti-Malware · Books And Reading · Browser Tests · Business Registers · Checking Cyber Reputation · Chrome Extensions · Collation And Tabular Analysis · Company Profiling · Cryptocurrency Research · Dark Web Research · Data Scrapers · Document And Reference Management · Document Checking · Document Search · Downloading Videos · Exploit Search Engines · Fact Checking · File And Ftp Search · Font Identification · Forums And Discussion Boards · Glossaries And Dictionaries · Image Analysis · Investigating Phone Numbers · Live Streaming And Webcams · Mastodon · Media Monitoring · Names And Naming Conventions · News Directories · Notetaking · Osint Books · Osint Challenges And Ctfs · Osint Podcasts · Pdf Management · Public Records · Researching Airplanes · Researching Automotive Vehicles · Researching Domains · Researching Ips · Researching Railways · Rss Mixing · Satellite Imagery · Searching Pastebins · Slideshow And Presentation Tools · Social Media Monitoring · Twitter X · Unit Conversion · Validating E-Mails · Video Editors And Converters · Virtual Machines · Vpn Services · Web History And Site Capture · Wikipedia · Working With Citations · Working With Hashes · Working With Hashtags
+| Category | Tools |
+|----------|-------|
+| AI Image Editors | 189 |
+| Tool Lists | 192 |
+| Researching Domains | 161 |
+| Threat Intelligence | 136 |
+| Investigating Phone Numbers | 123 |
+| Academic Research Tools | 119 |
+| Researching IPs | 131 |
+| Company Profiling | 104 |
+| Finding Data and Statistics | 108 |
+| Cryptocurrency Research | 72 |
 
 ## Related
 

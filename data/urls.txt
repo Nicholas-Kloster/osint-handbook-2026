@@ -198,14 +198,17 @@ http://www.allstocks.com/links/
 http://www.amazon.com/b?tag=mak041-20&linkCode=as2&ie=UTF8&node=2245146011
 http://www.araboo.com/
 http://www.artscipub.com/repeaters/
+http://www.ask.com/
 http://www.australialookup.com
 http://www.aware-online.com/en/osint-tools/instagram-search-tool/
 http://www.aware-online.com/en/osint-tools/reddit-search-tool/
 http://www.aware-online.com/en/osint-tools/twitter-search-tool/
 http://www.backlinkwatch.com
+http://www.baidu.com/
 http://www.bangla2000.com/index.asp
 http://www.beyondpod.mobi
 http://www.bhutan.gov.bt/
+http://www.bing.com/
 http://www.bing.com/?scope=video
 http://www.bing.com/images
 http://www.bing.com/news
@@ -268,6 +271,8 @@ http://www.funkfrequenzen01.de
 http://www.genealogyintime.com
 http://www.geofabrik.de
 http://www.gharchive.org
+http://www.goodsearch.com/
+http://www.google.com/
 http://www.google.com/earth
 http://www.google.com/publicdata/directory
 http://www.gosur.com/map
@@ -2202,6 +2207,7 @@ https://mapline.com
 https://mappedinisrael.com
 https://maps.worldbank.org/
 https://mapserver.org
+https://marginalia-search.com/
 https://marinecadastre.gov/ais
 https://marketline.com/
 https://mastogizmos.com/
@@ -2762,6 +2768,7 @@ https://screenshotlayer.com
 https://scrintal.com/
 https://scriptmafia.org/
 https://search-it.netlify.app
+https://search.aol.com/
 https://search.brave.com/
 https://search.ch/
 https://search.creativecommons.org
@@ -2777,6 +2784,7 @@ https://search.wikileaks.org/advanced
 https://search.wikileaks.org/plusd/
 https://search4faces.com/
 https://search4faces.com/en/
+https://searcha.page/
 https://searchcode.com
 https://searchdns.netcraft.com
 https://searchfiles.de
@@ -4024,6 +4032,7 @@ https://www.eniro.se
 https://www.enpass.io
 https://www.enterpix.app
 https://www.enterprisesurveys.org
+https://www.entireweb.com/
 https://www.epicbrowser.com
 https://www.epochconverter.com
 https://www.equilar.com/
@@ -4505,6 +4514,7 @@ https://www.lucidchart.com
 https://www.lucidmeetings.com/
 https://www.lukol.com
 https://www.lunascape.org
+https://www.lycos.com/
 https://www.macbooster.net
 https://www.maersk.com/tracking/#tracking
 https://www.mage.space
@@ -5419,6 +5429,7 @@ https://www.windy.com
 https://www.wisecleaner.com
 https://www.wisemapping.com/
 https://www.wisestamp.com
+https://www.wolframalpha.com/
 https://www.wordfixerbot.com
 https://www.wordreference.com/
 https://www.wordtracker.com
@@ -5446,6 +5457,7 @@ https://www.xnview.com
 https://www.xrefer.com
 https://www.xverify.com
 https://www.y2mate.com
+https://www.yahoo.com/
 https://www.yamli.com/
 https://www.yammer.com
 https://www.yandex.com/images/
@@ -5529,6 +5541,7 @@ https://xpress.maxar.com
 https://xtea.io/ts_en.html
 https://xxluke.de/subscription-history
 https://yandex.com
+https://yandex.com/
 https://yandex.com/support/search/query-language/search-operators.html
 https://yandex.com/video/search
 https://yandex.ru/maps

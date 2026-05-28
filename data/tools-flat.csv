@@ -1,4 +1,19 @@
 category,name,url,description,category_slug
+General Search Engines,AOL Search,https://search.aol.com/,AOL web search engine.,general-search-engines
+General Search Engines,Ask,http://www.ask.com/,General search engine powered by question-and-answer format.,general-search-engines
+General Search Engines,Baidu,http://www.baidu.com/,Leading Chinese-language search engine.,general-search-engines
+General Search Engines,Bing,http://www.bing.com/,Microsoft web search engine.,general-search-engines
+General Search Engines,EntireWeb,https://www.entireweb.com/,Independent web search engine.,general-search-engines
+General Search Engines,GoodSearch,http://www.goodsearch.com/,Search engine that donates to charities with each search.,general-search-engines
+General Search Engines,Google,http://www.google.com/,The world's most widely used search engine.,general-search-engines
+General Search Engines,Lycos,https://www.lycos.com/,Web search engine and portal.,general-search-engines
+General Search Engines,Marginalia Search,https://marginalia-search.com/,Independent search engine focused on non-commercial content.,general-search-engines
+General Search Engines,Naver,https://www.naver.com/,South Korea's dominant search engine and web portal.,general-search-engines
+General Search Engines,Searcha,https://searcha.page/,Independent search engine.,general-search-engines
+General Search Engines,Sogou,https://www.sogou.com/,Major Chinese search engine.,general-search-engines
+General Search Engines,Wolfram Alpha,https://www.wolframalpha.com/,Computational knowledge engine that answers factual queries.,general-search-engines
+General Search Engines,Yahoo,https://www.yahoo.com/,Web search engine and news portal.,general-search-engines
+General Search Engines,Yandex,https://yandex.com/,Russia's largest search engine with strong multilingual support.,general-search-engines
 Academic Research Tools,A-Z Library Databases,https://guides.uflib.ufl.edu/az.php,Provides an A-Z list of databases and resources available through the University of Florida Libraries.,academic-research-tools
 Academic Research Tools,Academia,https://www.academia.edu,Platform for academics to share research papers and follow research in their field.,academic-research-tools
 Academic Research Tools,Academic Journals,https://academicjournals.org/,Publishes peer-reviewed open access journals across various academic disciplines.,academic-research-tools

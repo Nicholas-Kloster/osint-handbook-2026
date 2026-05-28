@@ -1,9 +1,90 @@
 {
   "source": "osinthandbook.com",
   "year": 2026,
-  "total_categories": 214,
+  "total_categories": 215,
   "total_tools": 6718,
   "categories": [
+    {
+      "slug": "general-search-engines",
+      "name": "General Search Engines",
+      "tools": [
+        {
+          "name": "AOL Search",
+          "url": "https://search.aol.com/",
+          "description": "AOL web search engine."
+        },
+        {
+          "name": "Ask",
+          "url": "http://www.ask.com/",
+          "description": "General search engine powered by question-and-answer format."
+        },
+        {
+          "name": "Baidu",
+          "url": "http://www.baidu.com/",
+          "description": "Leading Chinese-language search engine."
+        },
+        {
+          "name": "Bing",
+          "url": "http://www.bing.com/",
+          "description": "Microsoft web search engine."
+        },
+        {
+          "name": "EntireWeb",
+          "url": "https://www.entireweb.com/",
+          "description": "Independent web search engine."
+        },
+        {
+          "name": "GoodSearch",
+          "url": "http://www.goodsearch.com/",
+          "description": "Search engine that donates to charities with each search."
+        },
+        {
+          "name": "Google",
+          "url": "http://www.google.com/",
+          "description": "The world's most widely used search engine."
+        },
+        {
+          "name": "Lycos",
+          "url": "https://www.lycos.com/",
+          "description": "Web search engine and portal."
+        },
+        {
+          "name": "Marginalia Search",
+          "url": "https://marginalia-search.com/",
+          "description": "Independent search engine focused on non-commercial content."
+        },
+        {
+          "name": "Naver",
+          "url": "https://www.naver.com/",
+          "description": "South Korea's dominant search engine and web portal."
+        },
+        {
+          "name": "Searcha",
+          "url": "https://searcha.page/",
+          "description": "Independent search engine."
+        },
+        {
+          "name": "Sogou",
+          "url": "https://www.sogou.com/",
+          "description": "Major Chinese search engine."
+        },
+        {
+          "name": "Wolfram Alpha",
+          "url": "https://www.wolframalpha.com/",
+          "description": "Computational knowledge engine that answers factual queries."
+        },
+        {
+          "name": "Yahoo",
+          "url": "https://www.yahoo.com/",
+          "description": "Web search engine and news portal."
+        },
+        {
+          "name": "Yandex",
+          "url": "https://yandex.com/",
+          "description": "Russia's largest search engine with strong multilingual support."
+        }
+      ]
+    },
     {
       "slug": "academic-research-tools",
       "name": "Academic Research Tools",

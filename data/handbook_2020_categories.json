@@ -1,0 +1,184 @@
+{
+  "categories": [
+    {
+      "name": "Search Tools",
+      "description": "205 tools across 14 subcategories"
+    },
+    {
+      "name": "Social Media",
+      "description": "770 tools across 25 subcategories"
+    },
+    {
+      "name": "Working with Blogs",
+      "description": "12 tools across 1 subcategories"
+    },
+    {
+      "name": "Working with Forums",
+      "description": "19 tools across 1 subcategories"
+    },
+    {
+      "name": "Working with Chan Boards",
+      "description": "8 tools across 1 subcategories"
+    },
+    {
+      "name": "Working with Q&A Sites",
+      "description": "18 tools across 1 subcategories"
+    },
+    {
+      "name": "People Investigations",
+      "description": "525 tools across 19 subcategories"
+    },
+    {
+      "name": "Business Research",
+      "description": "292 tools across 10 subcategories"
+    },
+    {
+      "name": "Real Estate Research",
+      "description": "57 tools across 1 subcategories"
+    },
+    {
+      "name": "Online Marketplaces",
+      "description": "56 tools across 1 subcategories"
+    },
+    {
+      "name": "Cryptocurrency and Banking Research",
+      "description": "83 tools across 3 subcategories"
+    },
+    {
+      "name": "Legal Research",
+      "description": "79 tools across 1 subcategories"
+    },
+    {
+      "name": "Researching Countries",
+      "description": "10 tools across 1 subcategories"
+    },
+    {
+      "name": "Researching Terrorism, Crime, and Cybersecurity",
+      "description": "247 tools across 9 subcategories"
+    },
+    {
+      "name": "Researching Stolen Items",
+      "description": "24 tools across 1 subcategories"
+    },
+    {
+      "name": "Transportation",
+      "description": "286 tools across 7 subcategories"
+    },
+    {
+      "name": "Web Intelligence",
+      "description": "556 tools across 20 subcategories"
+    },
+    {
+      "name": "Dark Web",
+      "description": "52 tools across 2 subcategories"
+    },
+    {
+      "name": "Event Search",
+      "description": "8 tools across 1 subcategories"
+    },
+    {
+      "name": "Working with Images",
+      "description": "309 tools across 11 subcategories"
+    },
+    {
+      "name": "Working with Videos",
+      "description": "328 tools across 14 subcategories"
+    },
+    {
+      "name": "Working with GIFs and Memes",
+      "description": "13 tools across 1 subcategories"
+    },
+    {
+      "name": "Working with Audio",
+      "description": "161 tools across 6 subcategories"
+    },
+    {
+      "name": "3D Models and Designs",
+      "description": "14 tools across 1 subcategories"
+    },
+    {
+      "name": "Working with Documents",
+      "description": "103 tools across 7 subcategories"
+    },
+    {
+      "name": "Academic Resources and Grey Literature",
+      "description": "171 tools across 2 subcategories"
+    },
+    {
+      "name": "Lectures, Talks, Presentations and Speeches",
+      "description": "17 tools across 1 subcategories"
+    },
+    {
+      "name": "Books and Reading",
+      "description": "91 tools across 1 subcategories"
+    },
+    {
+      "name": "Working with Data and Statistics",
+      "description": "315 tools across 5 subcategories"
+    },
+    {
+      "name": "Working with News",
+      "description": "133 tools across 5 subcategories"
+    },
+    {
+      "name": "Translation and Language Tools",
+      "description": "108 tools across 9 subcategories"
+    },
+    {
+      "name": "Web Monitoring",
+      "description": "178 tools across 24 subcategories"
+    },
+    {
+      "name": "Data Collation and Data Processing Tools",
+      "description": "160 tools across 5 subcategories"
+    },
+    {
+      "name": "Browsers and Browsing Tools",
+      "description": "140 tools across 10 subcategories"
+    },
+    {
+      "name": "Writing and Dissemination",
+      "description": "191 tools across 11 subcategories"
+    },
+    {
+      "name": "Website and App Builders",
+      "description": "62 tools across 4 subcategories"
+    },
+    {
+      "name": "Mind Mapping and Idea Generation",
+      "description": "53 tools across 2 subcategories"
+    },
+    {
+      "name": "Productivity and File Management",
+      "description": "131 tools across 5 subcategories"
+    },
+    {
+      "name": "Collaboration and Communication",
+      "description": "144 tools across 2 subcategories"
+    },
+    {
+      "name": "Utility Tools",
+      "description": "276 tools across 20 subcategories"
+    },
+    {
+      "name": "Analysis",
+      "description": "23 tools across 1 subcategories"
+    },
+    {
+      "name": "Geospatial OSINT",
+      "description": "248 tools across 8 subcategories"
+    },
+    {
+      "name": "Privacy and Security",
+      "description": "601 tools across 41 subcategories"
+    },
+    {
+      "name": "Other OSINT Research Tools",
+      "description": "39 tools across 3 subcategories"
+    },
+    {
+      "name": "OSINT Resources",
+      "description": "126 tools across 5 subcategories"
+    }
+  ]
+}

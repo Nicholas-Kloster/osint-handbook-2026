@@ -1,0 +1,42 @@
+# Data Scrapers
+
+> 38 tools — [osinthandbook.com/data-scrapers](https://www.osinthandbook.com/data-scrapers)
+
+- [80legs](https://80legs.com) — Cloud-based web crawling platform offering customizable large-scale data extraction and access to pre-crawled datasets.
+- [Agenty](https://www.agenty.com) — AI-powered no-code tool for web scraping, change monitoring, and browser automation with support for batch crawling and proxies.
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) — Python library for parsing HTML and XML documents, providing easy navigation and data extraction from web pages.
+- [Cola](https://github.com/chineking/cola) — High-level distributed crawling framework in Python, enabling scalable web data extraction with a single codebase.
+- [Content Bomb](http://www.contentbomb.com) — Software designed for automating content extraction and web scraping tasks across various websites.
+- [Copytables](https://chromewebstore.google.com/detail/copytables/ekdpkppgmlalfkphpibadldikjimijon) — Browser extension that allows users to select and copy table data from web pages in multiple formats including CSV and HTML.
+- [Crawly](https://crawly.diffbot.com/) — Automated web crawler that extracts structured data from entire websites, delivering results in CSV or JSON formats.
+- [Data Miner](https://data-miner.io) — Browser extension facilitating web data extraction into CSV or Excel files, featuring over 60,000 pre-made extraction rules.
+- [Dataminer](https://chromewebstore.google.com/detail/data-scraper-easy-web-scr/nndknepjnldbdbepjfgmncbggmopgden) — Chrome extension that enables easy extraction of data from HTML web pages into spreadsheets, supporting various file formats.
+- [Demiurge](https://github.com/matiasb/demiurge) — Lightweight Python micro-framework for web scraping, utilizing PyQuery for defining extraction logic with a declarative syntax.
+- [DiffBot](https://www.diffbot.com) — AI-powered web data extraction platform offering tools for crawling, parsing, and accessing structured information from the web.
+- [Google2Csv](https://github.com/psalias2006/Google2Csv) — Tool that converts Google search results into CSV format, aiding in data collection and analysis tasks.
+- [Helium Scraper](https://www.heliumscraper.com/en/index.php?p=home) — Desktop application for web scraping with a point-and-click interface, supporting complex data extraction without coding.
+- [Import.io](https://www.import.io) — Platform providing tools for importing, transforming, and analyzing web data, facilitating integration into business workflows.
+- [Include.ai](https://include.ai/) — AI-driven platform designed to automate data collection and analysis from various online sources.
+- [Lassie](https://github.com/michaelhelmick/lassie) — Python library that retrieves metadata from URLs, including titles, descriptions, and images, for content summarization.
+- [Listly](https://listly.io) — Tool for creating and managing lists of web data, enabling users to organize and share extracted information efficiently.
+- [Mechanical Soup](https://github.com/MechanicalSoup/MechanicalSoup) — Python library that automates interaction with websites, combining the capabilities of Python giants Requests (for HTTP sessions) and BeautifulSoup (for document navigation).
+- [Mozenda](https://www.mozenda.com) — Cloud-based web scraping platform offering scalable data extraction services and tools for structured data collection.
+- [Octoparse](https://www.octoparse.com) — No-code web scraping tool with AI-powered features, enabling users to extract structured data through a visual interface.
+- [Parse Bot](https://www.parse.bot) — A simple service that provides data from websites by converting them into an API.
+- [Parsehub](https://www.parsehub.com) — Visual data extraction tool that allows users to scrape data from websites without coding, supporting complex data structures.
+- [Phantom Buster](https://phantombuster.com) — Automation platform that enables users to extract data and automate actions across various web platforms and social networks.
+- [ProWebScraper](https://prowebscraper.com) — Web scraping service providing ready-made and custom data extraction solutions, suitable for large-scale data collection.
+- [Reaper](https://reaper.social) — Social media scraping tool designed to gather data from platforms like Facebook, Twitter, and YouTube without coding.
+- [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd) — Chrome extension that facilitates data extraction from web pages into spreadsheets, utilizing XPath for data selection.
+- [scrapestack](https://scrapestack.com) — Web scraping API offering real-time data extraction with features like proxy rotation, CAPTCHA solving, and JavaScript rendering.
+- [ScrapeStorm](https://www.scrapestorm.com) — AI-powered visual web scraping tool that supports smart data recognition and offers multiple export formats, including databases.
+- [scrapinghub](https://www.scrapinghub.com/data-services) — Data extraction service offering managed web scraping solutions and tools for structured data collection at scale.
+- [Scrapy](https://scrapy.org) — Open-source web crawling framework written in Python, designed for efficient and scalable web scraping tasks.
+- [Screen Scraper](https://www.screen-scraper.com) — Web scraping software that allows users to extract data from websites through a point-and-click interface without programming.
+- [Simplescraper](https://simplescraper.io) — No-code web scraping tool that enables users to extract data from websites and turn it into structured formats like JSON or CSV.
+- [Thunderbit](https://thunderbit.com/) — Platform providing tools for automating data extraction and processing workflows, suitable for various data sources.
+- [Uscrapper\n](https://github.com/z0m31en7/Uscrapper) — Python-based web scraping tool available on GitHub, designed for extracting data from websites with customizable features.
+- [Web Harvy](https://www.webharvy.com) — Visual web scraping software that allows users to extract data from websites using a point-and-click interface without coding.
+- [Web Robots](https://webrobots.io) — Web scraping service offering instant access to web data through pre-built datasets and APIs, streamlining data acquisition processes.
+- [Web Scraper](https://webscraper.io/) — Browser extension that enables users to scrape data from websites and export it into structured formats like CSV or Excel.
+- [Zyte](https://www.zyte.com/data-extraction/) — Data extraction service providing AI-powered web scraping solutions, including standardized and customized data feeds.

@@ -1,0 +1,50 @@
+# Bookmarking
+
+> 46 tools — [osinthandbook.com/bookmarking](https://www.osinthandbook.com/bookmarking)
+
+- [Atavi](https://atavi.com) — Free cross‑browser bookmark manager with syncing across devices, grouping, themes and reliable cloud storage.
+- [Bibsonomy](https://www.bibsonomy.org/) — Social bookmarking and reference management system for academic content.
+- [Bookmark Ninja](https://www.bookmarkninja.com) — Clean bookmark manager with cross‑device access, advanced search and tag management, optional sharing and dark mode.
+- [Bookmark OS](https://bookmarkos.com) — All‑in‑one online desktop: bookmarks, tab sessions, task manager, notes and files in a customisable interface.
+- [Booky](https://booky.io/) — Fast, customisable online bookmark manager with private collections, dark mode, and browser extension support.
+- [Curabase](https://www.curabase.com) — A central hub for creating, organising, and sharing links.
+- [Diigo](https://www.diigo.com) — Social bookmarking and web annotation service.
+- [Dropmark](https://www.dropmark.com/) — A platform that allows teams and individuals organise web-based content.
+- [eLink](https://elink.io) — A simple tool to save and curate links as visual cards to build content like email newsletters, webpages or content bundles.
+- [Evernote](https://evernote.com/) — A widely-known note‑taking and content capture platform.
+- [Flipboard](https://flipboard.com) — Personalised magazine-style news aggregator based on user-selected interests.
+- [Instapaper](http://www.instapaper.com) — Save web pages for offline reading with highlights and Kindle support.
+- [Klart](https://klart.co) — A tool that lets you save links with screenshots, collections, and tags.
+- [ktab](https://www.ktab.io) — Lightweight Chrome extension to reduce tab clutter by quickly bookmarking pages with tags and site organisation.
+- [Larder](https://larder.io) — Bookmarking tool built for developers featuring GitHub stars sync, tags, folders, CLI and API access.
+- [Link Collect](https://linkcollect.io/) — A bookmarking tool designed to collect, curate and share information.
+- [LiveBinders](https://www.livebinders.com) — Online platform that lets you create virtual binders to organise and share web resources.
+- [Mentionitis](https://mentionitis.com/) — A bookmarking tool that lets you quickly and easily collect and manage bookmarks.
+- [Microsoft OneNote](http://office.microsoft.com/en-us/onenote) — A note‑taking app from Microsoft with web clipper, bookmarks and syncing across devices.
+- [Mix](https://mix.com) — Personalised content discovery platform curating web articles, videos and sites based on your interests.
+- [Papaly](https://papaly.com) — A tool to collect and manage links within simple boards.
+- [Pearltrees](https://www.pearltrees.com/) — Visual collaborative curation tool for organising and exploring URLs, files, photos, notes, and more.
+- [Pinboard](https://pinboard.in) — A fast, independently run, no-nonsense bookmarking site for people who value privacy and speed.
+- [Raindrop](https://raindrop.io) — Bookmark manager with tags, full-text search, and cross-device sync.
+- [Refind](https://refind.com) — Link discovery and recommendation service that learns user interests.
+- [Save Day](https://www.save.day/) — Web-based AI-augmented bookmark and knowledge manager for capturing links, images, video, and text with reminders and annotations.
+- [Savory](https://getsavory.co) — A simple tool that lets you save all the interesting blogs, papers, substacks, twitter threads, and more for reading later.
+- [Scoop.it](https://www.scoop.it/) — Content curation tool for discovering and sharing third-party content.
+- [Shiori](https://github.com/go-shiori/shiori) — A simple bookmark manager inspired by Pocket.\n\n
+- [Sitehoover](https://www.sitehoover.com) — A bookmarking homepage with RSS reader, theming, and always-accessible hoover pages.
+- [Soju](https://soju.so/) — A simple tool to save and organise bookmarks.
+- [Stache](https://getstache.com/) — Mac and iOS bookmark manager providing a beautiful visual, searchable library to collect and rediscover saved pages.
+- [Start.me](https://about.start.me/) — A platform for curating and sharing link collections and media.
+- [Symbaloo](https://www.symbaloo.com/) — A visual grid of coloured tiles acting as a customisable homepage / bookmark manager, browser‑integrated and shareable.
+- [syncmarx](https://syncmarx.mcleodgaming.com) — A web extension for syncing browser bookmarks across browsers via your cloud storage (Dropbox, Google Drive, Box).
+- [TeamSync Bookmarks](https://teamsyncbookmarks.com) — Share and sync bookmarks across teams in real time.
+- [Thinkery](https://thinkery.me/) — A fast, lightweight tool for storing notes, bookmarks and todos.
+- [Toby](https://www.gettoby.com) — Visual tab‑and‑bookmark manager that organises your links into collections and workspaces across devices.
+- [Trackplanet](https://trackpanel.net) — Custom dashboard and project management tool for storing bookmarks, notes, tasks and realtime data feeds via API.
+- [Trello](https://trello.com) — A bookmarking and project management platform with variety of features and integrations.
+- [Turtl](https://turtlapp.com) — An encrypted, private-first note-taking app with support for storing bookmarks and files.
+- [Tusk](https://github.com/klauscfhq/tusk) — An unofficial, featureful, open source, community-driven, free Evernote app.
+- [wallabag](https://wallabag.org) — A cross-platform bookmarking tool that easily integrates with popular RSS readers.
+- [Zapmarks](https://zapmarks.io) — Cross-platform, keyword-based bookmarks that let you easily open websites of interest.
+- [Zotero](https://www.zotero.org/) — Free and open-source reference manager for collecting and organising research.
+- [Zulu](https://tryzulu.com) — A collaborative, visual bookmarking and tab management tool.

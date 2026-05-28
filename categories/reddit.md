@@ -1,0 +1,56 @@
+# Reddit
+
+> 52 tools — [osinthandbook.com/reddit](https://www.osinthandbook.com/reddit)
+
+- [Aware Online: Reddit Search](http://www.aware-online.com/en/osint-tools/reddit-search-tool/) — OSINT tool for advanced Reddit search queries.
+- [Botdownloader (Different Platforms)](https://botdownloader.com) — Enables users to download videos from various social media platforms including Facebook, Twitter, Instagram, TikTok, Pinterest and more.
+- [deaditArchive](https://deaditarchive.netlify.app/) — Archive site that stores content from banned or deleted Reddit threads.
+- [Experts PHP: Reddit Video Downloader (Reddit)](https://www.expertsphp.com/reddit-video-downloader.php) — Reddit video downloader.
+- [F5BOT](https://f5bot.com) — Sends email alerts when specified keywords appear on Reddit
+- [Gigabrain](https://thegigabrain.com/) — A tool to search discussions on Reddit and other communities.
+- [Imgur](https://imgur.com/) — Image hosting and sharing platform commonly used on Reddit.
+- [Karma Decay](http://karmadecay.com) — Reverse image search engine for finding Reddit posts using an image.
+- [Koalabear Reddit](https://koalabear.nl/reddit/) — Minimal web interface to check if a URL has been posted on Reddit before.
+- [Map of Reddit](https://anvaka.github.io/map-of-reddit) — A tool to search for subreddits based on a keyword.
+- [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features) — A tool to check whether a given page has been submitted to reddit.
+- [Rapid Save\n](https://rapidsave.com/) — Reddit video downloader.
+- [rdddeck](https://rdddeck.com) — Multi-column Reddit client for real-time subreddit and post tracking.
+- [Reddit Archive](http://www.redditarchive.com) — Front‑page archive of Reddit posts and images for browsing without refreshing.
+- [Reddit Comment Collapser](https://chrome.google.com/webstore/detail/reddit-comment-collapser/njmimaecgocggclbecipdimilidimlpl) — A more elegant solution for collapsing Reddit comment trees.
+- [Reddit Comment Search](https://redditcommentsearch.com/) — Search engine for Reddit comments.
+- [Reddit Hacks](https://github.com/EdOverflow/hacks) — A collection of security and pentesting scripts.
+- [Reddit Scraper\n](https://apify.com/trudax/reddit-scraper) — A cloud-based Reddit scraper.
+- [Reddit Shell](https://redditshell.com) — Scraper that collects and organises Reddit user activity for analysis.
+- [Reddit Shell](https://redditshell.com) — A web based linux shell emulator written in JavaScript that lets you browse and interact with reddit via command line.
+- [Reddit Stream](http://reddit-stream.com) — Live stream of Reddit comments in real-time.
+- [Reddit Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) — A suite of modules that enhance your Reddit browsing experience.
+- [reddit timer\n](https://ebof1223-reddit-timer.netlify.app/) — Web tool to schedule optimal Reddit post times based on user activity.
+- [Reddit User Analyser](https://atomiks.github.io/reddit-user-analyser/) — A tool to analyse a Reddit user.
+- [Redditery](https://www.redditery.com) — A minimal reddit client.
+- [Redditmetis](https://redditmetis.com) — A Reddit user analysis tool.
+- [RedditOSINT](https://github.com/zayzaymm/RedditOSINT) — A tool that uses the Reddit API to collect and analyze the publicly available activity of a specific Reddit user.
+- [Reddloader](https://reddloader.com/) — Downloader for Reddit videos, GIFs, and images.
+- [reddtip](https://www.redditp.com) — Image and video viewer for media-focused subreddits.
+- [Redective](http://redective.com) — Search engine that maps Reddit users by keywords and activity.
+- [Reditr](http://reditr.com) — Multi-column Reddit client for real-time subreddit and post tracking.
+- [Reeddit](https://reedditapp.com) — Minimal, read-only Reddit web client allowing grouping of subreddits into \Channels\"."
+- [Repost Sleuth](https://www.repostsleuth.com/) — A tool to check if a Reddit post is a repost and identify original sources.
+- [Reveddit](https://www.reveddit.com/) — A tool to view removed or deleted Reddit content.
+- [ROOM 101](https://r00m101.com) — Turns Reddit usernames into OSINT profiles.
+- [Sayit](https://anvaka.github.io/sayit/?query=) — Visualises relationships between subreddits.
+- [Snoosnoop](https://snoosnoop.com) — A tool that provides an in-depth analysis of a Reddit user's comments, submissions, and karma.
+- [SNScrape](https://github.com/JustAnotherArchivist/snscrape) — A simple Python script that scrapes user profiles, hashtags, and search results from a variety of social media platforms.
+- [Social Media Sentiment Visualization\n](https://www.csc2.ncsu.edu/faculty/healey/social-media-viz/production/) — A tool to analyze recent posts containing user-defined keywords.
+- [socialscan](https://pypi.org/project/socialscan/) — Performs username and email address checks across multiple platforms.
+- [socid_extractor](https://github.com/soxoj/socid_extractor) — Extracts social media and personal identifiers from various sources.
+- [Subreddit Top Post Analysis\n](https://dashboard.laterforreddit.com/analysis) — Analytics dashboard to evaluate Reddit profile performance and engagement.
+- [Subreddits](http://subreddits.org) — Lists trending subreddits by category.
+- [Suggest me a subreddit](https://nikas.praninskas.com/suggest-subreddit/) — Suggests relevant subreddits based on input keywords.
+- [Think-Pol](https://think-pol.com) — A comperehensive toolkit for Reddit analysis.
+- [TrackReddit](https://www.trackreddit.com/dashboard.php) — Tracks keywords on Reddit and sends alerts when mentioned.
+- [TwitterSearch2Gephi](https://github.com/hjunker/TwitterSearch2Gephi) — Tool for visualizing Twitter / X search results in Gephi network graphs. Also supports Reddit and YouTube.
+- [uforio](http://uforio.com) — A feature-rich Reddit client.
+- [Universal Reddit Scraper (URS)](https://github.com/JosephLai241/URS) — A comprehensive Reddit scraping / archival command-line tool.
+- [Viddit.red (Reddit)](https://viddit.red) — Tool for downloading Reddit videos and GIFs.
+- [Vizit](https://redditstuff.github.io/sna/vizit/) — Interactive graph showing subreddit relationships via cross-posts visualisation.
+- [Wisdom of Reddit](https://wisdomofreddit.com) — A tool to retrieve and analyse highly-upvoted, long-format Reddit comments.

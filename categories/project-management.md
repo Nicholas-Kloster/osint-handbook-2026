@@ -1,0 +1,67 @@
+# Project Management
+
+> 63 tools — [osinthandbook.com/project-management](https://www.osinthandbook.com/project-management)
+
+- [5pm](https://www.5pmweb.com/) — Web‑based project management and team collaboration platform offering tasks, notes, file sharing, time tracking, customisable views and Outlook integration.
+- [ActiveCollab](https://www.activecollab.com) — An all‑in‑one project and task management platform combining task lists, Kanban or timeline (Gantt) views, time tracking, budgeting, invoicing and collaboration tools tailored for service teams and agencies.
+- [Airtable](https://www.airtable.com/) — Hybrid spreadsheet-database cloud platform for organising data, building lightweight apps and collaborative workflows.
+- [Any.do](https://www.any.do/) — A cross‑platform productivity platform combining task lists, calendar, reminders, notes and an AI assistant, with seamless sync across web, mobile, WhatsApp, Slack and integrations.
+- [Apollo](https://www.apollohq.com) — A project and contact management dashboard featuring task tracking, time-tracking (“clock-in / out”), email reminders and milestone templates to organise projects efficiently.
+- [Asana](https://asana.com) — A team and project management platform organising tasks, workflows and goals with AI‑enabled assistants, collaboration tools, timelines and dashboards.
+- [Basecamp](https://basecamp.com) — A well-known project management and team collaboration app, offering to-do lists, message boards, file sharing, milestones and time tracking.
+- [Binfire](https://www.binfire.com) — All-In-one work management software powered by AI.
+- [Box](https://www.box.com) — A cloud content-management and collaboration service offering secure file storage, version control, and workflow integration.
+- [Breeze](https://www.breeze.pm) — Simple project management tool with boards, tasks, timelines, automation, and reporting.
+- [Canvanizer](https://canvanizer.com) — Online canvas tool for business model planning and visual collaboration with real-time editing.
+- [Casual](https://casual.pm) — Visual project and process management solution with drag‑and‑drop workflow maps, relationship-defined task ordering, dashboards for project overviews, native mobile app and calendar integrations .
+- [CollaborateCloud](http://www.collaboratecloud.com) — Social work and workflow management platform enabling cross‑department collaboration, task automation and unified corporate communication.
+- [Comindwork](https://www.comindwork.com/) — Online collaboration workspace with task automation, social workstreams and unified communication across departments.
+- [Confluence](https://www.atlassian.com/software/confluence) — Team workspace and enterprise wiki for documentation and collaboration.
+- [eGroupWare](https://www.egroupware.org/) — Open-source, web-based groupware for enterprises offering calendar, CRM contacts, email, tasks, file management and collaboration tools.
+- [Flask](https://flask.io) — A very simple web-based to-do list app.
+- [Float](https://www.float.com) — Resource scheduling and workload planning tool for teams and agencies with visual calendar, availability and booking interface.
+- [Frame](https://frame.io) — Media review and collaboration platform optimised for video and photography teams, featuring metadata tagging, collections and camera-to-cloud integration.
+- [Freedcamp](https://freedcamp.com) — Project management and collaboration platform with unlimited free projects, tasks, and users.
+- [GanttPro](https://ganttpro.com) — A simple but powerful Gantt chart creator.
+- [Glasscubes](https://www.glasscubes.com) — A secure cloud-based collaboration and document management workspace with file sharing, task tracking, team chat and intranet / extranet features suited to businesses and compliance-sensitive teams.
+- [GQueues](https://www.gqueues.com) — Simple task list management app supporting nested lists, sorting, reminders and cross-device sync.
+- [Guru](https://www.getguru.com/) — AI-powered knowledge management platform combining search, wiki, and intranet features with integrations and AI assistance.
+- [hitask](https://hitask.com) — Simple and intuitive task and project manager for teams with shared calendar, file library, chat, reminders, multi‑device sync and API integrations.
+- [KabanTool](https://kanbantool.com/) — Online Kanban board for business with seamless time tracking.
+- [Kanboard](https://kanboard.net) — A free and open source Kanban project management software.
+- [Kerika](https://kerika.com) — A task-management and collaborative whiteboard platform built for distributed teams, offering unlimited Kanban or Scrum boards and integrations with Google Workspace, Office 365 or Box.
+- [Loomio](https://www.loomio.org) — Open‑source web platform focused on democratic group decision‑making via structured discussions, proposals and visual consensus polling.
+- [LumoFlow](https://lumoflow.com) — Enterprise collaboration platform offering agile group workspaces, content management, and private social networking for cross‑organisational programs.
+- [meistertask](https://www.meistertask.com) — Kanban‑style task and project management tool with intuitive boards, timelines and team collaboration features.
+- [Microsoft Sharepoint](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration) — Enterprise collaboration and document‑centric intranet platform supporting shared sites, file management, enterprise search and Microsoft 365 integration.
+- [Monday](https://monday.com) — A cloud-based work management platform offering visual boards, task / project / resource tracking, automations and dashboards for teams.
+- [Nozbe](https://nozbe.com) — Task and project management app for individuals and small teams emphasising simplicity, GTD workflow alignment, shared projects, comments and deadlines.
+- [Nuclino](https://www.nuclino.com) — Unified, fast and simple team workspace combining docs, knowledge and project collaboration in one tool.
+- [Nutcache](https://www.nutcache.com/) — Project and expense management system for SMBs with task boards, time tracking, dashboards and invoicing capabilities.
+- [OmniGroup](https://www.omnigroup.com) — A set of productivity apps for macOS, iOS and watchOS, including OmniFocus, OmniGraffle and OmniPlan.
+- [OnlyOffice](https://www.onlyoffice.com) — Self‑hosted or cloud office suite combining document editing, spreadsheets, presentations and team workspace collaboration.
+- [Piematrix](https://www.pie.me) — A visual project management software application with generative AI and visual modularity.
+- [Plan](https://plan.io) — An online project management suite based on hosted Redmine that combines issue tracking, help desk, version control, wikis, time tracking, chat, forums and Gantt / roadmap views.
+- [Planzone](https://www.planzone.com) — Web-based project management and collaboration platform with Gantt charts, dashboards, task lists, timesheets and budget tracking.
+- [Podio](https://podio.com) — A cloud-based customisable workspaces platform enabling low-code apps, task management, workflows and team collaboration.
+- [ProjectManager](https://www.projectmanager.com) — A scalable SaaS project and team collaboration platform offering dashboards, task planning, collaboration and enterprise reporting.
+- [ProjectPlace](https://www.planview.com/products-solutions/products/projectplace/) — Collaborative work management solution under Planview’s ProjectPlace umbrella featuring Kanban boards, Gantt charts, team conversations, document sharing and resource tracking.
+- [ProofHub](https://www.proofhub.com) — All‑in‑one project and task collaboration system featuring discussions, file sharing, workflows, scheduling and time tracking.
+- [Quip](https://quip.com) — Offers a mobile‑first cloud productivity suite combining real‑time collaborative documents, spreadsheets, and embedded chat, tightly integrated into Salesforce’s platform.
+- [Quire](https://quire.io) — A modern task and project collaboration tool with nested lists, real‑time sync, offline support and integrations with Teams and Siri.
+- [Smartsheet](https://www.smartsheet.com) — Grid-based, spreadsheet-like work and project management software with automation, dashboards, and real-time collaboration.
+- [Stackfield](https://www.stackfield.com) — German end‑to‑end communication and project collaboration tool with built‑in chat, tasks, documents, video conferencing and end‑to‑end encryption.
+- [Stormboard](https://stormboard.com) — Data-first collaborative workflow platform transforming unstructured interaction into structured workspaces.
+- [Taiga](https://www.taiga.io/) — Free open-source agile project management tool supporting Scrum and Kanban with backlog, sprint, kanban board and self-hosted or SaaS options.
+- [Taskade](https://www.taskade.com) — All-in-one task, notes and outline tool with real-time collaboration, task lists, mind-mapping and synchronous editing.
+- [Taskboard](https://taskboard.matthewross.me) — An open-source Kanban-style TaskBoard app with a simple, clean interface to track to-dos; self-hostable and minimalistic.
+- [TeamAllocator](https://www.teamallocator.com/) — A team scheduling and capacity-planning tool that replaces spreadsheets and calendars, visualising bookings, time-off, billable hours and conflicts for agencies and service teams.
+- [TeamWork](https://www.teamwork.com) — Project and client work management suite with task management, time tracking, resource allocation and profitability tools.
+- [Transparent Business](https://transparentbusiness.com/) — Offers a SaaS platform for real-time remote workforce monitoring, project cost / status tracking, and auditability for managing freelancers, contractors and remote teams.
+- [Trello](https://trello.com) — A bookmarking and project management platform with variety of features and integrations.
+- [Tuzzit](https://www.tuzzit.com) — Collaborative online whiteboard and visual thinking tool offering a number of ready templates.
+- [We.Team](https://we.team/) — Real-time chat, file sharing and online meetings all in one place.
+- [Weekdone](https://weekdone.com) — OKR and weekly progress management software offering goal setting, check-ins, dashboards and performance coaching.
+- [Workfront](https://www.workfront.com) — Cloud-based enterprise work management solution from Adobe, enabling planning, tracking, collaboration, resource and portfolio management.
+- [Wrike](https://www.wrike.com) — Cloud-based enterprise work management and project management platform for planning, collaboration, time and portfolio / resource tracking.
+- [YouTrack](https://www.jetbrains.com/youtrack/) — Browser-based issue tracker and project management software from JetBrains with custom workflows, agile boards, search‑query syntax, and integrations with Git, Slack and CI tools.

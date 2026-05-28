@@ -1,0 +1,140 @@
+# Threat Intelligence
+
+> 136 tools — [osinthandbook.com/threat-intelligence](https://www.osinthandbook.com/threat-intelligence)
+
+- [Alien Vault](https://otx.alienvault.com) — Open Threat Exchange platform for sharing threat intelligence data.
+- [APT Groups and Operations](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml) — Public threat intel spreadsheet containing suspicious indicators.
+- [BeVigil (Search Subdomains, URLS, etc.)](https://bevigil.com/) — Mobile app security scanning and threat monitoring platform.
+- [Bitdefender Threat Map](https://threatmap.bitdefender.com/) — Real-time cyber threat visualisation from Bitdefender.
+- [Black Kite](https://blackkite.com/) — Cyber risk rating platform for third-party risk management.
+- [BlackHat](https://www.blackhat.com/) — Conference site for Black Hat cybersecurity events.
+- [Center for Internet Security](https://www.cisecurity.org) — Cybersecurity best practices and benchmarks from the Center for Internet Security.
+- [CloudFlair](https://github.com/christophetd/CloudFlair) — Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.
+- [Common Weakness Enumeration](https://cwe.mitre.org/) — Common Weakness Enumeration list of software vulnerabilities.
+- [CVE Circl.lu](https://cve.circl.lu) — CVE search and correlation platform powered by CIRCL.
+- [CVE Database](https://vulners.com/) — Vulnerability and exploit search platform.
+- [CVE Details](https://www.cvedetails.com) — Detailed CVE database with vendor and product filters.
+- [CVE Mitre](https://cve.mitre.org/) — Official CVE listing site maintained by MITRE.
+- [Cyber Campaigns](http://www.cybercampaigns.net) — Archive of cyber influence operations and threat actor campaigns.
+- [Cyber Cure](https://www.cybercure.ai) — Cyber threat intelligence platform with IOCs and reports.
+- [CyberThreat Live Map](https://cybermap.kaspersky.com) — Live global cyberattack visualisation from Kaspersky.
+- [Dark Reading](https://www.darkreading.com) — Cybersecurity news and threat research publication.
+- [Darkfeed](https://darkfeed.io) — Real-time ransomware and cyber threat monitor.
+- [Defacer](https://defacer.id) — Cyber attack archive.
+- [Desenmascara](http://desenmascara.me) — Tool to reveal cloaked or hidden phishing websites.
+- [Digital Attack Map](https://www.digitalattackmap.com) — Visualisation of DDoS attacks in real time.
+- [dnstwist](https://dnstwist.it) — Tool for generating spoofed domain permutations to detect phishing and typo-squatting threats.
+- [dnstwister](https://dnstwister.report) — Platform delivering reports on lookalike domains, typo variants, and visual branding similarity.
+- [DShield](https://dshield.org) — Community-driven threat intelligence platform collecting and analysing attack data.
+- [Exploit Alarm](https://exploitalarm.com/) — Vulnerability intelligence for real-time threat analysis.
+- [Exploit Notes](https://exploit-notes.hdks.org) — Search hacking techniques and tools for penetration testings, bug bounty, CTFs.
+- [Feedly](https://www.feedly.com/) — An RSS aggregator, a news monitoring tool, and a threat intelligence platform to collect, analyse, and share actionable insights.
+- [filesec.io](https://filesec.io/) — Curated list of file extensions used by attackers.
+- [flexera: Secunia Resarch](https://www.flexera.com/products/security/software-vulnerability-advisories?referrer=secunia) — Database of software vulnerability advisories and security patches.
+- [Fortinet Threat Map](https://threatmap.fortiguard.com/) — Live threat visualisation map from Fortinet's FortiGuard Labs.
+- [Hacker Target::Vulnerability Scanner](https://hackertarget.com/vulnerability-scanner) — Online vulnerability scanner for assessing exposed services.
+- [HelpNetSecurity](https://www.helpnetsecurity.com) — Cybersecurity news and expert insights platform.
+- [HoneyDB](https://riskdiscovery.com/honeydb) — A cybersecurity platform for collecting and sharing threat intelligence from a global network of honeypot sensors.
+- [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) — Cybercrime investigation tools and compromised identity monitoring platform.
+- [I-Blocklist](https://www.iblocklist.com/lists.php) — IP blocklists for security and P2P filtering purposes
+- [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com) — Threat intelligence portal offering malware and vulnerability data
+- [Immuni Web](https://www.immuniweb.com/radar) — Surface web monitoring tool for attack surface and risk exposure
+- [Imperva](https://www.imperva.com/cyber-threat-attack-map/) — Live cyberattack map visualising global threat activity
+- [Information Systems Security Association International](https://issa.site-ym.com) — Professional association for information security specialists
+- [Infosec Island](http://www.infosecisland.com) — Community site sharing cybersecurity news and analysis
+- [Infosecurity Magazine](https://www.infosecurity-magazine.com) — Cybersecurity magazine offering news, opinion, and threat research
+- [Inquest Labs](https://labs.inquest.net/) — Threat research and analysis hub with a number of modules.
+- [Intel471](https://intel471.com) — Intelligence-driven cyber security platform.
+- [IPSpamList](https://www.ipspamlist.com/ip-lookup) — Check IPs against spam and blacklist databases.
+- [IPVoid](https://www.ipvoid.com/) — IP reputation checker with blacklist and malware checks.
+- [Kaspersky Threat Intelligence Portal](https://opentip.kaspersky.com) — Provides threat intelligence on files, URLs, and hashes.
+- [Koodous](https://koodous.com/) — Collaborative Android malware analysis platform.
+- [Krebs On Security](https://krebsonsecurity.com) — Cybersecurity news and investigative reporting blog.
+- [LeakIX](https://leakix.net/) — Searchable index of exposed misconfigurations leading to leaks and security issues.
+- [Linux Security](https://linuxsecurity.com/) — Provides Linux and open‑source security news, advisories, and analysis.
+- [LUPOVIS](https://prowl.lupovis.io/) — Inspects and monitors logs for security threats using SIEM and threat intelligence.
+- [MalaPI.io](https://malapi.io/) — A tool that maps Windows APIs to common techniques used by malware.
+- [MalShare](https://malshare.com) — Community-driven public malware repository with API access to samples.
+- [Maltiverse Search](https://maltiverse.com/search) — Aggregated threat intelligence search engine for IoCs across 100+ sources.
+- [Malware Bazaar](https://bazaar.abuse.ch/browse/) — A malware sample database.
+- [Malware Email Addresses](https://raw.githubusercontent.com/WSTNPHX/scripts-n-tools/master/malware-email-addresses.txt) — List of malware‑associated email addresses compiled from various sources.
+- [Malware Patrol](https://www.malwarepatrol.net) — Threat intelligence portal offering malware news, indicators, and download options.
+- [Malware URL Website Security Status](https://www.malwareurl.com/listing-urls.php) — MalwareURL site reputation lookup.
+- [McAfee Labs](https://www.mcafee.com/enterprise/en-us/threat-center/mcafee-labs.html) — McAfee Labs threat research hub featuring reports, tools, and malware analysis
+- [McAfee URL Checking](https://sitelookup.mcafee.com/en/feedback/url?action=checksingle&url=) — Single‑URL reputation checking tool powered by McAfee
+- [MetaDefender Cloud](https://metadefender.opswat.com) — File and URL scanning with multi‑engine threat detection and deep content inspection
+- [Microsoft Defender Threat Intelligence](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-threat-intelligence) — Microsoft defender threat intelligence platform.
+- [MISP Project](https://www.misp-project.org/) — Open source threat intelligence and sharing platform.
+- [Mitre Att&ck](https://attack.mitre.org/) — A globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
+- [Mozilla Security Blogs](https://blog.mozilla.org/security/) — Mozilla security blog.
+- [MXToolbox](https://mxtoolbox.com) — A suite of tools to diagnose and monitor mail servers and DNS records.
+- [Naked Security](https://nakedsecurity.sophos.com) — Daily cybersecurity news, analysis, and advice from Sophos.
+- [Net Scout](https://horizon.netscout.com/) — Real-time internet traffic and DDoS attack monitoring and insights from Netscout.
+- [Network World Security](https://www.networkworld.com/category/security/) — Security-focused news, trends, and analysis for IT professionals.
+- [Nikto scanner](https://nikto.online/) — A tool to run vulnerability scans, identify servers and software, and detect XSS vulnerabilities.\n
+- [NIST](https://csrc.nist.gov) — The Computer Security Resource Center (CSRC) has information on many of NIST's cybersecurity- and information security-related projects, publications, news and events.
+- [NIST: National Vulnerability Database](https://nvd.nist.gov) — The NVD is the U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP).
+- [NMMapper](https://www.nmmapper.com) — Platform providing easy access to a number of OSINT and security tools.
+- [OpenPhish\n](https://openphish.com/) — Phishing intelligence platform.
+- [OPSWAT Metadefender](https://www.opswat.com/products/metadefender) — OPSWAT MetaDefender: multi‑engine scanning, vulnerability assessment, and deep content inspection platform
+- [ORKL](https://orkl.eu/) — Open knowledge repository for threat intelligence indicators.
+- [Packet Storm Security](https://packetstormsecurity.com) — A threat intelligence feed that encompasses a vast cross section of information related to vulnerabilities (both historical and current), and free tooling to better enable the information security industry.
+- [paloaltonetworks: Test A Site](https://urlfiltering.paloaltonetworks.com) — Palo Alto Networks URL filtering lookup portal for assessing website risk and categorization.
+- [Pentest-Tools.com](https://pentest-tools.com) — Platform offering tools for penetration testing and vulnerability scanning.
+- [PhishStats\n](https://phishstats.info/) — Phishing threat intelligence feed with statistics and visualisations.
+- [PhishTank](https://www.phishtank.com) — Community-driven database of reported phishing websites.
+- [Polyswarm](https://polyswarm.network/) — A set of tools and resources for malware and threat intelligence.
+- [Pulsedive](https://pulsedive.com) — Threat intelligence platform for analysing and correlating IOCs.
+- [Quicksand](https://quicksand.io) — Malware analysis service focusing on document exploits.
+- [Quttera](https://quttera.com) — Website malware scanner and threat intelligence platform.
+- [Rapid7](https://www.rapid7.com/db/) — Vulnerability and exploit database by Rapid7.
+- [Recorded Future Triage](https://tria.ge/s) — Automated malware analysis and sandbox platform.
+- [Recorded Future Vulnerability Database](https://www.recordedfuture.com/vulnerability-database) — Real-time vulnerability intelligence and risk scoring database.
+- [RiskIQ](https://community.riskiq.com) — RiskIQ community forum offering threat intelligence discussions, tools, and resources.
+- [SANS](https://www.sans.org) — Cybersecurity training, certification, and research organisation.
+- [Scamalytics](https://scamalytics.com) — IP address fraud chack.
+- [SCMagazine](https://www.scmagazine.com) — Cybersecurity news, analysis, and expert insights.
+- [Search CTF Writeups](https://ctfsearch.hackmap.win) — Search engine for CTF writeups and challenges
+- [Search CVE List](https://cve.mitre.org/cve/search_cve_list.html) — Official database for searching CVE identifiers and vulnerability details
+- [SecuriTeam](http://www.securiteam.com) — Security resource site featuring articles, advisories, and tools
+- [Security Gate](https://securitygate.org) — Security resource hub providing curated links and tools.
+- [Security Intelligence](https://securityintelligence.com) — Cybersecurity news and analysis from IBM.
+- [Security Mailing List Archive](https://seclists.org/) — Archive of public security mailing lists and disclosures.
+- [Security Week](https://www.securityweek.com) — Cybersecurity news, trends, and expert commentary.
+- [Security Wizardry Radar](http://www.securitywizardry.com/radar.htm) — Real-time radar of security products and services.
+- [SecurityTrails](https://securitytrails.com) — Comprehensive domain intelligence platform with DNS, WHOIS, and historical data.
+- [Shodan Exploits](https://exploits.shodan.io) — A searchable repository of exploits provided by Shodan.
+- [SOCRadar](https://socradar.io/) — Threat intelligence platform offering attack surface management and dark web monitoring among the other features.
+- [Spamhaus](https://www.spamhaus.com/) — Reputation-based threat intelligence on IPs, domains, and spam sources.
+- [Sploitus](https://sploitus.com) — Search engine for publicly available exploits and offensive tools.
+- [SSL blacklist](https://sslbl.abuse.ch/ssl-certificates/) — A browseable list of botnet Command&Control servers (C&Cs) tracked by Feodo Tracker, associated with Dridex, TrickBot, QakBot (aka QuakBot/Qbot), BazarLoader (aka BazarBackdoor) and Emotet (aka Heodo).
+- [Stay Safe Online](https://staysafeonline.org/resources/) — Cybersecurity tips and resources for individuals and organisations.
+- [Stop Think Connect](https://stopthinkconnect.org) — Online safety awareness campaign promoting security best practices.
+- [SubDomainRadar](https://subdomainradar.io/) — Subdomain discovery tool that helps map and enumerate subdomains of a target.
+- [Sucuri Free Website and Malware Scanner](https://sitecheck.sucuri.net) — Website security scanner that checks for malware, vulnerabilities, and blacklist status.
+- [Symantec WebPulse Site Review Request](https://sitereview.bluecoat.com) — Blue Coat (Symantec) site categorization and URL safety reputation lookup.
+- [Synapsint](https://synapsint.com) — A free service that aggregates data from multiple intelligence sources, search engines, datasets, and other resources to provide comprehensive cybersecurity insights.
+- [Talos Intelligence](https://www.talosintelligence.com) — Threat intelligence on malware, spam, and network activity.
+- [Team Cymru](https://www.team-cymru.com) — Cyber and threat intelligence platform.\n
+- [The Hack Labs](https://www.thehacklabs.com) — A vulnerability search engine.
+- [The Shadowserver Foundation\n](https://www.shadowserver.org/) — Non-profit threat intelligence sharing and malware analysis organisation.
+- [Threat Intelligence Platform](https://threatintelligenceplatform.com) — Platform for real-time threat detection and IOC enrichment.
+- [Threat Stop](https://www.threatstop.com/) — Threat intelligence service offering IP, domain, and DNS protection.
+- [ThreatBook](https://threatbook.io/) — Threat intelligence and sandboxing platform for malware analysis.
+- [ThreatFox IOC Database](https://threatfox.abuse.ch/browse/) — Repository of malicious indicators shared by the security community.
+- [ThreatLog](https://www.threatlog.com) — A service developed by NoVirusThanks that keeps track of malicious domains detected by internal honeypots, malware sandboxes or submitted by users.
+- [ThreatMiner](https://www.threatminer.org) — Searchable threat intelligence platform with passive DNS and malware data.
+- [ThreatPinchLookup](https://github.com/cloudtracer/ThreatPinchLookup) — ThreatPinch Lookup creates informational tooltips when hovering oven an item of interest on any website.
+- [Tripwire State of Security](https://www.tripwire.com/state-of-security/) — Cybersecurity blog covering news, analysis, and best practices.
+- [URL Haus](https://urlhaus.abuse.ch) — Repository of malicious URLs used in malware distribution.
+- [URL Query\n](https://urlquery.net/) — Tool for analysing URLs and detecting malicious behaviour.
+- [Urldna](https://urldna.io/) — URL metadata scanner revealing link structure, tags, and content snapshots.
+- [US-CERT](https://www.us-cert.gov) — US government cybersecurity alerts, best practices, and incident reporting.
+- [Virus Total](https://www.virustotal.com) — Online service for analysing files and URLs for viruses and malware.
+- [Vulmon](https://vulmon.com) — Vulnerability and exploit database with CVE-based search functionality.
+- [Vulnerability Assessment Platform](https://vulners.com/landing) — Aggregated vulnerability and exploit intelligence platform.
+- [Web Check](https://web-check.xyz/) — All-in-one OSINT tool for analysing any website.
+- [Web Filter Lookup](https://www.fortiguard.com/webfilter) — Web filtering and threat intelligence platform.
+- [WhiteIntel](https://whiteintel.io) — Real-time threat and infostealer intelligence for MSSPs, enterprises, and researchers. Detect leaks, monitor takeovers, and respond instantly.
+- [WPScan Wordpress Vulnerability Database](https://wpvulndb.com) — WordPress vulnerability database providing details on known plugin, theme, and core issues.
+- [YARAify](https://yaraify.abuse.ch/) — A platform from abuse.ch and Spamhaus, that allows anyone to scan suspicious files against a large repository of YARA rules to detect malware.

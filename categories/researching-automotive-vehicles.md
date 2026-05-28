@@ -1,0 +1,96 @@
+# Researching Automotive Vehicles
+
+> 92 tools — [osinthandbook.com/researching-automotive-vehicles](https://www.osinthandbook.com/researching-automotive-vehicles)
+
+- [_IntelligenceX: VIN](https://intelx.io/tools?tab=vin) — Provides access to VIN-related tools for searching vehicle information and digital forensics.
+- [Analyst Search Tools](https://analystresearchtools.com) — An extensive collection of OSINT tools and resources.
+- [Auto Gespot](https://www.autogespot.com) — Platform for spotting and sharing photos of exotic and rare cars.
+- [AutoCheck (US)](https://www.autocheck.com/vehiclehistory/?siteID=0) — Provides vehicle history reports.
+- [AutoDetective (US)](https://www.autodetective.com) — Provides car history reports including accident and theft records.
+- [AutoDNA](https://www.autodna.com) — Sells detailed vehicle history reports based on VIN, including specifications and damage records.
+- [AutoTrader (RU) Vehicle Registration Codes](https://autotraveler.ru/en/spravka/vehicle-registration-codes-in-the-world.html#.Wsz3O4jwY2w) — Lists international vehicle registration codes with explanations for each country.
+- [Autowini](https://www.autowini.com) — Connects buyers with used cars and trucks from dealers and sellers around the world.
+- [Big Rig VIN](https://bigrigvin.com/) — Specialises in vehicle history reports for commercial trucks using VIN numbers.
+- [Biluppgifter (Sweden)](https://biluppgifter.se) — Provides vehicle history, specifications, and ownership information in Sweden.
+- [Car Detective](https://www.cardetective.com) — Provides car history reports and tools for investigating vehicle backgrounds.
+- [Car Logos](https://www.carlogos.org/) — Provides a comprehensive collection of car logos and brand information, including history and specifications for automotive enthusiasts.
+- [Car Model](https://carmodel.toolpie.com/) — Provides car model details, specifications and history based on VIN decoding.
+- [Car Tax Check (UK)](https://cartaxcheck.co.uk) — Offers UK car tax and MOT status checks using vehicle registration numbers.
+- [Caravan VIN Decoder](https://www.caravanvindecoder.com) — Decoder for caravan VINs to retrieve manufacturer and model information.
+- [CarFax (US)](https://www.carfax.com) — Offers detailed vehicle history reports with information on accidents, service records, ownership history, and recalls.
+- [Carnet](http://carnet.ai/) — Utilizes artificial intelligence to provide vehicle history reports and insights, assisting users in making informed car buying decisions.
+- [Chassisnummeropzoeken.be](https://www.chassisnummeropzoeken.be) — Service for checking and decoding chassis numbers in Belgium.
+- [Check MOT History (UK)](https://www.check-mot.service.gov.uk) — Provides MOT history and status for vehicles registered in the UK.
+- [Check That VIN](https://checkthatvin.com) — Provides VIN checking services to help users verify vehicle information and history before purchasing a used car.
+- [Deciphering Number Plates](https://www.skoda-storyboard.com/en/series/deciphering-number-plates/) — Explains the structure and meaning of number plates, helping readers understand vehicle registration codes and their significance.
+- [Decode This](https://www.decodethis.com) — VIN decoder providing detailed vehicle specifications and history.
+- [Driving Tests: Free VIN Decoder](https://driving-tests.org/vin-decoder) — Instant VIN lookup tool.
+- [Epic VIN](https://epicvin.com/) — Offers vehicle history reports with information on accidents, title status, and more.
+- [eRegitra (Italy)](https://www.eregitra.lt) — Enables verification of vehicle registration and status in Lithuania.
+- [Europlates](https://www.europlates.eu) — Resource for identifying and learning about European licence plates.
+- [Fahrzeugdaten Online Abfrage (Austria)](https://zulassung.oesd.at/fahrzeugdaten-online-abfrage) — Allows online access to Austrian vehicle registration data for verification purposes.
+- [FaxVIN](https://www.faxvin.com/) — Provides comprehensive vehicle history reports including accident records, mileage, ownership details, and more.
+- [Federal Public Service: Mobility and Transport (Belgium)](https://mobilit.belgium.be) — Provides information on Belgian mobility services including driving licences and vehicle registrations.
+- [Find Plate](https://findbyplate.com/US//) — A free, US-focused search engine to look up vehicles and report bad drivers by their license plate number.
+- [GOV.UK Check MOT History](https://www.gov.uk/check-mot-history) — Provides MOT history and status checks for vehicles registered in the UK.
+- [GOV.UK Vehicle Inquiry](https://vehicleenquiry.service.gov.uk) — Provides official vehicle information such as tax and MOT status from the UK government.
+- [Government of Canada: Search Vehicles (Canada)](https://cpic-cipc.ca/sve-rve-eng.htm) — Enables public checks on stolen vehicles listed in the Canadian Police Information Centre.
+- [HD Truck VIN Decoder](https://www.dataonesoftware.com/hd-truck-vin-decoder) — Tool for decoding heavy-duty truck VINs to obtain vehicle specifications.
+- [Honda Recall Lookup](https://owners.honda.com/service-maintenance/recalls) — Allows users to check for recalls and service campaigns for Honda vehicles.
+- [How Many Left (UK)](https://www.howmanyleft.co.uk) — Displays statistics on how many of each car model are currently registered in the UK.
+- [IsItNicked (UK)](https://isitnicked.com) — Checks if a vehicle is reported stolen in the UK using a quick, registration-based search.
+- [Kenteken Check (Netherlands)](https://www.kentekencheck.nl) — Offers free Dutch license plate checks with vehicle specifications and history.
+- [Kenteken Check Online (Netherlands)](https://www.qenteken.nl) — Provides Dutch vehicle data through registration number searches.
+- [Kozutijarmu korozesek (Hungary)](https://www.police.hu/hu/koral/kozutijarmu-korozesek) — Provides public access to Hungary’s national database of wanted road vehicles.
+- [License Plate Mania](http://www.licenseplatemania.com) — Features global license plate images and information for car enthusiasts and collectors.
+- [License Plate Mania](https://www.licenseplatemania.com) — Collection of licence plate images and information from around the world.
+- [Ministero Dell'Interno: Stolen / Lost Vehicle Search (Italy)](https://crimnet.dcpc.interno.gov.it/crimnet/en/stolen_lost_vehicle_number_plate_researching) — Enables searches for stolen or lost vehicles and licence plates within the Italian database.
+- [MOT Checker (UK)](https://www.ismycar.co.uk/mot-checker/) — Offers a free MOT history check for UK vehicles using the car’s registration number.
+- [Motor Insurance Database (UK)](https://ownvehicle.askmid.com) — Allows users to check if a vehicle is insured in the UK by accessing the Motor Insurance Database, aiding in verifying insurance status.
+- [MVRDecoder.com](https://www.mvrdecoder.com) — Tool for decoding VINs and retrieving basic vehicle details.
+- [National Highway Traffic Safety Administration (US)](https://vinrcl.safercar.gov/vin/) — Allows users to check for safety recalls using VIN through the US government database.
+- [National Motor Vehicle Title Information System (US)](https://www.vehiclehistory.gov) — Provides access to the National Motor Vehicle Title Information System, offering vehicle history reports to help detect fraud and unsafe vehicles.
+- [Navigates](https://navigates.gates.com) — Tool for identifying automotive parts and systems using VIN data.
+- [NICB VIN Check](https://www.nicb.org/vincheck) — Free service for checking if a vehicle has been reported stolen in the US.
+- [NMVTIS](https://vehiclehistory.bja.ojp.gov) — US government resource for checking vehicle history and ownership.
+- [Nomerogram (Russia)](https://www.nomerogram.ru) — Enables users to check vehicle ownership and registration information in Russia.
+- [Number Plate Check (UK)](https://www.checkcardetails.co.uk/number-plate-check) — A free tool to check UK number plates.
+- [Nummerpladeregister (Denmark)](https://nummerpladeregister.dk) — Provides licence plate information and vehicle history based on Danish registration data.
+- [Partial Number Plate (UK)](https://www.partialnumberplate.co.uk) — Helps identify vehicles using partial number plate information in the UK.
+- [Plate Recognizer](https://platerecognizer.com) — Software for recognising and logging licence plates from images and video.
+- [Plates Mania](https://platesmania.com/) — Hosts a community-driven database of license plate images and information, allowing users to explore and contribute to a global collection.
+- [Poctra (UK / EU)](https://poctra.com) — Maintains an archive of salvage car auction data from US and EU markets, providing photos and information about vehicles for research purposes.
+- [Police.gov.cy: Stolen / Wanted Vehicles (Cyprus)](https://www.police.gov.cy/police/police.nsf/stolenvehicles_gr/stolenvehicles_gr?OpenDocument) — Displays a list of stolen vehicles reported in Cyprus with search and filtering functions.
+- [Policie.gov.cz: Vehicle and License Plate Searches (Czech Republic)](https://aplikace.policie.gov.cz/patrani-vozidla) — Allows searches in the Czech national police database for missing or stolen vehicles.
+- [Politi.dk: Search Stolen Cars (Denmark)](https://politi.dk/cykler-og-koeretoejer/tjek-om-en-cykel-eller-et-koeretoej-er-efterlyst/tjek-om-et-motorkoeretoej-er-efterlyst) — Allows users to check whether a bicycle or motor vehicle is listed as stolen in Denmark.
+- [Politia Romana: Autovehicule Furate (Romania)](https://politiaromana.ro/ro/auto-furate) — Displays information about stolen vehicles reported in Romania.
+- [RDW Kentekencheck (Netherlands)](https://ovi.rdw.nl) — Official Dutch government site for verifying vehicle registration details.
+- [Regnr](https://regnr.info) — Enables basic vehicle data look-up using registration numbers.
+- [SaferCar: VIN](https://vinrcl.safercar.gov/vin) — US government tool for checking vehicle recalls using VINs.
+- [skat.dk](https://motorregister.skat.dk/dmr-kerne/koeretoejdetaljer/visKoeretoej?execution=e1s1) — Gives detailed Danish Motor Register data including ownership and vehicle specifications.
+- [Skoda Storyboard: Deciphering Number Plates](https://www.skoda-storyboard.com/en/series/deciphering-number-plates) — Explains how to interpret number plates and registration codes.
+- [Stolen Car Database](https://digitpol.com/stolen-car-database) — Online tool for checking if a vehicle has been reported stolen globally.
+- [Stolen Cars (EU)](https://www.stolencars.eu) — Platform for verifying stolen vehicles using a European-wide database.
+- [Stolen Cars 24 (EU)](https://www.stolencars24.eu) — Database for checking whether a vehicle is reported stolen across Europe.
+- [Stolen Vehicles (Slovakia)](https://www.minv.sk/?odcudzene-mot-vozidla) — Lists stolen motor vehicles registered in Slovakia.
+- [Swedish Motor Insurers (Sweden)](https://www.tff.se/en/For-insurance-companies/Insurance-check) — Allows insurance companies to verify Swedish vehicle insurance status.
+- [TjekBil (Denmark)](https://www.tjekbil.dk) — Enables users to check vehicle specifications and history details using a Danish number plate.
+- [Trodo (Latvia)](https://www.trodo.lv) — Offers car parts and accessories based on vehicle registration in Latvia.
+- [Varaosahaku (Finland)](https://www.varaosahaku.fi) — Aggregates auto parts listings from Finnish dealers and scrapyards into a central search platform.
+- [Vehicle Enquiry (UK)](https://vehicleenquiry.service.gov.uk) — Offers vehicle tax and registration status checks for UK vehicles.
+- [Vehicle History (Poland)](https://moj.gov.pl/nforms/engine/ng/index?xFormsAppName=HistoriaPojazdu#/search) — Provides detailed Polish vehicle history reports through official government forms.
+- [Vehicle History (US)](https://www.vehiclehistory.com) — Offers free vehicle history reports with information on accidents, recalls, and more.
+- [Vehicle Identification Number](https://vehicleidentificationnumber.com) — Provides resources and tools for understanding and decoding vehicle identification numbers, assisting users in researching vehicle history.
+- [Vehicle Register (Norway)](https://www.vegvesen.no/kjoretoy/kjop-og-salg/kjoretoyopplysninger/sjekk-kjoretoyopplysninger) — Gives access to Norwegian vehicle information including ownership and technical data.
+- [Verify Number Plates (Nigeria)](https://nvis.frsc.gov.ng/VehicleManagement/VerifyPlateNo) — Allows users in Nigeria to verify vehicle plate numbers through the official system.
+- [VIN - Numer Identyfikacyjny Pojazdu (Poland)](https://info-car.pl/infocar/vin.html) — Allows users to check Polish vehicle details using VIN numbers.
+- [VIN decoder](https://vindecoder.eu) — Offers VIN decoding services to provide detailed information about a vehicle's specifications and history based on its identification number.
+- [VIN Decoderz (US)](https://www.vindecoderz.com) — Decodes VIN numbers to reveal vehicle specifications and history.
+- [Vin-info](https://uk.vin-info.com) — Provides vehicle history reports for UK vehicles, including mileage verification, accident history, and ownership details to assist in purchasing decisions.
+- [VINCheck](https://www.nicb.org/vincheck) — Offers a free service to check if a vehicle has been reported as stolen or salvaged.
+- [VINCheck.info](https://vincheck.info/) — Offers free vehicle history reports using VIN to check for thefts, accidents and recalls.
+- [Vindecoder.net](https://www.vindecoder.net) — A free VIN decoder that lets you check any VIN number.
+- [VINFree Check](https://www.vinfreecheck.com) — Offers free VIN checks and vehicle history reports for used cars.
+- [Voertuig Kenteken Check (Netherlands)](https://voertuig.net) — Allows users to retrieve Dutch vehicle information using plate numbers.
+- [Wikipedia: Vehicle Identification Number](https://en.wikipedia.org/wiki/Vehicle_identification_number) — Overview of vehicle identification numbers and their standardised format.
+- [World License Plates](http://worldlicenseplates.com) — Offers extensive information on license plates from around the world, including images and historical data for collectors and enthusiasts.

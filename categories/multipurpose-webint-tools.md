@@ -1,0 +1,53 @@
+# Multipurpose Webint Tools
+
+> 49 tools — [osinthandbook.com/multipurpose-webint-tools](https://www.osinthandbook.com/multipurpose-webint-tools)
+
+- [Amass](https://github.com/OWASP/Amass) — Network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
+- [Argus](https://github.com/jasonxtn/Argus) — An all-in-one, Python-powered toolkit designed to streamline the process of information gathering and reconnaissance.
+- [Ashok](https://github.com/powerexploit/Ashok) — Multi-functional OSINT reconnaissance tool with features like Google Dorking, Wayback crawling, and subdomain identification.
+- [bbot](https://github.com/blacklanternsecurity/bbot) — A multipurpose scanner inspired by Spiderfoot.
+- [BlackWidow](https://github.com/1N3/BlackWidow) — A Python-based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website.
+- [Bluto](https://github.com/darryllane/Bluto) — A multi-feature OSINT framework including DNS recon, brute forcer, DNS zone transfer, DNS wild card checks, DNS wild card brute forcer, email enumeration, staff enumeration, and compromised account checking.
+- [ClatScope](https://github.com/Clats97/ClatScope) — A versatile OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, data breach information and much more (70+ features).
+- [CyberPunkOS](https://github.com/cyberpunkOS/CyberPunkOS) — A virtual machine that incorporates several tools for Open Source Intelligence (OSINT).
+- [datasploit](https://github.com/DataSploit/datasploit) — An OSINT framework to perform various recon techniques on companies, people, phone numbers, bitcoin addresses, etc., aggregate all the raw data, and give data in multiple formats.
+- [FinalRecon](https://github.com/thewhiteh4t/FinalRecon) — All in one web recon.\n\n
+- [gasmask](https://github.com/twelvesec/gasmask) — An OSINT information gathering tool that aggregates data and functionalities from multiple platforms.
+- [GhostRecon](https://github.com/KawaCoder/GhostRecon) — Popular OSINT framework for online investigations.
+- [Gobuster](https://github.com/OJ/gobuster) — Directory / File, DNS and VHost busting tool written in Go.
+- [gOSINT](https://github.com/Nhoya/gOSINT) — A multiplatform OSINT Swiss army knife.
+- [Harpoon](https://github.com/Te-k/harpoon) — CLI tool for open source and threat intelligence.
+- [infooze](https://github.com/devxprite/infoooze) — A powerful and user-friendly OSINT (Open-Source Intelligence) tool that allows you to quickly and easily gather information about a specific target.
+- [Inquisitor](https://github.com/penafieljlm/inquisitor) — Opinionated organisation-centric OSINT footprinting inspired by recon-ng and Maltego.
+- [Int-Rec-Pack](https://github.com/NullArray/IntRec-Pack) — Intelligence and reconnaissance package / bundle installer.
+- [karma_v2](https://github.com/Dheerajmadhukar/karma_v2) — Passive OSINT / Automated reconnaissance framework.
+- [lazyrecon](https://github.com/nahamsec/lazyrecon) — A script intended to automate a reconnaissance process in an organised fashion.
+- [Maryam](https://github.com/saeeddhqan/Maryam) — A modular open source intelligence framework.
+- [Master OSINT Toolkit](https://github.com/techenthusiast167/Master-OSINT-Toolkit-) — A user-friendly Python toolkit for open source intelligence, providing key features such as image geolocation, social media profiling, email breach checks, domain lookup, metadata extraction, Google dorking, Wayback Machine queries, IP geolocation with blacklist checks, reverse image search, among others.\n\nResources\n
+- [Metabigor](https://github.com/j3ssie/metabigor) — An OSINT framework that does not require API access.
+- [mihari](https://github.com/ninoseki/mihari) — An aggregator for OSINT based threat hunting.
+- [Omnibus](https://github.com/InQuest/omnibus) — An OSINT framework used to investigate IP addresses, domain names, email addresses, usernames, file hashes, Bitcoin addresses, and more.
+- [OSINT Search](https://github.com/am0nt31r0/OSINT-Search) — Useful for digital forensics investigations or initial black-box pentest footprinting.
+- [OSINT Toolkit](https://github.com/dev-lu/osint_toolkit) — Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.
+- [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) — Performs OSINT scan on email / domain / ip_address / organisation using OSINT-SPY.
+- [Osmedeus](https://github.com/j3ssie/Osmedeus) — A workflow engine for offensive security.
+- [osrframework](https://github.com/i3visio/osrframework) — The OSINT research framework that provides API and tools to perform more accurate online research.
+- [Photon](https://github.com/s0md3v/Photon) — Incredibly fast crawler designed for OSINT.
+- [Racoon](https://github.com/evyatarmeged/Raccoon) — A high performance offensive security tool for reconnaissance and vulnerability scanning.
+- [Recon-ng](https://github.com/lanmaster53/recon-ng) — Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.
+- [ReconDog](https://github.com/s0md3v/ReconDog) — Reconnaissance Swiss Army Knife.
+- [reconspider](https://github.com/bhavsec/reconspider) — Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organisations.
+- [RED_Hawk](https://github.com/Tuhinshubhra/RED_HAWK) — All in one tool for information gathering, vulnerability scanning and crawling.
+- [rengine](https://github.com/yogeshojha/rengine) — An automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organisation, continuous monitoring, backed by a database, and simple yet intuitive User Interface.
+- [Scrummage](https://github.com/matamorphosis/Scrummage) — A holistic OSINT and threat hunting platform.
+- [Scumblr](https://github.com/Netflix-Skunkworks/Scumblr) — Web framework that allows performing periodic syncs of data sources and performing analysis on the identified results.
+- [Sn0int](https://github.com/kpcyrd/sn0int) — Semi-automatic OSINT framework and package manager.
+- [Sn1per](https://github.com/1N3/Sn1per) — Attack surface management platform.
+- [Spiderfoot](https://github.com/smicallef/spiderfoot) — A tool for automating OSINT for threat intelligence and attack surface mapping.
+- [theHarvester](https://github.com/laramies/theHarvester) — E-mails, subdomains and names harvester.
+- [ThreatIngestor](https://github.com/InQuest/ThreatIngestor) — Extract and aggregate threat intelligence.
+- [TIDoS Framework](https://github.com/0xInfection/TIDoS-Framework) — The offensive manual web application penetration testing framework.
+- [uDork](https://github.com/m3n0sd0n4ld/uDork) — A script written in Bash Scripting that uses advanced Google search techniques to obtain sensitive information in files or directories, find IoT devices, detect versions of web applications, and so on.
+- [URLextractor](https://github.com/eschultze/URLextractor) — Information gathering and website reconnaissance framework.
+- [Vault](https://github.com/abhisharma404/vault) — Swiss army knife for hackers.\n\n
+- [WEBCAPTURE](https://github.com/drackyjr/WEBCAPTURE) — Automated Open Source Intelligence gathering tool with multiple features.

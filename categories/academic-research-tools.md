@@ -1,0 +1,123 @@
+# Academic Research Tools
+
+> 119 tools — [osinthandbook.com/academic-research-tools](https://www.osinthandbook.com/academic-research-tools)
+
+- [A-Z Library Databases](https://guides.uflib.ufl.edu/az.php) — Provides an A-Z list of databases and resources available through the University of Florida Libraries.
+- [Academia](https://www.academia.edu) — Platform for academics to share research papers and follow research in their field.
+- [Academic Journals](https://academicjournals.org/) — Publishes peer-reviewed open access journals across various academic disciplines.
+- [African Journals Online](https://www.ajol.info) — Hosts African-published scholarly journals to increase visibility and access to African research.
+- [Altmetric](https://www.altmetric.com) — Tracks and analyzes online attention and engagement surrounding scholarly research.
+- [American Society of Civil Engineers](https://ascelibrary.org/) — Provides access to civil engineering content published by the American Society of Civil Engineers.
+- [Amigo](http://amigo.geneontology.org/amigo) — Offers tools for searching and browsing the Gene Ontology database.
+- [AMiner](https://www.aminer.org/) — Academic search system that integrates data mining and social network analysis.
+- [Archive Grid](https://researchworks.oclc.org/archivegrid/) — Searchable database of archival collection descriptions from libraries and museums.
+- [Archives Portal Europe](https://www.archivesportaleurope.net/) — Provides access to European archival materials from various institutions.
+- [arXiv](https://arxiv.org) — Open-access repository for scholarly articles in physics, mathematics, computer science, and more.
+- [Authorea](https://www.authorea.com) — Collaborative platform for writing, editing, and publishing scientific documents.
+- [Base](https://www.base-search.net/) — Search engine for academic open access web resources developed by Bielefeld University Library.
+- [BioOne](https://bioone.org) — Aggregates high-impact bioscience research from scientific societies and independent publishers.
+- [bioRxiv](https://www.biorxiv.org) — Preprint server for biology that allows researchers to share findings before peer review.
+- [Bitpipe](https://www.bitpipe.com) — Offers IT white papers, webcasts, and product information for technology professionals.
+- [Cambridge Core](https://www.cambridge.org/core) — Provides access to academic books and journals published by Cambridge University Press.
+- [Cite Seer X](https://citeseer.ist.psu.edu) — Scientific literature digital library and search engine focused on computer and information science.
+- [Cochrane Library](https://www.cochranelibrary.com) — Collection of high-quality evidence to inform healthcare decision-making.
+- [Connected Papers](https://www.connectedpapers.com) — Tool to help researchers find and explore connections between academic papers.
+- [Consensus](https://consensus.app/) — AI-powered search engine that summarizes scientific research findings.
+- [Core](https://core.ac.uk) — The world’s largest collection of open access research papers.
+- [DASH](https://dash.harvard.edu/home) — A digital repository of scholarship from Harvard.
+- [dblp](https://dblp.uni-trier.de) — Computer science bibliography website providing open bibliographic information on major computer science journals and proceedings.
+- [deepdyve](https://www.deepdyve.com) — Provides rental access to scientific and scholarly research articles.
+- [Dimensions](https://www.dimensions.ai/) — Research information platform that links publications, grants, clinical trials, and patents.
+- [Dissertation.com](http://dissertation.com) — Publishes and sells academic dissertations and theses.
+- [DOAJ](https://doaj.org) — A directory of open access journals.
+- [East view: Journals](https://www.eastview.com/resources/journals/) — Offers access to a wide range of international journals and newspapers.
+- [EBSCO](https://www.ebsco.com) — Provides research databases, e-journals, magazine subscriptions, and e-books.
+- [EconPapers](https://econpapers.repec.org) — Provides access to RePEc, a database of economics working papers, journal articles, and software components.
+- [Elicit](https://elicit.com/) — AI research assistant that helps researchers find relevant papers and generate ideas.
+- [Elsevier](https://www.elsevier.com) — The world's leading scientific publisher and global analytics company specializing in science and health.
+- [ERIC](https://eric.ed.gov) — The world's largest database of education related information.
+- [Europe PMC](http://europepmc.org) — A free database of life sciences literature offering access to millions of abstracts and full-text articles.
+- [Europeana](https://www.europeana.eu) — Provides access to millions of digitized items from European museums, galleries, libraries, and archives.
+- [figshare](https://figshare.com) — An open repository where researchers can share and discover research outputs including datasets, figures, and media.
+- [Focus](https://focus.universite-paris-saclay.fr) — The digital platform of Université Paris-Saclay showcasing academic and research content.
+- [Gene Ontology](http://geneontology.org) — Offers structured vocabularies for representing gene product attributes across species and databases.
+- [Google Scholar](https://scholar.google.com) — A freely accessible search engine that indexes scholarly articles across various disciplines and formats.
+- [Google Scholar Button](https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn) — A Chrome extension that allows users to access scholarly articles and citations directly from their browser.
+- [GreyNet International](http://www.greynet.org) — An organization dedicated to research, publication, and education in the field of grey literature.
+- [Hathi Trust Digital Library](https://www.hathitrust.org) — A partnership of academic and research institutions offering a collection of millions of titles digitized from libraries around the world.
+- [HighWire: Free Online Full-text Articles](http://portal.highwire.org/lists/browse.dtl) — A platform used by scholarly publishers to host their content online.
+- [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp) — A digital library providing access to technical literature in engineering and technology.
+- [Ingenta Connect](https://www.ingentaconnect.com) — Offers access to thousands of academic and professional publications across various disciplines.
+- [International Affairs Resources](https://internationalaffairsresources.com) — A directory of annotated links to high-quality sources in international studies.
+- [Internet Archive](https://archive.org) — A non-profit library offering free access to books, movies, software, music, and archived web pages.
+- [IssueLab](https://www.issuelab.org) — A platform that collects and shares research reports from the social sector.
+- [Jisc Library Hub Discover](https://discover.libraryhub.jisc.ac.uk) — A UK service that allows users to search the catalogues of major UK and Irish libraries.
+- [Journal Map](https://www.journalmap.org) — A scientific literature search engine that organizes content based on geographical location.
+- [JSTOR](http://www.jstor.org) — A digital library for scholars, researchers, and students offering access to thousands of academic journals, books, and primary sources.
+- [Libguides Community](https://community.libguides.com) — A platform where librarians share and discover research guides and best practices.
+- [Library of Congress](https://www.loc.gov) — The largest library in the world, offering access to a vast collection of books, recordings, photographs, maps, and manuscripts.
+- [Litmaps](https://www.litmaps.com) — A powerful literature review assistant.
+- [My Science Work](https://www.mysciencework.com) — A platform that provides access to scientific publications and promotes open science.
+- [National Archives](https://www.archives.gov/research/catalog) — The National Archives Catalog provides access to the holdings of the U.S. National Archives.
+- [NDLTD](https://ndltd.org/) — An international organization dedicated to promoting the adoption, creation, use, dissemination, and preservation of electronic theses and dissertations (ETDs)
+- [NRC Research Press](http://www.nrcresearchpress.com) — Publishes scientific journals covering a wide range of disciplines from the National Research Council of Canada.
+- [OAIster](https://oaister.on.worldcat.org/discovery) — Provides access to millions of open access resources through the WorldCat discovery platform.
+- [OCLC](https://www.oclc.org) — Offers library technology services and maintains the WorldCat global library cooperative.
+- [Online White Papers](https://www.onlinewhitepapers.com) — Hosts a wide collection of whitepapers on technology and business topics.
+- [Open Access Theses and Dissertations](https://oatd.org) — Indexes open access graduate theses and dissertations from universities worldwide.
+- [Open Knowledge Maps](https://openknowledgemaps.org) — Visualises research topics and connections using open science content.
+- [Open Syllabus](https://www.opensyllabus.org) — Aggregates and analyses syllabi to reveal what is taught in higher education.
+- [OpenAIRE](https://www.openaire.eu) — Provides open access to European research outputs and promotes open science.
+- [OpenRead](https://www.openread.academy/) — An AI-powered platform that offers access to free and paid academic content and open access research tools.
+- [OReFiL](http://orefil.dbcls.jp) — A Japanese database linking open access scholarly content and institutional repositories.
+- [OSF Preprints](https://osf.io/preprints/discover) — Search engine for open access preprints hosted on the Open Science Framework.
+- [OSTI.GOV](https://www.osti.gov) — A platform that provides access to US Department of Energy research and development results.
+- [Oxford Academic Journals](https://academic.oup.com/journals) — Hosts academic journals published by Oxford University Press.
+- [PagePress](https://www.pagepress.org) — Publishes open access journals in science, medicine, and technology.
+- [PhilPapers](https://philpapers.org) — Index and bibliography of philosophy maintained by philosophers.
+- [Pivot](https://pivot.proquest.com) — Funding discovery and research support tool for academic institutions.
+- [PLOS](https://plos.org/) — Publishes peer-reviewed open access scientific research across multiple disciplines.
+- [PNAS](https://www.pnas.org) — Official journal of the US National Academy of Sciences featuring high-impact research.
+- [PQDT Open](https://pqdtopen.proquest.com/search.html) — Provides open access to dissertations and theses from ProQuest.
+- [Project MUSE](https://muse.jhu.edu) — An online database of peer-reviewed academic journals and electronic books.
+- [PubPeer](https://pubpeer.com) — Platform for post-publication peer review of scientific papers.
+- [refseek](https://www.refseek.com) — Academic search engine for students and researchers.
+- [REPEC](http://repec.org) — Collaborative database of economics research and working papers.
+- [Research Gate](https://www.researchgate.net/) — Social networking site for scientists to share papers and ask questions.
+- [Retraction Watch](https://retractionwatch.com) — A platform and blog with information on retracted scientific papers.
+- [SAGE Journals](http://journals.sagepub.com) — Publishes scholarly journals across a wide range of academic disciplines.
+- [sci-hub-now](https://github.com/0x01h/sci-hub-now) — GitHub repository for accessing Sci-Hub mirror links.
+- [Scielo](https://scielo.org) — Open access journal network for Latin American and Iberian research.
+- [Science Advisor](http://science-advisor.net) — Tool that recommends scientific papers based on user preferences.
+- [Science Daily](https://www.sciencedaily.com) — Provides news and articles on the latest scientific research and discoveries.
+- [Science Magazine Search](https://search.sciencemag.org) — Provides access to a vast collection of scientific articles and research papers across various disciplines.
+- [Science Open](https://www.scienceopen.com) — Offers an open-access platform for researchers to publish and discover scientific content.
+- [Science Publications](https://www.thescipub.com/) — Publishes peer-reviewed journals in a wide range of scientific fields.
+- [Science Research Assistant](https://chromewebstore.google.com/detail/science-research-assistan/ceacgaccjcomdbnoodjpllihjmeflfmg) — A Chrome extension that assists users in finding and organizing scientific research efficiently.
+- [Science.gov](https://www.science.gov) — Serves as a gateway to U.S. government science information, including research and development results.
+- [ScienceDirect](http://www.sciencedirect.com) — Hosts a comprehensive database of scientific and technical research articles and journals.
+- [Scilit](https://www.scilit.net) — Aggregates scientific literature and provides tools for researchers to track and analyze publications.
+- [scinapse](https://www.scinapse.io/) — Utilizes AI to help researchers discover and understand scientific papers relevant to their work.
+- [SCIRP](https://www.scirp.org/) — Publishes a variety of open-access journals covering multiple scientific disciplines.
+- [Scopus](https://www.elsevier.com/products/scopus) — An abstract and citation database from Elsevier.
+- [Semantic Scholar](https://www.semanticscholar.org) — Employs artificial intelligence to enhance the discovery of scientific literature and research papers.
+- [SOC ARXIV](https://osf.io/preprints/socarxiv) — Hosts preprints in the social sciences, allowing researchers to share and access early-stage research.
+- [Space Frontiers](https://spacefrontiers.org) — AI-powered academic search engine.
+- [Springer Link](http://link.springer.com) — Provides access to a vast collection of scientific documents, including journals, books, and protocols.
+- [SSRN](https://www.ssrn.com) — Offers a repository for research papers and preprints across various disciplines.
+- [Study Recon](https://groundedai.company/studyrecon) — Assists researchers in conducting literature reviews by mapping out relevant academic landscapes.
+- [Sweet Search: A Search Engine for Students](https://www.sweetsearch.com) — A search engine designed for students, providing access to reliable and educational resources.
+- [Taylor & Francis Online](https://www.tandfonline.com/) — Publishes scholarly journals and books across a wide range of academic disciplines.
+- [The Academic Family Tree](https://academictree.org/) — Maps academic genealogy, showing relationships between researchers.
+- [The Getty Research Institute](https://www.getty.edu/research/library/) — Provides access to a vast collection of art and research materials, supporting scholarly study.
+- [The National Archives](https://discovery.nationalarchives.gov.uk/) — Offers a comprehensive catalog of the UK's national archives, including historical documents and records.
+- [Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) — A Chrome extension that provides free access to scholarly articles by locating open-access versions.
+- [Video Lectures](http://videolectures.net) — Hosts a collection of academic video lectures and presentations across various disciplines.
+- [VirtualLRC.com](https://www.virtuallrc.com) — Provides a curated collection of academic resources and tools for students and educators.
+- [Web of Science](https://clarivate.com/webofsciencegroup/solutions/web-of-science/) — Offers a comprehensive research platform that provides access to scholarly articles and citation data.
+- [Web of Science: Journal Search](https://mjl.clarivate.com) — Provides a master list of journals indexed in the Web of Science platform, aiding in journal selection and evaluation.
+- [Wiley](http://eu.wiley.com) — Publishes a wide range of academic journals and books across various disciplines.
+- [World Digital Library](http://www.wdl.org) — Offers access to cultural treasures from libraries and archives around the world.
+- [World Wide Science](https://worldwidescience.org/) — A global science gateway that enables federated searching of national and international scientific databases.
+- [WorldCat](https://www.worldcat.org) — Provides access to a global catalog of library collections, facilitating resource sharing and discovery.
+- [zenodo](https://zenodo.org) — A repository for research outputs, including publications and data sets, supporting open science initiatives.

@@ -1,0 +1,43 @@
+# Code Search
+
+> 39 tools — [osinthandbook.com/code-search](https://www.osinthandbook.com/code-search)
+
+- [Android Code Search](https://cs.android.com) — A browser-based interface for exploring the Android Open Source Project's code.
+- [Bazel](https://cs.opensource.google/bazel) — A browser-based interface for exploring the Bazel open-source project's code.
+- [Chromium Code Search](https://source.chromium.org/chromium) — A browser-based interface for exploring the Chromium project's source code.
+- [Code Finder](http://codefinder.org) — A tool for searching and discovering code snippets and examples.
+- [Code Finder: Github Search](https://codefinder.dev/) — A tool for searching and discovering code snippets and examples.
+- [CodeBerg Repos Search](https://codeberg.org/explore/repos) — A platform for exploring open-source repositories hosted on Codeberg.
+- [CybDetective: Code Search](https://cybdetective.com/codesearch.html) — Custom search engine that searches 15 source code hosting services.
+- [Debian Code Search](http://codesearch.debian.net) — A search tool for browsing the source code of Debian packages.
+- [Deps.dev](https://deps.dev/) — A tool providing insights into open-source dependencies and their security.
+- [ecosyste.ms](https://ecosyste.ms/) — A platform for analyzing and visualizing software ecosystems.
+- [Ember Observer: Code Search](https://emberobserver.com/code-search) — A search tool for exploring Ember.js addons and their code.
+- [Fedora Pagure](https://pagure.io/browse/projects/) — An open-source Git-based project hosting platform developed by Fedora.
+- [GitHub Gist Search](https://gist.github.com/discover) — A platform for sharing and discovering code snippets and notes.
+- [GitHub Search](https://github.com/search?type=code) — GitHub's code search feature for finding code within public repositories.
+- [GitLab Search](https://about.gitlab.com/) — A comprehensive DevSecOps platform integrating code management, CI/CD, and security tools.
+- [Google Code Archive](https://code.google.com/archive/) — An archive of open source code aggregated by Google Code Project.
+- [Google Code Archive](https://code.google.com/archive/) — An archive of projects previously hosted on Google Code.
+- [Grep](https://grep.app/) — A fast code search tool that allows regex searches across GitHub repositories.
+- [krugle](http://www.krugle.com) — A search engine for finding and analyzing source code.
+- [Launchpad](https://launchpad.net/) — A platform for managing software projects, including code hosting and bug tracking.
+- [Libraries.io](https://libraries.io) — A platform for discovering and tracking open-source libraries and dependencies.
+- [NerdyData](https://search.nerdydata.com) — A search engine for locating source code across the web.
+- [NerdyData](https://www.nerdydata.com/) — A search engine for finding source code and technologies across the web.
+- [Open Hub](https://www.openhub.net) — A platform for analyzing and tracking open-source software projects.
+- [PublicWWW](https://publicwww.com) — A search engine for finding websites by HTML, JavaScript, and CSS code.
+- [Reference Source Microsoft](https://referencesource.microsoft.com) — A reference source for Microsoft's .NET Framework libraries.
+- [repo.or.cz](https://repo.or.cz/?a=project_list) — A web-based Git repository hosting service for collaborative software development.
+- [Scala](https://www.programcreek.com/scala/) — A resource for learning Scala through code examples and tutorials.
+- [Script Mafia](https://scriptmafia.org/) — A website offering a collection of scripts, templates, and tutorials.
+- [SearchCode](https://searchcode.com) — A search engine for finding source code across various repositories.
+- [Snipplr](https://snipplr.com) — A repository for sharing and discovering code snippets.
+- [SourceCodeOnline](http://www.sourcecodeonline.com) — A repository for browsing and downloading source code.
+- [SourceForge](https://sourceforge.net/) — A platform for hosting and managing open-source software projects.
+- [Sourcegraph](https://sourcegraph.com/search) — A code search and navigation tool for developers and teams.
+- [Sourcehut](https://sr.ht/projects) — A minimalist web-based platform for hosting software projects and code repositories.
+- [SwaggerHub](https://app.swaggerhub.com/search) — A collaborative platform for designing, documenting, and hosting APIs.
+- [Webfinery](https://webfinery.com/search) — A tool for searching and analyzing web source code across various technologies.
+- [Woboq](https://code.woboq.org) — A code browser for exploring open-source C++ projects.
+- [WP Directory](https://wpdirectory.net/) — A searchable directory of WordPress plugins and themes.

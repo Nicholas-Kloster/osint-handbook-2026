@@ -1,0 +1,69 @@
+# Dark Web Research
+
+> 65 tools — [osinthandbook.com/dark-web-research](https://www.osinthandbook.com/dark-web-research)
+
+- [Ahmia](https://ahmia.fi) — A popular search engine that searches for .onion websites on Tor.
+- [ahmia-site](https://github.com/ahmia/ahmia-site) — A search engine for .onion domains on the Tor anonymity network.
+- [Dargle](http://www.dargle.net) — A data aggregation platform for dark web domains with a search feature.
+- [Dark Owl](https://www.darkowl.com) — A platform featuring a range of darknet data products.
+- [Dark Scrape](https://github.com/itsmehacker/DarkScrape) — An OSINT Tool for scraping dark websites.
+- [Dark Web Market](https://darkwebmarket.net) — A directory of Tor links.
+- [Dark Web Sites](https://darkweb-sites.org) — A directory of Tor links.
+- [darkdump](https://github.com/josh0xA/darkdump) — An OSINT interface for deep web scraping.
+- [DarkNet Pages](https://darknetpages.com) — A directory of links and other TOR-related resources.
+- [Darkus](https://github.com/Lucksi/Darkus) — An .onion websites searcher.
+- [Darkweb Archive](https://darkweb-archive.activetk.jp) — An archiving tool for dark web sites.
+- [DarkWeb Fans](https://darkwebfans.com) — A directory of Tor links.
+- [DarkWebInformer](https://github.com/DarkWebInformer/FBI_Watchdog/?tab=readme-ov-file) — An OSINT tool that monitors domain seizures and DNS record changes in real time, alerting users to law enforcement takedowns and other DNS modifications.
+- [Daunt](https://daunt.link) — A directory of Tor links.
+- [Docker-onion-nmap](https://github.com/milesrichardson/docker-onion-nmap) — Scan .onion hidden services with nmap using Tor, proxychains and dnsmasq in a minimal alpine Docker container.
+- [Emule](https://www.emule-project.com) — An official website of a free and open-source peer-to-peer file sharing client known as eMule.
+- [Emule Server List](https://www.emule-security.org/serverlist) — A regularly updated list of safe eMule servers.
+- [Exonera Tor](https://exonerator.torproject.org) — Enter an IP address and date to find out whether that address was used as a Tor relay.\n
+- [FidoNet](https://www.fidonet.org) — An official website of FidoNet, a worldwide computer network that is used for communication between bulletin board systems (BBSes).
+- [FidoNet Nodes History](https://nodehist.fidonet.org.ua) — View history of a FidoNet node.
+- [FidoNet Nodes Map](https://www.ipingthereforeiam.com/bbs/nlmap) — A visualisation that maps the approximate position of FidoNet nodes for a given weekly nodelist.
+- [Freenet Connectivity Graph](https://nesg.ugr.es/freenet) — This graph that shows the relationships among freesites in the Freenet darknet.
+- [freshonions-torscraper](https://github.com/dirtyfilthy/freshonions-torscraper) — An open source TOR spider / hidden service onion crawler hosted at zlal32teyptf4tvi.onion.
+- [Gichidan](https://github.com/hIMEI29A/gichidan) — A CLI wrapper for Ichidan deep-web search engine.\n
+- [GNUnet](https://www.gnunet.org) — An official website of GNUnet, a network protocol stack for building secure, distributed, and privacy-preserving applications.
+- [Hidden Services Today](https://hidden-services.today/links) — A catalog of Tor Links.
+- [Hyphanet](https://www.hyphanet.org) — An official website of Hyphanet, a peer-to-peer network for censorship-resistant and privacy-respecting publishing and communication.
+- [I2P](https://geti2p.net) — An official website of I2P, an anonymous network layer that allows for censorship-resistant, peer-to-peer communication.
+- [i2p Connectivity Graph](https://nesg.ugr.es/i2p) — This graph that shows the relationships among eepsites in the I2P darknet.
+- [i2psearch](https://i2psearch.com) — An I2P search engine.
+- [IACA Dark Web Investigation Support](https://iaca-darkweb-tools.com) — A collection of tools for investigating Tor-based assets provided by IACA.
+- [NZBFriends](https://nzbfriends.com) — NZB Search Engine for Usenet binaries.
+- [onioff](https://github.com/k4m4/onioff) — An onion url inspector for inspecting deep web links.
+- [Onion Links](https://onionlinks.com) — A directory of Tor links.
+- [Onion Search Engine](http://onionsearchengine.com) — An. onion search engine.
+- [onionite](https://github.com/lukechilds/onionite) — A tool to search for .onion websites.
+- [Onionscan](https://onionscan.org) — A free and open source tool for investigating the Dark Web.
+- [OnionSearch](https://github.com/megadose/OnionSearch) — A script that scrapes urls on different .onion search engines.
+- [OnionShare](https://onionshare.org) — An open-source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
+- [PeeringDB](https://www.peeringdb.com) — A freely available, user-maintained, database of networks, and the go-to location for interconnection data.
+- [Reddit: Deep Web](https://www.reddit.com/r/deepweb) — A subreddit dedicated to dark web.
+- [Reddit: Onions](https://www.reddit.com/r/onions) — A subreddit specialising in finding and sharing .onion addresses that also includes content related to the Tor network in general.
+- [Reddit: Tor](https://www.reddit.com/r/TOR) — A subreddit dedicated to the Tor network.
+- [Reddit::Usenet](https://www.reddit.com/r/usenet) — A subreddit dedicated to Usenet.
+- [robin](https://github.com/apurvsinghgautam/robin) — An AI-Powered dark web OSINT tool.\n\n
+- [The Devils Eye](https://github.com/rly0nheart/thedevilseye) — An osint tool that uses Ahmia.fi to get hidden services and descriptions that match with the users query.
+- [Top Dark Web Links and Websites](https://darkweblinks.wiki) — A directory of dark web links.
+- [Tor Catalog](https://torcatalog.com) — A directory of Tor links.
+- [TOR Exit Nodes Geolocated](https://www.bigdatacloud.com/insights/tor-exit-nodes) — A list of Tor exit nodes.
+- [Tor Metrics](https://metrics.torproject.org/) — A collection of Tor-related statistics.
+- [Tor Node List](https://www.dan.me.uk/tornodes) — A list of Tor nodes.
+- [TOR Node Map](https://cdetr.io/tor-node-map) — A world map of Tor relay nodes.
+- [Tor Project](https://www.torproject.org) — An official website of a Tor project.
+- [Tor Stack Exchange](https://tor.stackexchange.com) — A Stackexchange sub-forum dedicated to Tor.
+- [Tor Taxi](https://tor.taxi) — A directory of Tor links.
+- [Tor.Link](https://tor.link) — A directory of Tor links.
+- [TorBot](https://github.com/DedSecInside/TorBoT) — A Tor OSINT tool.
+- [TorCrawl](https://github.com/MikeMeliz/TorCrawl.py) — Crawl and extract (regular or onion) webpages through TOR network.
+- [TorFlow](https://torflow.uncharted.software/) — A visualisation of data flow in the Tor network.
+- [Usenet](https://www.usenet.com) — An official website of Usenet.
+- [VormWeb](https://vormweb.de) — A Tor search engine indexing legitimate, quality services.
+- [Webz.io](https://webhose.io) — Data-as-a-service platform providing access to structured web data from forums, news, blogs, and more.
+- [WhiteIntel](https://whiteintel.io) — Real-time threat and infostealer intelligence for MSSPs, enterprises, and researchers. Detect leaks, monitor takeovers, and respond instantly.
+- [Wikipedia List of Onion Services](https://en.wikipedia.org/wiki/List_of_Tor_onion_services) — A list of Tor services compiled on Wikipedia.
+- [Zeronet](https://zeronet.io) — An official website of Zeronet.

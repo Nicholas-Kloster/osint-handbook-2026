@@ -1,0 +1,41 @@
+# Subdomain Enumeration
+
+> 37 tools — [osinthandbook.com/subdomain-enumeration](https://www.osinthandbook.com/subdomain-enumeration)
+
+- [altdns](https://github.com/infosec-au/altdns) — Generates permutations, alterations and mutations of subdomains and then resolves them.
+- [Amass](https://github.com/OWASP/Amass) — Network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
+- [assetfinder](https://github.com/tomnomnom/assetfinder) — Find domains and subdomains related to a given domain.
+- [C99.nl](https://api.c99.nl/) — API service offering DNS, Whois, and IP intelligence queries.
+- [censys-subdomain-finder](https://github.com/christophetd/censys-subdomain-finder) — Subdomain enumeration using the certificate transparency logs from Censys.
+- [certgraph](https://github.com/lanrat/certgraph) — An open source intelligence tool to crawl the graph of certificate alternate names.
+- [ct-exposer](https://github.com/chris408/ct-exposer) — An OSINT tool that discovers sub-domains by searching Certificate Transparency logs.
+- [dns-nsec3-enum](https://nmap.org/nsedoc/scripts/dns-nsec3-enum.html) — A script to enumerate domain names from the DNS server that supports DNSSEC NSEC3 records.
+- [Fierce](https://www.aldeid.com/wiki/Fierce) — An enumeration scanner that helps penetration testers locate non-contiguous IP space and hostnames for a specified domains using DNS, Whois and ARIN.
+- [Findomain](https://github.com/Findomain/Findomain) — A complete domain recognition framework.
+- [Gobuster](https://github.com/OJ/gobuster) — Directory / File, DNS and VHost busting tool written in Go.
+- [God-Eye](https://github.com/Vyntral/god-eye) — AI-powered subdomain enumeration tool with local LLM analysis via Ollama.
+- [grep-backURLs](https://github.com/gigachad80/grep-backURLs) — Automated way to extract juicy info with subfinder and waybackurls.
+- [Knock](https://github.com/guelfoweb/knock) — Enumerates subdomains on a target domain through passive reconnaissance and dictionary scan.
+- [Knock.py](https://github.com/santiko/KnockPy) — A Python tool designed to enumerate subdomains on a target domain through a wordlist.
+- [massdns](https://github.com/blechschmidt/massdns) — A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration).
+- [OneForAll](https://github.com/shmilylty/OneForAll) — A comprehensive subdomain enumeration framework.
+- [OSINT.sh: Subdomain](https://osint.sh/subdomain) — A subdomain finder from OSINT.sh.
+- [Pentest Tools Find Subdomains](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) — An easy to use tool to find the subdomains of an internet domain and determine the attack surface of an organisation.
+- [PugRecon](https://dash.pugrecon.celes.in/) — Advanced subdomain enumeration dataset with billions of subdomains scraped from various sources.
+- [Recox](https://recox.hackerz.space) — A recon tool that helps you gather subdomains and endpoints from multiple passive sources.
+- [SecurityTrails](https://securitytrails.com) — Comprehensive domain intelligence platform with DNS, WHOIS, and historical data.
+- [sslScrape](https://github.com/jhaddix/sslScrape) — A scanning tool for scapping hostnames from SSL certificates.
+- [subbrute](https://github.com/TheRook/subbrute) — A DNS meta-query spider that enumerates DNS records, and subdomains.
+- [Subdomain Finder](https://subdomainfinder.c99.nl/) — A subdomain finder is a tool used to find the subdomains of a given domain.
+- [Subdomain Finder](https://osint.sh/subdomain/) — The fastest way to discover subdomains in your DNS recon.
+- [SubDomainRadar](https://subdomainradar.io/) — Subdomain discovery tool that helps map and enumerate subdomains of a target.
+- [SubdomainRadar](https://subdomainradar.io) — Discover hidden subdomains, retrieve IP / DNS data, verify URLs, scan ports, capture screenshots, and scan for vulnerabilities.
+- [subfinder](https://github.com/projectdiscovery/subfinder) — A fast passive subdomain enumeration tool.
+- [Sublist3r](https://github.com/aboul3la/Sublist3r) — Fast subdomains enumeration tool for penetration testers.
+- [subscraper](https://github.com/m8r0wn/subscraper) — Subdomain and target enumeration tool built for offensive security testing.
+- [Synapsint](https://synapsint.com) — A free service that aggregates data from multiple intelligence sources, search engines, datasets, and other resources to provide comprehensive cybersecurity insights.
+- [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) — A script that performs reconnaissance and information gathering using various modules to uncover details about a target.
+- [urlscan](https://urlscan.io) — A free service to scan and analyse websites.
+- [wayBackLister](https://github.com/anmolksachan/wayBackLister) — A reconnaissance tool that taps into the Wayback Machine to fetch historical URLs for a domain, parses unique paths, and checks if any of those paths currently expose directory listings.
+- [Web Check](https://web-check.xyz/) — All-in-one OSINT tool for analysing any website.
+- [WEBCAPTURE](https://github.com/drackyjr/WEBCAPTURE) — Automated Open Source Intelligence gathering tool with multiple features.

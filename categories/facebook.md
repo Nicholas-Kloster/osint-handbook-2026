@@ -1,0 +1,46 @@
+# Facebook
+
+> 42 tools — [osinthandbook.com/facebook](https://www.osinthandbook.com/facebook)
+
+- [_IntelligenceX: Facebook Search](https://intelx.io/tools?tab=facebook) — Provides various OSINT tools for searching for Facebook posts.
+- [4K Video Downloader (Different Platforms)](https://www.4kdownload.com) — Allows users to download videos and extract audio from YouTube and other popular platforms.
+- [Analyst Search Tools](https://analystresearchtools.com) — An extensive collection of OSINT tools and resources.
+- [Aware Online: Facebook Search](https://www.aware-online.com/osint-tools/facebook-search-tool/) — Offers a set of OSINT tools for investigating Facebook profiles and public data.
+- [Botdownloader (Different Platforms)](https://botdownloader.com) — Enables users to download videos from various social media platforms including Facebook, Twitter, Instagram, TikTok, Pinterest and more.
+- [doxcord](https://github.com/boringthegod/doxcord) — doxcord is an OSINT tool designed to scan Discord servers for social media links containing tracking parameters. The tool can identify Instagram, TikTok, and Facebook links that include tracking identifiers, and organize them by user and server.
+- [DreDown](https://www.dredown.com) — Allows downloading of videos from a range of websites including social media platforms.
+- [DumpItBlue](https://sourceforge.net/projects/dumpitblue) — A tool for extracting data from Facebook.
+- [Export Comments](https://exportcomments.com) — Exports social media post comments into downloadable files for analysis or archiving.
+- [Facebook Ads Library](https://www.facebook.com/ads/library) — Lets users search and view current and past Facebook ads across pages and regions.
+- [Facebook Live](https://www.facebook.com/watch/live) — Hosts Facebook live video content for viewing public and user-generated streams.
+- [Facebook Search Engine](https://www.social-searcher.com/facebook-search/) — A Facebook search engine to search for posts and people profiles without logging in.
+- [Facebook Video Downloader\n](http://fdown.net/) — Enables downloading of public Facebook videos using a simple interface.
+- [Facebook Video Downloader (Facebook)](https://www.downloadvideosfrom.com) — Facilitates downloading of videos from YouTube and social media platforms.
+- [Fanpage Karma](https://www.fanpagekarma.com/) — Provides analytics for Facebook pages, including performance and engagement metrics.
+- [FB Friend List Scraper](https://github.com/n0kovo/fb_friend_list_scraper) — OSINT tool to scrape names and usernames from large friend lists on Facebook, without being rate limited.
+- [Fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) — A tool to track online / offline status of people on Facebook.
+- [fbdownloader (Facebook)](https://fbdownloader.net) — Allows users to download Facebook videos by pasting the video URL.
+- [Graph Tips](https://graph.tips) — Provides a tool for generating Facebook search queries.
+- [Keep Flick (Different Platforms)](https://www.keepflick.com) — Download social media videos in various formats and resolutions.
+- [Lookup-ID.com](https://lookup-id.com) — Finds the numeric Facebook user ID associated with a profile URL.
+- [Meta Monetization](https://www.monetization.wtf/monetization-archive) — A transparency project and research tool designed to identify and track monetised social media accounts across Facebook and Instagram, with a focus on uncovering profit-driven misinformation.
+- [Meta Scan](https://github.com/HackUnderway/meta_scan) — An OSINT tool for Facebook that uses the Facebook Pages Scraper API from the RAPIDAPI website, developed for use with Python from the terminal.
+- [Minter.io](https://minter.io) — Analytics and performance tracking tool for businesses and influencers.
+- [new-fb-search.md](https://gist.github.com/nemec/2ba8afa589032f20e2d6509512381114) — A simple Facebook search tool.
+- [Osint Support Linkedin Email Reverse Loopkup](https://osint.support/chrome-extensions/) — Provides a list of Facebook-related OSINT Chrome extensions.
+- [Profile Image Intel](https://profileimageintel.com) — Discover when profile pictures were uploaded across social media platforms.
+- [Random Tools: Instagram](https://randomtools.io/) — Offers a collection of free online utilities including Facebook tools.
+- [Save the Video (Different Platforms)](https://savethevideo.net) — Enables downloading of videos from social media platforms and video sites.
+- [SNScrape](https://github.com/JustAnotherArchivist/snscrape) — A simple Python script that scrapes user profiles, hashtags, and search results from a variety of social media platforms.
+- [Social Media Sentiment Visualization\n](https://www.csc2.ncsu.edu/faculty/healey/social-media-viz/production/) — A tool to analyze recent posts containing user-defined keywords.
+- [socid_extractor](https://github.com/soxoj/socid_extractor) — Extracts social media and personal identifiers from various sources.
+- [Sowdust FB Search](https://sowdust.github.io/fb-search/) — Generates legacy-style Facebook search URLs based on user input.
+- [Sowdust FB search](http://sowsearch.info/) — Offers an alternative search interface for Facebook investigations.
+- [Ultimate Facebook Scraper](https://www.kitploit.com/2019/11/ultimate-facebook-scraper-bot-which.html) — A set of tools to scrape data from Facebook, Instagram, and Twitter (X).
+- [Ultimate Social Scrapers](https://github.com/harismuneer/Ultimate-Social-Scrapers) — Top-rated tools to scrape all major public sections from Facebook, Instagram, and Twitter / X including posts (likes / comments), photos / videos, contact information, followers, following and much more.
+- [VDownloader (Different Platforms)](https://vdownloader.com) — Enables downloading of online videos including from Facebook and YouTube.
+- [Waybien](https://waybien.com) — Easily find channels, groups, and servers on Facebook, Telegram, Discord, and WhatsApp.
+- [Who posted what?](https://whopostedwhat.com) — A set of Facebook, Instagram and Twitter tools.
+- [XHunt](https://www.huntintel.io/) — A tool that searches for social media insights for any location.
+- [Yoo Download (Different Platforms)](https://yoodownload.com) — Allows downloading of content from various social and video platforms.
+- [YT5s.com](https://yt5s.com) — Supports high-speed downloads of videos from Instagram and Facebook.

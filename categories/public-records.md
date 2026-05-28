@@ -1,0 +1,48 @@
+# Public Records
+
+> 44 tools — [osinthandbook.com/public-records](https://www.osinthandbook.com/public-records)
+
+- [Accurint (US)](https://www.accurint.com/) — US-focused public records search tool for investigative and legal research.
+- [Australia Public Records (Australia)](https://www.australiapublicrecord.com/) — Directory for accessing Australian public records and information.
+- [BeenVerified (US)](https://www.beenverified.com) — Background check service offering access to public records and contact details.
+- [Black Book Online (US)](https://www.blackbookonline.info) — Free public records directory with links to databases and searches.
+- [BRB Publications (US and Canada)](https://www.brbpublications.com) — A directory of references and websites used for locating public records in US and Canada.
+- [BRB's Free Resource Center](https://www.brbpub.com/free-public-records) — Public records search and resources directory.
+- [BRBPub.com (US)](https://www.brbpub.com/) — Free public record search and a directory of free public resources by state.
+- [City Protect (US)](https://cityprotect.com) — Platform providing access to local crime data and police reports.
+- [CLEAR (US)](https://legal.thomsonreuters.com/en/products/clear) — Investigative research platform for legal and compliance professionals.
+- [Echovita (US)](https://www.echovita.com) — Online obituary database and memorial platform.
+- [Family Watchdog (US)](https://www.familywatchdog.us) — Website providing information on registered sex offenders in the United States.
+- [Federal Bureau of Prisons - Inmate Locator (US)](https://www.bop.gov/inmateloc) — Federal Bureau of Prisons inmate locator tool.
+- [Find A Grave (US)](https://www.findagrave.com) — Database of cemetery records and gravestone information.
+- [Find People Search (US)](https://www.findpeoplesearch.com/) — People search service for finding contact details and background information.
+- [Fold3 (US Military Records)](https://www.fold3.com/) — Genealogy site specialising in military records and historical documents.
+- [Free Public Records Directory (US)](https://www.publicrecords.onlinesearches.com/) — Directory of public records databases organised by state and category.
+- [Free Public Records in Other Nations](https://publicrecords.searchsystems.net/Other_Nations) — A directory of public records resources from all across the world.
+- [golookup (US)](https://golookup.com) — Provides access to public records, background checks, and phone number lookups.
+- [GPublic (US)](https://qpublic.schneidercorp.com) — Online property search platform for local government records.
+- [Grave Info (US)](http://www.graveinfo.com) — Grave search site offering burial and cemetery information.
+- [Inmate Locator (US)](http://www.theinmatelocator.com) — Inmate locator service with links to prison and jail records.
+- [Instant Checkmate (US)](https://www.instantcheckmate.com) — Background check service offering public records and contact details.
+- [Integra Scan (US)\n](https://www.integrascan.com/) — Criminal background check and public records search service.
+- [Intelius (US)](https://www.intelius.com) — Delivers identity verification and background check services using a range of data sources.
+- [Interment (Worldwide)](http://www.interment.net/data/search.htm) — Online database of cemetery records and burial listings.
+- [IRBsearch (US)](https://www.irbsearch.com/) — Investigative research platform providing access to public records and data.
+- [Legacy.com (US)](https://www.legacy.com/) — Online obituary platform offering memorials and death notices.
+- [Melissa (US)](http://www.melissadata.com/lookups/emails.asp) — Provides email address verification and validation services to ensure data quality and deliverability.
+- [National Sex Offender Public Website (US)](https://www.nsopw.gov/en/Search/Verification) — National sex offender public website providing offender registry searches.
+- [NETR ONLINE (US)](https://publicrecords.netronline.com) — Directory of online public records databases organised by state and type.
+- [Orbituaries Australia](https://oa.anu.edu.au/) — Obituary archive from the Australian National University.
+- [Peoplefinders (US)](https://www.peoplefinders.com) — Offers background checks and public record searches.
+- [Peoplefinders (US) Criminal Records](https://www.peoplefinders.com/criminal-records) — Service for searching criminal records and background information
+- [Political MoneyLine (US)](http://www.politicalmoneyline.com) — Database tracking political contributions and campaign finance
+- [PRRN (US)](https://prrn.us/) — Public records research network connecting researchers and resources.
+- [Public Records (Australia)](https://www.publicrecords.com.au) — Australian public records search service.
+- [Public Records Online Searches (US)](https://www.publicrecords.onlinesearches.com) — Free public records directory.
+- [Radaris (US)](https://radaris.com/) — People search engine compiling public records and online information.
+- [SCRA Website (US)](https://scra.dmdc.osd.mil/scra/#/home) — Official military service verification site for active duty status and protections.
+- [Social Security Number Registry (US)\n](https://www.ssnregistry.org/) — Database for verifying and researching Social Security Numbers.
+- [Sorted by Birth Date (US)](http://sortedbybirthdate.com) — Directory of individuals sorted by birthdate.
+- [Tribute Archive (US)](https://www.tributearchive.com/) — Online archive for obituaries and memorials.
+- [USSearch (US)](https://www.ussearch.com) — Provides access to US public records to help locate individuals and background information.
+- [xlek (US)](https://xlek.com) — US public data search.

@@ -1,0 +1,48 @@
+# Gis And Mapping Software
+
+> 44 tools — [osinthandbook.com/gis-and-mapping-software](https://www.osinthandbook.com/gis-and-mapping-software)
+
+- [ArcGIS Online](https://www.arcgis.com) — A GIS platform for creating, analysing, sharing and collaborating on interactive maps and spatial data.
+- [Atlist](https://www.atlist.com/) — A simple but powerful Google Maps maker.
+- [Batchgeo](https://batchgeo.com/) — Interactive tool to quickly turn spreadsheet or tabular data into custom pin-based maps.
+- [Bee Maps](https://beemaps.com) — A platform for crowdsourced, decentralised global road mapping.
+- [Carto](https://carto.com) — Cloud-native spatial analytics and location intelligence platform for geospatial data visualisation and analysis.
+- [Colorbrewer](https://colorbrewer2.org/) — Online tool for selecting cartography-focused color schemes.
+- [Dominoc925](https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html) — Browser-based mapplet that overlays Military Grid Reference System (MGRS) coordinates onto Google Maps for any clicked location.
+- [ESRI](https://www.esri.com) — Commercial GIS software provider ESRI offering mapping and spatial analytics solutions.
+- [GeoJSON](https://geojson.io) — Web-based editor for creating, visualising, and validating GeoJSON data.
+- [Google Maps Platform](https://developers.google.com/maps) — Comprehensive developer platform for building applications using Google Maps, Routes, and Places APIs.
+- [Google My Maps](https://www.google.com/maps/about/mymaps/) — Web-based tool for creating and sharing custom Google Maps with added markers, shapes, and media.
+- [GPSVisualizer](https://www.gpsvisualizer.com/) — Web utility that converts GPS data (e.g., GPX) into maps, profiles, and formats like HTML, KML, and SVG.
+- [GRASS GIS](https://grass.osgeo.org) — Open-source GIS software for advanced vector and raster geospatial analysis and modeling.
+- [Hivemapper](https://hivemapper.com) — A decentralised network of people, cameras, and apps mapping the world in real time.
+- [InstantAtlas](https://www.esriuk.com/en-gb/arcgis/products/instantatlas/overview) — Managed data observatory platform for delivering localised statistical dashboards.
+- [KartaView](https://kartaview.org/) — Crowdsourced street-level imagery platform to improve OpenStreetMap, using smartphone uploads.
+- [Kepler](https://kepler.gl) — A powerful open source geospatial analysis tool for large-scale data sets.
+- [Leaflet](https://leafletjs.com/) — Lightweight JavaScript library for interactive web maps.
+- [Map Developers](https://www.mapdevelopers.com) — Website offering Google Maps-based tools and custom implementations like stores locator and mashups
+- [MapAList](https://mapalist.com) — Wizard for creating and managing custom Google Maps using address lists from spreadsheets.
+- [MapBox](https://www.mapbox.com) — Platform for developers offering tools to build, integrate, and scale interactive map web and mobile apps with live data and user engagement.
+- [Mapchart.net](https://www.mapchart.net/) — Interactive tool for creating a variety of custom maps.
+- [MapCrunch](https://www.mapcrunch.com) — Teleports users to random global locations via Google Street View for spontaneous exploration.
+- [Maperitive](http://maperitive.net) — Free desktop application that renders maps using OpenStreetMap / GPS data, with export to PNG / SVG.
+- [MapHub](https://maphub.net) — Web platform for creating collaborative, interactive maps with points, lines, polygons, labels, photo support, and real-time team editing.
+- [Mapillary](https://www.mapillary.com) — Crowdsourced street-level imagery platform offering geotagged photos for mapping and analysis.
+- [MapIt](https://mapit.mysociety.org) — Service that maps geographic points (e.g., coordinates or postcodes) to administrative boundaries using OpenStreetMap data.
+- [Mapline](https://mapline.com) — A provider of map-based business solutions including an online mapping software that visualises Excel data using a proprietary geospatial engine to enable location-based business insights.
+- [Mapotic](https://www.mapotic.com) — A platform for building, integrating, and scaling interactive maps and map-based applications.
+- [MapServer](https://mapserver.org) — An open-source platform for publishing spatial data and interactive mapping applications to the web.
+- [Maptiler](https://www.maptiler.com) — Swiss platform for creating, customising, hosting, and embedding interactive maps and tiles for web, mobile, and offline use.
+- [Maptive](https://www.maptive.com) — Cloud-based mapping software that turns spreadsheets and location data into custom maps with a wide range visualisation styles and features.
+- [NGA GEOINT](https://github.com/ngageoint) — Github projects and resources from the National Geospatial Intelligence Agency (NIGA).
+- [OpenLayers](https://openlayers.org/) — Open-source JavaScript library for embedding dynamic, interactive maps in web pages, with support for map tiles, vector data and markers.
+- [OSGeo](https://www.osgeo.org/projects/mapguide-open-source) — A web-based platform that enables users to develop and deploy web mapping applications and geospatial web services.
+- [Place.Guru](https://place.guru) — Progressive web app to publish, manage, and share place-based lists and route maps easily on any device.
+- [QGIS](https://qgis.org) — Free, open-source GIS software for desktop geospatial analysis, cartography, and spatial data manipulation.
+- [Scribble Maps](https://www.scribblemaps.com/) — Web-based mapping tool for drawing custom maps with points, lines, paths, and annotations, ideal for storytelling.
+- [Smappen](https://www.smappen.com/) — A territory mapping software.
+- [StoryMap](https://storymap.knightlab.com) — Storytelling toolkit enabling creation of multimedia, narrative-driven maps with embedded text, images, and media.
+- [StoryMaps](https://storymaps.arcgis.com/en) — Esri’s online platform for building immersive, multimedia-rich StoryMaps that visualise spatial narratives.
+- [What3words](https://what3words.com/clip.apples.leap) — Addressing system that assigns fixed three-word identifiers to locations to aid easy sharing and navigation.
+- [World Map Creator](http://worldmapcreator.com) — Web tool for quickly creating and customising maps.
+- [Zeemaps](https://www.zeemaps.com) — Online service to create, share, and collaborate on interactive map-based directories and visual data overlays

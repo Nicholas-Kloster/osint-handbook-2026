@@ -1,0 +1,63 @@
+# Image Search And Reverse Image Search
+
+> 59 tools — [osinthandbook.com/image-search-and-reverse-image-search](https://www.osinthandbook.com/image-search-and-reverse-image-search)
+
+- [_IntelligenceX: Image Lookup & Analysis](https://intelx.io/tools?tab=image) — A reverse search and image analysis tool from _IntelligenceX.
+- [500px](https://500px.com) — Photography-focused social platform for sharing high-quality images, connecting with creators, and licensing content.
+- [Baidu Images](https://image.baidu.com/) — Image search and reverse image search from Baidu.
+- [Berify](https://berify.com) — Reverse image search and monitoring service for tracking online image usage and detecting copyright breaches.
+- [Bing Images](http://www.bing.com/images) — Image search and reverse image search from Bing.
+- [CamFind](https://camfindapp.com) — Mobile visual search app enabling users to identify objects, landmarks, products, and more via photo capture.
+- [CC Search](https://search.creativecommons.org) — Search engine aggregating openly licensed and public domain images, audio, and video from multiple platforms for easy reuse under Creative Commons licenses.
+- [Copyseeker](https://copyseeker.net) — AI-based reverse image search tool.
+- [Detailed 2D image search](https://ascii2d.net/) — Reverse image search engine popular in Japan, identifying images across anime, art, and general sources.
+- [Dupli Checker](https://www.duplichecker.com/reverse-image-search.php) — Reverse image search tool from Duplichecker allowing uploads or URL input to find similar images across the web.
+- [Eagle Eye](https://github.com/ThoughtfulDev/EagleEye) — Image recognition and reverse image search tool for social media.
+- [Explore Places](http://places2.csail.mit.edu/explore.html) — Web demo for MIT CSAIL’s Places2 large-scale scene recognition database, showcasing scene classification capabilities.
+- [EzGIF Reverse](https://ezgif.com/reverse) — Online toolkit performing basic reverse image search via upload or URL with fast results.
+- [FaceCheck.ID](https://facecheck.id/) — Facial recognition and reverse image lookup service to verify identity and detect social media profiles.
+- [FaceSeek](https://www.faceseek.online) — AI-powered reverse face search.
+- [Fast Image Research](https://chrome.google.com/webstore/detail/fast-image-research/epelbghekfokpolcmhhabjgehmplhjgp) — A Chrome extension providing reverse image search results from Google, TinEye, Yandex, Bing, or a combination.
+- [Flickr Map](https://www.flickr.com/map) — Interactive map interface for exploring geotagged Flickr photos by location.
+- [Fotki](https://www.fotki.com/) — Online photo-sharing community with personal galleries, hosting, and social features.
+- [Fotoforensics](https://fotoforensics.com/) — Photo forensic tool for detecting image manipulations and analysing metadata using Error Level Analysis.
+- [Google Advanced Image Search](https://www.google.com/advanced_image_search) — Google’s interface for refining image searches with advanced filters.
+- [Google Images](https://images.google.com) — Image search and reverse image search from Google.
+- [Google Lens Desktop](https://lens.google.com/search?p=) — Google Lens online visual search interface for identifying objects, landmarks, text, and more via image URL or upload.
+- [Goris](https://github.com/tanaikech/goris) — A CLI tool to search for images with Google Reverse Image Search (goris).
+- [Image Raider](https://infringement.report/api/raider-reverse-image-search) — Web interface and API for reverse image search aimed at identifying unauthorised use of images or copyright infringement.
+- [ImgOps](http://imgops.com) — Web-based image operations toolkit providing shortcuts for reverse image search, metadata viewing, resizing, and format conversion.
+- [Karma Decay](http://karmadecay.com) — Reverse image search engine for finding Reddit posts using an image.
+- [Lenso.ai](https://lenso.ai) — AI-based revere image search tool.
+- [Loc.alize.us](https://loc.alize.us) — Interactive world map of publicly shared photos.
+- [Locationscout](https://www.locationscout.net) — Platform to discover and plan photography spots worldwide with geolocation, tips, and community-curated inspiration.
+- [Lykdat\n](https://lykdat.com/) — Web-based reverse image search tool that specialises in reverse searching of clothing items.
+- [Multi-service Image Search](https://www.iqdb.org) — Multi-service image search.
+- [Nohat](https://nohat.cc) — A set of tools for working with images, including a search option.
+- [photosint](https://github.com/Haris87/photosint) — An OSINT chrome extension for images and photos that scans each webpage for images with EXIF data, while the user is browsing, and gives context options for reverse image search in different search engines (Google, Yandex, Bing, Tineye).
+- [PhotoTracker](https://phototracker.ru/) — Russian reverse image search tool offering image upload and URL-based searches across multiple search engines.
+- [PimEyes](https://pimeyes.com) — Face recognition and image lookup service to find publicly available photos of individuals across the web.
+- [Pixsy](https://www.pixsy.com/) — Image rights management and copyright enforcement service for photographers to track and monetize image use.
+- [Reverse Image](https://reverseimage.net/) — Free reverse image search supporting uploads and URLs to locate similar images across multiple engines.
+- [Reverse Image Search](https://www.reverseimagesearch.org/) — Free reverse image search service supporting image upload or URL input with results from major engines.
+- [Reverse Image Search](https://chrome.google.com/webstore/detail/reverse-image-search/cdgbjhkjjghbjjikgjkkpljlmnpcakco) — A Chrome extension that adds an option to the context menu to reverse search an image on various services.
+- [Reverse Image Search](https://www.reverse-image-search.org) — Simple free reverse image search service supporting uploads or URLs.
+- [Reversely.ai](https://www.reversely.ai) — AI-based reverse image search tool.
+- [RevEye Reverse Image Search](https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf?hl=en) — A Chrome extension providing reverse image search results from Google, Bing, Yandex, TinEye, or user-defined engines.
+- [ripme](https://github.com/RipMeApp/ripme) — Downloads albums from the web in bulk for archiving purposes.
+- [RootAbout](http://rootabout.com) — Image-centric search engine and resource index.
+- [Same.energy](https://same.energy) — Offers an AI-powered visual search engine that finds and displays images with similar styles and moods, facilitating inspiration and discovery without relying on keywords.
+- [SauceNAO](https://saucenao.com) — Specialized reverse image search engine focused on anime, manga, and fan art with access to multiple image-source databases.
+- [Search by Image](https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci?utm_source=chrome-ntp-icon) — A Chrome extension providing reverse image search results from Google, Bing, Yandex, Baidu and TinEye.
+- [ShotHotspot](https://www.shothotspot.com) — Map-based tool that identifies popular photo hotspots using aggregated geotagged images from Flickr.
+- [Small SEO Tools: Reverse Image Search](https://smallseotools.com/reverse-image-search/) — Free reverse image search tool aggregating results from Google, Bing, Yandex and more.
+- [Social Catfish Reverse Image Search](https://socialcatfish.com/reverse-image-search/) — Online investigation service offering reverse image search and background checks.
+- [Sogou\n](https://pic.sogou.com/) — Chinese visual search engine by Sogou providing reverse image lookup and similar image detection.
+- [Stolen Camera Finder](https://www.stolencamerafinder.com) — Search service that finds online instances of stolen camera photos using EXIF serial number metadata.
+- [TinEye](https://tineye.com) — Dedicated reverse image search engine known for precise image tracking.
+- [Twitter Image Search](https://twitter.com/search?q=%3Csearchterm%3E&src=typd&vertical=default&f=images) — Twitter’s image-specific search view to discover tweets containing a specified image or visual content by keyword.
+- [Verifier Pro: Free Reverse Image Search](https://verifierpro.com/tools/reverse-image-search) — Upload any image — AI analyzes it, generates optimized search queries and opens reverse image searches across Google, Bing, Yandex, TinEye and more.
+- [VGG Image Search Engine (VISE)](https://www.robots.ox.ac.uk/~vgg/software/vise/) — Research software from Oxford’s Visual Geometry Group for visual instance search and image retrieval tasks.
+- [View Image](https://chrome.google.com/webstore/detail/view-image/jpcmhcelnjdmblfmjabdeclccemkghjk) — Re-implements the Google Images' \View Image\" button."
+- [Yahoo Image Search](https://images.search.yahoo.com) — Image search and reverse image search from Yahoo.
+- [Yandex Images](https://www.yandex.com/images/) — Image search and reverse image search from Yandex.

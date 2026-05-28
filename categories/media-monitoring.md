@@ -1,0 +1,51 @@
+# Media Monitoring
+
+> 47 tools — [osinthandbook.com/media-monitoring](https://www.osinthandbook.com/media-monitoring)
+
+- [A News Tip](https://anewstip.com/) — Searchable directory of media contacts.
+- [Agility PR Solutions](https://www.agilitypr.com) — All‑in‑one AI‑powered PR platform offering media relations, monitoring, analytics, social listening, press release distribution, and custom reporting services.
+- [AlphaSense](https://www.alpha-sense.com) — AI‑powered market intelligence platform that uses NLP / ML to surface insights from a variety content.
+- [Awario](https://awario.com) — Real‑time social listening and web monitoring tool.
+- [Brand24](https://brand24.com) — AI‑powered social media and media monitoring platform tracking brand mentions from social media, blogs, news, forums and more.
+- [Brandwatch](https://www.brandwatch.com) — Consumer intelligence and social listening platform for analysing online conversations.
+- [Cision](https://www.cision.com/lp/media-monitoring) — Real‑time, AI‑powered media monitoring service tracking print, broadcast, online and social mentions with sentiment scoring, alert streams, analytics and journalist outreach capabilities.
+- [Critical Mention](https://www.criticalmention.com) — Tracks and analyses TV, radio, online news, and social media coverage.
+- [Dataminr](https://www.dataminr.com) — Real-time event and risk detection.
+- [DataScouting](https://datascouting.com) — AI-based media intelligence platform.
+- [determ](https://determ.com) — AI media monitoring and analytics platform delivering real‑time brand and media insights across different channels.
+- [eMediaMonitor](https://www.emediamonitor.net) — Worldwide real-time broadcast monitoring platform covering TV, radio, and web TV for media analytics.
+- [European Media Monitor](https://emm.newsbrief.eu/overview.html) — European Commission’s media monitoring tool offering topic‑based clustering of global news.
+- [ezyinsights](https://ezyinsights.com) — Real‑time content and engagement tracking tool for newsrooms, agencies, and publishers
+- [Ferret](https://check-ferret.webflow.io) — AI‑powered relationship intelligence tool providing due‑diligence and risk monitoring on individuals via global data, news archives, legal and corporate records.
+- [IQ.Media](http://www.iq.media) — Media monitoring platform focused on TV monitoring.
+- [isentia](https://www.isentia.com) — Media monitoring and intelligence service for brands and PR.
+- [Keyhole](https://keyhole.co) — Social media analytics platform for tracking hashtags, keywords, and account performance.
+- [Liveumap](https://liveuamap.com/) — Real‑time, interactive conflict map and timeline tracking global security events.
+- [Media Monitors](https://www.mediamonitors.com) — Broadcast monitoring and media analysis services.
+- [Mediaddress](https://www.mediaddress.com) — Media database and monitoring tool for PR professionals to track coverage.
+- [Meltwater](https://www.meltwater.com) — Media intelligence platform offering news monitoring, social listening, and analytics.
+- [Mention](https://mention.com) — Tracks online mentions of keywords across web and social platforms.
+- [Mentionlytics](https://www.mentionlytics.com) — AI‑powered platform for monitoring web and social media activity including brand mentions, sentiment, influencers, and alerts.
+- [MetroMonitor](https://metromonitor.com) — TV news, online media, and social media monitoring platform.
+- [Muck Rack](https://muckrack.com) — Software for managing PR workflows, including media monitoring, journalist outreach, and reporting.
+- [MyNewsdesk](https://www.mynewsdesk.com) — Multimedia public relations platform supporting newsroom creation, press release distribution, and media engagement.
+- [News Exposure](https://www.newsexposure.com) — Media monitoring tool analysing reach and audience sentiment.
+- [NewsBox](https://newsbox.com) — Mobile news aggregation app delivering personalised feeds from top sources.
+- [Newslit](https://www.newslit.co) — Tool for tracking news from thousands of sources and summarising updates into digestible briefs.
+- [Newspoint](https://www.newspoint.pl) — Brand and media monitoring platform.
+- [Nexis Newsdesk](https://www.lexisnexis.com/en-us/professional/media-intelligence/newsdesk.page) — Media intelligence solution offering global monitoring, analytics, dashboards, and custom alerts.
+- [Onclusive](https://onclusive.com) — Data‑driven media monitoring and measurement system.
+- [PeakMetrics](https://www.peakmetrics.com) — Narrative intelligence engine identifying emerging risks, disinformation, and media trends
+- [PRHive](https://prsoftware.ai) — AI‑driven automation for public relations tasks like media list building, pitch management, and campaign analysis.
+- [Prowly](https://prowly.com) — System supporting press release creation, media outreach, coverage tracking, and performance reporting.
+- [SamDesk: Real-Time Crisis Alerts](https://www.samdesk.io) — Real‑time alerting system for monitoring global crises, disruptions, and high‑impact events with geolocation data
+- [Semantrum](https://www.world.semantrum.net) — Multilingual media monitoring platform for analysing online, print, and broadcast sources.
+- [Signal AI](https://www.signal-ai.com) — AI-powered media monitoring and analysis platform delivering insights on brand visibility, market trends, and reputational risk.
+- [SnapStream](https://www.snapstream.com) — TV recording, clipping, and monitoring platform.
+- [SproutSocial](https://sproutsocial.com) — Enterprise‑grade social media management: publishing, engagement, social listening, analytics, and business intelligence.
+- [Talkwalker](https://www.talkwalker.com) — Social listening and analytics platform for tracking brand performance and trends.
+- [Trendolizer](http://get.trendolizer.com) — Engine that discovers trending articles, images, and videos going viral across thousands of sources via API or dashboard.
+- [TrendSights](https://www.trendsights.ai) — Trend detection and consumer insight analysis platform.
+- [tv.eyes](https://www.tveyes.com) — Broadcast intelligence and television monitoring software with searchable archives.
+- [Ubermetrics](https://www.ubermetrics-technologies.com) — Media monitoring and analytics tool for PR and communication professionals.
+- [Webz.io](https://webhose.io) — Data-as-a-service platform providing access to structured web data from forums, news, blogs, and more.

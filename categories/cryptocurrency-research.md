@@ -1,0 +1,76 @@
+# Cryptocurrency Research
+
+> 72 tools — [osinthandbook.com/cryptocurrency-research](https://www.osinthandbook.com/cryptocurrency-research)
+
+- [_IntelligenceX: Bitcoin](https://intelx.io/tools?tab=bitcoin) — Provides a range of tools to trace and analyse Bitcoin addresses and transactions.
+- [99Bitcoins](https://99bitcoins.com) — Offers tutorials, reviews, and guides for understanding and using Bitcoin.
+- [Arkham Intelligence](https://intel.arkm.com) — A platform to research and track cryptocurrencies
+- [Aware Online: Cryptocurrency Search Tool](https://www.aware-online.com/osint-tools/cryptocurrency-search-tool/) — Enables users to investigate cryptocurrency addresses and transactions with OSINT methods.
+- [Beaconcha](https://beaconcha.in/) — Displays real-time data and analytics for the Ethereum 2.0 Beacon Chain.
+- [Binance](https://www.binance.com) — Serves as a major cryptocurrency exchange platform for trading and managing digital assets.
+- [BiTBO](https://bitbo.io) — A free, real-time Bitcoin dashboard designed for monitoring live price action, on-chain data, and key economic indicators.
+- [Bitcoin Abuse](https://www.bitcoinabuse.com) — Allows reporting and tracking of Bitcoin addresses associated with scams and abuse.
+- [Bitcoin Paths](https://bitcoinpaths.com/) — Visualises the flow of Bitcoin transactions between addresses in an interactive graph format.
+- [Bitcoin WhosWho](https://www.bitcoinwhoswho.com/) — Helps identify owners of Bitcoin addresses and provides related transaction information.
+- [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page) — Acts as a collaborative wiki for Bitcoin knowledge, protocols, and technical documentation.
+- [Bitcoin.org](https://bitcoin.org) — Provides general information and resources to educate users about Bitcoin.
+- [BitcoinTalk](https://bitcointalk.org) — Functions as a major forum for Bitcoin discussions, news, and community interaction.
+- [BitInfoCharts](https://bitinfocharts.com) — Displays cryptocurrency statistics including transaction volume, mining data, and market capitalisation.
+- [Bitnodes](https://bitnodes.io) — Monitors and maps reachable Bitcoin nodes around the world in real time.
+- [bitonic](https://bitonic.nl) — Operates as a Dutch cryptocurrency broker offering Bitcoin buying and selling services.
+- [BitRef](https://bitref.com) — Allows users to check the balance and transaction history of Bitcoin addresses.
+- [Blockchain](https://blockchain.info) — Displays blocks, transactions, and wallet activity on the Bitcoin blockchain.
+- [Blockchain Explorers](https://btc.cryptoid.info) — Provides block explorer services and network data for Bitcoin and other cryptocurrencies.
+- [Blockchain.com](https://www.blockchain.com) — Offers a cryptocurrency wallet, exchange, and block explorer services for multiple digital assets.
+- [Blockchair](https://blockchair.com) — Multi-blockchain explorer offering analytics, charts, and tools for over 40 blockchains.
+- [BlockCypher](https://live.blockcypher.com) — Real-time blockchain explorer with developer-friendly APIs for Bitcoin and other cryptocurrencies.
+- [BlockExplorer](https://www.blockexplorer.com) — Legacy Bitcoin blockchain explorer providing basic transaction and block information.
+- [Blockonomics](https://www.blockonomics.co) — Bitcoin payment gateway and wallet monitoring service for merchants and individuals.
+- [Blockpath](https://blockpath.com) — Free crypto wallet tracker and block explorer.
+- [Blocks.Press](https://blocks.press) — News aggregator focusing on blockchain technology and cryptocurrency developments.
+- [Blockscan](https://blockscan.com) — A tool to monitor wallets across 30+ networks including ETH, BNB Chain, L2s & SOL.
+- [Blockstream Explorer](https://blockstream.info) — Bitcoin and Liquid Network explorer with advanced features and privacy enhancements.
+- [Bloxy](https://bloxy.info) — Blockchain analytics platform offering detailed data on Ethereum and other networks.
+- [BreadCrumbs](https://www.breadcrumbs.app/) — Tool for tracing cryptocurrency transactions and analyzing blockchain data.
+- [BTC.com](https://btc.com) — Comprehensive platform offering a Bitcoin wallet, mining pool, and blockchain explorer.
+- [BTCsniffer](https://btcsniffer.com) — Service providing analysis and tracking of Bitcoin transactions and addresses.
+- [Coin ATM Radar](https://coinatmradar.com) — Global map and directory of Bitcoin and cryptocurrency ATMs.
+- [Coin Choose](https://www.coinchoose.com) — Platform comparing cryptocurrency mining profitability and providing market data.
+- [coinbase](https://www.coinbase.com) — Cryptocurrency exchange and wallet service for buying, selling, and storing digital assets.
+- [CoinMarketCap](https://coinmarketcap.com) — Comprehensive cryptocurrency market data aggregator tracking prices and market capitalizations.
+- [Coinwink](https://coinwink.com) — Email and Telegram crypto alerts.
+- [Crypto Compare](https://www.cryptocompare.com) — Platform offering cryptocurrency price comparisons, portfolio tracking, and market analysis.
+- [Crypto Currency Alerting](https://cryptocurrencyalerting.com/) — Service providing customizable alerts for cryptocurrency prices and market movements.
+- [CryptoCurrency Facts](https://cryptocurrencyfacts.com) — Educational resource offering information and guides on cryptocurrencies and blockchain technology.
+- [Crystal](https://crystalblockchain.com) — Blockchain analytics platform providing transaction tracking and compliance solutions.
+- [Debank](https://debank.com/) — Offers a comprehensive Web3 portfolio tracker for DeFi assets and NFTs across multiple blockchains.
+- [DeepFind.me: Crypto Wallet Tracker](https://www.deepfind.me/tools/web3-osint/crypto-wallet-tracker) — View detailed history of wallet transactions, received tokens, transfers, and balance changes across Bitcoin, Ethereum, and Solana networks.
+- [DeepFind.me: Transaction Viewer](https://www.deepfind.me/tools/web3-osint/transaction-viewer) — Dive deep into blockchain transactions. Analyze gas usage, counterparties, and smart contract interactions with ease.
+- [Elliptic](https://www.elliptic.co) — Provides blockchain analytics and compliance solutions to detect and prevent crypto-related financial crimes.
+- [EtherScan](https://etherscan.io) — Serves as a leading Ethereum block explorer and analytics platform for tracking transactions and smart contracts.
+- [Explorer.Bitcoin](https://explorer.bitcoin.com) — Allows users to explore Bitcoin and Bitcoin Cash blockchains with real-time transaction data.
+- [GetMonero](https://www.getmonero.org) — Official site for Monero, a privacy-focused cryptocurrency offering secure and untraceable transactions.
+- [hashXP: Bitcoin Blockchain Explorer](https://hashxp.org) — Offers a Bitcoin blockchain explorer with detailed block and transaction data.
+- [Hive Block Explorer](https://hiveblockexplorer.com) — Provides insights into the Hive blockchain, including blocks, transactions, and witness information.
+- [Honeypot](https://honeypot.is/) — Detects and lists malicious smart contracts designed to trap unsuspecting users.
+- [Impersonator](https://impersonator.xyz) — Explore how Ethereum wallets interact with dapps without needing access to the wallet itself.
+- [InfoTrail](https://infotrail.io) — An OSINT search tool that can be used to retrieve information on domains, URLs, e-mails, phone numbers, IPs, and more.
+- [Live Coin Watch](https://www.livecoinwatch.com) — Tracks real-time cryptocurrency prices, market capitalizations, and trading volumes.
+- [LocalBitcoins](https://localbitcoins.com) — Facilitates peer-to-peer Bitcoin trading with various payment methods and escrow services.
+- [LocalMonero](https://localmonero.co/blocks) — Displays Monero blockchain data, including recent blocks and transactions.
+- [mempool.space](https://mempool.space) — Visualizes Bitcoin's mempool and blockchain data in real-time for fee estimation and network analysis.
+- [Monero Blocks](https://moneroblocks.info) — Offers a Monero block explorer with detailed information on blocks and transactions.
+- [Monero Wallet Hunter](http://xmrhunter.com/) — Enables users to search for Monero transactions using stealth addresses and keys.
+- [Orbit](https://github.com/s0md3v/Orbit) — Hosts Orbit, a tool for OSINT and threat intelligence gathering from various sources.
+- [SeeKoin](https://www.seekoin.com) — Provides a multi-cryptocurrency block explorer supporting various blockchain networks.
+- [SICP](https://sicp.ueba.su) — Offers blockchain exploration tools with a focus on transaction analysis.
+- [Sochain](https://sochain.com) — Serves as a multi-chain blockchain explorer supporting Bitcoin, Litecoin, and other cryptocurrencies.
+- [spendabit](https://spendabit.co) — Searches for products available for purchase with Bitcoin across multiple online retailers.
+- [Synapsint](https://synapsint.com) — A free service that aggregates data from multiple intelligence sources, search engines, datasets, and other resources to provide comprehensive cybersecurity insights.
+- [Token Sniffer](https://tokensniffer.com/) — Analyzes and rates smart contracts to identify potential scams and security issues.
+- [WalletExplorer](https://www.walletexplorer.com) — Clusters Bitcoin addresses to identify wallet ownership and transaction patterns.
+- [WasabiWallet](https://wasabiwallet.io) — Provides a privacy-focused Bitcoin wallet with built-in coin mixing features.
+- [Whale Alert](https://whale-alert.io/) — Tracks and reports large cryptocurrency transactions across various blockchains in real-time.
+- [xmrchain](https://xmrchain.net) — Offers a Monero blockchain explorer with detailed transaction and block information.
+- [Z.cash](https://z.cash) — Official site for Zcash, a cryptocurrency offering enhanced privacy through zero-knowledge proofs.
+- [Zapper](https://zapper.xyz/) — Aggregates DeFi assets and liabilities into a single dashboard for portfolio management.

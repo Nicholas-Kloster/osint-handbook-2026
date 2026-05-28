@@ -1,0 +1,65 @@
+# Username Check
+
+> 61 tools — [osinthandbook.com/username-check](https://www.osinthandbook.com/username-check)
+
+- [_IntelligenceX: Username Lookup](https://intelx.io/tools?tab=username) — Searches for usernames across multiple platforms to assist in open source investigations.
+- [007-TheBond](https://github.com/Deadshot0x7/007-TheBond) — A free script that can be used to profile an individual using different sources and techniques.
+- [Analyst Search Tools](https://analystresearchtools.com) — An extensive collection of OSINT tools and resources.
+- [Analyze ID: Username Checker](https://analyzeid.com/username) — Social media username checker. Gather information on the taken username and get a summary of who the person is.
+- [Aware Online: Username Search](https://www.aware-online.com/osint-tools/gebruikersnamen-search-tool/) — Provides tools and links for investigating usernames on various online platforms.
+- [BF Databse Search](https://bf.based.re) — A username search tool for breach forums.
+- [BlackBird](https://github.com/p1ngul1n0/blackbird) — An OSINT tool to search for accounts by username and email in social networks.
+- [Claim Brand](https://www.claimbrand.com/) — Checks username availability across numerous social media sites.
+- [cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl) — An Open-Source Intelligence username and phone number search tool that crawls adult content platforms to see if a targeted account or person is present.
+- [DeepFind.me: Username Search](https://www.deepfind.me/tools/social-media/username-search) — Use this tool to check if a username exists on various platforms. It covers a wide range of categories including social media, gaming, professional networks, and more.
+- [DetectDee](https://github.com/piaolin/DetectDee) — Hunt down social media accounts by username, email or phone across social networks.
+- [Digital Footprint Check](https://www.digitalfootprintcheck.com) — A people search engine that generates an online profile of an individual based on a provided e-mail or username.
+- [gosearch](https://github.com/ibnaleem/gosearch) — An OSINT tool designed for uncovering digital footprints associated with a given username.
+- [HandleHawk](https://github.com/C3n7ral051nt4g3ncy/HandleHawk) — Cross-platform username reconnaissance tool built for OSINT investigators, cyber threat analysts, red teamers, and CTF enthusiasts.
+- [IDCrawl (US)](https://www.idcrawl.com) — A free people search engine, username search, reverse phone, and reverse e-mail lookup.
+- [Instant Username](https://instantusername.com) — Instantly checks username availability across over 100 social media platforms as you type.
+- [Investigo](https://github.com/tdh8316/Investigo) — Command-line tool that searches for usernames and retrieves associated data across various social media sites.
+- [leakpeek](https://leakpeek.com) — A data breach search engine that searches leaked databases for personal information.
+- [Linkook](https://github.com/JackJuly/linkook) — An OSINT tool for discovering linked social accounts and associated emails across multiple platforms using a single username.
+- [Lullar](https://com.lullar.com) — Searches profiles across multiple social networks using an email address
+- [Maigret](https://github.com/soxoj/maigret) — Uses usernames to collect data on a person across many sites.
+- [Marple\n](https://github.com/soxoj/marple) — Analyses usernames, emails and phone numbers using OSINT techniques.
+- [Minerva](https://minervaosint.com) — An OSINT platform that uses a number of sources and techniques to analyse email addresses.
+- [Mr. Holmes](https://github.com/Lucksi/Mr.Holmes) — A tool to gather information about domains, usernames. and phone numbers.
+- [Name Checkr](https://www.namecheckr.com/) — Checks availability of usernames across social networks and domains.
+- [Name Checkup](https://namecheckup.com) — Offers searches for usernames, domains and trademarks for brand consistency.
+- [Name Vine](https://namevine.com) — Checks username and domain name availability simultaneously.
+- [Namecheck](https://namecheck.bloggingehow.com) — Checks username availability.
+- [Namechk](https://github.com/HA71/Namechk) — Checks usernames across various social media platforms.
+- [Namechk\n](https://namechk.com/) — Searches username and domain availability across numerous platforms.
+- [OSINT Industries](https://www.osint.industries/) — A comprehensive OSINT platform that provides a number of open source intelligence tools across multiple investigation domains.
+- [OSINT Rocks](https://osint.rocks) — Provides easy access to popular scripts used to gather information about usernames, e-mails, phone numbers, and domains / IPs.
+- [peekyou (US)](https://www.peekyou.com) — A US-focused people search engine, also offering username-based search.
+- [Pipl](https://pipl.com) — People search engine that scours the deep web and public records to find detailed personal information.
+- [Private Investigator Tech](https://www.privateinvestigator.tech/search) — Investigative search engine to access over 30,000 global data sources from a single interface.
+- [Profil3r](https://github.com/Greyjedix/Profil3r) — An OSINT tool that allows you to find potential profiles of a person on social networks, as well as their email addresses.
+- [Profile Analyzer](https://www.deepfind.me/tools/social-media/profile-analyzer) — Enter a username to search for social media profiles across hundreds of sites. Powered by Maigret-based analysis for comprehensive OSINT.
+- [Profile Scout](https://profile-scout-16ba7f56.base44.app) — Generate possible profile URLs across platforms for any name or username and their variations.
+- [Profiler](https://profiler.me) — Scan over 1500+ sources across the internet using a username, email, or phone number.
+- [Search POF](https://searchpof.com) — Searches public profiles on Plenty of Fish for OSINT and investigation purposes.
+- [sherlock](https://github.com/sherlock-project/sherlock) — Finds usernames across many social networks by checking for profile existence.
+- [Sherlockeye](https://www.sherlockeye.io) — A platform for investigating companies, individuals, and digital assets.
+- [Snoop](https://github.com/snooppr/snoop) — Enumerates usernames on multiple social platforms and websites using open-source methods.
+- [Social Recon](https://github.com/famavott/osint-scraper) — Locates and compiles information about online personalities, given a username and/or email address
+- [social-analyzer](https://github.com/qeeqbox/social-analyzer) — API, CLI, and Web App for analysing and finding a person's profile in 1000 social media websites.
+- [SocialPath](https://github.com/woj-ciech/SocialPath) — Open-source tool for tracking users across multiple social media platforms by analyzing username reuse.
+- [socialscan](https://pypi.org/project/socialscan/) — Performs username and email address checks across multiple platforms.
+- [socid_extractor](https://github.com/soxoj/socid_extractor) — Extracts social media and personal identifiers from various sources.
+- [Spokeo](https://www.spokeo.com/) — Search engine that compiles social media profiles, public records, and online presence to provide comprehensive people search results.
+- [stalkie](https://github.com/ashendilantha/stalkie) — Username intelligence across 13+ platforms with confidence scoring, proxy support, and headless browser rendering.
+- [tookie-osint](https://github.com/Alfredredbird/tookie-osint) — An open source tool to discover social media accounts based on a provided username.
+- [User Search](http://www.usersearch.org) — Searches for usernames across a wide range of social media platforms and websites.
+- [User Searcher](https://www.user-searcher.com) — A tool to search usernames in 2000+ websites.
+- [Username Checker API](https://app.swaggerhub.com/apis/checker/api/2.0.0) — Provides an API for checking username availability across various services.
+- [Username Infostealer Lookup](https://www.deepfind.me/tools/social-media/username-infostealer-lookup) — Check if a username is associated with a computer infected by infostealer malware.
+- [UsernameSearchOSINT](https://github.com/HackUnderway/UsernameSearchOSINT) — Tool made in Flask to search for users on different platforms.
+- [UserSearch](https://usersearch.org) — Searches usernames across multiple platforms to find online accounts linked to a person.
+- [WhatsMyName](https://github.com/WebBreacher/WhatsMyName) — Enumerates usernames across many websites using a large and regularly updated database.
+- [WhatsMyName\n](https://whatsmyname.app/) — Offers a web interface to search for usernames across multiple platforms using the WhatsMyName project.
+- [Who Am I](https://chromewebstore.google.com/detail/who-am-i/gdnhlhadhgnhaenfcphpeakdghkccfoo?hl=en) — A chrome extension for doing username enumeration across multiple sites.
+- [youtube-handles-fuzz](https://github.com/mariosantella/youtube-handles-fuzz) — A tool to check availability of YouTube usernames in bulk.

@@ -1,0 +1,165 @@
+# Researching Domains
+
+> 161 tools — [osinthandbook.com/researching-domains](https://www.osinthandbook.com/researching-domains)
+
+- [_IntelligenceX: Domain](https://intelx.io/tools?tab=domain) — A set of domains-related lookup tool from _IntelligenceX.
+- [AADInternals.com](https://aadinternals.com/osint) — A tool that extracts openly available information for the given tenant. It can be queried by use of a tenant id, domain name, user email, or user object id.
+- [Access Check](https://accesscheck.thenetmonitor.org) — Diagnostic utility to assess accessibility and availability of web domains and resources.
+- [AFRINIC](https://www.afrinic.net) — Regional Internet registry managing allocation of IPv4, IPv6 and ASN resources for Africa.
+- [APNIC](https://www.apnic.net) — Regional Internet registry responsible for distributing and managing IP address resources in the Asia Pacific region.
+- [ARIN](https://www.arin.net) — Regional Internet registry overseeing IP address and ASN assignments for North America.
+- [assetfinder](https://github.com/tomnomnom/assetfinder) — Find domains and subdomains related to a given domain.
+- [Aware Online: Website Search Tool](https://www.aware-online.com/osint-tools/website-search-tool/) — A set of domains and websites-related lookup tools from Aware Online.
+- [Better Whois](https://www.betterwhois.com/) — Unified WHOIS lookup service for checking domain availability, displaying domain ownership, and verifying nameserver information across hundreds of domain registrars.
+- [BigDomainData](https://www.bigdomaindata.com) — A platform hosting a current and historical WHOIS database.
+- [Blacklist Alert](https://blacklistalert.org/) — Checks if a domain or IP is listed in DNS-based blacklists.
+- [Bluto](https://github.com/darryllane/Bluto) — Open‑source command‑line tool offering a set of domain research functions and other modules.
+- [Bug Bounty Helper](https://dorks.faisalahmed.me/) — Web-based platform providing pre-crafted Google Dorks for targeted information discovery.
+- [C99.nl](https://api.c99.nl/) — API service offering DNS, Whois, and IP intelligence queries.
+- [CentralOps.net](https://centralops.net) — Suite of network and domain investigation tools including DNS, Whois, traceroute, and email verification.
+- [chiasmodon](https://github.com/chiasmod0n/chiasmodon) — An OSINT tool designed to assist in the process of gathering information about a target domain.
+- [Complete DNS](https://completedns.com) — Cloud-hosted DNS lookup and monitoring service.
+- [CQCounter](http://cqcounter.com/whois) — IP address / Domain name lookup.
+- [Da.whois](https://dawhois.com) — Web interface for fast Whois queries with history and domain analytics.
+- [Daily Changes](https://dailychanges.domaintools.com/) — Daily updates on DNS and ownership changes for domain threat intelligence.
+- [Data Surgeon](https://github.com/Drew-Alleman/DataSurgeon) — A tool to extract various types of sensitive information including emails, phone numbers, hashes, credit cards, URLs, IP addresses, MAC addresses, SRV DNS records, and more from text.
+- [Deep Dork](https://guilherme-moraiss.github.io/Deep-Dork-Web/) — Educational tool for advanced Google Dorking with categorized queries and search execution.
+- [DeepFind.me: Domain Infostealer Report](https://www.deepfind.me/tools/email-and-domain/domain-infostealer-report) — Get a comprehensive report on infostealer malware impact for a specific domain.
+- [DeepFind.me: Domain WHOIS Lookup](https://www.deepfind.me/tools/email-and-domain/domain-whois-lookup) — Enter a domain name to retrieve its WHOIS information. This includes details about the domain registrar, registration and expiration dates, name servers, and registrant contact information.
+- [Denic web whois](https://www.denic.de/webwhois/) — Interactive web portal for querying German domain registration details via Whois.
+- [Dig](https://toolbox.googleapps.com/apps/dig/) — Online interface for executing DIG DNS queries through Google's toolkit.
+- [DNS Archive](https://dnsarchive.net) — Archive of historical DNS zone data for analysis of past DNS configurations.
+- [DNS Checker](https://dnschecker.org) — Global DNS propagation checker showing current DNS record state across multiple servers.
+- [DNS History](http://dnshistory.org) — Historical DNS lookup tool showing changes in DNS records over time.
+- [DNS Lookup](https://dnslookup.online) — Simple web tool for retrieving DNS records for a given domain.
+- [DNS Lookup Pro](https://dnslookup.pro/) — Advanced online DNS record lookup service with detailed output.
+- [DNS Map](https://dnsmap.io/) — Passive DNS mapping service that visualises domain infrastructure and shared hosts.
+- [DNS Root Instances](https://atlas.ripe.net/results/maps/root-instances) — Visualisation of RIPE Atlas measurements, including root DNS server instance mappings.
+- [DNS Spy](https://dnsspy.io) — Platform for continuous monitoring of DNS records to detect changes and anomalies.
+- [DNS Trails](https://securitytrails.com/dns-trails) — Web-based platform providing historical and current DNS data, domain ownership, and IP intelligence for reconnaissance.
+- [DNSDumpster](https://dnsdumpster.com) — Tool for discovering hosts and mapping DNS records through passive and brute-force techniques.
+- [DNSlytics](https://dnslytics.com) — Online portal offering DNS, IP, ASN, reverse DNS lookups, and historical data for threat research.
+- [dnspop](https://github.com/bitquark/dnspop) — A tool to analyse DNS records to find popular trends.
+- [dnsrecon](https://github.com/darkoperator/dnsrecon) — Framework for DNS enumeration, zone transfers, brute-forcing subdomains, and record checking for penetration testing.
+- [DNSSec Analyzer](https://dnssec-analyzer.verisignlabs.com) — Online scanner to validate DNSSEC configuration and chain of trust integrity.
+- [dnstwist](https://dnstwist.it) — Tool for generating spoofed domain permutations to detect phishing and typo-squatting threats.
+- [dnstwister](https://dnstwister.report) — Platform delivering reports on lookalike domains, typo variants, and visual branding similarity.
+- [DNSViz](https://dnsviz.net/) — Visual DNS analysis tool that provides analysis of the DNSSEC authentication chain for a domain name and its resolution path in the DNS namespace, and it lists configuration errors detected by the tool.
+- [Domain Crawler](https://domaincrawler.com/) — A domain name database.
+- [Domain Digger](https://digger.tools/) — Provides an open-source toolkit for comprehensive domain analysis, delivering detailed DNS, IP, WHOIS data, and SSL/TLS history in a user-friendly interface. Search by domain, URL, email or IP.
+- [Domain Dossier](http://centralops.net/co/DomainDossier.aspx) — Multi-tool for WHOIS, DNS, traceroute, and domain investigation.
+- [Domain Help](https://app.domainhelp.com) — Domain investigation and analysis platform.
+- [Domain SDB](https://domainsdb.info) — Search engine for registered domains.
+- [Domain To IP Converter](http://domaintoipconverter.com) — Tool to convert domains to IP addresses.
+- [Domain Tools](https://www.domaintools.com) — Comprehensive domain and DNS intelligence tools.
+- [DomainIQ](https://www.domainiq.com) — Domain intelligence and monitoring platform.
+- [Domains Monitor](https://domains-monitor.com/) — Service for tracking domain changes and expiration.
+- [DomainTools](https://whois.domaintools.com/) — Direct WHOIS lookup from DomainTools.
+- [dorks_hunter](https://github.com/six2dez/dorks_hunter) — Python script automating categorized Google Dork searches against target domains.
+- [dotDB](https://dotdb.com/) — All registered domains search tool.
+- [downdetector](http://downdetector.com) — Real-time monitoring of website and service outages.
+- [downforeveryoneorjustme](https://downforeveryoneorjustme.com/) — Checks if a website is down for everyone or just you.
+- [DShield API](https://isc.sans.edu/api/) — API access to global internet threat and activity data.
+- [EasyCounter WHois](https://whois.easycounter.com) — WHOIS, ownership, and history lookup.
+- [Educause Whois Lookup](https://net.educause.edu/whois.htm) — WHOIS lookup service for .edu and academic domains.
+- [EURid](https://eurid.eu) — Registry for .eu domains and WHOIS services.
+- [Expired Domains](https://www.expireddomains.net/) — Search and monitor expired and deleted domain names.
+- [Fierce](https://github.com/davidpepper/fierce-domain-scanner) — A semi-lightweight scanner that helps locate non-contiguous IP space and hostnames against specified domains.
+- [Gaijin.at](https://www.gaijin.at/en/tools/) — A suite of online tools including DNS lookup, email header analysis, IP calculator, and more.
+- [gdns](https://github.com/hrbrmstr/gdns) — R interface to Google DNS over HTTPS for querying domain information.
+- [GeoPeeker](https://geopeeker.com) — A tool to preview how websites appear from multiple global locations.
+- [gobuster](https://github.com/OJ/gobuster) — A high-performance directory / file, DNS and virtual host brute-forcing tool written in Go.
+- [GoDaddy WHois](https://ca.godaddy.com/whois) — A WHOIS lookup tool from GoDaddy.
+- [Google Dorks for Bug Bounty](https://taksec.github.io/google-dorks-bug-bounty/) — Collection of Google Dorks tailored for bug bounty hunting with domain-specific search capabilities.
+- [GooHak](https://github.com/1N3/Goohak) — Tool that automatically launches Google hacking queries against a target domain to find vulnerabilities.
+- [GSuite Toolbox Check MX](https://toolbox.googleapps.com/apps/checkmx/) — Tool to check domain MX records and email configuration.
+- [GSuite Toolbox Dig (DNSS Lookup)](https://toolbox.googleapps.com/apps/dig/) — Online DIG tool for DNS record lookup and troubleshooting.
+- [Hacker Intelligence](https://hackertarget.com/reverse-dns-lookup/) — Performs reverse DNS lookup to find domain associated with an IP.
+- [HackerTarget](https://hackertarget.com/ip-tools/) — Collection of IP tools for scanning, lookups, and analysis.
+- [Have I Been Squatted](https://haveibeensquatted.com) — Check if a domain has been typosquatted.
+- [Hexillion](https://hexillion.com/) — A Whois API and internet tools for cybersecurity and domain information.
+- [Hold Integrity IDN Checker](https://holdintegrity.com/checker) — A tool to check for existing or possible impersonations.
+- [Host.io](https://host.io) — Tools to find more information about domain, such as backlinks, links to, analytics and redirects.
+- [IANA](https://www.iana.org) — Official registry for internet protocol resources and TLD management.
+- [ICANN Lookup](https://lookup.icann.org) — ICANN's WHOIS lookup tool for domain registration data.
+- [InfoBylp (Bulk Domain & IP Lookup)](https://www.infobyip.com/ipbulklookup.php) — Bulk IP geolocation and lookup tool.
+- [Information Laudromat](https://informationlaundromat.com) — A platform to investigate information relationships across the web.
+- [InfoTrail](https://infotrail.io) — An OSINT search tool that can be used to retrieve information on domains, URLs, e-mails, phone numbers, IPs, and more.
+- [IntelOwl](https://github.com/intelowlproject/IntelOwl) — A tool to gather threat intelligence data about a malware, an IP address or a domain.
+- [intoDNS](https://intodns.com/) — DNS diagnostics and configuration checker.
+- [Investigator](https://abhijithb200.github.io/investigator) — A collection of tools to check and gather information about the target domain name.
+- [IP Address](https://www.ipaddress.com) — IP lookup, WHOIS, and domain search tools.
+- [iwantmyname](https://iwantmyname.com) — Domain search and registration platform.
+- [Kloth](http://www.kloth.net/services/) — Network tools including traceroute, WHOIS, and DNS lookups.
+- [knockknock](https://github.com/harleo/knockknock) — A simple reverse whois lookup tool which returns a list of domains owned by people or companies.
+- [lacnic](https://www.lacnic.net/) — Regional internet registry for Latin America and the Caribbean providing IP address allocation and related services.
+- [leakpeek](https://leakpeek.com) — A data breach search engine that searches leaked databases for personal information.
+- [Maltego](https://www.maltego.com) — Tool for link analysis and data mining used in investigations and threat intelligence.
+- [Malware URL Website Security Status](https://www.malwareurl.com/listing-urls.php) — MalwareURL site reputation lookup.
+- [Meta Narka](https://meta.narka.io/) — A feature-rich tool for in-depth analysis of domains.
+- [Mr. Holmes](https://github.com/Lucksi/Mr.Holmes) — A tool to gather information about domains, usernames. and phone numbers.
+- [MXToolbox](https://mxtoolbox.com) — A suite of tools to diagnose and monitor mail servers and DNS records.
+- [Netcraft Search DNS](https://searchdns.netcraft.com) — Tool for DNS and hosting history lookup including site technology and uptime details.
+- [Network Solutions Whois](https://www.networksolutions.com/whois) — WHOIS lookup service to find domain registration and ownership information.
+- [Nikto scanner](https://nikto.online/) — A tool to run vulnerability scans, identify servers and software, and detect XSS vulnerabilities.\n
+- [NsLookup](https://www.nslookup.io/) — Online DNS lookup tool for querying domain records and diagnostics.
+- [OpenData Rapid7](https://opendata.rapid7.com) — Open data repository by Rapid7 offering cybersecurity scan data and research datasets.
+- [opensquat](https://github.com/atenreiro/opensquat) — The openSquat is an open-source tool for detecting domain look-alikes by searching for newly registered domains that might be impersonating legit domains and brands.
+- [OSINT Rocks](https://osint.rocks) — Provides easy access to popular scripts used to gather information about usernames, e-mails, phone numbers, and domains / IPs.
+- [OSINT.sh: DNS](https://osint.sh/dns) — A DNS lookup tool that provides a report on DNS records for a specified domain or hostname.
+- [OSINT.sh: DNS History Lookup](https://osint.sh/dnshistory) — View all DNS historical records for a specified domain name.
+- [OSINT.sh: Reverse Domain](https://osint.sh/domain) — A tool to find domain names by a keyword.\n\n
+- [OSINT.sh: Reverse Name Server](https://osint.sh/reversens) — Reveal all domains that use the same name server.
+- [paloaltonetworks: Test A Site](https://urlfiltering.paloaltonetworks.com) — Palo Alto Networks URL filtering lookup portal for assessing website risk and categorization.
+- [Passive DNS Mnemonic](https://passivedns.mnemonic.no/) — Passive DNS database for historical DNS resolution data and analysis.
+- [Penstest Tools: Google Hacking](https://pentest-tools.com/information-gathering/google-hacking) — Online service providing Google Hacking tools for information gathering during penetration testing.
+- [Phonebook.cz](https://phonebook.cz) — Lists all domains, email addresses, or URLs for the given input domain.
+- [Recon FTW](https://github.com/six2dez/reconftw) — A tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities.
+- [RedirectDetective](https://redirectdetective.com/) — Redirect path analyzer for detecting URL redirects and chains.
+- [Reverse IP to Domain Lookup](https://www.ipfingerprints.com/reverseip.php) — Reverse IP lookup tool to find domains hosted on the same server.
+- [RIPE NCC](https://www.ripe.net) — Regional internet registry for Europe, the Middle East, and parts of Central Asia.
+- [Robtex](https://www.robtex.com) — Internet and DNS data aggregation platform offering domain, IP, and DNS insight.
+- [Robtex DNS Lookup](https://www.robtex.com/dns-lookup/) — DNS lookup interface within Robtex for querying domain records and diagnostics.
+- [Scumware](https://www.scumware.org/) — A database of known malicious URLs and software.
+- [SecurityTrails](https://securitytrails.com) — Comprehensive domain intelligence platform with DNS, WHOIS, and historical data.
+- [Sherlockeye](https://www.sherlockeye.io) — A platform for investigating companies, individuals, and digital assets.
+- [SIDN](https://www.sidn.nl) — Dutch ccTLD registry and domain authority for .nl domains.
+- [Spamhaus](https://www.spamhaus.com/) — Reputation-based threat intelligence on IPs, domains, and spam sources.
+- [StatsCrop](https://www.statscrop.com) — Platform for domain and keyword research including rankings, traffic, and SEO analytics.
+- [SubDomainRadar](https://subdomainradar.io/) — Subdomain discovery tool that helps map and enumerate subdomains of a target.
+- [Sucuri Free Website and Malware Scanner](https://sitecheck.sucuri.net) — Website security scanner that checks for malware, vulnerabilities, and blacklist status.
+- [Symantec WebPulse Site Review Request](https://sitereview.bluecoat.com) — Blue Coat (Symantec) site categorization and URL safety reputation lookup.
+- [Synapsint](https://synapsint.com) — A free service that aggregates data from multiple intelligence sources, search engines, datasets, and other resources to provide comprehensive cybersecurity insights.
+- [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) — A script that performs reconnaissance and information gathering using various modules to uncover details about a target.
+- [The Prefix Whois Project](https://pwhois.org) — Public WHOIS lookup service for domains and IPs.
+- [ThreatLog](https://www.threatlog.com) — A service developed by NoVirusThanks that keeps track of malicious domains detected by internal honeypots, malware sandboxes or submitted by users.
+- [ThreatPinchLookup](https://github.com/cloudtracer/ThreatPinchLookup) — ThreatPinch Lookup creates informational tooltips when hovering oven an item of interest on any website.
+- [TLDSweep](https://github.com/DarkWebInformer/TLDSweep) — TLDSweep is a domain intelligence OSINT tool that sweeps 800+ TLDs to find registered variants of a domain, flag newly registered lookalikes, and alert via Telegram and Discord.
+- [Tucows Domains](https://tucowsdomains.com/) — Domain registration and reseller platform.
+- [Unstoppable Domains](https://unstoppabledomains.com) — Blockchain-based domain registry offering decentralised, crypto-ready domains.
+- [URL Haus](https://urlhaus.abuse.ch) — Repository of malicious URLs used in malware distribution.
+- [URL Query\n](https://urlquery.net/) — Tool for analysing URLs and detecting malicious behaviour.
+- [Urldna](https://urldna.io/) — URL metadata scanner revealing link structure, tags, and content snapshots.
+- [urlscan](https://urlscan.io) — A free service to scan and analyse websites.
+- [Verisign](http://dnssec-debugger.verisignlabs.com) — Interactive DNSSEC diagnostic tool by VeriSign Labs for troubleshooting DNS security records.
+- [ViewDNS](https://viewdns.info/) — Collection of DNS and OSINT tools for investigating domains and IPs.
+- [Virus Total](https://www.virustotal.com) — Online service for analysing files and URLs for viruses and malware.
+- [w3snoop](https://webboar.com.w3snoop.com/) — A platform offering domain and website analytics.
+- [wayBackLister](https://github.com/anmolksachan/wayBackLister) — A reconnaissance tool that taps into the Wayback Machine to fetch historical URLs for a domain, parses unique paths, and checks if any of those paths currently expose directory listings.
+- [Web Check](https://web-check.xyz/) — All-in-one OSINT tool for analysing any website.
+- [WEBCAPTURE](https://github.com/drackyjr/WEBCAPTURE) — Automated Open Source Intelligence gathering tool with multiple features.
+- [WebOSINT](https://github.com/C3n7ral051nt4g3ncy/webosint) — A Python tool / script for passive Domain Intelligence gathering.
+- [Website Informer](https://website.informer.com) — Service providing website stats, rankings, and owner-related information.
+- [Whatsmydns.net](https://www.whatsmydns.net) — Tool to check DNS propagation globally.
+- [Who.is](https://who.is) — Comprehensive WHOIS lookup tool for domains and IP addresses.
+- [Whois](https://www.whois.com) — WHOIS domain lookup and domain registration information service.
+- [Whois Arin Online](https://whois.arin.net) — WHOIS database lookup service provided by ARIN for IP addresses and ASNs.
+- [Whois History](https://osint.sh/whoishistory) — A tool from OSINT.sh that lets you see all the historical WHOIS records of a domain name.
+- [Whois.Search](https://whois-search.com) — WHOIS lookup service for domain names and registrar information.
+- [WhoIsHostingThis](http://www.whoishostingthis.com) — Tool to find out which web host a site is using.
+- [Whoisology](https://whoisology.com) — Allows users to search historical Whois records to analyse domain ownership over time.
+- [WhoIsRequest](https://whoisrequest.com/) — WHOIS lookup and domain investigation tool with historical data features.
+- [WhoisXMLAPI](https://www.whoisxmlapi.com) — Comprehensive WHOIS and DNS intelligence platform for cybersecurity and domain research.
+- [Whoxy](https://www.whoxy.com) — Displays detailed WHOIS information and domain history records.
+- [Xurlfind3r](https://github.com/hueristiq/xurlfind3r) — A command-line utility designed to discover URLs for a given domain.
+- [You Get Signal](https://www.yougetsignal.com/) — A set of useful tools, including port forwarding tester, IP checker, network location tool, visual trace root tool, phone number geolocator, reverse e-mail lookup tool, reverse IP domain check, WHOIS lookup tool, and more.

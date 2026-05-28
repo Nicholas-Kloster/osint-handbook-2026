@@ -1,0 +1,100 @@
+# Telegram
+
+> 96 tools — [osinthandbook.com/telegram](https://www.osinthandbook.com/telegram)
+
+- [_IntelligenceX: Telegram](https://intelx.io/tools?tab=telegram) — Telegram-focused custom search engines.
+- [4CAT](https://github.com/digitalmethodsinitiative/4cat) — The 4CAT Capture and Analysis Toolkit provides modular data capture and analysis for a variety of social media platforms.
+- [Add Groups: Telegram](https://add-groups.com/telegram) — A Russian‑language directory listing popular Telegram channels, groups & bots across multiple categories.
+- [All-Catalog Telegram](https://all-catalog.ru) — A Russian catalog of top Telegram channels, featuring channel stats and submission options.
+- [Analyst Search Tools](https://analystresearchtools.com) — An extensive collection of OSINT tools and resources.
+- [Barkov.net](https://vk.barkov.net/) — Web tool providing VK, Telegram, and Odnoklassniki user analytics (posts, friends, activity trends).
+- [Catalog Telegram](https://catalog-telegram.ru) — A structured catalogue of Telegram chats, channels, and bots.
+- [Catalog-Telegram.info](https://catalog-telegram.info) — A similar catalogue of Telegram channels, chats, and bots, with added view statistics.
+- [CCTV](https://github.com/IvanGlinkin/CCTV) — A location tracking script with API integration.
+- [ChatBottle: Telegram](https://chatbottle.co/bots/telegram) — A portal listing Telegram bots.
+- [ChatToday](https://chattoday.com) — Search for users on Kik, Snapchat, Telegram, Discord, and more.
+- [Combot Telegram Groups](https://combot.org/top/telegram/groups) — A ranking of the largest public Telegram groups worldwide (over 50 000 listed).
+- [fabledowl](https://gist.github.com/fabledowl) — A GitHub Gist account featuring two Greasemonkey user-scripts: one for extracting Telegram chat history / users, and another to collect users from groups.
+- [Gebruikersnamen](https://gebruikersnamen.nl) — A Dutch service aimed at enhancing social media presence by offering tools to increase followers, likes, and views on various platforms.
+- [Github: Awesome Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) — A curated list of awesome Telegram OSINT tools, sites, and resources.
+- [Github: Telegram LIst](https://github.com/goq/telegram-list) — A list of Telegram groups, channels, and bots.
+- [HowToFindBot](https://t.me/howtofind_bot) — A Telegram bot for finding archived copies of any URL via Web Archive or search engine cache.
+- [informer](https://github.com/paulpierre/informer) — A Python tool for mass surveillance on Telegram channels, posing as real users and logging data.
+- [Lyzem.com](https://lyzem.com) — A Telegram search engine.
+- [MotherSearchBot](https://t.me/MotherSearchBot) — A Telegram search bot for finding channels, groups, and content directly in-app.
+- [Save Telegram Chat History](https://github.com/pigpagnet/save-telegram-chat-history) — A Chrome extension for exporting and saving Telegram chat histories and media.
+- [silvertgosint](https://github.com/silverxpymaster/silvertgosint) — A Telegram OSINT tool that collects messages from target users in Telegram groups and tracks users who extract data from these groups.
+- [SNScrape](https://github.com/JustAnotherArchivist/snscrape) — A simple Python script that scrapes user profiles, hashtags, and search results from a variety of social media platforms.
+- [Telebrella](https://t.me/telebrellabot) — A Telegram bot that reveals which public groups or channels a user account belongs to.
+- [Telega.io](https://telega.io/catalog) — A Telegram advertising and analytics catalogue with channels, bots, stats, and reviews.
+- [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1) — A Google Custom Search interface indexing Telegram-related content.
+- [Telegoo](https://telegoo.net) — A Russian-language Telegram catalogue listing channels and bots.
+- [Telegram Catalog](https://telegram-catalog.ru) — A community-curated directory of Telegram channels across topics and languages.
+- [Telegram Channels](https://telegramchannels.me/) — A European-focused listing of Telegram channels categorised by topic.
+- [Telegram Channels](https://tlgrm.eu/channels) — A directory of Telegram channels categorised by topic.
+- [Telegram Channels Search](https://xtea.io/ts_en.html) — A Telegram search engine for channels, groups, and bots.
+- [Telegram Creation Date Bot](https://t.me/creationdatebot) — A Telegram bot that estimates account creation dates.
+- [Telegram Directory](https://tdirectory.me) — A global directory of Telegram channels, groups, and bots.
+- [Telegram Finder](https://www.telegram-finder.io) — A tool to find Telegram users by phone number, LinkedIn, or e-mail.
+- [Telegram Finder](https://www.telegram-finder.io) — Search for Telegram users by phone number, e-mail, and LinkedIn.
+- [Telegram Group](https://www.telegram-group.com) — A platform to search for Telegram bots, groups, and channels.
+- [Telegram Group and Channel Search Tool](https://chromewebstore.google.com/detail/telegram-group-and-channe/ilpgiemienkecbgdhdbgdjkafodgfojl?pli=1) — A Chrome extension that helps you search Telegram channels and groups.
+- [Telegram Group Joiner](https://bellingcat.github.io/telegram-group-joiner) — Batch add a Telegram account to multiple Telegram groups.
+- [Telegram Groups HK](https://telegramgroups.com.hk) — A Hong Kong–focused Telegram groups/channels aggregator.
+- [Telegram IDBot](https://t.me/username_to_id_bot) — A Telegram bot to get numeric IDs of users or channels.
+- [Telegram Limits](https://limits.tginfo.me/en) — A list of Telegram limitations.
+- [Telegram List](https://telegramlist.com) — A listing site for Telegram groups and channels.
+- [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) — A tool to discover nearby Telegram users.
+- [Telegram Online Spy](https://github.com/Forichok/TelegramOnlineSpy) — A simple Telegram online spy logger bot.\n\n
+- [Telegram OSINT Lib](https://github.com/Postuf/telegram-osint-lib) — Telegram scenario-based API aimed at OSINT.
+- [Telegram Phone Number Checker](https://colab.research.google.com/github/bellingcat/open-source-research-notebooks/blob/main/notebooks/bellingcat/telegram-phone-number-checker.ipynb) — A tool to check if phone numbers are connected to Telegram accounts.
+- [Telegram Store](https://telegram-store.com/) — A directory of Telegram channels, bots, and services.
+- [Telegram Trilateration](https://github.com/jkctech/Telegram-Trilateration) — A tool for geolocating Telegram users via trilateration.
+- [Telegram userinfobot](https://t.me/userinfobot) — A Telegram bot that provides user information.
+- [telegram-history-dump](https://github.com/tvdstaaij/telegram-history-dump) — Backup Telegram chat logs using telegram-cli.
+- [telegram-scraper](https://github.com/unnohwn/telegram-scraper) — A powerful Python script that allows you to scrape messages and media from Telegram channels using the Telethon library.
+- [telegram-scraper-TeleGraphite](https://github.com/hamodywe/telegram-scraper-TeleGraphite) — A fast and reliable Telegram channel scraper that fetches posts and exports them to JSON.
+- [telegram-transparency](https://github.com/Te-k/telegram-transparency) — Data on Telegram transparency reports.
+- [Telegram: LinkCreatorBot](https://t.me/LinkCreatorBot) — A bot to find out who created invite link.
+- [Telegram.im](https://telegram.im/tools/index.php) — A collection of Telegram tools (bots, scripts, utilities).
+- [Telegram.org](https://telegram.org.ru) — A Russian-language Telegram community site.
+- [Telegrambots.info](https://www.telegrambots.info/channels) — A directory of Telegram bots and channels.
+- [TelegramDB](https://telegramdb.org/) — A Telegram search engine that allows you to search for channels, groups and their members.
+- [TelegramOSINTPolo](https://github.com/Ironship/TelegramOSINTPolo) — The app is used to download posts from Telegram feeds and save them to text files for later OSINT AI use.
+- [telegramtrac](https://telegramtrac.streamlit.app) — Browser interface to Telegram's API with additional modules for generating datasets and network graphs.
+- [Telegramzy.ru](https://telegramzy.ru/katalog-kanalov) — A Russian catalog of Telegram channels.
+- [Telegrator.ru](https://telegrator.ru/channels) — An aggregator of Russian Telegram channels.
+- [Telegros.ru](https://telegros.ru) — A Russian-language directory of Telegram channels and groups.
+- [Telemetr](https://telemetr.me) — A Russian-language directory of Telegram channels.
+- [Telemetrio](https://telemetr.io/) — A Telegram channel analytics and monitoring tool.
+- [Telemetry](https://www.telemetryapp.io) — A Telegram search engine.
+- [Telepathy](https://github.com/prose-intelligence-ltd/Telepathy-Community) — Public release of Telepathy, an OSINT toolkit for investigating Telegram chats.
+- [Telerecon](https://github.com/sockysec/Telerecon) — A reconnaissance framework for researching and investigating Telegram.
+- [Telescan](https://github.com/pielco11/telescan) — A Telegram OSINT tool for searching users in groups by ID, username, or phone number.
+- [TeleTarget](https://teletarget.com/catalog) — A catalog of Telegram groups and channels for ad targeting.
+- [Teleteg](https://teleteg.com) — A Telegram search engine.
+- [Telethon](https://github.com/LonamiWebs/Telethon) — A Python library to interact with Telegram’s API
+- [TeleTracker](https://github.com/tsale/TeleTracker) — TeleTracker is a simple set of Python scripts designed for anyone investigating Telegram channels.
+- [TG Collector](https://www.tgcollector.com) — A browser based graphical user interface for collecting Telegram messages from the channels.
+- [TG Sender](https://chromewebstore.google.com/detail/tg-sender-tg-bulk-message/kchbblidjcniipdkjlbjjakgdlbfnhgh) — A Chrome extension that lets you scrape Telegram group members and send bulk messages and invites.
+- [tg-index](https://github.com/odysseusmax/tg-index) — A Python web app to index Telegram chats and serve its files for download over HTTP.
+- [tgcf](https://github.com/aahnik/tgcf) — A tool to automate custom Telegram message forwarding.
+- [TGChannels](https://en.tgchannels.org) — A directory of English-language Telegram channels.
+- [TgDev: Chat Search](https://tgdev.io/chatsearch) — A tool that allows you to find groups similar to the target group.
+- [TgDev: TgScan](https://tgdev.io/tgscan) — A service that helps to find which Telegram groups a person is member of.
+- [TGeocoder](https://github.com/MJCruickshank/TGeocoder) — Automated parsing and geocoding of Telegram news channels.
+- [TgFind](https://tgfind.org) — A Telegram search tool.
+- [Tgram.io](https://tgram.io) — A Telegram channel and group directory with analytics.
+- [Tgram.me](https://tgram.me/catalog/channels) — A catalog of Telegram channels grouped by topic.
+- [Tgram.ru: Channels](https://tgram.ru/channels) — A Russian-language Telegram channel listing site.
+- [TgramSearch](https://tgramsearch.com) — A search engine for Telegram channels and messages.
+- [Tgrm.su](https://tgrm.su) — A catalog of channels, bots, and stickers.
+- [tgScan Robot](https://t.me/tgscanrobot) — A Telegram bot for searching group / channel data.
+- [Tgstat RU](https://tgstat.ru) — A Russian-language Telegram analytics and statistics platform.
+- [Tgstat.com](https://tgstat.com) — Telegram channels and groups catalog.
+- [TGTW](https://tgtw.cc) — A Taiwan-focused Telegram channel directory.
+- [TGViewer](https://github.com/TGViewer/TGViewer.github.io) — Web tool to browse and preview Telegram content without logging in.
+- [TLGRM](https://tlgrm.eu/channels) — Search for Telegram channels.
+- [tosint](https://github.com/drego85/tosint) — Tosint is a Telegram OSINT tool that extracts actionable intelligence from bot tokens and chat IDs for security investigations.
+- [uxtelegram](https://uztelegram.com) — An Uzbekistan-based Telegram channel directory.
+- [Waybien](https://waybien.com) — Easily find channels, groups, and servers on Facebook, Telegram, Discord, and WhatsApp.

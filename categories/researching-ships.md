@@ -1,0 +1,71 @@
+# Researching Ships
+
+> 67 tools — [osinthandbook.com/researching-ships](https://www.osinthandbook.com/researching-ships)
+
+- [AIS Data Exchange Dispatcher](https://www.aishub.net/ais-dispatcher) — Provides AIS data streaming and dispatching tools for monitoring maritime vessel movements.
+- [Baltic Shipping: Vessels](https://www.balticshipping.com/vessels) — Offers detailed vessel information including specifications, ownership, and tracking data.
+- [Black Book Online: Free Maritime Public Records](https://www.blackbookonline.info/Maritime-Public-Records.aspx) — Aggregates public records related to maritime ownership, registration, and enforcement actions.
+- [Boat Fax](https://www.boatfax.com) — Delivers boat history reports with title, accident, theft, and registration details.
+- [Boat Nerd](https://ais.boatnerd.com/) — Streams live AIS data of vessel traffic in the Great Lakes and connecting waterways.
+- [BoatInfoWorld](https://www.boatinfoworld.com) — Compiles global boat and ship ownership information with historical data access.
+- [Bosphorus Observer](https://bosphorusobserver.com/) — Shares insights and photos of Bosphorus maritime traffic with a focus on ship spotting.
+- [Bottenviken Live AIS](http://ais.sk2hg.se) — Displays AIS data for vessels around Sweden with maps and real-time ship positions.
+- [ClassNK: Register of Ships](https://www.classnk.or.jp/register/regships/regships.aspx) — Maintains an international register of ships with classification and technical data.
+- [Coast Guard Vessel Search](https://www.st.nmfs.noaa.gov/coast-guard-vessel-search/index) — Enables users to search Coast Guard records for vessel documentation and registration.
+- [Crew List Index Project](https://www.crewlist.org.uk/) — Presents historical records of British seafarers and crew lists from archived documents.
+- [Cruise Mapper](http://www.cruisemapper.com) — Tracks cruise ships globally with real-time locations and itineraries.
+- [Cruise Ship Tracker](https://www.cruisin.me/cruise-ship-tracker/) — Shows real-time cruise ship locations with additional port and weather information.
+- [Cruising Earth: Ship Tracker](https://www.cruisingearth.com/ship-tracker) — Offers live tracking of cruise ships with ship details and port information.
+- [Digimap Guernsey](https://www.digimap.gg/marine/ais/) — Provides real-time marine traffic data for the Channel Islands and surrounding areas.
+- [Equasis](http://www.equasis.org) — Contains vessel safety and inspection information from multiple flag states.
+- [European Commission Fleet Register](https://webgate.ec.europa.eu/fleet-europa/search_en) — Searches the EU fishing fleet register for vessel details and licensing information.
+- [FleetMon](https://www.fleetmon.com/services/container-tracker/search) — Enables users to track containers globally by integrating data from various shipping lines.
+- [Freight Metrics](https://freightmetrics.com.au/) — Provides freight and logistics software solutions for transport operators and fleet management.
+- [Gibraltar Ship Registry](https://www.gibraltarship.com/) — Offers shipping agency and logistics services for vessels at the Port of Gibraltar.
+- [Global Fishing Watch](https://globalfishingwatch.org/) — Displays global fishing activity using satellite data.
+- [Gloucester Harbour Trustees](https://gloucesterharbourtrustees.org.uk/ship-positions-marine-traffic/) — Shows live ship positions and marine traffic in the Gloucester Harbour area.
+- [Helcom AIS](http://maps.helcom.fi/website/AISexplorer/) — Visualises AIS vessel movements in the Baltic Sea region with interactive mapping tools.
+- [ICC Live Piracy Map](http://www.icc-ccs.org/piracy-reporting-centre/live-piracy-map) — Displays real-time piracy incidents and maritime crime reports worldwide.
+- [Immarsat Ships Directory](https://www.inmarsat.com/en/support-and-info/support/ships-directory.html) — Offers a searchable directory of ships using Inmarsat satellite communications services.
+- [IMO Registry\n](http://webaccounts.imo.org/) — Provides access to IMO web accounts for maritime-related regulatory services and data.
+- [International Registries Inc.](https://www.register-iri.com) — Manages ship registration and maritime services for vessels under the Marshall Islands flag.
+- [ITU Maritime Mobile Access and Retrieval System](https://www.itu.int/en/ITU-R/terrestrial/mars/Pages/default.aspx) — Provides maritime mobile access and registration system tools for ship station licensing.
+- [ITU Ship Station Search](https://www.itu.int/mmsapp/ShipStation/list) — Lists ship station information and associated identifiers for global maritime communications.
+- [ITU: Global Administration Data System](https://www.itu.int/en/ITU-R/terrestrial/fmd/Pages/glad.aspx) — Offers frequency management tools for maritime mobile and fixed services worldwide.
+- [ITU: Table of International Call Sign Series](https://www.itu.int/en/ITU-R/terrestrial/fmd/Pages/call_sign_series.aspx) — Shows international call sign series allocated to different countries for maritime use.
+- [IUU Vessel List](https://www.iuu-vessels.org/Home/Search) — Searches a database of vessels involved in illegal, unreported, and unregulated fishing.
+- [Landsort AIS](http://www.landsort-ais.se/aism.html) — Displays real-time AIS data and ship traffic for Swedish coastal waters.
+- [Lloyd’s List Intelligence](https://www.lloydslistintelligence.com) — Delivers maritime intelligence, analytics, and risk management services for global shipping.
+- [Lloyd's Register Ships in Class](https://www.lr.org/en/about-us/who-we-are/lr-ships-in-class/) — Lists ships classed by Lloyd's Register and provides related safety and compliance data.
+- [Marine Cadastre](https://marinecadastre.gov/ais) — Provides access to AIS vessel tracking and maritime boundary data for U.S. waters.
+- [MarineTraffic](http://www.marinetraffic.org) — Offers vessel tracking and maritime traffic information through public data access.
+- [MarineTraffic](https://www.marinetraffic.com) — Tracks real-time positions of ships and port activity worldwide using AIS data.
+- [Maritime Database](https://www.maritime-database.com) — Provides a global maritime database of ships and related vessel information.
+- [Marrine Vessel Traffic\n\n](https://www.marinevesseltraffic.com/) — Tracks vessel positions and movements globally with detailed port call history.
+- [My Ship Tracking](https://www.myshiptracking.com) — Monitors real-time ship traffic and movements using global AIS tracking data.
+- [Naxos Island](http://www.naxosisland.eu/live_ship_data.html) — Displays live vessel data for the Naxos Island area and nearby maritime zones.
+- [OOCL: Shipping Glossary](https://www.oocl.com/eng/resourcecenter/shippinglossary/Pages/default.aspx) — Defines shipping terms and abbreviations commonly used in global logistics and transport.
+- [Open Sea Map](http://www.openseamap.org) — Provides nautical charting and mapping tools for safe and open-access marine navigation.
+- [Pinkfroot](https://my.pinkfroot.com/photo/Ships) — A community-driven platform for sharing and browsing ship photographs contributed by enthusiasts worldwide.
+- [Pocket Mariner](https://pocketmariner.com/) — Offers mobile apps and AIS data services for real-time marine navigation and ship tracking on iOS and Android devices.
+- [Port Focus](https://portfocus.com) — Provides comprehensive information on ports, harbours, and marinas globally, including maritime services and transportation links.
+- [Ports](http://ports.com) — Offers detailed information on ports worldwide, including port facilities, services, and logistics data.
+- [SCCOOS (United States)](https://sccoos.org/) — Monitors and provides data on coastal ocean conditions in Southern California to support environmental research and decision-making.
+- [Ship Finder](https://www.shipfinder.com/) — Enables real-time tracking of ships globally using AIS data, offering live maps and vessel information.
+- [Shipping Explorer](https://www.shippingexplorer.net) — Provides real-time AIS-based ship tracking, route planning, and historical data for maritime professionals and enthusiasts.
+- [Shipping Line](http://www.shippingline.org/) — Offers information and resources related to shipping lines, including schedules and company profiles.
+- [ShipSpotting](https://www.shipspotting.com/) — A platform for ship enthusiasts to share and view photos and videos of various vessels from around the world.
+- [Skunk Tracker](https://www.mobilegeographics.com/skunktracker) — Displays live, updating maps of ships and boats using AIS data streams from dedicated receivers or network feeds.
+- [SuperYachts](https://www.superyachts.com) — Features listings for luxury yachts available for sale or charter, along with industry news and lifestyle content.
+- [TankerTrackers](https://tankertrackers.com) — Tracks and reports shipments of crude oil using satellite imagery and AIS data to provide market transparency.
+- [The Shipping Database](https://theshippingdatabase.com/) — Provides a searchable database of ships, including details like IMO numbers, vessel names, and ownership information.
+- [TMT Fisheries Intelligence](https://www.tm-tracking.org) — Offers tracking services and information for maritime transportation and logistics.
+- [Tokyo MOU](http://www.tokyo-mou.org/) — Provides information on port state control in the Asia-Pacific region, promoting maritime safety and environmental protection.
+- [Vessel Finder](https://www.vesselfinder.com) — Offers real-time AIS tracking of ships worldwide, including vessel positions, port arrivals, and maritime news.
+- [Vessel Tracker](https://www.vesseltracker.com) — Provides global AIS tracking and maritime intelligence, including vessel movements and port calls.
+- [Volza: Ports](https://www.volza.com/ports) — Offers data and analytics on global port activities, including import-export trends and shipment details.
+- [Voyage Finder\n](https://www.cma-cgm.com/ebusiness/schedules/voyage) — Provides voyage schedules and booking information for shipping services.
+- [Windward\n](https://windward.ai) — Offers shipping and logistics services, including freight forwarding and supply chain solutions.
+- [World Map](https://worldmap.harvard.edu/maps/2892) — Provides an interactive map detailing global shipping routes and maritime traffic patterns.
+- [World Port Index](https://msi.nga.mil/NGAPortal/MSI.portal?_nfpb=true&_pageLabel=msi_portal_page_62&pubCode=0015) — Offers maritime safety information, including navigational warnings and notices to mariners.
+- [World Shipping Register](http://eships.net) — Provides information and tracking services for ships, including vessel details and movement history.

@@ -1,0 +1,49 @@
+# Search Engine Dorking
+
+> 45 tools — [osinthandbook.com/search-engine-dorking](https://www.osinthandbook.com/search-engine-dorking)
+
+- [Advangle](http://advangle.com) — A user-friendly interface for building advanced Google and Bing queries.
+- [All-Dorks-in-one-place](https://github.com/RhackrExplorer/All-Dorks-in-one-place) — A collection of OSINT dorks.
+- [AOL Search Syntax](https://help.aol.co.uk/articles/Advanced-Search) — Help article explaining AOL’s advanced search options and usage.
+- [Ashok](https://github.com/powerexploit/Ashok) — Multi-functional OSINT reconnaissance tool with features like Google Dorking, Wayback crawling, and subdomain identification.
+- [Bing Search Syntax](https://support.microsoft.com/en-us/topic/advanced-search-options-b92e25f1-0085-4271-bdf9-14aaea720930) — Microsoft support page detailing advanced search functionality across its services.
+- [Bug Bounty Helper](https://dorks.faisalahmed.me/) — Web-based platform providing pre-crafted Google Dorks for targeted information discovery.
+- [Deep Dork](https://guilherme-moraiss.github.io/Deep-Dork-Web/) — Educational tool for advanced Google Dorking with categorized queries and search execution.
+- [Deep Dork](https://guilherme-moraiss.github.io/Deep-Dork-Web/) — Tool for generating advanced Google queries based on a domain or a keyword.
+- [DeepFind.me: AI Google Dork Builder](https://www.deepfind.me/tools/search-and-discovery/ai-google-dork-builder) — Generate advanced Google dorks using AI to uncover hidden pages, files, and indexed data.\n\n
+- [Dork Genius](https://dorkgenius.com/) — Tool for generating and testing Google dorks for cybersecurity and OSINT tasks.
+- [DorkGPT](https://www.dorkgpt.com/) — AI-based tool for generating Google dorks.
+- [DorkKing](https://dorkking.blindf.com) — A collection of bug bounty dorks.
+- [dorks_hunter](https://github.com/six2dez/dorks_hunter) — Python script automating categorized Google Dork searches against target domains.
+- [dorks-eye](https://github.com/BullsEye0/dorks-eye) — Python 3 script for scraping and searching Google Dorks to identify potentially vulnerable web pages.
+- [DuckDuckGo Search Syntax](https://duckduckgo.com/duckduckgo-help-pages/results/syntax/) — Guide to using syntax and advanced operators in DuckDuckGo search.
+- [Fast Google Dorks Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) — Automated OSINT tool that compiles and executes various Google dork combinations to uncover admin panels, file types, and path traversal issues on target websites.
+- [FileHunt](https://filehunt.3kh0.net/) — Search query builder for locating sensitive files on the web using various search engines.
+- [FilePhish](https://greylensresearch.github.io/filephish) — A simple query builder with support for multiple search engines.
+- [Gmail Search Syntax](https://support.google.com/mail/answer/7190?hl=en) — Google Help article on using advanced search in Gmail.
+- [Go For Dorks](https://dorks.xen00rw.me/) — A dorking tool with support for multiple search engines.
+- [Go-Dork](https://github.com/dwisiswant0/go-dork) — High-speed dork scanner written in Go supporting multiple search engines including Google, Shodan, Bing, and DuckDuckGo.
+- [Golden Owl: Advanced Dorking Generator](https://syntax.goldenowl.ai) — A Google dorks generator.
+- [Google Advanced Image Search](https://www.google.com/advanced_image_search) — Google’s interface for refining image searches with advanced filters.
+- [Google Advanced Search](https://www.google.com/advanced_search) — Google’s advanced search page for refining search queries with specific criteria.
+- [Google Advanced Video Search](https://www.google.com/advanced_video_search) — Google’s page for conducting detailed video searches using various filters.
+- [Google Dork Builder](https://addons.mozilla.org/ru/firefox/addon/google-dork-builder/) — Firefox extension for building and testing Google dork queries.
+- [Google Dorks for Bug Bounty](https://taksec.github.io/google-dorks-bug-bounty/) — Collection of Google Dorks tailored for bug bounty hunting with domain-specific search capabilities.
+- [Google Hacking Database](https://www.exploit-db.com/google-hacking-database) — Categorized index of Google Dork queries designed to uncover sensitive information exposed online.
+- [Google Hacking Tests](https://www.tutorialspoint.com/google_hacking_tests.htm) — Practice tests for Google hacking and dorking techniques.
+- [GooHak](https://github.com/1N3/Goohak) — Tool that automatically launches Google hacking queries against a target domain to find vulnerabilities.
+- [Internet Archive & Wayback Machine Search Syntax](https://archive.org/advancedsearch.php) — Internet Archive’s tool for performing advanced searches in its digital collections.
+- [MetaGer Search Syntax](https://metager.org/hilfe/funktionen) — MetaGer help page describing its advanced search features and privacy tools.
+- [Mojeek Search Syntax](https://www.mojeek.com/support/search-operators.html) — Support page outlining Mojeek’s available search operators.
+- [Oxdork](https://github.com/rly0nheart/oxdork) — Python-based tool that leverages Google dorking techniques to identify security vulnerabilities and misconfigurations in web servers.
+- [pagodo](https://github.com/opsdisk/pagodo) — Passive Google Dork tool that automates scraping and searching of the Google Hacking Database to identify potentially vulnerable web pages.
+- [Penstest Tools: Google Hacking](https://pentest-tools.com/information-gathering/google-hacking) — Online service providing Google Hacking tools for information gathering during penetration testing.
+- [pyDork](https://github.com/blacknon/pydork) — GitHub repository for PyDork, a tool for automating Google dork queries.
+- [Qwant Search Syntax](https://help.qwant.com/en/docs/qwant-search/searching/how-to-search-with-qwant/#help_details) — Qwant support guide on effective searching using advanced methods.
+- [Recruit’em](https://recruitin.net) — Tool that generates advanced Google search queries to find profiles on various professional and social networking sites.
+- [SDorker](https://github.com/TheSpeedX/SDorker) — Script that provides a large list of web dorks for automated Google Dorking.
+- [Site Dorks](https://github.com/Zarcolio/sitedorks) — Multi-engine search utility that queries predefined or custom website lists using dorks across platforms like Google, Bing, DuckDuckGo, and Yahoo.
+- [snitch](https://github.com/Smaash/snitch) — Tool designed to collect information via Google Dorks for reconnaissance purposes.
+- [sqli-dorks-generator](https://github.com/AhmedOsamaMath/sqli-dorks-generator) — Python-based generator creating Google Dorks for SQL injection vulnerability testing.
+- [thedorkbox](https://github.com/cybersafeblr/thedorkbox) — Tool that assists in generating and managing Google Dorks for security assessments.
+- [Yandex Search Syntax](https://yandex.com/support/search/query-language/search-operators.html) — Yandex support article on using search operators for better results.

@@ -1,0 +1,78 @@
+# Youtube
+
+> 74 tools — [osinthandbook.com/youtube](https://www.osinthandbook.com/youtube)
+
+- [_IntelligenceX: YouTube](https://intelx.io/tools?tab=youtube) — A YouTube DataViewer from _IntelligenceX.
+- [4K Video Downloader (Different Platforms)](https://www.4kdownload.com) — Allows users to download videos and extract audio from YouTube and other popular platforms.
+- [Advanced Search for YouTube](https://playlists.at/youtube/search/) — Advanced search interface for YouTube.
+- [Anilyzer](http://anilyzer.com) — Watch YouTube and Vimeo videos frame by frame and in slow motion.
+- [Annotate.tv](https://annotate.tv) — A tool for taking timestamped notes and exporting transcripts from videos.
+- [Apify](https://apify.com/streamers/youtube-scraper) — A scraper that extracts video data, comments, and channel info from YouTube.
+- [Aware Online: YouTube Search Tool](https://www.aware-online.com/en/osint-tools/youtube-search-tool/) — YouTube search tool from Aware Online.
+- [Bookmark It](https://bookmark-it.happydevelopers.co) — A notetaking app for YouTuve videos.
+- [Channel Crawler](https://channelcrawler.com/) — A YouTube channel search tool and a database of YouTube influencers.
+- [ClipConverter.cc (YouTube)](https://www.clipconverter.cc) — Free online tool to record and convert nearly any audio or video URL to common formats.
+- [Comment Finder](https://ytcomment.kmcat.uk/) — YouTube comment finder.
+- [ddownr (YouTUbe)](https://ddownr.com) — Free YouTube / Multi‑service downloader offering MP4 / MP3 conversion in multiple resolutions with no registration.
+- [Deturl (YouTube)](http://deturl.com) — Save a YouTube video as an MP3, MP4, or AVI.
+- [Download Subtitles](https://downsub.com) — Downloads subtitles and transcripts from online videos.
+- [Enhancer for YouTube](https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle) — A Chrome extension that adds a host of highly customisable features to the YouTube interface.
+- [Filmot](https://filmot.com/) — Search within YouTube subtitles, captions and transcripts.
+- [First YouTube Comment Finder](https://tubepilot.ai/tools/first-comment-finder) — Enter the URL of a YouTube video to reveal the first YouTube comment.
+- [FreeTube](https://freetubeapp.io) — The private YouTube client.
+- [Hadzy](https://hadzy.com) — Search, sort and analyse YouTube comments.
+- [hashcut](https://www.hashcut.com) — A web app for clipping and sharing annotated segments of YouTube videos.
+- [HypeAuditor](https://hypeauditor.com) — Influencer marketing platform offering Instagram account analysis and audience insights.
+- [Improve Youtube](https://chromewebstore.google.com/detail/improve-youtube-%F0%9F%8E%A7-for-yo/bnomihfieiccainjcjblhegjgglakjdd) — A Chrome extension that adds additional features to the YouTube interface.
+- [InstantView for YouTube](https://chrome.google.com/webstore/detail/instantview-for-youtube/pababfeapfpjaghmlfipkcoioeflpbio?hl=en) — Browse YouTube faster by opening videos in a popup when their thumbnails are clicked.
+- [Lettapp](https://github.com/lettapp/ytcs) — Search youtube comments by keywords.
+- [Looper](https://chrome.google.com/webstore/detail/looper-for-youtube/iggpfpnahkgpnindfkdncknoldgnccdg) — Auto replay videos with ONE-CLICK, able to customise features such as AUTO LOOP toggle, setting loop counts and loop portion.
+- [MW YouTube Metadata](https://mattw.io/youtube-metadata) — Displays raw metadata for YouTube videos in browser.
+- [NSWF YouTube](https://www.nsfwyoutube.com) — Access age-restricted or mature content from YouTube by bypassing standard platform restrictions.
+- [OsintTube](https://github.com/rdWei/OsintTube) — An interactive shell to perform analysis on Youtube account of any user by its id.
+- [OwlZoom](https://addons.mozilla.org/en-US/firefox/addon/owlzoom-youtube/) — Firefox extension to zoom and pan YouTube videos.
+- [PreseveTube](https://preservetube.com) — A free tool that archives copies of YouTube videos and allows you to search for videos and channels saved by other users.
+- [Quite a Playlist](https://quiteaplaylist.com) — A tool for finding the details of deleted YouTube videos.
+- [ReClipped: YouTube Notes & Screenshots](https://chromewebstore.google.com/detail/reclipped-youtube-notes-s/gbnebpdekafhpcipejfhabfghccgfnbh) — Take timestamped notes and screenshots from videos on YouTube and many other platforms.
+- [ReelTime AI](https://reeltime-ai.com) — A tool to locate the exact moment you are looking for in a YouTube video.
+- [Return Youtube Comment Username](https://chromewebstore.google.com/detail/return-youtube-comment-us/kamibelompadnaekbellinmgbphoidmj) — A Chrome extension that replaces the \handle\" in the YouTube comments section with a traditional username."
+- [Screenshot YouTube](https://chromewebstore.google.com/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk) — Take a screenshot of any YouTube video with one click.
+- [Slowtube](https://www.dkthehuman.com/slowtube/) — Plays YouTube videos at slower speeds for transcription or captioning help.
+- [Social Blade](https://socialblade.com/) — Tracks daily statistics and growth for content creators.
+- [Softorino YouTube Converter](https://softorino.com/youtube-converter-2) — YouTube Converter: Save YouTube media to Apple device.
+- [TraceTracks](https://github.com/Oblivios/TraceTracks) — A powerful OSINT tool that discovers YouTube videos based on SoundCloud tracks.
+- [Transpose](https://chrome.google.com/webstore/detail/transpose-%E2%96%B2%E2%96%BC-pitch-%E2%96%B9-spee/ioimlbgefgadofblnajllknopjboejda?hl=en) — A Chrome extension to transpose pitch and change playback speed on YouTube.
+- [Trinding](https://trinding.com) — A free social‑media platform to share, discover, and help new videos go viral.
+- [TunePocket YouTube Channel Search](https://www.tunepocket.com/youtube-channel-search/) — A free tool that can quickly help you find relevant YouTube channels based on keywords or a channel name.
+- [Turn Off the Lights](https://chrome.google.com/webstore/detail/turn-off-the-lights/bfbmjmiodbnnpllbbbfblcplfjjepjdn) — A Chrome extension that displays YouTube videos on a black background.
+- [Tweaks for YouTube](https://chromewebstore.google.com/detail/tweaks-for-youtube/ogkoifddpkoabehfemkolflcjhklmkge) — A Chrome extension that adds a set of useful tools to the YouTube interface.
+- [Unlisted Videos](https://unlistedvideos.com) — A website for submitting, searching for, and watching unlisted YouTube videos.
+- [Watch Frame by Frame](http://www.watchframebyframe.com) — Watch frame by frame or in slow motion in a browser-based player.
+- [Y2mate (YouTube)](https://www.y2mate.com) — Download video and audio from YouTube.
+- [YCS - YouTube Comment Search](https://chromewebstore.google.com/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa) — Search comments, replies, chat replay, and video transcript for the current video on YouTube by contents, authors, and time.
+- [YiNote](https://chromewebstore.google.com/detail/yinote/fhpgggnmdlmekfdpkdgeiccfkignhkdf) — Take and share time-stamped notes while watching videos.
+- [YouGlish](https://youglish.com/) — YouGlish provides pronunciation examples by playing short YouTube clips featuring a searched word or phrase in context, with options for accents (US, UK, AUS, etc.).
+- [Yout (YouTube)](https://yout.com) — Free online service that converts any video or audio URL into MP3, MP4, WAV, or GIF formats.
+- [Yout-ube](https://www.yout-ube.com) — Watch YouTube videos without getting interrupted by intrusive advertising.
+- [Youtube Channel Archiver](https://github.com/dmn001/youtube_channel_archiver) — Starting point for archiving entire YouTube channels using yt-dlp (originally youtube-dl).
+- [Youtube Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader) — Simple script for downloading Youtube comments without using the Youtube API.
+- [Youtube Comments\n](https://youtube-comments.io/get-comments) — A service for retrieving comments from YouTube videos.
+- [YouTube Comments Search](https://ytbcomments.com) — A tool to search within and analyse YouTube comments.
+- [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube) — Exports data from YouTube channels, videos, playlists, and comments.
+- [YouTube Data Viewer](https://www.amnestyusa.org/citizenevidence) — A platform to submit videos or photos as human rights evidence.
+- [YouTube Geofind](https://mattw.io/youtube-geofind/location) — A web-tool to search YouTube for geographically tagged videos by channel, topic, and location.
+- [YouTube History Visualizer](https://youtubestats.forgetimer.com) — Visualise your YouTube history.
+- [Youtube Lookup](https://youtube-lookup.vercel.app/) — A tool to fetch and display metadata from YouTube videos.
+- [YouTube Restriction Check](http://polsy.org.uk/stuff/ytrestrict.cgi?ytid=vg7wh_zf2X0) — The YouTube region restriction checker.
+- [YouTube Subscription History](https://xxluke.de/subscription-history) — Find out when you subscribed to a given YouTube channel.
+- [YouTube Thumbnail Graber](https://boingboing.net/features/getthumbs) — Retrieves YouTube video thumbnails.
+- [YouTube to Transcript](https://youtubetotranscript.com) — Extracts and displays transcripts from YouTube videos.
+- [Youtube Transcript](https://github.com/jdepoix/youtube-transcript-api) — Get the transcript / subtitles for a given YouTube video.
+- [YouTube Transcript Search](https://chromewebstore.google.com/detail/youtube-transcript-search/majldhdjdophhohfppnjlgnljcbjkakb) — A Chrome extension to search through any Youtube video's transcripts.
+- [Youtube Video Finder](https://findyoutubevideo.thetechrobo.ca/) — Search several resources for archived YouTube video and metadata.
+- [youtube_tool](https://github.com/nlitsme/youtube_tool) — Tool for extracting comments or subtitles from YouTube videos.
+- [Youtube-dl (YouTube)](https://rg3.github.io/youtube-dl/) — A command-line program to download videos from YouTube.com and other sites.
+- [Youtube-dlc (YouTube)](https://github.com/blackjack4494/youtube-dlc) — A command-line program to download videos from YouTube.com and other sites.
+- [youtube-handles-fuzz](https://github.com/mariosantella/youtube-handles-fuzz) — A tool to check availability of YouTube usernames in bulk.
+- [YT MP4](https://ytmp4.is/) — Youtube to MP4 converter.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — A feature-rich command-line audio / video downloader.

@@ -1,0 +1,87 @@
+# Twitter X
+
+> 83 tools — [osinthandbook.com/twitter-x](https://www.osinthandbook.com/twitter-x)
+
+- [_IntelligenceX: Twitter](https://intelx.io/tools?tab=twitter) — A suite of OSINT tools for investigating Twitter data provided by _IntelligenceX.
+- [Archive Tweets](https://archive.twitter-trending.com/) — Displays historical Twitter trending topics by date and country, allowing users to explore past trends.
+- [Aware Online Twitter Search](http://www.aware-online.com/en/osint-tools/twitter-search-tool/) — A suite of OSINT tools for investigating Twitter data provided by Aware Online.
+- [BirdHunt](https://birdhunt.huntintel.io/) — Utilizes Twitter's geocoded search to find tweets based on specific locations, aiding in location-based investigations.
+- [Birdwatcher](https://awesomeopensource.com/project/michenriksen/birdwatcher) — Data analysis and OSINT framework for Twitter.
+- [Botdownloader (Different Platforms)](https://botdownloader.com) — Enables users to download videos from various social media platforms including Facebook, Twitter, Instagram, TikTok, Pinterest and more.
+- [Cawbird](https://snapcraft.io/cawbird) — Provides an unofficial native Linux client for Twitter with support for multiple accounts and notifications.
+- [Deleted Tweet Finder V2.3](https://cache.digitaldigging.org/) — Search for deleted tweets across multiple archival services.
+- [Download Twitter Data](https://www.twtdata.com/) — Download Twitter data in csv format by entering any Twitter handle, keyword, hashtag, List ID or Space ID.
+- [Download Twitter Video (Twitter)](https://ssstwitter.com) — Twitter video downloader.
+- [DreDown](https://www.dredown.com) — Allows downloading of videos from a range of websites including social media platforms.
+- [Eight Dollars\n](https://github.com/wseagar/eight-dollars) — A browser extension that shows twitter blue vs real verified users.
+- [Export Comments](https://exportcomments.com) — Exports social media post comments into downloadable files for analysis or archiving.
+- [Fedica\n](https://fedica.com/) — An all-in-one social media management platform offering AI-driven analytics, publishing, audience insights, and cross-platform scheduling tools.
+- [Follower Audit\n](https://www.followeraudit.com/) — Check fake followers and analyze the followers of any Twitter / X account.
+- [Followers Analysis](https://www.followersanalysis.com) — A tool to export and analyze Twitter followers and following.
+- [Followerwonk](https://followerwonk.com/) — A Twitter / X analytics tool that enables users to search bios, analyze followers, compare accounts, and track follower changes over time.
+- [Gebruikersnamen](https://gebruikersnamen.nl) — A Dutch service aimed at enhancing social media presence by offering tools to increase followers, likes, and views on various platforms.
+- [Get Day Trends\n](https://getdaytrends.com/) — A website that tracks and displays real-time Twitter trending topics and hashtags worldwide, allowing users to explore trends by country and time.
+- [Get Dewey](https://getdewey.co/) — Sync, search, and export all your bookmarks across multiple accounts.
+- [Hashtags.org](https://www.hashtags.org) — Delivers hashtag analytics and tracking services, enabling users to monitor hashtag performance and gain social media insights.
+- [Help Twitter Law Enforcement Request](https://help.twitter.com/forms/lawenforcement) — Provides a form for law enforcement officials to submit information requests related to Twitter accounts.
+- [Hoaxy](https://hoaxy.osome.iu.edu/) — Visualizes the spread of information on social media.
+- [Influence Marketing Hub\n](https://influencermarketinghub.com/twitter-money-calculator/) — Estimates potential earnings from tweets based on follower count, engagement rate, and recent activity to help influencers assess their monetization opportunities.
+- [Internet Archive\n](https://archive.org/details/twitterstream) — Offers downloadable archives of historical Twitter data, capturing a sample of global tweets for research and analysis purposes.
+- [Keep Flick (Different Platforms)](https://www.keepflick.com) — Download social media videos in various formats and resolutions.
+- [Memory](https://github.com/travisbrown/memory.lol) — A web service that provides historical information about social media accounts. It can currently be used to look up 542 million historical screen names for 443 million Twitter accounts.
+- [Minter.io](https://minter.io) — Analytics and performance tracking tool for businesses and influencers.
+- [Next Sight - X.com AI Analyzer](https://github.com/ZvonkoNS/Next-Sight-x.com-AI-analyzer) — The Next Sight X.com AI Analyzer is a powerful tool designed to monitor harmful online behavior on Twitter / X.
+- [NoteTacker](https://notetracker.socialmedialab.ca) — A Searchable Database of X's Community Notes.\n\n
+- [OneMillionTweetMap](https://onemilliontweetmap.com/) — Visualizes the latest one million geolocated tweets on an interactive world map, allowing users to filter by keyword or hashtag and view data as clusters or heatmaps.
+- [Owlead](https://owlead.com) — Automates Twitter growth by targeting and following relevant users to help businesses gain real and organic followers efficiently.
+- [Phantom Buster](https://phantombuster.com) — A set of tools to extract data from various social media platforms.
+- [Phantom Buster](https://phantombuster.com) — Offers a suite of automation tools to extract data and automate actions across various platforms, streamlining lead generation and outreach processes.
+- [Phlanx: Instagram Engagement Calculator](https://phlanx.com/engagement-calculator) — Influencer engagement calculator.
+- [Random Tools: Instagram](https://randomtools.io/) — Offers a collection of free online utilities including Facebook tools.
+- [RiteTag](https://ritetag.com) — Provides instant hashtag suggestions.
+- [Save the Video (Different Platforms)](https://savethevideo.net) — Enables downloading of videos from social media platforms and video sites.
+- [SNScrape](https://github.com/JustAnotherArchivist/snscrape) — A simple Python script that scrapes user profiles, hashtags, and search results from a variety of social media platforms.
+- [Social-alerts](https://github.com/mamoedo/social-alerts) — Provides a Python-based tool that monitors specified Twitter and Instagram accounts for defined keywords, sending instant email notifications when matches are detected, with customizable filters and configurations.
+- [socialscan](https://pypi.org/project/socialscan/) — Performs username and email address checks across multiple platforms.
+- [Sotwe](https://www.sotwe.com/) — Private, ad-free Twitter viewer enabling anonymous browsing of tweets, profiles, hashtags, and media without login, featuring trend tracking and media downloads.
+- [Spaces Downloader](https://spacesdown.com/) — Tool for downloading and recording Twitter/X Spaces, offering MP3 conversion, AI-generated transcripts, and a searchable library of over 83,000 recorded sessions.
+- [Spoonbill](https://spoonbill.io) — A tool to monitor changes to social media profiles.
+- [Stweet\n](https://github.com/markowanga/stweet) — Python library for scraping tweets and user data from Twitter using an unofficial API, supporting searches by keywords, tweet IDs, and usernames.
+- [Synapsint](https://synapsint.com) — A free service that aggregates data from multiple intelligence sources, search engines, datasets, and other resources to provide comprehensive cybersecurity insights.
+- [t](https://github.com/sferik/t) — Command-line tool for interacting with Twitter via terminal.
+- [Tagdef](https://tagdef.com) — Online dictionary for user-submitted hashtag definitions.
+- [Thread Reader](https://threadreaderapp.com) — Service that unrolls Twitter/ X threads into readable blog-style pages.
+- [Tinfoleak](https://tinfoleak.com) — Web-based OSINT tool for analyzing Twitter / X user activity and metadata.
+- [Trend Calendar\n](https://us.trend-calendar.com/) — Archive of daily trending topics from Twitter and Google.
+- [Trends24](https://trends24.in/) — Real-time display of trending Twitter topics by region and time.
+- [Twayback Machine](http://staringispolite.github.io/twayback-machine/) — Tool for viewing archived versions of Twitter profiles and tweets.
+- [TWDOWN (Twitter)](https://twdown.net) — Website for downloading videos from Twitter posts.
+- [Tweepi](https://tweepi.com) — Platform for managing and growing Twitter followers with AI tools.
+- [Tweet Eraser](https://www.tweeteraser.com) — Tool for bulk deleting tweets based on various filters.
+- [TweetArchivist](http://www.tweetarchivist.com) — Service for archiving and analyzing tweets.
+- [TweetDelete](https://tweetdelete.net) — Tool for automatically deleting old tweets based on user-defined criteria.
+- [TweeterID](https://tweeterid.com) — Utility for converting Twitter usernames to numeric user IDs.
+- [Tweets_analyzer](https://github.com/x0rz/tweets_analyzer) — Python-based tool for analyzing tweets.
+- [Twiends](https://twiends.com) — Platform for discovering and connecting with Twitter users based on interests.
+- [Twilert](https://twilert.com/) — Service that sends email alerts for specific Twitter keywords or hashtags.
+- [Twitonomy](http://www.twitonomy.com) — Analytics platform providing detailed statistics on Twitter account activity.
+- [Twitter Audit](https://www.twitteraudit.com) — Service that audits Twitter followers to detect fake or inactive accounts.
+- [Twitter BFTD](https://github.com/misterch0c/twitterBFTD) — Twitter Back From The Dead looks in a user tweets history for domain names that are available for registration.
+- [Twitter Data Analysis Tool\n](https://www.exportdata.io/) — Analyze and export Twitter followers, followings, account timeline, historical tweets and more. Download your analysis in PDF or CSV formats.
+- [Twitter Developer](https://developer.twitter.com/en) — Official Twitter developer portal for accessing APIs and developer tools.
+- [Twitter List Copy](http://projects.noahliebman.net/listcopy/connect.php) — Tool for copying Twitter lists between accounts.
+- [Twitter Search](https://twitter.com/explore) — Explore page on Twitter showcasing trending topics and news.
+- [Twitter Video Downloader (Twitter)](https://twittervideodownloader.com/) — Website for downloading videos from Twitter.
+- [Twitter/X Advanced Search\n](https://x.com/search-advanced) — Advanced search interface for finding specific tweets on Twitter.
+- [TwitterSearch2Gephi](https://github.com/hjunker/TwitterSearch2Gephi) — Tool for visualizing Twitter / X search results in Gephi network graphs. Also supports Reddit and YouTube.
+- [Twittimer](https://twittimer.com) — Service for scheduling tweets and managing Twitter content.
+- [TwitWork](https://github.com/atmoner/TwitWork) — A tool for monitoring the Twitter stream and visualizing tweets.
+- [Twstalker](https://twstalker.com) — Twitter web viewer.
+- [twXplorer](https://twxplorer.knightlab.com) — Search Twitter for terms of interest to see a snapshot of related activity in the latest 500 tweets.
+- [Ultimate Social Scrapers](https://github.com/harismuneer/Ultimate-Social-Scrapers) — Top-rated tools to scrape all major public sections from Facebook, Instagram, and Twitter / X including posts (likes / comments), photos / videos, contact information, followers, following and much more.
+- [VDownloader (Different Platforms)](https://vdownloader.com) — Enables downloading of online videos including from Facebook and YouTube.
+- [Wayback Tweets](https://waybacktweets.streamlit.app/) — A web app that retrieves archived tweets from the Wayback Machine, offering outputs in HTML, CSV, and JSON formats.
+- [Who posted what?](https://whopostedwhat.com) — A set of Facebook, Instagram and Twitter tools.
+- [XHunt](https://www.huntintel.io/) — A tool that searches for social media insights for any location.
+- [Xplore](https://xplore-x.vercel.app) — Explore live X posts and discussions happening around the world.
+- [Yoo Download (Different Platforms)](https://yoodownload.com) — Allows downloading of content from various social and video platforms.

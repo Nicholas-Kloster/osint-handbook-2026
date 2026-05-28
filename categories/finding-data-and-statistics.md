@@ -1,0 +1,112 @@
+# Finding Data And Statistics
+
+> 108 tools — [osinthandbook.com/finding-data-and-statistics](https://www.osinthandbook.com/finding-data-and-statistics)
+
+- [Academic Torrents](https://academictorrents.com) — Platform for sharing large datasets used in academic research.
+- [ADB Statistical Database System](https://www.adb.org/data/sdbs) — Presents social and economic statistics for Asia and the Pacific region from the ADB.
+- [AGOA Data Center](https://agoa.info/) — Delivers information and updates on the African Growth and Opportunity Act and US-Africa trade relations.
+- [AidData](https://www.aiddata.org/) — Offers data and analysis on global aid flows, development finance, and project tracking.
+- [Archeology Data Service](https://archaeologydataservice.ac.uk/) — Provides access to a rich archive of UK archaeological reports, datasets, and related resources.
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) — Offers a curated collection of high-quality public datasets organized by topic for data science and research applications.
+- [AWS Public Datasets](https://registry.opendata.aws) — Centralised registry of open datasets hosted on Amazon Web Services infrastructure.
+- [Bank for International Settlements Statistics](https://www.bis.org/statistics/index.htm) — Publishes international banking and financial statistics from the Bank for International Settlements.
+- [BigQuery Public Datasets](https://cloud.google.com/bigquery/public-data) — Enables access to large public datasets for analysis using Google’s BigQuery infrastructure.
+- [BP Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html) — Offers annual reviews and statistics on global energy production, consumption, and trends.
+- [Bureau of Transportation Statistics](https://transtats.bts.gov/) — Offers aviation statistics including airline performance and transportation metrics in the US.
+- [Center for International Earth Science Information Network](http://www.ciesin.org) — Provides data and tools for environmental and socio-economic research and policy-making.
+- [CEPII](http://www.cepii.fr/CEPII/en/welcome.asp) — Provides international economic research and data with a focus on global trade and policy.
+- [CIA World Factbook](https://www.cia.gov/the-world-factbook/) — Offers detailed information on the history, people, government, economy, and geography of countries.
+- [Data 360](http://www.data360.org) — Presents data visualisations and analytics on various topics, including economics, demographics, and health.
+- [Data Catalog](https://catalog.data.gov/dataset) — Delivers a catalog of datasets from the US government, covering a wide range of topics and agencies.
+- [Data Europa](https://data.europa.eu) — Provides access to European Union open data, covering various themes such as economy, environment, and health.
+- [Data Portals](http://dataportals.org) — Presents a comprehensive list of open data portals from around the world to facilitate access to public datasets.
+- [Data.gov](https://data.gov/) — Serves as the US government's open data portal, offering access to federal datasets across topics.
+- [Data.gov.uk](https://www.data.gov.uk/) — Provides access to UK government data for transparency, research, and public use.
+- [Data.World](https://data.world) — Offers a collaborative data platform for discovering, sharing, and analysing diverse datasets.
+- [DataCite](https://search.datacite.org) — Enables discovery and access to research data from repositories worldwide.
+- [DBPedia](http://wiki.dbpedia.org) — Extracts structured information from Wikipedia and transforms it into a semantic knowledge base.
+- [DOE Data Explorer](https://www.osti.gov/dataexplorer/) — Enables search and access to scientific research data funded by the US Department of Energy.
+- [DRYAD](https://datadryad.org) — Repository for curated research data underlying published scientific studies.
+- [EMBL-EBI](https://www.ebi.ac.uk) — Delivers a wide range of biological data resources through a leading centre for bioinformatics research and services.
+- [European Commission Eurobarometer](https://europa.eu/eurobarometer/screen/home) — Offers public opinion data collected through surveys conducted across EU member states.
+- [European Data Portal](https://www.europeandataportal.eu) — Offers access to European public sector data in various formats for reuse.
+- [European Union Open Data Portal](https://data.europa.eu/euodp/en/data) — Centralises access to open data from EU institutions and member states.
+- [Eurostat](https://ec.europa.eu/eurostat) — Offers comprehensive European statistics covering economy, population, and environment.
+- [FAIRsharing.org](https://fairsharing.org) — Supports data sharing and reproducibility in scientific research through a registry of standards, databases, and policies.
+- [FAOSTAT](https://www.fao.org/faostat/en/) — Presents agricultural and food statistics including production, trade, and consumption data.
+- [FiveThirstyEight](https://data.fivethirtyeight.com) — Hosts datasets used in FiveThirtyEight’s data journalism for independent analysis and reuse.
+- [FRED](https://fred.stlouisfed.org) — Offers a comprehensive database of economic data, including over 800,000 US and international time series from various sources.
+- [Gapminder World](https://www.gapminder.org/data/) — Presents global development data in an interactive and accessible visual format.
+- [gesisDataSe](https://datasearch.gesis.org/search) — Searchable database offering access to a broad collection of social science research data.
+- [globalEDGE Database of International Business Statistics](https://globaledge.msu.edu/tools-and-data/dibs) — Offers international business and economic data to support global trade and investment decisions.
+- [Google Dataset Search](https://datasetsearch.research.google.com) — Search engine for datasets across thousands of online repositories and publishers.
+- [Google Public Data Explorer](http://www.google.com/publicdata/directory) — Enables users to explore and visualise public datasets from various international organisations through an interactive directory.
+- [GOVDATA](https://www.govdata.de) — Portal for open government data from German federal, state, and local authorities.
+- [Government of Canada Open Data](https://open.canada.ca/en/open-data) — Gateway to Canadian government datasets on topics like health, environment, and economy.
+- [Human Development Reports](https://hdr.undp.org/en/global-reports) — Publishes annual global human development reports with related data and analysis.
+- [ICPSR](https://www.icpsr.umich.edu//web/pages/ICPSR/index.html) — Provides a comprehensive archive of social and behavioral science data, offering tools for data analysis and research.
+- [IDEA Databases](https://www.idea.int/data-tools) — Offers global data tools and resources on democracy and electoral processes.
+- [IHS Piers](https://www.ihs.com/products/piers.html) — Provides international trade data with detailed cargo shipment records for market analysis.
+- [ILOSTAT](https://ilostat.ilo.org) — Provides international labour statistics including employment, wages, and working conditions data.
+- [IMF Data](http://www.imf.org/en/Data) — Offers economic and financial data, including global statistics and indicators from international sources.
+- [IMF World Economic Outlook Databases](http://www.imf.org/external/ns/cs.aspx?id=28) — Features cross-country economic and financial statistics compiled by the IMF.
+- [Index Mundi](https://www.indexmundi.com/) — Aggregates economic, demographic, and social indicators from various global data sources.
+- [International Energy Agency Data and Statistics](https://www.iea.org/data-and-statistics) — Delivers energy-related statistics and analysis from a global perspective.
+- [International Labour Comparisons](https://www.bls.gov/fls/chartbook.htm) — Presents charts and statistics comparing labour trends between the US and other countries.
+- [Junar](https://junar.com/) — Provides a platform for governments and organisations to publish and manage open data portals.
+- [Kaggle](https://www.kaggle.com/datasets) — Hosts a wide array of user-contributed datasets across domains like economics and science.
+- [Knoema Atlas](https://knoema.com/atlas) — A portal offering data, maps, and rankings from all across the world.
+- [LandMatrix](https://landmatrix.org/) — Tracks large-scale land acquisitions globally through an open-access database promoting transparency and accountability.
+- [Latinobarometro](https://www.latinobarometro.org) — Provides public opinion data on social, political, and economic issues in Latin America.
+- [Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php) — Hosts a repository of machine learning datasets for research and academic experimentation.
+- [Mendeley: Find Research Data](https://data.mendeley.com/research-data/) — Hosts research datasets for academic use, allowing researchers to publish and share their data.
+- [Microsoft Research Open Data](https://www.microsoft.com/en-us/research/tools/?) — Features various research tools and datasets developed by Microsoft Research.
+- [Nation Master](https://www.nationmaster.com/statistics) — Presents comparative statistics across countries in areas like economy, crime, and health.
+- [Net Data Directory](http://netdatadirectory.org) — Aggregates sources of publicly available international development and economic data.
+- [OCCRP ID: Catalogue of Research Databases](https://id.occrp.org/databases/) — Provides access to investigative databases related to organised crime and corruption.
+- [ODA Trends and Statistics](https://www.oecd.org/en/topics/oda-trends-and-statistics.html) — Presents data and analysis on official development assistance and related trends.
+- [OECD Data](https://data.oecd.org) — Provides data and indicators on economic and social issues from OECD countries.
+- [OECD Factbook](http://www.oecd-ilibrary.org/economics/oecd-factbook_18147364) — Offers statistical information on key economic indicators across OECD countries.
+- [Open Data CERN](http://opendata.cern.ch) — Offers open data from particle physics experiments, including datasets, software, and analysis tools.
+- [Open Data Network](http://www.opendatanetwork.com) — Aggregates open data from various US cities, states, and organisations for comparison and visualisation.
+- [Open Data Portal](http://www.opendataportal.at) — Provides access to datasets from Austria’s public sector organisations through a national open data portal.
+- [Open Data Showroom](http://opendata-showroom.org) — Aggregates open data projects from various European research and development sources.
+- [Pew Research Center](http://www.pewinternet.org/datasets) — Contains datasets from Pew Research Center on public opinion, internet use, and global trends.
+- [Population Reference Bureau](https://www.prb.org/) — Provides data and analysis on population trends, health, and environmental issues worldwide.
+- [PRS Risk Indicators](https://www.prsgroup.com/) — Offers political risk analysis and economic forecasts for businesses and researchers.
+- [Public Open Data Soft](https://public.opendatasoft.com/explore/?sort=modified) — Provides access to a wide range of public datasets from global sources with interactive exploration tools.
+- [Quandl](https://www.quandl.com) — Delivers financial, economic, and alternative datasets for investment and economic analysis.
+- [Re3data.org](https://www.re3data.org) — Indexes repositories of research data across academic disciplines for ease of discovery.
+- [Reddit: /r/Datasets](https://www.reddit.com/r/datasets) — Hosts a community sharing a wide variety of freely available datasets.
+- [SESRIC Basic Social and Economic Indicators](https://www.sesric.org/baseind.php) — Publishes economic and social statistics for Organisation of Islamic Cooperation member countries.
+- [SESRIC Databases](https://www.sesric.org/databases-index.php) — Provides statistical databases focusing on socioeconomic indicators in Islamic countries.
+- [Statista](http://www.statista.com) — Provides access to data on over 80,000 topics from more than 22,500 sources across 170 industries.
+- [The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/) — Visualises international trade data and economic complexity to inform policy and investment decisions.
+- [Trading Economics](http://www.tradingeconomics.com) — Delivers current economic data for over 20 million indicators from nearly 200 countries.
+- [Transparency.org Corruption Perception Index](https://www.transparency.org/en/cpi/2023) — Shows global rankings of perceived public sector corruption by country.
+- [UK Data Service](https://ukdataservice.ac.uk/) — Provides access to a vast collection of UK social and economic datasets for research and education.
+- [UN COMTRADE Database](https://comtrade.un.org/) — Offers global trade data collected from national authorities and maintained by the United Nations.
+- [UN Data](http://data.un.org) — Provides statistical data on a wide range of topics from the United Nations and other sources.
+- [UNCTAD Country Fact Sheets](https://unctad.org/en/Pages/DIAE/World%20Investment%20Report/Country-Fact-Sheets.aspx) — Presents detailed investment profiles and key indicators for individual countries worldwide.
+- [UNCTAD Data Centre](https://unctadstat.unctad.org/datacentre/) — Interactive platform for exploring international trade, investment, and development statistics.
+- [UNCTAD STAT](http://unctadstat.unctad.org) — Provides statistical data on international trade, development, and related economic issues.
+- [UNDP’s Human Development Index](https://hdr.undp.org/en/data) — Provides global data on human development indicators, including the Human Development Index and related metrics.
+- [UNECE](https://w3.unece.org/PXWeb/en) — Presents statistical data on economic, demographic, and social issues from UNECE countries.
+- [UNESCO Institute for Statistics](http://uis.unesco.org/) — Offers global statistics on education, science, culture, and communication for policy analysis.
+- [UNIDO Statistics Portal](https://stat.unido.org/) — Provides industrial statistics with a focus on economic indicators for developing countries.
+- [UNStats](https://unstats.un.org) — Central platform for United Nations global statistical data covering a wide range of themes.
+- [Upsala Conflict Data Program](https://www.pcr.uu.se/research/UCDP) — Provides data on organised violence, including conflicts, actors, and peace agreements worldwide.
+- [US Bureau of Labor Statistics](https://www.bls.gov/) — Provides labour statistics including employment, wages, and consumer prices in the US.
+- [US Census Bureau](https://www.census.gov) — Offers demographic and economic statistics collected by the United States Census Bureau.
+- [US Data and Statistics](https://www.usa.gov/statistics) — Offers statistics and data on various aspects of the United States, including economy, education, and health.
+- [Visual Data Discovery](https://visualdata.io/discovery) — Visual search engine for locating public datasets across multiple platforms and domains.
+- [WHO Data](https://www.who.int/gho/en) — Offers global health statistics and visualisations on diseases, mortality, and health systems.
+- [Wikidata](https://www.wikidata.org) — Provides structured linked data that can be used to power apps, infoboxes, and semantic web queries.
+- [World Bank Data Catalog](https://datacatalog.worldbank.org) — Central repository for global development data covering various economic and social themes.
+- [World Bank Doing Business](http://www.doingbusiness.org) — Presents data on business regulations and their enforcement across economies to facilitate business comparisons.
+- [World Bank Enterprise Surveys](https://www.enterprisesurveys.org) — Shares business-level survey data on the investment climate in developing countries.
+- [World Bank Open Data](https://data.worldbank.org/) — Provides access to global development data including economic indicators and demographic statistics.
+- [World Bank Open Data](https://data.worldbank.org) — Free and open access to global development data.
+- [World Integrated Trade Solution](https://wits.worldbank.org/) — Offers data and analytical tools for trade statistics and tariff information from the World Bank.
+- [WTO Statistics](https://www.wto.org/english/res_e/statis_e/statis_e.htm) — Offers international trade and economic statistics compiled by the World Trade Organization.
+- [Zanran](https://www.zanran.com/) — Search engine for data and statistics extracted from various online documents and reports.

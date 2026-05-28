@@ -1,0 +1,49 @@
+# Analysing E Mails
+
+> 45 tools — [osinthandbook.com/analysing-e-mails](https://www.osinthandbook.com/analysing-e-mails)
+
+- [AADInternals.com](https://aadinternals.com/osint) — A tool that extracts openly available information for the given tenant. It can be queried by use of a tenant id, domain name, user email, or user object id.
+- [BotScout](https://botscout.com/search.htm) — A service that helps fight automated web scripts, also known as \bots\"."
+- [Buster](https://github.com/sham00n/buster) — A comprehensive tool for email reconnaissance.
+- [C99.nl](https://api.c99.nl/) — API service offering DNS, Whois, and IP intelligence queries.
+- [DeepFind.me: Email Infostealer Lookup](https://www.deepfind.me/tools/email-and-domain/email-infostealer-lookup) — Check if an email address has been linked to malware-infected devices via infostealer logs.
+- [DeepFind.me: Reverse Email Search](https://www.deepfind.me/tools/email-and-domain/reverse-email-search) — Discover social media profiles, associated accounts, and public records linked to an email address.
+- [Domain Digger](https://digger.tools/) — Provides an open-source toolkit for comprehensive domain analysis, delivering detailed DNS, IP, WHOIS data, and SSL/TLS history in a user-friendly interface. Search by domain, URL, email or IP.
+- [Email Rep](https://emailrep.io) — Analyzes email addresses using data from social media, data breaches, and other sources to assess reputation and detect potential threats.
+- [email-osint-ripper](https://github.com/Quantika14/email-osint-ripper) — GitHub repository for a tool that extracts and verifies email addresses for OSINT purposes.
+- [Emailsherlock](https://www.emailsherlock.com) — Identify the person behind an email address and view their reputation score.
+- [Epieos](https://tools.epieos.com/holehe.php) — Performs reverse lookups on email addresses or phone numbers to find associated accounts and information.
+- [Gaijin.at](https://www.gaijin.at/en/tools/) — A suite of online tools including DNS lookup, email header analysis, IP calculator, and more.
+- [Gravatar Email Check](http://en.gravatar.com/site/check) — Check if an email address has an associated Gravatar image.
+- [Hexillion](https://hexillion.com/) — A Whois API and internet tools for cybersecurity and domain information.
+- [holehe](https://github.com/megadose/holehe) — A script that checks if an email is linked to accounts on over 120 websites using the forgotten password function.
+- [iKy](https://github.com/kennbroorg/iKy) — A script that collects information from an email address and display results in a visual interface.
+- [InfoTrail](https://infotrail.io) — An OSINT search tool that can be used to retrieve information on domains, URLs, e-mails, phone numbers, IPs, and more.
+- [IntelBase](https://intelbase.is) — An e-mail profiling platform.
+- [IP Quality Score](https://www.ipqualityscore.com/) — Delivers advanced fraud detection and cybersecurity solutions, utilizing real-time risk scoring, proxy and VPN detection, email and phone validation, and device fingerprinting to identify and prevent malicious activities.
+- [ipTrackerOnline Email Header Analysis](https://www.iptrackeronline.com/email-header-analysis.php) — A tool to analyze email headers to trace the origin and path of an email message.
+- [knockknock](https://github.com/harleo/knockknock) — A simple reverse whois lookup tool which returns a list of domains owned by people or companies.
+- [leakpeek](https://leakpeek.com) — A data breach search engine that searches leaked databases for personal information.
+- [MailCat\n](https://github.com/sharsil/mailcat) — A script to find existing email addresses by nickname using API / SMTP checking methods without user notification.
+- [Maltego](https://www.maltego.com) — A platform for mapping and analyzing relationships across people, groups, websites, and infrastructure.
+- [MXToolbox](https://mxtoolbox.com) — A suite of tools to diagnose and monitor mail servers and DNS records.
+- [Oh365UserFinder](https://github.com/dievus/Oh365UserFinder) — Python3 o365 user enumeration tool.
+- [OSINT Industries](https://www.osint.industries/) — A comprehensive OSINT platform that provides a number of open source intelligence tools across multiple investigation domains.
+- [OSINT Mailer](https://github.com/techenthusiast167/OSINTMAILER-) — A robust Python-based OSINT tool designed for validating and investigating email addresses across social media platforms and known data breaches, enhancing threat intelligence and digital footprint analysis.
+- [OSINT Rocks](https://osint.rocks) — Provides easy access to popular scripts used to gather information about usernames, e-mails, phone numbers, and domains / IPs.
+- [Phonebook.cz](https://phonebook.cz) — Lists all domains, email addresses, or URLs for the given input domain.
+- [Predicta Search](https://www.predictasearch.com/) — Reverse search engine that identifies online accounts (social networks, forums, dark web, etc.) associated with an email address or a phone number.
+- [Proton Intelligence](https://protonintel.profiler.me) — Identify ProtonMail mail address along with its creation date and time.
+- [Proton Mail Intelligence](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence) — A Python script that gathers information on Protonmail users.
+- [ProtOSINT](https://github.com/pixelbubble/ProtOSINT) — A Python script that helps you investigate Protonmail accounts and ProtonVPN IP addresses.\n
+- [Reverse MX Records](https://osint.sh/reversemx) — A tool from OSINT.sh that reveals all domains that use the same mail server.
+- [SimplyEmail](https://github.com/SimplySecurity/SimplyEmail) — A script that helps gather email-related intelligence by automating the collection of public information from various sources.
+- [socialscan](https://pypi.org/project/socialscan/) — Performs username and email address checks across multiple platforms.
+- [Synapsint](https://synapsint.com) — A free service that aggregates data from multiple intelligence sources, search engines, datasets, and other resources to provide comprehensive cybersecurity insights.
+- [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) — A script that performs reconnaissance and information gathering using various modules to uncover details about a target.
+- [ViewDNS](https://viewdns.info/) — Collection of DNS and OSINT tools for investigating domains and IPs.
+- [Web Wiz](https://network-tools.webwiz.net) — Provides online tools for DNS queries, Whois lookups, IP address checks, and network diagnostics.
+- [WhiteIntel](https://whiteintel.io) — Real-time threat and infostealer intelligence for MSSPs, enterprises, and researchers. Detect leaks, monitor takeovers, and respond instantly.
+- [Whoisology](https://whoisology.com) — Allows users to search historical Whois records to analyse domain ownership over time.
+- [Whoxy](https://www.whoxy.com) — Displays detailed WHOIS information and domain history records.
+- [You Get Signal: Reverse E-mail Lookup Tool](https://www.yougetsignal.com/tools/reverse-email-lookup/) — Reverse e-mail lookup tool that enables users to discover potential online accounts and associations linked to a given email address.

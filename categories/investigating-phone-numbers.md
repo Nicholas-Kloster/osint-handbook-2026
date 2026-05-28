@@ -1,0 +1,127 @@
+# Investigating Phone Numbers
+
+> 123 tools — [osinthandbook.com/investigating-phone-numbers](https://www.osinthandbook.com/investigating-phone-numbers)
+
+- [_IntelligenceX: Telephone Number](https://intelx.io/tools?tab=telephone) — A set of tools to investigate phone numbers offered by _IntelligenceX.
+- [007-TheBond](https://github.com/Deadshot0x7/007-TheBond) — A free script that can be used to profile an individual using different sources and techniques.
+- [Abc telefonos](https://www.abctelefonos.com/) — A comprehensive online directory offering public information on individuals, businesses, and institutions across various countries, including phone numbers, addresses, and user reviews.
+- [Addresses (US)](https://www.addresses.com/) — Provides address and phone number lookup services using publicly available data.
+- [AeroLeads](https://aeroleads.com) — Provides a lead generation platform that helps users find business emails and phone numbers from LinkedIn and company websites.
+- [All People (US)](https://allpeople.com/) — Offers business contact information and professional affiliations in the United States.
+- [Analyst Search Tools](https://analystresearchtools.com) — An extensive collection of OSINT tools and resources.
+- [AnyWho (US)](https://www.anywho.com) — Searches public records sources in the US.
+- [AQL Network Lookup](https://portal.aql.com/telecoms/network_lookup.php) — Identify the network operator for UK phone numbers using Ofcom data, with options for real-time lookups and API access for integration.
+- [Australia Lookup (Australia)](http://www.australialookup.com) — Australian people finder and reverse telephone directory.
+- [Aware Online: Phone Investigation Tool](https://www.aware-online.com/osint-tools/telefoonnummer-search-tool/) — A telephone research tool from Aware Online.
+- [Been Verified (US)](https://www.beenverified.com/) — Aggregates public records to provide background checks and people search tools.
+- [Bmobile.in](https://bmobile.in) — Provides a free tool to trace Indian mobile numbers, displaying location, operator, and network details, along with mobile specifications and comparisons.
+- [British Phone Book](http://www.britishphonebook.com) — Offers a UK-based directory service for finding residential and business landline numbers, using data from phone books and public records.
+- [C99.nl](https://api.c99.nl/) — API service offering DNS, Whois, and IP intelligence queries.
+- [CallAp](https://callapp.com) — An app to identify unknown callers.
+- [CallerSmart](https://www.callersmart.com) — Free reverse lookup for any phone number.
+- [Carrier Lookup](https://www.carrierlookup.com) — Identifies the carrier and line type of any U.S. phone number, with options for bulk lookups and API integration.
+- [Castrick](https://castrickclues.com/) — A set of specialised OSINT tools, including tools to investigate e-mails, phone numbers, and usernames.
+- [CellRevealer](https://cellrevealer.com) — Helps identify the network provider and other details associated with a phone number in the US or Canada.
+- [Cellulaire411 (US)](https://www.cellulaire411.ca) — A reverse phone lookup tool.
+- [CodeLook](https://www.telecom-tariffs.co.uk/codelook.htm) — Provides detailed lookup of UK telephone area codes, exchanges and network information.
+- [Country Calling Codes](https://www.countrycallingcodes.com) — Offers international dialing codes and country calling information for placing international calls.
+- [CountryCode](https://countrycode.org) — Lists country calling codes and international dialing prefixes in a searchable format.
+- [cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl) — An Open-Source Intelligence username and phone number search tool that crawls adult content platforms to see if a targeted account or person is present.
+- [Cyber Background Checks (US)](https://www.cyberbackgroundchecks.com) — Provides detailed background check services using aggregated public records.
+- [Data247](https://www.data247.com) — Provides real-time data lookup services including carrier information, email-to-SMS gateways, caller name identification, and fraud detection tools for businesses.
+- [DetectDee](https://github.com/piaolin/DetectDee) — Hunt down social media accounts by username, email or phone across social networks.
+- [Dialing Code](https://www.dialingcode.com) — Offers an easy-to-use interface to find international dialing codes, country codes, and area codes for making phone calls worldwide.
+- [email2phonenumber](https://github.com/martinvigo/email2phonenumber) — An OSINT tool to obtain a target's phone number just by having his email address.
+- [Epieos](https://epieos.com) — Provides a search engine that allows users to find information associated with email addresses, phone numbers, and usernames.
+- [Epieos](https://tools.epieos.com/holehe.php) — Performs reverse lookups on email addresses or phone numbers to find associated accounts and information.
+- [Every Caller](https://www.everycaller.com) — Free service that helps users identify unknown callers and block spam calls through a community-driven database.
+- [Experian: Mobile and Phone Validation](https://www.experian.co.uk/business/data-quality/validation/mobile-phone-validation) — Real-time and bulk phone number validation tool that verifies number accuracy, type, and activity status using data from over 1,500 telecom providers.
+- [Fast People Search (US)](https://www.fastpeoplesearch.com/) — Finds people using names, addresses, or phone numbers from public records.
+- [FireFly\n](https://github.com/Lexxrt/FireFly) — A phone number lookup.
+- [Fone Finder](http://www.fonefinder.net) — Allows users to search for phone number details including location and provider information.
+- [Free Carrier Lookup (US)](https://freecarrierlookup.com) — Offers a tool to identify the carrier associated with a phone number.
+- [Free HLR Lookup](https://www.free-hlr.com/) — Enables users to perform HLR lookups to check number validity and network status.
+- [getcontact](https://www.getcontact.com) — Helps identify unknown callers and block spam by using a global caller ID database.
+- [golookup (US)](https://golookup.com) — Provides access to public records, background checks, and phone number lookups.
+- [Gsmarena](https://www.gsmarena.com) — Features detailed specifications, reviews, and comparisons of mobile phones.
+- [Hawker](https://github.com/RetrO-M/Hawker) — A Python script that gathers information on e-mails, phone numbers, IPs, and more.
+- [hiya](https://www.hiya.com/) — Identifies callers, blocks spam calls, and provides insights into unknown numbers.
+- [HowtoCallAbroad](https://www.howtocallabroad.com) — Explains how to dial international phone numbers and provides country-specific calling codes.
+- [IDCrawl (US)](https://www.idcrawl.com) — A free people search engine, username search, reverse phone, and reverse e-mail lookup.
+- [Ignorant](https://github.com/megadose/ignorant) — ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.
+- [IMEI24](https://imei24.com) — A free online tool that provides detailed information about mobile devices using their IMEI numbers, including warranty status, carrier info, and blacklist reports.
+- [Infobel](https://www.infobel.com) — A global online directory offering contact information for individuals and businesses across over 70 countries.
+- [InfoTrail](https://infotrail.io) — An OSINT search tool that can be used to retrieve information on domains, URLs, e-mails, phone numbers, IPs, and more.
+- [Intelius (US)](https://www.intelius.com) — Delivers identity verification and background check services using a range of data sources.
+- [International Numbering Plans](https://www.numberingplans.com) — Provides online tools for analyzing global telecommunications numbers, including phone numbers, IMEI, IMSI, and SIM codes, along with access to numbering plan databases and dialing information.
+- [International White and Yellow Pages](https://www.wayp.com/) — Offers a comprehensive international directory service, enabling users to search for names, addresses, phone numbers, and email contacts across white and yellow pages in over 150 countries.
+- [IP Quality Score](https://www.ipqualityscore.com/) — Delivers advanced fraud detection and cybersecurity solutions, utilizing real-time risk scoring, proxy and VPN detection, email and phone validation, and device fingerprinting to identify and prevent malicious activities.
+- [LeadFuze](https://www.leadfuze.com) — Offers a lead generation platform that helps users find business emails and phone numbers from LinkedIn and company websites.
+- [leakpeek](https://leakpeek.com) — A data breach search engine that searches leaked databases for personal information.
+- [mcc-mnc.com: Country Networks](https://www.mcc-mnc.com) — Provides a searchable database of Mobile Country Codes (MCC) and Mobile Network Codes (MNC) used to identify mobile networks worldwide.
+- [Minerva](https://minervaosint.com) — An OSINT platform that uses a number of sources and techniques to analyse email addresses.
+- [Moriarty Project](https://github.com/AzizKpln/Moriarty-Project) — Offers a web-based phone number investigation tool that retrieves information such as owner details, spam risk, and related links.
+- [Mr. Holmes](https://github.com/Lucksi/Mr.Holmes) — A tool to gather information about domains, usernames. and phone numbers.
+- [National Cellular Directory](https://www.nationalcellulardirectory.com/) — Enables users to perform reverse phone lookups and people searches by name, phone number, or address, with options for free and premium reports.
+- [National Numbering Plans](https://www.itu.int/oth/T0202.aspx?parent=T0202) — Hosts official national numbering plans submitted by countries, detailing country codes and numbering structures for telecommunications.\n
+- [NigeriaPhonebook (NIgeria)\n](https://nigeriaphonebook.com/) — Provides phone number lookup and business directory services in Nigeria.
+- [Number Guru](https://www.numberguru.com) — Provides reverse phone number lookup services, offering details such as caller ID, spam reports, and location information.
+- [Numlookup](https://www.numlookup.com/) — Offers free reverse phone lookups for U.S. numbers, providing owner's full name, address, carrier, and social media profiles without requiring registration.
+- [numpi](https://numpi.com) — Serves as a free telephone directory for U.S. numbers.
+- [NumSpy](https://bhattsameer.github.io/numspy/) — A Python module that enables sending free SMS messages and retrieving mobile number details via the Way2sms platform.
+- [numverify](https://numverify.com) — Provides a global phone number validation and lookup API, delivering information on number format, carrier, location, and line type for 232 countries.
+- [Old Phone Book (US)\n](https://www.oldphonebook.com/) — Allows users to search historical U.S. phonebook listings by name or number, focusing on data from the past 20 years.
+- [Open Cnam](https://www.opencnam.com) — Offers a caller ID API that retrieves caller name information for phone numbers, designed for easy integration into applications
+- [Orbirtly](https://www.orbitly.io) — Finds e-mails, phone numbers, social media profiles, and more based on a provided e-mail address or phone number.
+- [OSINT Industries](https://www.osint.industries/) — A comprehensive OSINT platform that provides a number of open source intelligence tools across multiple investigation domains.
+- [OSINT Industries\n](https://www.osint.industries) — A comprehensive OSINT platform that provides a number of open source intelligence tools across multiple investigation domains.
+- [OSINT Rocks](https://osint.rocks) — Provides easy access to popular scripts used to gather information about usernames, e-mails, phone numbers, and domains / IPs.
+- [OSINTNum](https://github.com/HackUnderway/OsintNum) — An open source tool to investigate phone numbers.
+- [People Looker (US)](https://www.peoplelooker.com) — Provides access to public records for background checks and contact details.
+- [Peoplebyname (US)](http://www.peoplebyname.com) — A reverse phone lookup tool.
+- [Peoplefinders (US)](https://www.peoplefinders.com) — Offers background checks and public record searches.
+- [PeopleSmart (US)](https://www.peoplesmart.com) — Delivers people search and background check services using public records.
+- [Person Lookup (South Africa)](https://personlookup.co.za/) — Searches public records and phone directories in South Africa.
+- [Phone Book of the World](https://phonebookoftheworld.com) — Presents an international directory of cities with population data and local calling information.
+- [Phone Books (US)](https://www.phonebooks.com) — Enables phone number lookups, reverse phone searches, and people finding services.
+- [Phone Number OSINT\n](https://github.com/spider863644/PhoneNumber-OSINT) — An OSINT script for gathering information about phone numbers.
+- [Phone Validator](https://www.phonevalidator.com/) — Checks phone numbers for validity, line type, and carrier information.
+- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) — Information gathering framework for phone numbers.
+- [phoneowner](https://phoneowner.com) — A reverse phone lookup tool.
+- [Phonerator](https://www.martinvigo.com/tools/phonerator/) — An online search engine that allows one to provide a few digits and generate a list of possible valid phone numbers.
+- [PhoneValidator](https://www.phonevalidator.com) — A free phone validation tool for North American phone numbers.
+- [Predicta Search](https://www.predictasearch.com/) — Reverse search engine that identifies online accounts (social networks, forums, dark web, etc.) associated with an email address or a phone number.
+- [Privacy Star](https://privacystar.com) — Helps identify callers and block unwanted calls, including telemarketers and scammers.
+- [Private Investigator Tech](https://www.privateinvestigator.tech/search) — Investigative search engine to access over 30,000 global data sources from a single interface.
+- [Profiler](https://profiler.me) — Scan over 1500+ sources across the internet using a username, email, or phone number.
+- [Radaris (US)](https://radaris.com) — Aggregates public records and online information to create detailed profiles for people search and background checks.
+- [Ratsit](https://www.ratsit.se/) — Provides public data on Swedish residents including contact and financial information.
+- [Reveal Name](https://www.revealname.com) — Allows users to uncover caller identities through reverse phone lookups.
+- [Reverse Phone Check](https://www.reversephonecheck.com) — Offers a reverse lookup tools for phone numbers.
+- [SearchYellowDirectory](https://www.searchyellowdirectory.com/) — Offers a searchable directory of business and residential phone numbers in the US.
+- [smsc.ru](https://smsc.ru/testhlr) — Checking any number with an Home Location Register (HLR) request.
+- [Social catfish: Reverse Phone Lookup](https://socialcatfish.com/reverse-phone-lookup/) — A reverse phone lookup tool to identify individuals behind phone numbers.
+- [Spy Dialer (US)](https://www.spydialer.com) — A free reverse e-mail search using public data.
+- [Spytox (US)](https://www.spytox.com) — An online directory with contact information, personal details and public records
+- [Synapsint](https://synapsint.com) — A free service that aggregates data from multiple intelligence sources, search engines, datasets, and other resources to provide comprehensive cybersecurity insights.
+- [Sync.me](https://sync.me) — Identifies unknown callers and blocks spam through a crowdsourced phonebook.
+- [Telefonbuch](https://www.telefonbuch.com) — German online phone directory for finding personal and business numbers.
+- [Telefone Directories](https://telephonedirectories.us) — Provides US phone number directory listings by state and city.
+- [Telegram Phone Number Checker](https://colab.research.google.com/github/bellingcat/open-source-research-notebooks/blob/main/notebooks/bellingcat/telegram-phone-number-checker.ipynb) — A tool to check if phone numbers are connected to Telegram accounts.
+- [Tellows](https://www.tellows.com) — Offers user-reported data and ratings for unknown phone numbers.
+- [TextMagic Free Carrier Lookup](https://www.textmagic.com/free-tools/carrier-lookup) — Provides telecom carrier information for phone numbers globally.
+- [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) — A script that performs reconnaissance and information gathering using various modules to uncover details about a target.
+- [That’s Them: Reverse Phone Lookup](https://thatsthem.com/reverse-phone-lookup) — Links phone numbers to names, addresses, and other public data.
+- [This Number (US)](https://www.thisnumber.com) — Provides detailed data on US phone numbers including owner and location information.
+- [Truecaller](https://www.truecaller.com) — Identifies unknown numbers and blocks spam through a global phone directory.
+- [Twilio](https://www.twilio.com/lookup) — Offers carrier and caller name details for phone numbers through API access.
+- [UK Phone Book](https://www.ukphonebook.com) — UK directory for residential and business contact information.
+- [US Phone Book](https://www.usphonebook.com/) — Free US phone directory for finding people by name, address, or number.
+- [USSearch (US)](https://www.ussearch.com) — Provides access to US public records to help locate individuals and background information.
+- [Valid Number (US)](https://validnumber.com/) — Validates and checks the legitimacy of US phone numbers.
+- [Whocalld](https://whocalld.com) — Tracks caller identity and call origins using public and user-submitted data.
+- [WhoCallsMe](https://whocallsme.com) — User-driven database of unknown calls, including comments and caller types.
+- [whoscall](https://whoscall.com) — Identifies incoming calls and blocks spam through a caller ID app.
+- [You Get Signal](https://www.yougetsignal.com/) — A set of useful tools, including port forwarding tester, IP checker, network location tool, visual trace root tool, phone number geolocator, reverse e-mail lookup tool, reverse IP domain check, WHOIS lookup tool, and more.
+- [Zaba Search (US)](https://www.zabasearch.com) — Searches through public databases to locate people and related information.
+- [Zlookup](https://www.zlookup.com) — Performs reverse phone lookups to identify caller name and carrier information.

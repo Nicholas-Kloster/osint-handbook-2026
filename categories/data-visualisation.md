@@ -1,0 +1,60 @@
+# Data Visualisation
+
+> 56 tools — [osinthandbook.com/data-visualisation](https://www.osinthandbook.com/data-visualisation)
+
+- [Adobe Color CC](https://color.adobe.com/create/color-wheel) — An interactive colour wheel tool for generating harmonious palettes.
+- [App Diagrams](https://app.diagrams.net) — A free online diagramming tool for creating flowcharts, process maps, and network diagrams.
+- [Cacoo](https://cacoo.com) — A cloud-based diagramming app for team collaboration and real-time editing.
+- [Canva](https://www.canva.com) — A user-friendly graphic design platform for creating presentations, social media graphics, and more.
+- [Chart.js](https://www.chartjs.org/) — A JavaScript library for creating responsive and customizable charts using HTML5 canvas.
+- [chartblocks](http://www.chartblocks.com) — An online chart building tool that lets users design and embed charts quickly and easily.
+- [Circos](http://circos.ca) — A tool for creating circular visualisations of data with a focus on relationships and patterns.
+- [Creately](https://creately.com/) — An online diagram maker for designing flowcharts, wireframes, org charts, and more collaboratively.
+- [D3js](https://d3js.org) — A JavaScript library for producing complex and interactive data visualisations in web browsers.
+- [Data Visualization Catalogue](https://datavizcatalogue.com/) — A visual library that helps users choose the right type of data visualisation based on their needs.
+- [Data Viz Project](https://datavizproject.com/) — A curated collection of data visualisation types with examples and guidance on how to use them.
+- [DataBasic](https://databasic.io) — A suite of tools designed to help people learn the basics of working with data.
+- [DataWrapper](https://www.datawrapper.de/) — An online tool for creating responsive charts and maps for embedding in websites and reports.
+- [Diagram.codes](https://www.diagram.codes) — An online editor for creating visual code-based diagrams like sequence diagrams and flowcharts.
+- [Draw.io](https://www.drawio.com) — A web-based application for creating diagrams and flowcharts with offline and online options.
+- [dygraphs](https://dygraphs.com/) — A fast, flexible charting library for exploring and visualising large datasets in JavaScript.
+- [easely](https://www.easel.ly/) — A platform for creating and sharing infographics and visual content easily.
+- [EdrawMax](https://www.edrawmax.com) — A comprehensive diagramming tool with templates for various business and technical diagrams.
+- [Exhibit](http://www.simile-widgets.org/exhibit/) — A web application framework for publishing structured data with interactive visualisations.
+- [Flot](http://www.flotcharts.org) — A pure JavaScript plotting library for creating attractive charts for web applications.
+- [Flourish](https://flourish.studio/) — A platform for building interactive data stories and visualisations with a user-friendly interface.
+- [folium](https://github.com/python-visualization/folium) — A Python library that makes it easy to visualise data on interactive Leaflet maps.
+- [FusionCharts](https://www.fusioncharts.com/) — A comprehensive charting library for creating interactive and responsive charts for web applications.
+- [Google Developers: Charts](https://developers.google.com/chart) — A toolset for creating interactive charts using simple code and embedding them in websites.
+- [Google Drawings](https://docs.google.com/drawings) — A collaborative tool for creating and editing diagrams, mind maps, and drawings online.
+- [GraphX](https://spark.apache.org/graphx/) — A component of Apache Spark for graph computation and parallel data processing at scale.
+- [Highcharts](https://www.highcharts.com/) — A powerful charting library for building interactive charts with extensive customisation options.
+- [Hohli](https://charts.hohli.com/) — An online tool for creating quick and simple charts using a Google Charts-based interface.
+- [Infogr.am](https://infogr.am) — A tool for creating interactive infographics and data visualisations with ease.
+- [Inkscape](https://inkscape.org) — A professional vector graphics editor suitable for creating diagrams, illustrations, and charts.
+- [JavaScript InfoVis Toolkit](http://philogb.github.io/jit/) — A JavaScript toolkit for advanced interactive data visualisation and analysis.
+- [JpGraph](http://jpgraph.net) — A PHP-based library for creating charts and graphs in web applications with wide format support.
+- [Listify](http://listify.okfnlabs.org) — A tool for turning spreadsheet data into attractive, shareable lists and visualisations.
+- [Lucidchart](https://www.lucidchart.com) — An online diagramming tool for creating flowcharts, network diagrams, and other types of visualisations collaboratively.
+- [Mind Manager](https://www.mindmanager.com) — A mind mapping and visual thinking tool designed for organising ideas and managing projects.
+- [Nodebox](https://www.nodebox.net) — A platform for creating generative and data-driven visual designs with scripting.
+- [Palladio](http://hdlab.stanford.edu/palladio/) — A web-based platform for mapping and visualising complex historical data sets.
+- [Piktochart](https://piktochart.com) — A user-friendly tool for making infographics, reports, and presentations with templates.
+- [Pixxa](http://www.pixxa.com) — A platform offering interactive visuals and diagramming capabilities for presentations and data analysis.
+- [Plotly](https://plot.ly) — A platform for creating interactive charts, dashboards, and data-driven applications.
+- [Quadrigram](https://www.quadrigram.com/) — A visual programming environment for combining data and designing interactive visualisations.
+- [Raphael](http://dmitrybaranovskiy.github.io/raphael/) — A JavaScript library for drawing vector graphics in web applications using SVG.
+- [RAW Graphs](https://app.rawgraphs.io/) — A web-based tool for creating complex and custom data visualisations from structured data.
+- [Smart Draw\n](https://www.smartdraw.com/) — A diagramming and drawing software for making flowcharts, org charts, floor plans, and more.
+- [Snappa](https://snappa.io) — A simple graphic design tool for creating online graphics, social media posts, and ads quickly.
+- [Tableau](http://www.tableausoftware.com) — A powerful analytics and data visualisation tool used for business intelligence and dashboards.
+- [Tableau Public](https://public.tableau.com) — A free public platform for exploring and sharing data visualisations created with Tableau.
+- [Textures.js](https://riccardoscalco.github.io/textures) — A JavaScript library for generating SVG patterns for data visualisation backgrounds.
+- [Timetoast](https://www.timetoast.com/) — A timeline creation tool for building, sharing, and embedding interactive timelines online.
+- [Venngage](https://venngage.com) — A drag-and-drop design platform for creating infographics, reports, and data visualisations.
+- [Vis.js](https://visjs.org/) — A dynamic, browser-based library for visualising network, timeline, and hierarchical data.
+- [Visme](https://www.visme.co/) — A design tool for creating presentations, infographics, and visual content with interactive elements.
+- [Vortex](https://www.dotmatics.com/products/vortex) — A scientific visualisation platform for analysing complex chemical data and biological structures.
+- [WordArt.com](https://wordart.com) — An online tool for creating word clouds and artistic arrangements of text.
+- [yEd](https://www.yworks.com/products/yed) — A free desktop application for creating high-quality diagrams with automatic layout features.
+- [ZingChart](https://www.zingchart.com/) — A JavaScript charting library for building interactive, animated charts and dashboards.

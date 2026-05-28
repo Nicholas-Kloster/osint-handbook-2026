@@ -1,0 +1,55 @@
+# Satellite Imagery
+
+> 51 tools — [osinthandbook.com/satellite-imagery](https://www.osinthandbook.com/satellite-imagery)
+
+- [_IntelligenceX: Location 2 Map](https://intelx.io/tools?tab=location) — A tool that searches for a given location using multiple mapping platforms based on a provided latitude and longitude.
+- [Airbus Sample Imagery](https://www.intelligence-airbusds.com/en/8262-sample-imagery) — Satellite imagery provided by Airbus.
+- [ArcGIS Online](https://www.arcgis.com) — A GIS platform for creating, analysing, sharing and collaborating on interactive maps and spatial data.
+- [Baidu Maps](https://map.baidu.com) — China’s leading mapping service offering street maps, satellite imagery, street-view, route planning, real-time traffic and more.
+- [Bhuvan](https://bhuvan-app3.nrsc.gov.in/data/download/index.php) — Geo-platform provided by the Indian Space Research Organisation (ISRO).
+- [Bing Maps](https://www.bing.com/maps) — Microsoft’s web mapping service featuring road, aerial, street-side, bird’s-eye and 3D views along with directions, traffic and more.
+- [Copernicus](https://browser.dataspace.copernicus.eu/) — User-friendly web interface for exploring, analysing, and downloading satellite imagery from Copernicus missions.
+- [Corona @ CAST](https://corona.cast.uark.edu/) — Online platform offering viewing and geospatial access to declassified CORONA spy-satellite images (1960–1972)
+- [DualMaps](http://data.mashedworld.com/dualmaps/map.htm) — Embeddable mapping widget combining synchronised Google Maps, Street View, and Bird’s Eye imagery in a dual-view control with customisation options.
+- [Earth Data](https://search.earthdata.nasa.gov/search) — User-friendly NASA Earthdata portal for discovering and accessing satellite data across missions.
+- [Earth OnDemand](https://earthondemand.astraea.earth/) — Web platform offering on-demand Earth observation imagery powered by Astraea.
+- [Earth Online](https://earth.esa.int/) — Official European Space Agency Earth online portal presenting Earth science content and news.
+- [Earth Resources Observation and Science Center - USCG](https://eros.usgs.gov/find-data) — USGS interface for discovering and accessing Earth observation datasets via EROS center.
+- [EarthExplorer](https://earthexplorer.usgs.gov) — Online search and download tool for satellite and aerial imagery.
+- [ESA Copernicus](https://www.esa.int/Applications/Observing_the_Earth/Copernicus) — ESA Copernicus overview page detailing applications and data access across the Copernicus program.
+- [ESA Earth Online](https://earth.esa.int/eogateway/search?text=&category=Tools%20and%20toolboxes) — ESA EO Gateway tools and toolboxes search within the Earth observation category.
+- [ESA Snap](http://step.esa.int/main/toolboxes/snap/) — ESA's STEP platform offering SNAP (Sentinel Application Platform) toolboxes for processing satellite data.
+- [esri](https://www.esri.com) — Commercial GIS software provider ESRI offering mapping and spatial analytics solutions.
+- [Esri Search](https://esri-es.github.io/arcgis-search/) — ESRI’s ArcGIS open-source spatial search library hosted on GitHub.
+- [Go KML Maps](http://gokml.net/maps) — Simple web-based tool for viewing and converting KML files on maps.
+- [Google Earth](http://www.google.com/earth) — A web version of Google Earth, a virtual globe for exploring geographic content via browser.
+- [Google Earth Engine](https://earthengine.google.com) — Cloud-based platform for planetary-scale geospatial analysis and datasets.
+- [Google Maps](https://www.google.com/maps) — Google’s global mapping service offering detailed maps, satellite imagery, route planning, local business search, real-time navigation, street view, and more.
+- [GovMap](https://www.govmap.gov.il/) — Interactive mapping platform providing Israeli governmental geospatial data and maps.
+- [GPX Editor Map](https://www.gpxeditor.co.uk/map) — Web-based GPX route and track editor with drawing, editing and export tools.
+- [Historic Aerials](https://www.historicaerials.com) — Archive of historical aerial imagery for the U.S. with time-machine style map comparison.
+- [Ikonos Satellite Imagery Gallery](https://www.satimagingcorp.com/gallery/ikonos/) — Gallery showcasing IKONOS satellite imagery products.
+- [LAND Info](https://landinfo.com) — Provider of high-resolution aerial / satellite imagery and derived geodata services.
+- [Land Viewer](https://eos.com/landviewer/?lat=46.7512&lng=7.6217&z=11) — Online interactive tool for viewing latest satellite imagery from EOS at specified coordinates.
+- [Map Overlays for Google Earth](http://www.mgmaps.com/kml/#view) — Web utility to view and manage KML files overlaid on Google Maps.
+- [MapSwitcher\n](https://github.com/david-r-edgar/MapSwitcher) — Chrome extension to switch between different mapping websites.
+- [New Earth Maps](https://newearthmaps.com) — Interactive satellite and street-view mapping service with real-time traffic and navigation tools.
+- [NOAA Data Access Viewer](https://coast.noaa.gov/dataviewer/#/) — NOAA tool to browse, customise, and download land cover, imagery, and lidar data.\n
+- [OrbTrack\n](https://www.orbtrack.org/) — Real-time satellite tracking and visualisation platform.
+- [Pink Matter](https://pinkmatter.com/) — Geospatial software and Earth observation solutions provider.
+- [Planet Explorer](https://www.planet.com/explorer) — Interactive platform to explore and analyse Planet satellite imagery.
+- [Radar Interference Tracker (RIT)\n](https://ollielballinger.users.earthengine.app/view/bellingcat-radar-interference-tracker) — Radar interference tracking tool built with Google Earth Engine.
+- [SASGIS](http://www.sasgis.org) — Russian GIS software with satellite imagery and mapping functions.
+- [Sat-Predict](https://sat-predict.davidhsu.cc) — Given a ground location and a satellite, this tool predicts when the satellite's sensor can actually observe that target — not merely pass overhead.
+- [Satellites Pro](https://satellites.pro) — All world countries satellite map with labels, ruler, places sharing, search, locating, route planning, states boundary tracking, and more.
+- [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser/) — Sentinel Hub’s EO Browser for visualising and analysing satellite imagery from multiple sources.
+- [Sky OSINT](https://skyosint.io) — Real-time tracking of 15,000+ space objects with orbital maneuver detection, anomaly analysis, and geopolitical correlation.
+- [Soar Earth](https://soar.earth/?pos=-24.806025673047216%2C112.37019712776902%2C7) — A digital atlas built on maps and imagery from individuals, organisations, and the broader community.
+- [TerraScope](https://terrascope.be) — TerraScope gives you access to a variety of Earth observation data and services, so you can view satellite images, download time series, process data, and more.
+- [Virtual Globetrotting](https://virtualglobetrotting.com/category/) — A collection of satellite imagery from across the globe submitted by users.
+- [Wego.here](https://wego.here.com) — Web mapping and navigation service with driving, traffic, and location features.
+- [Wikimapia](http://wikimapia.org) — Geographic wiki-enabled map allowing users to view, describe, and edit locations collaboratively.
+- [World Imagery Wayback](https://livingatlas.arcgis.com/wayback) — A digital archive, providing users with access to the different versions of ArcGIS's World Imagery maps.
+- [Worldview Earthdata NASA](https://worldview.earthdata.nasa.gov) — Interactive interface for browsing, animating, and downloading over 1,200 full-resolution global satellite imagery layers.
+- [Yandex Maps](https://yandex.ru/maps) — A cartographic service provided by the Russian Yandex.
+- [Zoom Earth](https://zoom.earth) — An interactive weather map and hurricane tracker.

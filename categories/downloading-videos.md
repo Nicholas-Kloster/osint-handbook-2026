@@ -1,0 +1,46 @@
+# Downloading Videos
+
+> 42 tools — [osinthandbook.com/downloading-videos](https://www.osinthandbook.com/downloading-videos)
+
+- [4K Video Downloader (Different Platforms)](https://www.4kdownload.com) — Allows users to download videos and extract audio from YouTube and other popular platforms.
+- [Botdownloader (Different Platforms)](https://botdownloader.com) — Enables users to download videos from various social media platforms including Facebook, Twitter, Instagram, TikTok, Pinterest and more.
+- [ClipConverter.cc (YouTube)](https://www.clipconverter.cc) — Free online tool to record and convert nearly any audio or video URL to common formats.
+- [ddownr (YouTUbe)](https://ddownr.com) — Free YouTube / Multi‑service downloader offering MP4 / MP3 conversion in multiple resolutions with no registration.
+- [Deturl (YouTube)](http://deturl.com) — Save a YouTube video as an MP3, MP4, or AVI.
+- [Download Twitter Video (Twitter)](https://ssstwitter.com) — Twitter video downloader.
+- [Downloaderi](https://downloaderi.com) — A TikTok video downloader.
+- [Experts PHP: Pinterest Video Downloader (Pinterest)](https://www.expertsphp.com/pinterest-video-downloader.html) — Online tool to download Pinterest videos, reels, images & GIFs in MP4/HD quality.
+- [Experts PHP: Reddit Video Downloader (Reddit)](https://www.expertsphp.com/reddit-video-downloader.php) — Reddit video downloader.
+- [Experts PHP: TikTok Video Downloader (TikTok)](https://www.expertsphp.com/tiktok-video-downloader.html) — A TikTok video downloader.
+- [Facebook Video Downloader (Facebook)](https://www.downloadvideosfrom.com) — Facilitates downloading of videos from YouTube and social media platforms.
+- [fbdownloader (Facebook)](https://fbdownloader.net) — Allows users to download Facebook videos by pasting the video URL.
+- [freemake (Different Platforms)](https://www.freemake.com) — A free video converter and downloader.
+- [Insta Clip](https://instaclip.app) — Instagram video downloader.
+- [Instagram Downloader (Instagram)](https://www.downloadvideosfrom.com/Instagram.php) — Online tool to download videos and photos from Instagram posts and profiles.
+- [instaloader (Instagram)](https://github.com/instaloader/instaloader) — Open-source tool for downloading Instagram photos, videos, stories, and metadata.
+- [InstaLooter (Instagram)](https://github.com/althonos/InstaLooter) — Instagram media downloader and scraper for public content.
+- [jdownloader](https://jdownloader.org) — A free, open-source download management tool supported by a big community.
+- [Keep Flick (Different Platforms)](https://www.keepflick.com) — Download social media videos in various formats and resolutions.
+- [Picuki](https://www.picuki.com/) — TikTok downloader and viewer.
+- [Save the Video (Different Platforms)](https://savethevideo.net) — Enables downloading of videos from social media platforms and video sites.
+- [Snaptik.app](https://snaptik.app) — A TikTok video downloader.
+- [ssstik](https://ssstik.io) — A TikTok video downloader.
+- [ssstiktok (TikTok)](https://ssstiktok.io) — A TikTok video downloader.
+- [Tik Face](https://www.tikface.com) — Anonymous TikTok viewer and downloader.
+- [TikTok Scraper](https://github.com/Dutchosintguy/tiktok-scraper) — TikTok scraper and downloader. Scrape information from user, trending and hashTag pages and download video posts.
+- [Tiktok-Bulk-Downloader](https://github.com/AzamRahmatM/Tiktok-Bulk-Downloader) — Asynchronously download hundreds or thousands of TikTok videos with a single command.
+- [Tokkit](https://www.4kdownload.com/products/tokkit/17) — A TikTok downloader.
+- [ttDownloader](https://ttdownloader.com) — A TikTok video downloader.
+- [Ttsave](https://ttsave.app) — A TikTok downloader.
+- [TWDOWN (Twitter)](https://twdown.net) — Website for downloading videos from Twitter posts.
+- [Twitter Video Downloader (Twitter)](https://twittervideodownloader.com/) — Website for downloading videos from Twitter.
+- [UrleBird](https://urlebird.com) — Online TikTok video downloader and converter.
+- [VDownloader (Different Platforms)](https://vdownloader.com) — Enables downloading of online videos including from Facebook and YouTube.
+- [Viddit.red (Reddit)](https://viddit.red) — Tool for downloading Reddit videos and GIFs.
+- [Y2mate (YouTube)](https://www.y2mate.com) — Download video and audio from YouTube.
+- [Yoo Download (Different Platforms)](https://yoodownload.com) — Allows downloading of content from various social and video platforms.
+- [Yout (YouTube)](https://yout.com) — Free online service that converts any video or audio URL into MP3, MP4, WAV, or GIF formats.
+- [Youtube-dl (YouTube)](https://rg3.github.io/youtube-dl/) — A command-line program to download videos from YouTube.com and other sites.
+- [Youtube-dlc (YouTube)](https://github.com/blackjack4494/youtube-dlc) — A command-line program to download videos from YouTube.com and other sites.
+- [YT MP4](https://ytmp4.is/) — Youtube to MP4 converter.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — A feature-rich command-line audio / video downloader.

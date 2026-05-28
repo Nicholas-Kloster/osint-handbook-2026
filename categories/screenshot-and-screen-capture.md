@@ -1,0 +1,42 @@
+# Screenshot And Screen Capture
+
+> 38 tools — [osinthandbook.com/screenshot-and-screen-capture](https://www.osinthandbook.com/screenshot-and-screen-capture)
+
+- [1Click Screenshot](https://chrome.google.com/webstore/detail/1click-screenshot/akgpcdalpfphjmfifkmfbpdmgdmeeaeo) — Website screenshot API / generator / tools.
+- [Awesome Screenshot](https://www.awesomescreenshot.com) — Awesome screen recorder and screen capture 2 in 1.
+- [blink](https://github.com/harleo/blink) — A simple single or bulk web page screenshoting tool, often used for reconnaissance / archival (OSINT) purposes.
+- [Cockos LICEcap](https://www.cockos.com/licecap/) — A lightweight open-source tool for animated screen capture allowing users to record a selected area and export as GIF or LCF format.
+- [droplr](https://droplr.com) — All-in-One screen recording and screenshooting software with audio and video capture.
+- [EyeWitness](https://github.com/ChrisTruncer/EyeWitness) — EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
+- [FastStone](http://www.faststone.org) — Windows screenshot and screen recording tool with annotation, scrolling capture and basic editor.
+- [FireShot](https://getfireshot.com) — Browser extension for capturing full web pages and editing screenshots
+- [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en-US) — A full page screen capture.
+- [Greenshot](https://github.com/greenshot/greenshot) — A light-weight screenshot software tool for Windows.
+- [Gyazo](https://gyazo.com) — Instant screenshot and GIF sharing platform.
+- [Jing](https://www.techsmith.com/jing-tool.html) — A free, simple tool for capturing screenshots and basic video recordings with annotation support.
+- [lazyshot](https://github.com/mdhama/lazyshot) — A simple tool to take an automated screenshot of given URLs.
+- [LightShot](https://app.prntscr.com) — Online screenshot sharing and editing platform by Lightshot
+- [Monosnap](https://monosnap.com) — Screen capture and video recording tool with cloud storage integration
+- [Monosnap](https://monosnap.com) — Cross‑platform screenshot and video recording app with built‑in editing and cloud upload.
+- [MWSnap](https://www.snapfiles.com/publishers/7112705.html) — A small yet powerful program for taking screen captures of a desktop, an active window, menu, or a specified part of the screen.
+- [Pages 2 Images](https://www.page2images.com/) — URL to image and mobile emulator API service.
+- [PickPick](http://ngwin.com/picpick) — A full-featured screen capture and recording tool, Intuitive image editor, color picker, color palette, pixel-ruler, protractor, crosshair, whiteboard and more.
+- [QuickSnip](https://github.com/aaronedmistone/QuickSnip) — A simple, streamlined snipping tool for Windows.
+- [screenrec](https://screenrec.com) — A free screen recording and screenshot app offering one-click capture, webcam and audio support, encrypted sharing and analytics.
+- [Screenshot Layer](https://screenshotlayer.com) — Website screenshot REST API service.
+- [Screenshot Machine](https://www.screenshotmachine.com) — Online service for capturing website screenshots automatically.
+- [ScreenToGif](https://www.screentogif.com/) — Screen, webcam and sketchboard recorder with an integrated editor.
+- [ShareX](https://getsharex.com) — Open-source screen capture and productivity tool for Windows
+- [Shutter](https://shutter-project.org) — Linux-based screenshot tool with editing and annotation features
+- [Snagit](https://www.techsmith.com/screen-capture.html) — Commercial screen capture and recording software by TechSmith
+- [Snapper](https://github.com/dxa4481/Snapper) — A security tool for grabbing screenshots of many web hosts.
+- [Snip&Paste](https://www.snipaste.com) — A simple but powerful snipping tool that also allows you to pin the screenshot back onto the screen.
+- [snippyly](https://snippyly.com) — A privacy-focused browser-based screen capture and collaboration tool that lets you snip, annotate, and share via link instantly.
+- [Take Webpage Screenshots Entirerly](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en-US) — A popular Chrome extension to capture full web pages and save as PDF or image formats.
+- [textshot](https://github.com/ianzhao05/textshot) — A Python tool for grabbing text via screenshot.
+- [TinyTake](https://tinytake.com) — A screen capture and video recording software for Microsoft Windows and Mac.
+- [URL Box](https://www.urlbox.io/) — A robust screenshot‑as‑a‑service API platform that lets you programmatically generate high‑quality screenshots, PDFs, videos, HTML or markdown from URLs or raw HTML.
+- [URL2PNG](https://www.url2png.com) — API-based tool that converts URLs into PNG images
+- [Web Page Saver](https://www.magnetforensics.com/free-tool-web-page-saver) — A free tool to save entire web pages for forensic analysis.
+- [webscreenshot](https://github.com/maaaaz/webscreenshot) — A simple script to screenshot a list of websites.
+- [WitnessMe](https://github.com/byt3bl33d3r/WitnessMe) — A web Inventory tool inspired by Eyewitness.

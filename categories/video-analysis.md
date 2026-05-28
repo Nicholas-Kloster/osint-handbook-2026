@@ -1,0 +1,55 @@
+# Video Analysis
+
+> 51 tools — [osinthandbook.com/video-analysis](https://www.osinthandbook.com/video-analysis)
+
+- [_intelligenceX Magic File Tool](https://intelx.io/tools?tab=filetool) — Tool for extracting and analysing text, metadata, selectors and images from supported files.
+- [Anilyzer](http://anilyzer.com) — Watch YouTube and Vimeo videos frame by frame and in slow motion.
+- [Annotate.tv](https://annotate.tv) — A tool for taking timestamped notes and exporting transcripts from videos.
+- [Apify](https://apify.com/streamers/youtube-scraper) — A scraper that extracts video data, comments, and channel info from YouTube.
+- [Deepware](https://deepware.ai) — Scan a suspicious video to find out if it’s synthetically manipulated.
+- [Download Subtitles](https://downsub.com) — Downloads subtitles and transcripts from online videos.
+- [Enhancer for YouTube](https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle) — A Chrome extension that adds a host of highly customisable features to the YouTube interface.
+- [ExtractMetadata](https://www.extractmetadata.com/) — Online tool to extract metadata from documents, images, and other file types.
+- [Hadzy](https://hadzy.com) — Search, sort and analyse YouTube comments.
+- [hashcut](https://www.hashcut.com) — A web app for clipping and sharing annotated segments of YouTube videos.
+- [Hive AI](https://chromewebstore.google.com/detail/hive-ai-detector/cmeikcgfecnhojcbfapbmpbjgllklcbi) — Check if text, images, audio or videos are AI generated.
+- [Hype Deepfake Voice Detector](https://chromewebstore.google.com/detail/hiya-deepfake-voice-detec/akmieeldmgcllmokbpaibfelofjiilpc) — Detect if a voice in a video or audio played in a Chrome tab is real or AI-generated.
+- [Improve Youtube](https://chromewebstore.google.com/detail/improve-youtube-%F0%9F%8E%A7-for-yo/bnomihfieiccainjcjblhegjgglakjdd) — A Chrome extension that adds additional features to the YouTube interface.
+- [ivMeta](https://digi.ninja/projects/ivmeta.php) — Tool to extract metadata from iPhone video files.
+- [Lettapp](https://github.com/lettapp/ytcs) — Search youtube comments by keywords.
+- [MediaInfo](https://mediaarea.net/en/MediaInfo) — Cross-platform program that displays unified technical and tag information for audio / video files via GUI or CLI.
+- [Metadata2Go](https://www.metadata2go.com) — Free service to read metadata from various file formats directly in the browser.
+- [Metashield Clean-up-Online](https://metashieldclean-up.elevenpaths.com) — Tool by ElevenPaths to analyse and clean metadata from files before sharing.
+- [MW YouTube Metadata](https://mattw.io/youtube-metadata) — Displays raw metadata for YouTube videos in browser.
+- [OpenCV](https://opencv.org) — An open-source library that can be used to perform tasks like face detection, objection tracking, landmark detection, and much more.
+- [OwlZoom](https://addons.mozilla.org/en-US/firefox/addon/owlzoom-youtube/) — Firefox extension to zoom and pan YouTube videos.
+- [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) — Python and OpenCV-based scene cut / transition detection program and library.
+- [ReClipped: YouTube Notes & Screenshots](https://chromewebstore.google.com/detail/reclipped-youtube-notes-s/gbnebpdekafhpcipejfhabfghccgfnbh) — Take timestamped notes and screenshots from videos on YouTube and many other platforms.
+- [ReelTime AI](https://reeltime-ai.com) — A tool to locate the exact moment you are looking for in a YouTube video.
+- [Return Youtube Comment Username](https://chromewebstore.google.com/detail/return-youtube-comment-us/kamibelompadnaekbellinmgbphoidmj) — A Chrome extension that replaces the \handle\" in the YouTube comments section with a traditional username."
+- [Screenshot YouTube](https://chromewebstore.google.com/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk) — Take a screenshot of any YouTube video with one click.
+- [Shotcut](https://www.shotcut.org) — A free, open source, cross-platform video editor.
+- [Slowtube](https://www.dkthehuman.com/slowtube/) — Plays YouTube videos at slower speeds for transcription or captioning help.
+- [Softorino YouTube Converter](https://softorino.com/youtube-converter-2) — YouTube Converter: Save YouTube media to Apple device.
+- [Tika](https://tika.apache.org) — Toolkit for detecting and extracting metadata and text from over a thousand file types via a unified interface.
+- [Transpose](https://chrome.google.com/webstore/detail/transpose-%E2%96%B2%E2%96%BC-pitch-%E2%96%B9-spee/ioimlbgefgadofblnajllknopjboejda?hl=en) — A Chrome extension to transpose pitch and change playback speed on YouTube.
+- [Tweaks for YouTube](https://chromewebstore.google.com/detail/tweaks-for-youtube/ogkoifddpkoabehfemkolflcjhklmkge) — A Chrome extension that adds a set of useful tools to the YouTube interface.
+- [VGG Face Finder (VFF) Engine](https://www.robots.ox.ac.uk/~vgg/software/vff/) — VGG Computer Vision Group’s “Video Face Finder” software for detecting and extracting faces across video frames.
+- [VGG Image Classification (VIC) Engine](https://www.robots.ox.ac.uk/~vgg/software/vic/) — VGG’s “Video Image Correlation” tool for matching and tracking objects or patterns across video frames.
+- [Watch Frame by Frame](http://www.watchframebyframe.com) — Watch frame by frame or in slow motion in a browser-based player.
+- [YCS - YouTube Comment Search](https://chromewebstore.google.com/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa) — Search comments, replies, chat replay, and video transcript for the current video on YouTube by contents, authors, and time.
+- [YiNote](https://chromewebstore.google.com/detail/yinote/fhpgggnmdlmekfdpkdgeiccfkignhkdf) — Take and share time-stamped notes while watching videos.
+- [Youtube Channel Archiver](https://github.com/dmn001/youtube_channel_archiver) — Starting point for archiving entire YouTube channels using yt-dlp (originally youtube-dl).
+- [Youtube Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader) — Simple script for downloading Youtube comments without using the Youtube API.
+- [Youtube Comments\n](https://youtube-comments.io/get-comments) — A service for retrieving comments from YouTube videos.
+- [YouTube Comments Search](https://ytbcomments.com) — A tool to search within and analyse YouTube comments.
+- [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube) — Exports data from YouTube channels, videos, playlists, and comments.
+- [YouTube Data Viewer](https://www.amnestyusa.org/citizenevidence) — A platform to submit videos or photos as human rights evidence.
+- [Youtube Lookup](https://youtube-lookup.vercel.app/) — A tool to fetch and display metadata from YouTube videos.
+- [YouTube Metadata](https://mattw.io/youtube-metadata/) — Web app to gather comprehensive metadata for YouTube videos, playlists, or channels.
+- [YouTube Restriction Check](http://polsy.org.uk/stuff/ytrestrict.cgi?ytid=vg7wh_zf2X0) — The YouTube region restriction checker.
+- [YouTube Thumbnail Graber](https://boingboing.net/features/getthumbs) — Retrieves YouTube video thumbnails.
+- [YouTube to Transcript](https://youtubetotranscript.com) — Extracts and displays transcripts from YouTube videos.
+- [Youtube Transcript](https://github.com/jdepoix/youtube-transcript-api) — Get the transcript / subtitles for a given YouTube video.
+- [YouTube Transcript Search](https://chromewebstore.google.com/detail/youtube-transcript-search/majldhdjdophhohfppnjlgnljcbjkakb) — A Chrome extension to search through any Youtube video's transcripts.
+- [youtube_tool](https://github.com/nlitsme/youtube_tool) — Tool for extracting comments or subtitles from YouTube videos.

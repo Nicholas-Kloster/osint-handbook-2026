@@ -1,0 +1,49 @@
+# Working With Sock Puppets
+
+> 45 tools — [osinthandbook.com/working-with-sock-puppets](https://www.osinthandbook.com/working-with-sock-puppets)
+
+- [AI Image Generator](https://deepai.org/machine-learning-model/text2img) — Free AI tool to generate images from text descriptions using multiple artistic styles.
+- [AI Picasso](https://aipicasso.app) — An AI-powered image generator and editor specialising in different types of avatar photos.
+- [AI Voice Generator](https://www.voicebooking.com/en/free-voice-over-generator) — Freemium text-to-speech generator for quick voice-over testing.
+- [AmIReal](https://seintpl.github.io/AmIReal/) — JavaScript tool to detect whether a photo might be AI / GAN-generated.
+- [Aragon AI](https://www.aragon.ai) — AI-powered headshot and image editing studio that generates professional-quality portraits, enhancements, and text-to-image visuals instantly using selfies or prompts.
+- [avachara](https://avachara.com/avatar/) — Free anime-style avatar character creator for profile pictures.
+- [Avatar Maker](http://www.theavatarmaker.com) — Simple online avatar maker for self-portrait illustration.
+- [avatarify](https://github.com/alievk/avatarify) — Open-source photorealistic avatar tool for video conferencing.
+- [Behind the Name](https://www.behindthename.com/random/) — Random name suggestion tool for babies, characters, etc.
+- [Bored Humans](https://boredhumans.com/faces.php) — AI-generated faces of women from around 30 countries.
+- [Cartoonize Avatar](https://www.cartoonize.net/avatar.htm) — Online avatar cartoonizer converting photos into stylised images.
+- [Credit Card Generator](https://cardgenerator.org/) — Generate credit card numbers with all required details for online signup and testing purposes.
+- [Data Fake Generator](https://datafakegenerator.com/generador.php) — A fake data generator (names, contact details, etc.).
+- [Deep Fakes Web](https://deepfakesweb.com/) — Web-based deepfake creation platform for face swaps and AI videos.
+- [Face Plus Plus: Face Merging](https://www.faceplusplus.com/face-merging) — Tool to merge a user's face with another image template.
+- [Fake Driver License Generation](https://fakeinfo.net/drivers-license-generator) — Online generator to create a mock driver's license for entertainment or testing purposes.
+- [Fake Generator Tools](https://fauxid.com/tools) — Collection of faux identity generators and privacy-focused tools.
+- [Fake ID Generator](https://businer.com/fakeid.php) — Tool to generate fake ID templates or mock identity documents for novelty purposes.
+- [Fake Identity Generator](https://backgroundchecks.org/justdeleteme/fake-identity-generator/) — A fake identity generator.
+- [Fake Info](https://fakeinfo.net/) — Comprehensive fake name and identity generator with supporting profile details.
+- [Fake Name Generator](https://www.fakenamegenerator.com) — Fake person generator that creates fictional identities including photos and biographies.
+- [Fake Person Generator](https://www.fakepersongenerator.com) — A fake person generator.
+- [Faker](https://github.com/joke2k/faker) — A Python package that generates fake data for you.
+- [Generated Photos](https://generated.photos) — A platform offering AI-generated, copyright-free human headshots and full-body images, allowing users to browse or create diverse and realistic faces with filters, bulk downloads, and API access.
+- [Generated Photos Faces](https://generated.photos/faces) — An AI-based face generator.
+- [Hotpot AI](https://hotpot.ai) — An AI platform for spark creativity with image generation, headshot creation, and photo editing tools.
+- [Morph Thing](https://www.morphthing.com/morph) — Interactive web tool to morph faces.
+- [Name Fake](https://en.namefake.com) — Fake Name Generator offering random identities with details like name, email, physical attributes, and more.
+- [Name Generator](https://www.name-generator.org.uk) — Wide-ranging name generator for characters, babies, authors, bands and more, with filters like gender, country, popularity.
+- [Name Generators](https://namegenerators.org/) — A free online tool for generating name and everything related to it.
+- [New Data Set](https://generatedata.com/generator) — Highly customisable fake data generator allowing structured datasets for names, addresses, and many custom fields.
+- [Online Name Generator](https://online-generator.com) — One-click name generators for nicknames, fantasy names, brands, businesses, and more.
+- [Random Name Generator](https://randomwordgenerator.com/name.php) — A random name generator with a wide range of filters.
+- [Random User](https://randomuser.me) — A random user generator providing realistic user data (names, photos, contact details) in JSON / XML formats.
+- [Random User Photos](https://randomuser.me/photos) — Gallery of 200 sample face photos for use as profile pictures.
+- [roop](https://github.com/s0md3v/roop) — One-click face swap.
+- [SockPuppet](https://www.sockpuppet.io) — Sockpuppet-as-a-service.
+- [Thing Names: Username Generator](https://thingnames.com/usernames) — Random username generator.
+- [This Baseball Player Does Not Exist](https://thisbaseballplayerdoesnotexist.com/) — AI-generated fictional baseball player portraits.
+- [This Person Does Not Exist](https://thispersondoesnotexist.com) — AI-generated highly realistic human faces created using GANs.
+- [This Person Does Not Exist API](that returns a random fictional person picture generated by AI.") — Unofficial \API\" for the ThisPersonDoesNotExist webpage
+- [This Resume Does Not Exist](https://thisresumedoesnotexist.com/) — AI-generated fictional resumes.
+- [This X Does Not Exist](https://thisxdoesnotexist.com/) — Overview of GAN-powered “This X Does Not Exist” sites.
+- [Username Generator](https://www.lastpass.com/features/username-generator) — Secure, customisable username generator.
+- [VCC Generator](https://www.vccgenerator.org/) — Free tool to generate realistic but unusable virtual credit card numbers (VCCs).

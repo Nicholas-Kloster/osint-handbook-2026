@@ -1,0 +1,63 @@
+# Video Editors And Converters
+
+> 59 tools — [osinthandbook.com/video-editors-and-converters](https://www.osinthandbook.com/video-editors-and-converters)
+
+- [4K Video Downloader (Different Platforms)](https://www.4kdownload.com) — Allows users to download videos and extract audio from YouTube and other popular platforms.
+- [Adobe](https://www.adobe.com) — Adobe is a leading provider of creative, marketing, and document-management software including Creative Cloud apps like Photoshop, Premiere Pro, and Acrobat.
+- [Apple Clips](https://www.apple.com/clips/) — Apple Clips is a mobile app for creating and editing fun, shareable videos with effects, filters, and animated graphics.
+- [Apple iMovie](https://www.apple.com/imovie/) — Apple iMovie is Apple’s free, user-friendly video editing software for Mac and iOS.
+- [Avidemux](http://avidemux.sourceforge.net) — A free, open-source cross-platform video editor for simple cutting, filtering, and encoding tasks.
+- [Clip Champ Create](https://clipchamp.com/en/video-editor/) — A freemium, browser-based video editor with AI tools for trimming, captions, auto enhancer, and more.
+- [ClipConverter.cc (YouTube)](https://www.clipconverter.cc) — Free online tool to record and convert nearly any audio or video URL to common formats.
+- [Colourlab AI](https://colourlab.ai) — An AI-powered color grading solution that automates scene balancing, shot matching, and cinematic looks using advanced color science, as a plugin or standalone app.
+- [Contentfries](https://www.contentfries.com) — An AI-powered content creation and repurposing platform that specialises in short-form video clips.
+- [Convertio TS to MP4](https://convertio.co/ts-mp4/) — Browser-based converter to change TS transport stream videos into MP4 files, with support for various formats, quality settings, batch uploads and cloud integration.
+- [Corel Video Studio](https://www.videostudiopro.com) — A Windows-only, beginner-to-intermediate video editor offering drag-and-drop timeline editing, multi-track support, screen capture, speech-to-text, animated effects, and templates.
+- [CyberLink](https://www.cyberlink.com) — CyberLink develops mid-range video editing software like PowerDirector, offering capture, editing, effects, rendering, and templates with subscription or one-time purchase options.
+- [D-id](https://studio.d-id.com) — An AI video creation platform that converts still images or text into lifelike avatar-driven videos.
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — An all-in-one post-production suite for editing, colour grading, visual effects, and audio, available in free and paid Studio versions with advanced features.
+- [ddownr (YouTUbe)](https://ddownr.com) — Free YouTube / Multi‑service downloader offering MP4 / MP3 conversion in multiple resolutions with no registration.
+- [descript](https://www.descript.com) — An AI-powered video and podcast editing tool.
+- [Dubverse AI](https://dubverse.ai) — An AI-driven platform for multilingual video dubbing, subtitles, and translations with realistic voiceovers.
+- [FFmpeg](https://ffmpeg.org) — Free and open-source command-line multimedia framework for video / audio processing, conversion, streaming, and filters across platforms.
+- [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) — Apple’s professional video editing software for Mac, offering high-performance editing, advanced effects, colour grading, and AI-powered tools with a free trial available.
+- [freemake (Different Platforms)](https://www.freemake.com) — A free video converter and downloader.
+- [Freemake Video Converter](http://www.freemake.com/free_video_converter/) — Free multimedia converter for Windows that supports over 500 formats.
+- [gling](https://www.gling.ai) — An AI-powered desktop tool tailored for YouTubers—automatically removes bad takes, silences, and filler words; generates captions, chapters, and titles; adds auto-framing and noise removal for polished talking-head videos.
+- [Handbrake](https://handbrake.fr) — A free, open‑source video transcoder for converting, cropping, resizing, filtering, and batch encoding videos.
+- [Heygen](https://www.heygen.com) — An AI video-generation platform for creating high-quality, multilingual videos with lifelike avatars, voice cloning, subtitles, and more.\n
+- [HeyGen](https://www.heygen.com/) — An AI video generator for creating hyper-realistic talking avatar videos from text or scripts, with translation, voiceover, and branding customisation.
+- [Hitfilm Express](https://hitfilm.com/express) — A free, professional-grade video editor with robust VFX, 2D / 3D compositing, animated captions, chroma key, tracking, grading, and effects presets.
+- [Kawara](https://www.kawara.ai/) — An AI-powered tool that automatically slices, tags, indexes and searches long video footage.
+- [Kinemaster](https://www.kinemaster.com) — A mobile video editing app (iOS/Android) with multi-layer timeline, AI tools, templates, 4K export, cloud project sync, effects, and professional-grade features.
+- [Lightworks](https://lwks.com/) — A cross-platform professional non-linear editor offering timeline editing, multicam support, VFX, color grading, free HD export, and paid upgrades to 4K and advanced features.
+- [Lossless-cut](https://github.com/mifi/lossless-cut) — The swiss army knife of video / audio editing.
+- [Magix](https://www.magix.com) — A suite of multimedia software for video editing, music production, and visual effects.
+- [Media 100](https://www.media100.com) — A professional video editing and finishing software with timeline-based editing, real-time effects, and broadcast-quality tools.
+- [Movie Maker Online](https://moviemakeronline.com/) — A free browser-based video editor offering timeline editing, templates, transitions, and export capabilities.
+- [Munch](https://www.getmunch.com) — An AI-powered video repurposing tool that automatically extracts, captions, and edits key moments from long-form videos.
+- [NCH Videopad Video Editor](https://www.nchsoftware.com/videopad/) — A user-friendly video editing app for Windows and macOS with multi-track timeline, transitions, effects, and direct sharing tools.
+- [Nero](https://www.nero.com) — Multimedia software for editing, converting, and streaming videos.
+- [Open Shot Video Editor](https://www.openshot.org) — A free, open-source cross-platform video editor with drag-and-drop timeline, unlimited tracks, transitions, keyframe animation, and 4K export.
+- [Pictory](https://pictory.ai) — A tool that turns text prompts into short, engaging videos with dynamic visuals.
+- [pinnacle](https://www.pinnaclesys.com) — A consumer-to-pro video editor for Windows featuring multi-camera editing, motion tracking, titles, and effects.
+- [Powtoon](https://www.powtoon.com/home/) — An online platform for creating animated videos and presentations using drag-and-drop templates, characters, and voiceover narration.
+- [Quso](https://quso.ai) — AI marketing platform for social-media content creation, video editing, scheduling, analytics and engagement.
+- [Remini Web](https://app.remini.ai/?v=41f73889-f23e-4577-9a04-43d7c668e509-1727985991568) — AI video and photo enhancer.
+- [runway](https://runwayml.com) — A global AI research and technology company building foundational AI research models and tools to create multimodal simulators of the world.
+- [Shotcut](https://shotcut.org) — A free, open-source, cross-platform video editor with timeline editing, filters, transitions, and broad format support.
+- [Shuffll](https://shuffll.com) — AI-powered platform that automates video creation.
+- [Softorino YouTube Converter](https://softorino.com/youtube-converter-2) — YouTube Converter: Save YouTube media to Apple device.
+- [Stability AI](https://stability.ai) — Multimodal media generation and editing tools.
+- [Subtitle Video\n](https://www.subtitlevideo.com/) — Subtitle extraction service with automatic AI-generated subtitles / transcripts and support for multiple languages and file formats.
+- [Topaz Video AI](https://www.topazlabs.com/topaz-video-ai) — AI-powered video enhancement software.
+- [Unscreen](https://www.unscreen.com) — Automatically removes video backgrounds in real-time using AI.
+- [Unscreen](https://www.unscreen.com/) — Background removal tool that lets users upload or paste videos / GIFs to instantly remove the background.
+- [Video Cleaner](http://videocleaner.com) — A free video-enhancement software for forensic analysis, noise reduction, stabilization, and image clarity improvements.
+- [VSCD Free Video Editor](http://www.videosoftdev.com) — Multimedia toolkit developer specializing in video codecs and converters, with desktop software offerings for editing and conversion
+- [Wevideo](https://www.wevideo.com) — Cloud-based video editing platform featuring collaborative timelines, stock media, transitions, and direct sharing.
+- [Wideo](https://wideo.co) — Online animated video creator for business presentations with drag-and-drop scenes, characters, and voiceover support.
+- [Windows Movie Maker - Free](https://www.microsoft.com/en-us/store/p/movie-maker-free/9mvfq4lmz6c9) — Free Microsoft Store app for Windows offering basic video trimming, merging, and simple edits.
+- [Wondershare Filmora](https://filmora.wondershare.com) — A AI-powered video editor with drag-and-drop timeline, effects, transitions, filters, audio tools, and social sharing capabilities.
+- [Yout (YouTube)](https://yout.com) — Free online service that converts any video or audio URL into MP3, MP4, WAV, or GIF formats.
+- [YT MP4](https://ytmp4.is/) — Youtube to MP4 converter.

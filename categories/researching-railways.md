@@ -1,0 +1,57 @@
+# Researching Railways
+
+> 53 tools — [osinthandbook.com/researching-railways](https://www.osinthandbook.com/researching-railways)
+
+- [ACW Railway (US)](http://www.acwr.com/economic-development/rail-maps) — Provides maps and data on short line railroads to support economic development and industrial planning.
+- [Amtrack Archive Database (US)](https://juckins.net/amtrak_status/archive/html/history.php) — Archives historical Amtrak train status data for research and analysis.
+- [Association of American Railroads (US)](https://www.aar.org) — Represents the interests of the North American freight rail industry with research and policy resources.
+- [British Columbia Data Catalogue (Canada)](https://catalogue.data.gov.bc.ca/dataset/railway-track-line) — Offers geographic data on railway track lines in British Columbia.
+- [Chronotrains](https://www.chronotrains.com/en) — Visualises how far trains can travel from a location in a given time using an interactive isochrone map.
+- [Data.gov (US)](https://catalog.data.gov/dataset?tags=railroad) — Provides access to various U.S. government datasets related to railroads.
+- [DB Timetable (Germany)](https://www.bahn.com/en/view/index.shtml) — Supports trip planning, ticket booking, and travel services for trains in Germany and beyond.
+- [DSB (Denmark)](https://www.dsb.dk) — Offers passenger train schedules, ticket booking, and travel information for the Danish railway system.
+- [Federal Railroad Administration (US)](https://www.fra.dot.gov/Page/P0001) — Provides information on railroad safety regulations, programs, and resources in the United States.
+- [Ferrocarta (Brazil, Canada, France and the US)](https://ferrocarta.net/) — Offers detailed maps and data visualisations of Latin American rail networks.
+- [Intermodal Map (EU)](http://www.intermodal-map.com/freie-karte) — Displays a free, interactive map of European intermodal freight terminals and railway lines.
+- [International Association of Railway Operations](http://www.iaror.org) — Promotes international cooperation in railway operations and shares technical standards and best practices.
+- [Interrail Trains Per Country](https://www.interrail.eu/en/plan-your-trip/trains-europe/trains-country) — Helps travellers plan rail journeys across Europe with country-specific train information.
+- [Keisei Electric Railway Company (Japan)](https://www.keisei.co.jp/) — Presents operational and company information about Keisei Electric Railway in Japan.
+- [Liik Enne Vira Sto (Finland)](https://vayla.fi/web/en/data) — Offers Finnish rail data including infrastructure, traffic, and planning information.
+- [Live Train Tracker\n](https://mobility.portal.geops.io/world.geops.transit) — Visualises global public transport data including railway lines and stations.
+- [Nederlanse Spoorwegen (Netherlands)](https://www.ns.nl) — Offers timetables, tickets, and travel information for the Dutch national railway services.
+- [Network Rail (UK)](https://www.networkrail.co.uk/who-we-are/transparency-and-ethics/transparency/open-data-feeds) — Offers open data feeds related to UK railway infrastructure and operations.
+- [NS International\n](https://www.nsinternational.com/en/stations/station-maps-floor-plan) — Provides interactive maps and station layouts for international train stations.
+- [Odakyu Electric Railway Company (Japan)](https://www.odakyu.jp) — Offers route maps, travel information, and ticketing services for the Odakyu railway in Japan.
+- [Office of Rail and Road (UK)](https://www.orr.gov.uk/about-orr/corporate-data) — Shares official reports and datasets related to railway regulation and performance in Great Britain.
+- [Open Data Regina (Canada)](http://open.regina.ca/dataset/railways) — Publishes railway data and GIS layers from Regina, Canada’s open data portal.
+- [Open Data Swiss (Switzerland)](https://opendata.swiss/en) — Provides access to a wide range of open government datasets in Switzerland.
+- [Open Railway Map](https://www.openrailwaymap.org) — Displays a comprehensive interactive map of global railway infrastructure including tracks and electrification.
+- [Open.Canada](https://open.canada.ca/data/dataset?keywords=railway+networks) — Provides access to Canadian government datasets related to railway networks.
+- [OpenRailwayMap](https://wiki.openstreetmap.org/wiki/OpenRailwayMap) — Documents and visualises global railway infrastructure using OpenStreetMap data.
+- [Rail Cam (UK)](https://railcam.uk) — Streams live and recorded footage of UK railway lines and stations.
+- [Rail Delivery Group (UK)](https://www.raildeliverygroup.com/our-services/rail-data.html) — Provides access to UK rail data services including timetables and real-time information.
+- [Rail Net Europe](http://rne.eu/downloads/) — Offers downloadable resources and documentation on European rail network operations and timetables.
+- [Rail Webcams](https://railwebcams.net/) — Streams live feeds from train webcams located at railroads and stations around the world.
+- [Railfan Atlas](https://railfanatlas.com/) — Provides a global interactive map of railway lines and stations for rail enthusiasts.
+- [Railroad Maps](https://websites.umich.edu/~yopopov/rrt/railroadmaps/) — Showcases historical North American railroad maps from the University of Michigan’s collection.
+- [Railway Gazette](https://www.railwaygazette.com/) — Delivers global news, analysis, and developments in the railway industry.
+- [Railway Technical Research Institute (Japan)](https://www.rtri.or.jp/eng/) — Shares railway research, development, and technical data from Japan.
+- [Railway Technology](https://www.railway-technology.com/company-a-z/) — Lists global railway-related companies and suppliers with profiles and contact details.
+- [RealTimeTrains (UK)](https://www.realtimetrains.co.uk) — Shows real-time train departure, arrival, and location data for the UK rail network.
+- [Spoorkaart (Netherlands)](https://spoorkaart.mwnn.nl/) — Displays a detailed interactive map of rail infrastructure in the Netherlands.
+- [Surface Transportation Board Railroad Map Depot (US)](https://stb.maps.arcgis.com/) — Hosts interactive maps and spatial data related to U.S. Surface Transportation Board oversight.
+- [Tobu Railway Company (Japan)](https://www.tobu.co.jp/corporation/) — Provides corporate and operational information about Tobu Railway in Japan.
+- [Track Trace Train Radar](https://track-trace.live/trainradar/) — Displays real-time locations of trains on a map with updates and route details.
+- [Trafa Transport Analysis (Sweden)](https://www.trafa.se/en/rail-traffic) — Presents statistics, reports and analyses related to rail traffic in Sweden.
+- [Train Times (UK)](https://traintimes.org.uk) — Shows live UK train times and service status information.
+- [Trainline](https://www.thetrainline.com) — Allows users to book train tickets, check schedules, and plan rail journeys across Europe.
+- [TRAVIC: Transit Visualisation Hub](https://tracker.geops.ch) — Displays real-time public transport movements on an interactive global map.
+- [UIC (Union Internationale Des Chemins De Fer)](https://uic.org/research) — Supports international railway research and innovation through collaborative projects and technical studies.
+- [UK Rail Research and Innovation Network](https://www.ukrrin.org.uk/) — Advances rail innovation through collaboration between UK academia and industry.
+- [Union Pacific (US)](https://www.up.com/index.htm) — Provides corporate information and service updates from Union Pacific Railroad.
+- [US Department of Transportation Railroads](https://www.transportation.gov/railroads) — Shares U.S. federal information, policy, and safety initiatives related to rail transportation.
+- [US DOT FRA Safety map](https://fragis.fra.dot.gov/GISFRASafety/) — Offers GIS-based tools for analysing rail safety and infrastructure data in the United States.
+- [Welsh Railways Research Circle](https://wrrc.org.uk/research.php) — Shares railway-related academic research and publications in the UK.
+- [World By Map Railways](https://www.citypopulation.de/en/world/bymap/Railways.html) — Displays global railway networks and infrastructure statistics by country and region.
+- [Yandex Trains Map](https://rasp.yandex.ru/) — Displays train schedules and routes across Russia and neighbouring countries with multilingual support.
+- [Zugfinder (Germany, Austria, BeNeLux, Italy, Denmark and Slovenia)](https://www.zugfinder.net/) — Allows users to track real-time train locations and movements primarily in Germany.

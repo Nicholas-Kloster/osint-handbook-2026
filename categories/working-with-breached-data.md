@@ -1,0 +1,48 @@
+# Working With Breached Data
+
+> 44 tools — [osinthandbook.com/working-with-breached-data](https://www.osinthandbook.com/working-with-breached-data)
+
+- [_IntelligenceX](https://intelx.io) — A search engine and data archive developed to support OSINT. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more.
+- [Ashley Madison Hack](https://ashley.cynic.al) — Search engine for searching data compromised in the Ashley Madison hack.
+- [Breach Check](https://breachcheck.io/) — Service for scanning and monitoring personal data in breaches.
+- [Breach Directory](https://breachdirectory.org/) — Directory to search compromised credentials from known breaches.
+- [Burnermail Data Breach Checker](https://burnermail.io/resources/data-breach-checker) — Tool to check if your email was exposed in public data breaches.
+- [Constella](https://constella.ai/) — Platform offering digital risk protection and identity breach monitoring.
+- [Cybernews Password Leak Check](https://cybernews.com/password-leak-check) — Tool to check if your passwords have been exposed in known leaks.
+- [Cybernews: Personal Data Leak Check](https://cybernews.com/personal-data-leak-check) — Tool to check if your personal data has been leaked online.
+- [DataBreach](https://databreach.com) — Search breached records by email, name, or phone.
+- [DeepFind.me: Email Validator](https://www.deepfind.me/tools/email-and-domain/email-validator) — A tool to perform an email breach check. Discover if your email address has been exposed in known data breaches.
+- [Dehashed](https://dehashed.com) — Service for searching email addresses, usernames, and IPs in breach data.
+- [Distributed Denial of Secrets](https://ddosecrets.com/) — Repository of leaked and hacked data.
+- [District4](https://www.district4labs.com) — An OSINT platform offering a large repository of compromised records and person-of-interest data.
+- [FindEmail](https://findemail.io/) — Provides a platform that enables users to find verified email addresses associated with a particular domain or company.
+- [Firefox Monitor](https://monitor.firefox.com) — Tool to check if your personal data has been leaked online.
+- [gosearch](https://github.com/ibnaleem/gosearch) — An OSINT tool designed for uncovering digital footprints associated with a given username.
+- [h8mail](https://github.com/khast3x/h8mail) — Email OSINT and password breach hunting tool, locally or using premium services.
+- [Hackedlist.io](https://hackedlist.io/) — Tool to search credentials compromised by info-stealer malware.
+- [Have I Been Pwned](https://haveibeenpwned.com) — Popular service for checking if an email or password was compromised in a breach.
+- [Have I Been Sold](https://haveibeensold.app) — Tool to check if your personal data has been sold online
+- [HaveIBeenZuckered](https://haveibeenzuckered.com/) — Checks if Facebook leaked your data in the Cambridge Analytica scandal.
+- [HPI Identity Leak Checker](https://sec.hpi.uni-potsdam.de/ilc/search) — Identity Leak Checker by Hasso Plattner Institute to detect leaked credentials.
+- [Hudson Rock](https://www.hudsonrock.com/cavalier) — Cybercrime intelligence product for identifying compromised employees and endpoints.
+- [Info-Stealer Lookup](https://infostealer.profiler.me) — Check if your email or username has been compromised by info-stealing malware.
+- [IntelBase](https://intelbase.is) — An e-mail profiling platform.
+- [Joe Black Security](https://joe.black/leakengine.html) — Search engine for exploring data breaches and leaked information.
+- [Leak Check](https://leakcheck.io/) — Service to check if credentials (email, username) have been compromised in data breaches.
+- [Leak-Lookup](https://leak-lookup.com/) — Data breach search engine offering email, username, IP address lookups across thousands of breaches.
+- [Leak.sx](https://leak.sx) — The leaked accounts website.
+- [Leaked Password](https://leakedpassword.com/) — Service / API to verify if a password or its hash appears in known data breaches.
+- [leakpeek](https://leakpeek.com) — A data breach search engine that searches leaked databases for personal information.
+- [Library of Leaks](https://search.libraryofleaks.org/) — Searchable database of millions of public leak documents, people, and companies.
+- [Oblivion](https://github.com/loseys/Oblivion/) — A tool focused on real time monitoring of new data leaks, notifying if the credentials of the user have been leaked.
+- [OSINT Leak](https://osintleak.com) — Comprehensive OSINT search engine for dark‑web leaks, stealer logs, and sensitive content.
+- [Passdb-frontend](https://github.com/audibleblink/passdb-frontend) — Pivoting frontend for pre-seeded password databases.
+- [Profil3r](https://github.com/Greyjedix/Profil3r) — An OSINT tool that allows you to find potential profiles of a person on social networks, as well as their email addresses.
+- [pwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) — OSINT Tool for finding credentials that appear in known breaches.
+- [Scattered Secrets](https://scatteredsecrets.com/) — Tool to search breached data for passwords.
+- [Scavenger](https://github.com/rndinfosecguy/Scavenger) — Crawler (Bot) searching for credential leaks on paste sites.
+- [Sherlockeye](https://www.sherlockeye.io) — A platform for investigating companies, individuals, and digital assets.
+- [Snusbase](https://snusbase.com) — Data breach search engine.
+- [TruthFinder: Dark Web](https://www.truthfinder.com/dark-web) — A tool to check whether personal information has been compromised on the dark web.
+- [WhatBreach](https://github.com/Ekultek/WhatBreach) — OSINT tool to find breached emails, databases, pastes, and relevant information.
+- [WhiteIntel](https://whiteintel.io) — Real-time threat and infostealer intelligence for MSSPs, enterprises, and researchers. Detect leaks, monitor takeovers, and respond instantly.

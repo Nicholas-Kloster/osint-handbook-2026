@@ -1,0 +1,135 @@
+# Researching Ips
+
+> 131 tools — [osinthandbook.com/researching-ips](https://www.osinthandbook.com/researching-ips)
+
+- [_IntelligenceX: GeoIP](https://intelx.io/tools?tab=geoip) — GeoIP lookup tool to determine geographic location and ownership of an IP address.
+- [_IntelligenceX: IP Lookup](https://intelx.io/tools?tab=ip) — IP intelligence tool providing details on IP reputation and historical data.
+- [007-TheBond](https://github.com/Deadshot0x7/007-TheBond) — A free script that can be used to profile an individual using different sources and techniques.
+- [AbuseIPDB](https://www.abuseipdb.com) — Community-driven IP abuse reporting platform to check IP addresses for malicious activity.
+- [Angry IP Scanner](http://angryip.org) — Fast and open-source IP scanner for network scanning and address discovery.
+- [At Same IP](https://atsameip.intercode.ca/) — Tool to find other domains sharing the same IP address.
+- [BGP HE](https://bgp.he.net) — BGP routing information portal showing IP prefixes, ASNs, and related routing data.
+- [BGP view](https://bgpview.io) — BGP and IP address data viewer offering ASN and prefix lookup with historical insights.
+- [Blacklist Alert](https://blacklistalert.org/) — Checks if a domain or IP is listed in DNS-based blacklists.
+- [Blacklisted IP Check](https://whoisip.ovh/blacklist) — Tool to verify if an IP address is blacklisted.
+- [Blocklist.de](https://www.blocklist.de/en/index.html) — Reports and publishes IPs involved in suspicious activity.
+- [BotScout](https://botscout.com/search.htm) — A service that helps fight automated web scripts, also known as \bots\"."
+- [Bright Cloud: URL / IP Lookup](https://www.brightcloud.com/tools/url-ip-lookup.php) — Enter a URL or IP address to view threat, content and reputation analysis.
+- [BrightCloud URL or IP Lookup](https://www.brightcloud.com/tools/url-ip-lookup.php) — Webroot’s tool for IP and URL threat classification.
+- [C99.nl](https://api.c99.nl/) — API service offering DNS, Whois, and IP intelligence queries.
+- [CentralOps.net](https://centralops.net) — Suite of network and domain investigation tools including DNS, Whois, traceroute, and email verification.
+- [Check-Host](https://check-host.net) — An online tool for checking availability of websites, servers, hosts and IP addresses.
+- [CINSscore](http://cinsscore.com) — IP threat scoring tool for assessing maliciousness.
+- [CloudFail](https://github.com/m0rtem/CloudFail) — Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network.
+- [Country Flags & IP Whois](https://addons.mozilla.org/en-US/firefox/addon/country-flags-ip-whois/?src=search) — A Firefox add-on that displays country flag of website's server location, Whois and Geo info on a browser addressbar icon.
+- [CQCounter](http://cqcounter.com/whois) — IP address / Domain name lookup.
+- [Cymru IP to ASN Lookup](https://asn.cymru.com) — IP to ASN Lookup.
+- [Da.whois](https://dawhois.com) — Web interface for fast Whois queries with history and domain analytics.
+- [Data Surgeon](https://github.com/Drew-Alleman/DataSurgeon) — A tool to extract various types of sensitive information including emails, phone numbers, hashes, credit cards, URLs, IP addresses, MAC addresses, SRV DNS records, and more from text.
+- [DB-IP](https://db-ip.com) — IP geolocation API and database.
+- [DeepFind.Me: IP Geolocation Lookup](https://www.deepfind.me/tools/geo-location/ip-geolocation-lookup) — Enter an IP address to fetch its geolocation details including country, city, ISP, and more.\n\n
+- [Directory of Malicious IPs](https://www.projecthoneypot.org/list_of_ips.php) — List of suspicious IPs collected through spam traps and honeypots
+- [DNS Archive](https://dnsarchive.net) — Archive of historical DNS zone data for analysis of past DNS configurations.
+- [DNS Lookup Pro](https://dnslookup.pro/) — Advanced online DNS record lookup service with detailed output.
+- [DNSlytics](https://dnslytics.com) — Online portal offering DNS, IP, ASN, reverse DNS lookups, and historical data for threat research.
+- [Domain Digger](https://digger.tools/) — Provides an open-source toolkit for comprehensive domain analysis, delivering detailed DNS, IP, WHOIS data, and SSL/TLS history in a user-friendly interface. Search by domain, URL, email or IP.
+- [Domain Dossier](http://centralops.net/co/DomainDossier.aspx) — Multi-tool for WHOIS, DNS, traceroute, and domain investigation.
+- [DomainIQ](https://www.domainiq.com) — Domain intelligence and monitoring platform.
+- [DomainTools](https://whois.domaintools.com/) — Direct WHOIS lookup from DomainTools.
+- [DShield API](https://isc.sans.edu/api/) — API access to global internet threat and activity data.
+- [Exonera Tor](https://exonerator.torproject.org) — Service that checks if a given IP address was a Tor exit node at a specific time.
+- [Fav-up](https://github.com/pielco11/fav-up) — Lookups for real IP starting from the favicon icon and using Shodan.
+- [Firehol IP Lists](https://iplists.firehol.org) — Aggregated IP blocklists for firewall and threat defence use.
+- [Free IP Geolocation API](https://freegeoip.app) — API service providing geolocation information based on IP addresses.
+- [Gaijin.at](https://www.gaijin.at/en/tools/) — A suite of online tools including DNS lookup, email header analysis, IP calculator, and more.
+- [Geo Data Tools](https://www.geodatatool.com) — Tool for retrieving geolocation, ISP, and other IP-related data.
+- [Geo IP Tool](https://geoiptool.com) — Web-based service providing geolocation details for IP addresses.
+- [GeoLite2](https://dev.maxmind.com/geoip/geoip2/geolite2) — A free geolocation and ASN data in downloadable database and web service formats.
+- [Gobuster](https://github.com/OJ/gobuster) — Directory / File, DNS and VHost busting tool written in Go.
+- [Hacker Intelligence](https://hackertarget.com/reverse-dns-lookup/) — Performs reverse DNS lookup to find domain associated with an IP.
+- [HackerTarget](https://hackertarget.com/ip-tools/) — Collection of IP tools for scanning, lookups, and analysis.
+- [Hexillion](https://hexillion.com/) — A Whois API and internet tools for cybersecurity and domain information.
+- [HostHunter](https://github.com/SpiderLabs/HostHunter) — A recon tool for discovering hostnames using OSINT techniques.
+- [ifconfig](https://ifconfig.me) — Command-line and browser-accessible service that displays your IP address and network information.
+- [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/?ip=198.8.80.192) — Tool that shows BitTorrent download history associated with a specific IP address.
+- [InfoBylp (Bulk Domain & IP Lookup)](https://www.infobyip.com/ipbulklookup.php) — Bulk IP geolocation and lookup tool.
+- [Infosniper](https://www.infosniper.net/) — IP geolocation tool providing map-based data and hostname lookups.
+- [InfoTrail](https://infotrail.io) — An OSINT search tool that can be used to retrieve information on domains, URLs, e-mails, phone numbers, IPs, and more.
+- [IntelOwl](https://github.com/intelowlproject/IntelOwl) — A tool to gather threat intelligence data about a malware, an IP address or a domain.
+- [IP 2 Geolocation](http://ip2geolocation.com) — API service offering IP geolocation and threat intelligence data.
+- [IP 2 Location](https://www.ip2location.com) — IP geolocation service with databases and APIs for location, ISP, and other data.
+- [IP Address](https://www.ip-address.org) — Website offering IP lookup, DNS tools, and geolocation services.
+- [IP Address](https://www.ipaddress.com) — IP lookup, WHOIS, and domain search tools.
+- [Ip Address](https://www.ip-adress.com) — IP lookup tool offering geolocation and ISP information.
+- [IP Address Guide](https://www.ipaddressguide.com) — Free IP address tools provide a range of functionalities such as pinging an IP address, performing a traceroute to an IP address, converting an IP address into decimal value or CIDR format, and more, for both IPv4 and IPv6 formats.
+- [IP Address Location](http://www.ipaddresslocation.org) — IP geolocation service providing IP and host details.
+- [IP Analyzer](https://ipalyzer.com) — Comprehensive IP analysis tool showing DNS, WHOIS, and more.
+- [IP Chicken](http://www.ipchicken.com) — Basic service showing your current IP and network info.
+- [IP Data](https://ipdata.co) — API providing detailed IP intelligence and geolocation data.
+- [IP Info](http://ipinfo.info) — IP address lookup with geolocation, ASN, and reverse DNS info.
+- [IP Lists by FireHOL](http://iplists.firehol.org) — Aggregated IP blocklists for firewalls and threat intelligence.
+- [IP Location](https://www.iplocation.net) — Multi-source IP geolocation lookup tool.
+- [IP to ASN](https://iptoasn.com) — Converts IPs to their associated AS numbers and organisations
+- [IP Tracker Online](https://www.iptrackeronline.com) — IP and location tracker with detailed mapping.
+- [Ipapi](https://ipapi.co) — Real-time IP geolocation API with JSON support.
+- [Ipapi Bulk IP Address Lookup](https://app.ipapi.co/bulk/) — Bulk IP Lookup / Batch IP Checker.
+- [IPdeny](https://www.ipdeny.com) — Country GEO IP address block downloads free of charge.
+- [IPFingerprints](https://www.ipfingerprints.com/) — A set of tools for IP analysis.
+- [IPFuscator](https://github.com/vysecurity/IPFuscator) — A tool to automatically generate alternative IP representations.
+- [Ipinfo.io](https://ipinfo.io) — IP address data API with geolocation, ASN, and company details.
+- [IPIP](https://en.ipip.net/ip.html) — IP lookup tool.
+- [IPSpamList](https://www.ipspamlist.com/ip-lookup) — Check IPs against spam and blacklist databases.
+- [IPv6 Locator](http://ipv6locator.net) — IPV6 address lookup with geolocation data.
+- [ipverse-rir-ip](https://github.com/ipverse/rir-ip) — Download IP address lists grouped by country.
+- [IPVoid](https://www.ipvoid.com/) — IP reputation checker with blacklist and malware checks.
+- [iTools](http://itools.com) — General web utilities including IP lookup and DNS tools.
+- [Kloth](http://www.kloth.net/services/) — Network tools including traceroute, WHOIS, and DNS lookups.
+- [lacnic](https://www.lacnic.net/) — Regional internet registry for Latin America and the Caribbean providing IP address allocation and related services.
+- [leakpeek](https://leakpeek.com) — A data breach search engine that searches leaked databases for personal information.
+- [Maltego](https://www.maltego.com) — Link analysis and OSINT tool for mapping relationships across data.
+- [Malware URL Website Security Status](https://www.malwareurl.com/listing-urls.php) — MalwareURL site reputation lookup.
+- [MaxMind](https://www.maxmind.com) — IP geolocation and fraud detection services with commercial databases.
+- [MXToolbox](https://mxtoolbox.com) — A suite of tools to diagnose and monitor mail servers and DNS records.
+- [My IP](https://myip.ms/) — IP intelligence platform with WHOIS, blacklist, and hosting data.
+- [Nerd](https://nerd.cesnet.cz/nerd/ips/) — Reputation database for IP addresses based on network behaviour.
+- [Netperf Tools](https://netperf.tools) — Network performance testing and monitoring tools.
+- [Networks DB\n](https://networksdb.io/) — Database of network assets including domains, IPs, and organisations.
+- [NirSoft](http://www.nirsoft.net) — Collection of Windows network and password recovery utilities.
+- [OSINT Rocks](https://osint.rocks) — Provides easy access to popular scripts used to gather information about usernames, e-mails, phone numbers, and domains / IPs.
+- [OSINT.sh: IP Geo Location Lookup](https://osint.sh/ip) — A tool from OSINT.sh that finds a geolocation of an IP address or a domain including city, region and country.
+- [OSINT.sh: Reverse IP](https://osint.sh/reverseip) — A reverse IP lookup tool from OSINT.sh.
+- [p2pblocklists](https://github.com/f1lby/p2pblocklists) — Country / Provider to IPv4 address lookup.
+- [PyGeoIPMap](https://github.com/pieqq/PyGeoIpMap) — Little Python script to show where IP addresses are coming from by plotting them on a world map.
+- [RedirectDetective](https://redirectdetective.com/) — Redirect path analyzer for detecting URL redirects and chains.
+- [Reverse IP to Domain Lookup](https://www.ipfingerprints.com/reverseip.php) — Reverse IP lookup tool to find domains hosted on the same server.
+- [RiskIQ](https://community.riskiq.com) — RiskIQ community forum offering threat intelligence discussions, tools, and resources.
+- [Robtex](https://www.robtex.com) — Internet and DNS data aggregation platform offering domain, IP, and DNS insight.
+- [Robtex DNS Lookup](https://www.robtex.com/dns-lookup/) — DNS lookup interface within Robtex for querying domain records and diagnostics.
+- [Scamalytics](https://scamalytics.com) — IP address fraud chack.
+- [Scumware](https://www.scumware.org/) — A database of known malicious URLs and software.
+- [SecurityTrails](https://securitytrails.com) — Comprehensive domain intelligence platform with DNS, WHOIS, and historical data.
+- [Server IP](https://chrome.google.com/webstore/detail/server-ip/adcbaggcjppnkmhfmjcdgagmggnfeikh) — A Chrome extension that displays server IP address on every website.
+- [Sherlockeye](https://www.sherlockeye.io) — A platform for investigating companies, individuals, and digital assets.
+- [Shodan Recon](https://github.com/richard-clifford/Shodan_Recon) — Takes a set of IPs and performs recon to get domain names associated with the IP.
+- [Spamhaus](https://www.spamhaus.com/) — Reputation-based threat intelligence on IPs, domains, and spam sources.
+- [SubDomainRadar](https://subdomainradar.io/) — Subdomain discovery tool that helps map and enumerate subdomains of a target.
+- [SubnetOnline](https://www.subnetonline.com) — Online IP subnet calculator and network tools (IPv4 & IPv6).
+- [SuIP.biz](https://suip.biz) — Collection of IP‑related OSINT and network tools.
+- [Synapsint](https://synapsint.com) — A free service that aggregates data from multiple intelligence sources, search engines, datasets, and other resources to provide comprehensive cybersecurity insights.
+- [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) — A script that performs reconnaissance and information gathering using various modules to uncover details about a target.
+- [ThreatPinchLookup](https://github.com/cloudtracer/ThreatPinchLookup) — ThreatPinch Lookup creates informational tooltips when hovering oven an item of interest on any website.
+- [Tor Node List](https://www.dan.me.uk/tornodes) — Comprehensive and regularly updated Tor node (exit & entry) IP list.
+- [tucows / domains](https://tucowsdomains.com/whois-search) — Domain WHOIS lookup service.
+- [urlscan](https://urlscan.io) — A free service to scan and analyse websites.
+- [ViewDNS](https://viewdns.info/) — Collection of DNS and OSINT tools for investigating domains and IPs.
+- [Virus Total](https://www.virustotal.com) — Online service for analysing files and URLs for viruses and malware.
+- [Wappalyzer](https://wappalyzer.com) — Web technology profiler.
+- [WEBCAPTURE](https://github.com/drackyjr/WEBCAPTURE) — Automated Open Source Intelligence gathering tool with multiple features.
+- [Website IP](https://chrome.google.com/webstore/detail/website-ip/ghbmhlgniedlklkpimlibbaoomlpacmk) — Chrome extension displaying the current website’s IPv4/IPv6 address in-page corner.
+- [WhatIsMyIP](https://www.whatismyip.com) — Tool to instantly view your public IPv4/IPv6 address, ISP and location.
+- [WhatIsMyIPAddress](http://whatismyipaddress.com) — Service showing your public IP (IPv4/IPv6), geolocation, ISP and privacy/security context.
+- [WhatMyIP.co](http://whatmyip.co) — Simple site to display your public IP and basic network diagnostics (WHOIS, traceroute).
+- [Who Was\n](https://www.apnic.net/static/whowas-ui/) — APNIC “WhoWas” interface listing historical WHOIS data for IP address allocations.
+- [Whois Easy Counter](https://whois.easycounter.com) — Free WHOIS lookup tool providing domain registration details.
+- [Whois.Search](https://whois-search.com) — WHOIS lookup service for domain names and registrar information.
+- [You Get Signal](https://www.yougetsignal.com/) — A set of useful tools, including port forwarding tester, IP checker, network location tool, visual trace root tool, phone number geolocator, reverse e-mail lookup tool, reverse IP domain check, WHOIS lookup tool, and more.

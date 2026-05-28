@@ -1,0 +1,45 @@
+# File And Ftp Search
+
+> 41 tools — [osinthandbook.com/file-and-ftp-search](https://www.osinthandbook.com/file-and-ftp-search)
+
+- [_IntelligenceX: File](https://intelx.io/tools?tab=file) — Collection of OSINT tools including file search functionality on indexed data sources.
+- [/r/opendirectories](https://www.reddit.com/r/opendirectories) — A subreddit dedicated to open directories.
+- [4shared](https://www.4shared.com) — File sharing and storage platform allowing users to upload and download files.
+- [Ask the EU](https://www.asktheeu.org) — Crowdsourced portal for submitting and tracking freedom of information requests within the EU.
+- [Aware Online: File Search](https://www.aware-online.com/osint-tools/bestandstypen-search-tool/) — Tool for searching specific file types on websites for OSINT purposes.
+- [Bucket Finder](https://digi.ninja/projects/bucket_finder.php) — A simple tool to search for buckets in the Amazon's S3 system.
+- [Cloud OSINT](https://github.com/7WaySecurity/cloud_osint) — A repository related to cloud OSINT.
+- [cloud_enum](https://github.com/initstring/cloud_enum) — Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
+- [CloudScraper](https://github.com/jordanpotti/CloudScraper) — A tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space.
+- [CloudStorageFinder](https://github.com/digininja/CloudStorageFinder) — A collection of tools to find data that has been made public in cloud storage systems such as S3 Buckets and Digital Ocean Spaces.
+- [DeDigger](https://www.dedigger.com/) — Search engine for discovering publicly accessible files and directories on the internet.
+- [EyeDex](https://www.eyedex.org) — A powerful open directory search tool.
+- [File Pursuit](https://filepursuit.com/) — A powerful file search service that allows you to find a specific file among millions of others that are located on web servers.
+- [FilePhish](https://greylensresearch.github.io/filephish/) — A lightweight, user-friendly tool designed to help you quickly discover documents across the web by combining keywords, site-specific searches, and filetype filters.
+- [FileSearching](http://www.filesearching.com) — Search engine for finding files on public FTP servers.
+- [Find-pdf-doc](http://www.findpdfdoc.com) — Search engine for PDF, DOC, PPT, TXT, and SWF files.
+- [Free Full PDF](http://www.freefullpdf.com) — Search engine offering free access to full-text PDF documents across various subjects.
+- [FreewareWeb](http://www.freewareweb.com/ftpsearch.shtml) — Tool for searching FTP servers for publicly available files.
+- [GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute) — A script to enumerate Google Storage buckets, determine what access you have to them, and determine if they can be privilege escalated.
+- [goofile](https://tools.kali.org/information-gathering/goofile) — OSINT tool in Kali Linux for finding files indexed by Google on target domains.
+- [Grayhat Warfare](https://buckets.grayhatwarfare.com) — A popular, free tool that lists open s3 buckets and helps you search for interesting files.
+- [Heystacks](https://heystacks.com) — Discover the best public Google docs.
+- [inSp3ctor](https://github.com/brianwarehime/inSp3ctor) — AWS S3 Bucket / Object Finder.
+- [LENDX](http://lendx.org) — An open directory search tool.
+- [Meawfy](https://meawfy.com) — Search and discover files from Mega.nz.
+- [MMNT](https://www.mmnt.ru/) — Index of open directories allowing users to browse and download publicly available files.
+- [NAPALM FTP Indexer](https://www.searchftps.net/) — FTP search engine for finding files stored on accessible FTP servers.
+- [ODCrawler](https://odcrawler.xyz) — A search engine for open directories.
+- [Open Dir Search](https://opendirsearch.abifog.com) — An open directory search tool.
+- [Open Directory Search](https://sites.google.com/view/l33tech/tools/ods) — An open directory search tool.
+- [Open Directory Search Finder](https://ewasion.github.io/opendirectory-finder/) — An open directory search tool.
+- [Open Directory Search Portal](https://eyeofjustice.com/od/) — An open directory search tool.
+- [OSINT.sh: Buckets](https://osint.sh/buckets) — Find public buckets on AWS S3 and Azure Blob by a keyword.
+- [PDF Drive](https://www.pdfdrive.com) — Search engine for PDF files.
+- [PDF Search Engine](http://www.pdfsearchengine.net) — Meta-search engine aggregating PDF files from diverse public web sources.
+- [Scribd](https://www.scribd.com/) — Subscription-based digital library hosting books, audiobooks, and documents uploaded by users.
+- [Search Shared](https://www.searchshared.info) — Search engine for locating files shared on various public platforms.
+- [SearchFiles.de](https://searchfiles.de) — Search engine for locating documents and media files hosted on the internet.
+- [Sherlockeye](https://www.sherlockeye.io) — A platform for investigating companies, individuals, and digital assets.
+- [spaces-finder](https://github.com/appsecco/spaces-finder) — A tool to hunt for publicly accessible DigitalOcean Spaces.
+- [wayBackLister](https://github.com/anmolksachan/wayBackLister) — A reconnaissance tool that taps into the Wayback Machine to fetch historical URLs for a domain, parses unique paths, and checks if any of those paths currently expose directory listings.

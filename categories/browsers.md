@@ -1,0 +1,42 @@
+# Browsers
+
+> 38 tools — [osinthandbook.com/browsers](https://www.osinthandbook.com/browsers)
+
+- [Alloy](https://alloy.simoncaminada.ch/) — Alloy is a task-based web browser designed for power users, allowing each task to have its own set of tabs for focused browsing.
+- [Aloha Browser](https://alohabrowser.com) — Aloha Browser is a privacy-focused desktop and mobile browser offering a free built-in VPN, ad blocker, and advanced file management features.
+- [AntBrowser](https://antbrowser.pro) — AntBrowser is an anti-detect browser tailored for managing multiple accounts securely across various platforms without detection.
+- [Arc](https://arc.net/) — Arc is a modern web browser that reimagines browsing with features like Spaces and Profiles, aiming to enhance productivity and organization.
+- [Basilisk](https://www.basilisk-browser.org/) — Basilisk is an open-source XUL-based web browser that retains the classic Firefox interface and supports legacy extensions.
+- [Brave](https://brave.com/) — Brave is a privacy-centric browser that blocks ads and trackers by default, offering faster browsing and integrated cryptocurrency rewards.
+- [CentBrowser](http://www.centbrowser.com) — Cent Browser is a Chromium-based browser for Windows that enhances user experience with features like mouse gestures and tab management.
+- [Chrome](https://www.google.com/chrome/) — Google Chrome is a fast, secure, and widely-used web browser developed by Google, known for its simplicity and extensive extension support.
+- [Chromium](https://www.chromium.org) — Chromium is an open-source web browser project that forms the basis for Google Chrome and other browsers.
+- [Colibri](https://colibri.opqr.co) — Colibri is a minimalist browser that replaces traditional tabs with a streamlined interface using Links, Lists, and Feeds for organization.
+- [Comodo Dragon](https://www.comodo.com/home/browsers-toolbars/browser.php) — Comodo IceDragon is a Firefox-based browser developed by Comodo, focusing on security with features like site inspections and secure DNS.
+- [Coowon](http://coowon.com) — Coowon is a browser based on Chromium, designed for gamers with features like gamepad support, record and play mouse clicks, and more.
+- [Dooble](https://textbrowser.github.io/dooble/) — Dooble is a privacy-oriented web browser that emphasizes security with features like encrypted browsing and minimal data retention.
+- [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge) — Microsoft Edge is a Chromium-based browser from Microsoft that integrates with Windows and offers features like Collections and vertical tabs.
+- [Epic](https://epicbrowser.com/index.html) — Epic Browser is a privacy-focused browser that blocks ads and trackers, providing a built-in VPN and encrypted proxy for secure browsing.
+- [Firefox](https://www.mozilla.org) — Mozilla Firefox is a free and open-source browser developed by Mozilla, known for its speed, privacy features, and extensive customization.
+- [GNUzilla and IceCat](https://www.gnu.org/software/gnuzilla) — GNU IceCat is a free browser based on Firefox, developed by the GNU Project, emphasizing user freedom and privacy.
+- [Iridium](https://iridiumbrowser.de) — Iridium Browser is a privacy-focused browser based on Chromium, enhancing security by disabling data transmission to third parties.
+- [Konqueror](https://konqueror.org) — Konqueror is a versatile browser and file manager for KDE, supporting web browsing, file management, and document viewing.
+- [Lunascape](https://www.lunascape.org) — A fast and secure web browser developed by Lunascape Corporation in Tokyo, Japan.
+- [Maxthon](https://www.maxthon.com/) — Maxthon is a multi-platform browser that offers cloud syncing, built-in ad blocking, and a unique dual-engine for rendering web pages.
+- [Min](https://minbrowser.github.io/min) — Min is a minimalistic browser that emphasizes speed and simplicity, featuring a built-in ad blocker and reader mode.
+- [Naver Whale](https://whale.naver.com) — a freeware web browser available in English and Korean developed by South Korean technology company Naver Corporation.
+- [Nyxt](https://nyxt.atlas.engineer) — Nyxt is a keyboard-oriented, programmable browser designed for power users, offering advanced features like scripting and automation.
+- [Opera](http://www.opera.com) — Opera is a feature-rich browser known for its speed and integrated tools like a free VPN, ad blocker, and social media messengers.
+- [Opera Neon](http://www.opera.com/computer/neon) — Opera Neon is an experimental browser from Opera that showcases innovative design concepts and a unique user interface.
+- [Pale Moon](https://www.palemoon.org) — Pale Moon is an open-source browser based on Firefox, focusing on efficiency and customization while supporting legacy extensions.
+- [Rambox](https://rambox.pro) — Rambox is a workspace browser that allows users to manage multiple applications and services in a single interface.
+- [Safari](https://www.apple.com/safari/) — Safari is Apple's default web browser, optimized for performance and energy efficiency on macOS and iOS devices.
+- [SeaMonkey](https://www.seamonkey-project.org) — SeaMonkey is an all-in-one internet suite that includes a web browser, email client, IRC chat, and HTML editor.
+- [Sidekick](https://www.meetsidekick.com/) — Sidekick is a browser built for work, integrating apps and tools into a single interface to streamline productivity.
+- [Silo](https://www.authentic8.com) — Authentic8 Silo is a secure browser that executes web sessions in the cloud, isolating potential threats from the local device.
+- [SRWare Iron](https://www.srware.net/en/software_srware_iron.php) — SRWare Iron is a Chromium-based browser that focuses on privacy by eliminating usage tracking and other data-collecting features.
+- [Tenebris](https://ls.tenebris.cc) — Tenebris LS is a lightweight browser designed for privacy and anonymity, minimizing data leaks and fingerprinting.
+- [Torch](http://www.torchbrowser.com) — Torch Browser is a Chromium-based browser with built-in media downloading, torrent management, and social sharing features.
+- [Vivaldi](https://vivaldi.com) — Vivaldi is a highly customizable browser that offers advanced tab management, built-in tools, and extensive personalization options.
+- [Waterfox](https://www.waterfox.net) — Waterfox is an open-source browser based on Firefox, optimized for speed and privacy, and supporting legacy extensions.
+- [Yandex Browser](https://browser.yandex.com/desktop/main) — Yandex Browser is a Chromium-based browser developed by Yandex, featuring a Turbo mode for faster loading and integrated security tools.

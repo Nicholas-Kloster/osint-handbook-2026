@@ -1,0 +1,51 @@
+# Working With Radio
+
+> 47 tools — [osinthandbook.com/working-with-radio](https://www.osinthandbook.com/working-with-radio)
+
+- [Accuradio](https://www.accuradio.com) — A free, human‑curated internet radio service offering around 1,000 music channels across 50+ genres, personalized stations with unlimited skips and no subscription required.
+- [American Archive of Public Broadcasting](https://americanarchive.org/) — A digital archive preserving American television and radio broadcasts.
+- [Antenna Structure Registration Search](https://wireless2.fcc.gov/UlsApp/AsrSearch/asrRegistrationSearch.jsp) — A search portal for registered antenna structures.
+- [AntennaSearch](https://www.antennasearch.com/) — Map-based service showing cell tower and antenna locations near an entered address (US-based).
+- [Aprs.fi](https://aprs.fi/#!lat=40.51860&lng=-74.34990) — Displays a real-time global map of APRS stations, positions, weather telemetry, and paths.
+- [ArtSci](http://www.artscipub.com/repeaters/) — Searchable database of amateur radio repeater frequencies by state or location.
+- [Broadcastify](https://www.broadcastify.com/) — Streams live audio from public safety, aircraft, rail, marine, and amateur radio scanner feeds.
+- [Digital Frequency Search](https://digitalfrequencysearch.com/index.php) — Helps users find, scan, and identify digital radio systems and frequencies.
+- [DX Zone](https://www.dxzone.com) — Directory and news guide focused on amateur radio, DXing, antennas, software, and equipment.
+- [DXing National Scanner Frequency Guide](https://www.dxing.com/scanfreq.htm) — Lists scanner frequencies and information for receiving distant radio or TV signals.
+- [Echolink\n](https://www.echolink.org/links.jsp) — Find EchoLink simplex or repeater links within range of a given location.
+- [Frequency Finder](http://frequencyfinder.org.uk) — A website providing details of all radio stations in England, Scotland, Wales and Ireland with features on radio transmission and history.
+- [Funkfrequenzen01](http://www.funkfrequenzen01.de) — Offers listings of radio frequencies and broadcast bands in Germany.
+- [Global Tuners](https://www.globaltuners.com/) — Provides access to remotely controlled radio receivers all over the world.
+- [HF Underground](https://www.hfunderground.com/board/) — A message board and wiki forum focused on the HF radio hobby, documenting legal and pirate HF transmissions, user‑contributed logs, QSL images and discussions.
+- [http://radio.net/](https://www.radio.net/local-stations) — Offers a directory of over 60,000 global radio stations and podcasts accessible via web or app, searchable by genre, location or topic.
+- [Intercept Radio](http://interceptradio.com) — Hosts low‑power ‘Part 15’ pirate and hobby broadcast streams and community discussion of unlicensed FM / AM transmissions.
+- [Internet Radio](https://www.internet-radio.com) — Features thousands of human‑curated internet radio stations.
+- [Live Online Radio](https://liveonlineradio.net/) — Aggregates live online radio stations globally, accessible via browser or app, organised by station, genre, location.
+- [Live365](https://live365.com/listen) — Provides streaming access to thousands of listener‑created and professional online radio stations.
+- [LiveATC.Net](https://www.liveatc.net) — Streams live air traffic control communications from airports and control centres globally.
+- [Motorola Business Radio Frequency Database](https://www.buytwowayradios.com/blog/2015/05/default_frequencies_for_motorola_business_radios.html) — Provides default Motorola business radio frequencies, especially factory presets common in Motorola commercial radios.
+- [N4JRI’s Security Scanning Blog](https://www.qsl.net/n4jri/index.htm) — Offers an individual amateur radio operator’s station page and scanning logs, including monitoring of railroads and public service frequencies.
+- [NWR: Nationwide Station Listing](https://www.weather.gov/nwr/station_listing) — Lists nationwide NOAA Weather Radio transmitters in the U.S., including frequency, SAME code, and coverage information.
+- [Priyom\n](https://priyom.org/) — Hosts monitoring and logging of number stations, with annotated frequency data and schedules.
+- [Public Radio Fan](http://www.publicradiofan.com/) — A streaming directory and schedules for public radio stations primarily in the U.S.
+- [Radio Garden](https://radio.garden/) — A curated list of online radio stations and streams across various genres and locations.
+- [Radio Links](https://radiolinks.net) — A searchable AM / FM / streaming station locator with frequency and transmitter details.
+- [Radio Portal](http://www.radio-portal.org) — Comprehensive directory and discussion resource for radio communications, including police, aviation and amateur bands.
+- [Radio Reference](https://www.radioreference.com/) — International radio station listings sorted by country and genre, including frequency and stream links.
+- [Radio Station World](https://radiostationworld.com/) — A community-run radio listening and reporting platform across Europe, including frequency listings and DX reports.
+- [Radio Team](http://www.radioteam.eu) — A radio search engine.
+- [Radio-locator](https://radio-locator.com) — Comprehensive directory and locator for AM / FM radio stations worldwide, with coverage maps and technical details.
+- [Radio.net](https://www.radio.net) — Free internet radio directory hosting over 60,000 global radio stations, music and podcast streams.
+- [Radioing](https://www.radioing.com/) — Amateur radio resource site offering technical aids, museum, classified ads and e‑zine content.
+- [RadioReference](https://www.radioreference.com/) — Largest radio communications database with frequencies, trunked systems, wiki, and community forums.
+- [Rfsearch](http://rfsearch.com) — Search engine for amateur, GMRS, business and repeater radio frequencies and directories.
+- [Scanner Frequencies](https://www.scannerfrequencies.com) — Directory listing of scanner and two‑way radio frequencies across U.S. and Canada.
+- [Scanner Master Blog](https://www.scannermasterblog.com/tag/scanner-radio/) — Blog posts and guides for scanner radio users, focusing on reading and interpreting frequency databases.
+- [Signal Identification Guide](https://www.sigidwiki.com) — User‑editable reference wiki for signal identifiers and spectrum monitoring.
+- [Station Ratings](https://stationratings.com/) — Ratings and reviews platform focused on radio stations’ listener evaluations and market performance.
+- [Streema](https://streema.com) — Online directory of 70,000+ global radio stations.
+- [TuneIn](https://tunein.com) — Worldwide streaming platform offering radio, news, talk, sports and podcasts from major broadcasters.
+- [vTuner](https://www.vtuner.com) — Internet radio directory and streaming backend providing station listings and access tools.
+- [Wideband Shortwave Radio Receiver](http://rx.linkfanel.net/) — Online resource offering links and listings for receiver and scanner enthusiasts.
+- [World Wide DX](https://www.worldwidedx.com/forums/scanning-shortwave-listening.83/) — Forum community dedicated to radio scanning, shortwave DXing and global listening discussions.
+- [ZipScanners](https://www.zipscanners.com) — Site offering scanner frequencies, programming files and tools for radio scanner users.

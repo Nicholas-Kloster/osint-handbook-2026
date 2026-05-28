@@ -1,0 +1,108 @@
+# Company Profiling
+
+> 104 tools — [osinthandbook.com/company-profiling](https://www.osinthandbook.com/company-profiling)
+
+- [192.com (UK)](https://www.192.com) — Search for people, businesses, and places in the UK.
+- [Aeroleads](https://aeroleads.com) — A tool to search for contact details of companies and individuals.
+- [AIHIT](https://www.aihitdata.com) — Provides structured information on companies including history, employees, and financials.
+- [Allabolag - Sweden Company Search](https://www.allabolag.se/) — Swedish business intelligence portal with information on local companies.
+- [AllStocksLinks](http://www.allstocks.com/links/) — Offers a directory of business-related links, with a focus on investment and finance.
+- [AlphaResearch](https://alpharesearch.io) — AI-powered research engine for investors and analysts, scanning millions of global filings, transcripts, and releases to extract insights.
+- [Angel](https://angel.co) — Connects startups with investors and talent for funding and recruitment opportunities.
+- [AngelList](https://www.angellist.com/) — Connects startups with investors and talent for funding and recruitment opportunities.
+- [Annual Reports](https://www.annualreports.com/) — Provides free annual reports from publicly traded companies for investor reference.
+- [Aware Online: Company Search](https://www.aware-online.com/en/osint-tools/company-search-tool) — A company search tool for OSINT investigations and business profiling.
+- [BBB](https://www.bbb.org) — Provides business accreditation and consumer reviews to help evaluate company trustworthiness.
+- [Big Red Directory](https://www.bigreddirectory.com) — Lists businesses by category and location across the United Kingdom.
+- [bikudo](https://www.bikudo.com) — Connects buyers and suppliers with a global industrial product directory.
+- [BizDirLib](https://bizdirlib.com/) — A professional business directory website that provides company list and detailed information around hundreds of countries.
+- [Bizeurope](http://www.bizeurope.com) — Offers a European business directory and trade platform for exporters and importers.
+- [Black Book Online: Free Business Profiler](https://www.blackbookonline.info/business-profiler.aspx) — Provides access to public records and business profiling tools.
+- [Bloomberg](https://www.bloomberg.com/research/company/overview/overview.asp) — Delivers company profiles, research, and financial overviews on publicly listed firms.
+- [BrokerCheck (US)](https://brokercheck.finra.org) — Research the background and experience of financial advisers and firms in the US.
+- [BrownBook](https://www.brownbook.net/) — A global business listings database where companies can create free profiles.
+- [Business Profiles](https://businessprofiles.com/) — A global corporate registration database including information on over 80 million companies and 150 million officers.
+- [Business Source](https://www.ebscohost.com/academic/business-source-complete) — Offers access to a comprehensive business research database for academic users.
+- [BusinessProfiles](https://businessprofiles.com) — Provides business information and reports for various US-based companies.
+- [Buzzfile](http://www.buzzfile.com) — Directory and intelligence tool to search U.S. businesses (18 million+ companies).
+- [Canada Business Registries](https://canadasbusinessregistries.ca/search) — Free Canadian government registry service for finding official business information by name, number, or registry ID.
+- [Canadian Business Research](https://www.canada.ca/en/services/business/research.html) — Supports Canadian businesses with research tools, data, and government resources.
+- [Cedar Rose](https://www.cedar-rose.com) — Delivers global credit reports, due diligence, and company verification services.
+- [Checktrade](https://www.checkatrade.com) — Enables users to find vetted tradespeople and read customer reviews.
+- [Companies Houses](https://www.gov.uk/government/organisations/companies-house) — UK business registry.
+- [Companies in the UK](https://www.companiesintheuk.co.uk/) — Commercial directory service for UK companies searchable by company name, number or officer name.
+- [Company Check](https://companycheck.co.uk/) — UK online service for checking companies and directors, with access to credit reports and corporate financial.
+- [Company Researcher](https://companyresearcher.exa.ai/) — A tool that gathers company information from across the web based on a provided URL.
+- [CompanyCheck](https://companycheck.co.uk) — Provides financial and credit reports for UK companies.
+- [Comparably](https://www.comparably.com) — Offers data on company culture, salaries, and employee reviews.
+- [CompeteShark](https://competeshark.com/) — Tracks competitor websites and marketing changes for strategic insights.
+- [Corporate Information](https://www.corporateinformation.com/) — Delivers detailed corporate profiles, financials, and market data globally.
+- [Corporation Wiki](https://www.corporationwiki.com) — Aggregates corporate relationships, officers, and company connections.
+- [CorpWatch](http://www.corpwatch.org) — Investigates corporate accountability and tracks unethical practices worldwide.
+- [Craft](https://global.craft.co/) — Supplier intelligence platform.
+- [Crunchbase](https://www.crunchbase.com) — Provides comprehensive data on startups, funding rounds, and private companies.
+- [Dato Capital](https://en.datocapital.com) — Offers official company and director records from multiple jurisdictions.
+- [Drimble](https://drimble.nl/bedrijf) — Dutch business directory that collects and organizes information about companies.
+- [Dun & Bradstreet](https://www.dnb.com) — Delivers global business data and analytics solutions for risk management, sales, and marketing insights.
+- [EDGAR Online](https://www.dfinsolutions.com/products/edgar-online) — Provides access to SEC filings and financial disclosure tools, aiding in regulatory compliance and investor communications.
+- [Edgar Suite](https://github.com/bellingcat/EDGAR) — Tool for the retrieval of corporate and financial data from the SEC.
+- [Engineering 360](https://www.globalspec.com) — Serves as an engineering-focused platform offering product catalogs, technical articles, and industry standards.
+- [Enigma](https://enigma.com) — Supplies real-time business data and financial health indicators, assisting in sales, underwriting, and compliance.
+- [Euromonitor](https://www.euromonitor.com/) — Delivers global market research and strategic analysis across industries, aiding in business planning and decision-making.
+- [Europages](https://www.europages.co.uk/) — Acts as a B2B directory connecting buyers and suppliers across Europe, facilitating international trade and sourcing.
+- [Express Business Directory](http://www.expressbusinessdirectory.com) — Functions as an online business directory, enabling companies to list their services and improve online visibility.
+- [Ezilon](https://www.ezilon.com/) — Operates as a regional web directory, categorizing websites by country and topic to assist in information discovery.
+- [Forbes Global 2000](https://www.forbes.com/global2000/) — Ranks the world's largest public companies annually based on a composite score of revenues, profits, assets, and market value.
+- [Fortune Global 500](https://fortune.com/global500/) — Lists the top 500 global corporations by revenue, providing insights into the world's largest companies.
+- [Foursquare](https://foursquare.com) — Offers location-based services and data, helping businesses understand consumer behavior and optimize marketing strategies.
+- [globalEdge](https://globaledge.msu.edu/) — Provides international business and economic information, supporting global business education and research.
+- [Google Finance](https://www.google.com/finance) — Delivers financial news, data, and stock market trends, assisting investors in making informed decisions.
+- [GuideStar](https://www.guidestar.org/) — Offers data on nonprofit organizations, including financials and operations, to promote transparency and informed giving.
+- [Hoovers](https://www.dnb.com/products/marketing-sales/dnb-hoovers.html) — A database of over over 550 million companies and contacts.
+- [HotFrog](https://www.hotfrog.com) — A US-focused business directory.
+- [ImportYeti](https://www.importyeti.com) — Enables users to search U.S. import records to identify suppliers and monitor competitors' sourcing activities.
+- [Inc. 5000](https://www.inc.com/inc5000) — Ranks the fastest-growing private companies in the U.S., highlighting entrepreneurial success stories.
+- [Info clipper](https://www.info-clipper.com) — Offers international company reports and credit information to assist in risk assessment and compliance.
+- [Kompass](https://www.kompass.com) — Provides a global business directory and B2B matchmaking services to facilitate international trade.
+- [KYC Registry](https://www.swift.com/products/kyc-registry) — A global platform for exchanging KYC data and documentation.
+- [List.org](https://www.list-org.com) — Offers information on Russian companies and directors, supporting business research and due diligence.
+- [LittleSis](https://littlesis.org) — Tracks relationships among influential individuals and organizations to promote transparency and accountability.
+- [Manta](https://www.manta.com) — A well-known, US-focused business directory.
+- [Mapped in Israel](https://mappedinisrael.com) — Provides a visual map of startups based in Israel.
+- [Market Screener](https://www.marketscreener.com) — Delivers financial news, analysis, and data on public and private companies, stocks, and markets.
+- [MarketLine](https://marketline.com/) — Offers company profiles, industry analysis, and market research reports for business professionals.
+- [Mergent Online](https://www.mergentonline.com/login.php) — Provides access to financial statements, company reports, and investment research on global public companies.
+- [National Corporation Directory](https://corporation.directory/secstates) — A tool to search multiple state corporation registries in order to locate which state or states a company is registered in.
+- [Nexok](https://www.nexok.co.uk) — Presents UK company data including ownership, financials, and registration details.
+- [North Data](https://www.northdata.de) — Aggregates company data from across Europe, offering insights into financials, ownership, and legal filings.
+- [Open Corp Data](https://opencorpdata.com/) — Platform for accessing corporate registry data and governance information from multiple countries.
+- [Open Corporates CLI](https://github.com/skickar/OpenCorporatesCLI) — Command-line tool for querying OpenCorporates data to retrieve company information programmatically.
+- [opencorporates](https://opencorporates.com) — Hosts the world’s largest open database of companies.
+- [Orbis](https://www.moodys.com/web/en/us/capabilities/company-reference-data/orbis.html) — Offers global company data, firmographics, and ownership structures for financial risk and compliance professionals.
+- [OSINT Toolkit](https://one-plus.github.io/DocumentSearch) — A collection of OSINT tools.
+- [Owler](https://www.owler.com) — Aggregates business information, competitive analysis, and company profiles for sales and market research.
+- [People Data Labs](https://www.peopledatalabs.com) — Data provider offering access to large-scale people and company datasets for developers and businesses.
+- [Plunkett Research](http://www.plunkettresearchonline.com) — Provides industry research, trends, and company data for competitive analysis and business planning.
+- [Powrbot](https://powrbot.com/) — Tool to automate company searches in bulk, enrich data (e.g. emails, revenue), and generate lists by region or industry.
+- [Proff - Danish Company Search](https://www.proff.dk/) — Danish business intelligence portal with information on local companies.
+- [Proff - Norwegian Company Search](https://www.proff.no/) — Norwegian business intelligence portal with information on local companies.
+- [Quandl](https://www.quandl.com) — Supplies financial, economic, and alternative datasets for investment and academic research.
+- [Report Linker](https://www.reportlinker.com) — Distributes syndicated market research reports, company profiles, and industry insights.
+- [Ripoff Report](https://www.ripoffreport.com) — Publishes consumer-submitted complaints and reviews about businesses and individuals.
+- [Sayari](https://sayari.com) — Delivers corporate data and risk intelligence for supply chain and compliance investigations.
+- [Sky Minder](https://www.skyminder.com/) — Global business information platform specialising in credit, compliance, supplier, and risk reports for corporate due diligence.
+- [Sqoop](https://sqoop.com) — Aggregates data from public filings and news about executives and company activities.
+- [Startup Tracker](https://startuptracker.io) — A startup research platform.
+- [Startupexplore](https://startupxplore.com/en/startups) — Offers profiles, funding data, and investment details on startups and scaleups across Europe.
+- [The Public Register](http://www.prars.com/search/alpha/A) — Provides historical and fundamental data on U.S. companies for institutional investors and researchers.
+- [TheLayoff.com](https://www.thelayoff.com) — Discussion board / forum for rumors, news, and user stories about layoffs.
+- [ThomasNet](https://www.thomasnet.com) — Connects buyers and suppliers in the industrial sector with detailed company and product listings.
+- [Trustpilot](https://www.trustpilot.com) — A platform offering consumer reviews of companies across the world.
+- [Venturefy AI](https://www.venturefy.com) — AI-powered relationship mapping tool to explore corporate connections, lead generation, and network graphs.
+- [Violation Tracker Global](https://violationtrackerglobal.goodjobsfirst.org) — Discover the regulatory penalties paid by large corporations around the world.
+- [XRefer](https://www.xrefer.com) — Platform to find and compare local service companies (rentals, repairs, etc.), with reviews, licensing, and pricing information.
+- [Yahoo Finance](https://finance.yahoo.com) — Supplies real-time and historical financial news, stock quotes, and investment resources.
+- [Yelp](https://www.yelp.com) — Offers reviews and business information submitted by users about local businesses.
+- [Zauba Corp](https://www.zaubacorp.com) — India's leading provider of commercial information and insight on businesses.
+- [Zoominfo](http://www.zoominfo.com) — Delivers business contact data, company insights, and sales intelligence for B2B marketing and prospecting.
+- [Zoominfo](http://www.zoominfo.com) — Business database that provides detailed company and professional profiles for sales and marketing purposes.

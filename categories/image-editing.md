@@ -1,0 +1,102 @@
+# Image Editing
+
+> 98 tools — [osinthandbook.com/image-editing](https://www.osinthandbook.com/image-editing)
+
+- [AddText+](https://addtext.com) — Easy web-based tool for quickly adding text, captions or memes to photos.
+- [Affinity Photo](https://affinity.serif.com) — Award-winning photo editing, graphic design and page layout software for Mac, Windows and iPad.
+- [AI Picasso](https://aipicasso.app) — An AI-powered image generator and editor specialising in different types of avatar photos.
+- [Alice Vision](https://alicevision.org/#meshroom) — A free, open-source 3D Reconstruction Software based on the AliceVision framework.
+- [AniEraser](https://anieraser.media.io/app/) — AI-driven tool to remove watermarks, objects or text from images and videos.
+- [Annotable](https://itunes.apple.com/us/app/annotable-ultimate-image-annotation/id1099850421?mt=8) — All-in-one image annotation tool.
+- [Aragon AI](https://www.aragon.ai) — AI-powered headshot and image editing studio that generates professional-quality portraits, enhancements, and text-to-image visuals instantly using selfies or prompts.
+- [Artbreeder](https://www.artbreeder.com) — Collaborative AI-based art platform.
+- [Astria AI](https://www.astria.ai) — Generative image enhancement platform that applies artistic filters like line-art, oil painting, or custom illustration styles via API with fine-tuning and style control.
+- [AutoStitch](https://mattabrown.github.io/autostitch.html) — Panoramic image stitching tool that merges photos into panoramas.
+- [Befunky](https://www.befunky.com) — Photo editor, collage maker and graphic designer platform.
+- [befunky](https://www.befunky.com) — An all-in-one online creative platform offering easy-to-use tools for photo editing, graphic design, collage making, and AI-powered enhancements.
+- [BGEraser](https://bgeraser.com) — A fast, accurate bulk background removal tool using AI to strip backgrounds from images online.
+- [Birme](https://www.birme.net/) — Free browser-based bulk image resizer.
+- [Bria AI](https://bria.ai) — Enterprise-grade visual generative AI platform.
+- [Bzzt! Image Editor](https://singularlabs.com/software/bzzt-image-editor) — Lightweight Windows image utility for compressing, rotating, resizing, converting, renaming, and batch image processing.
+- [Canva](https://www.canva.com) — A user-friendly graphic design platform for creating presentations, social media graphics, and more.
+- [Cleanup.Pictures](https://cleanup.pictures/) — Web-based photo cleaning tool that uses AI-powered inpainting to remove unwanted objects, people, text or defects from images.
+- [Craiyon](https://www.craiyon.com) — A free AI image generator and editor that transforms text prompts into unique images.
+- [Croppola](https://croppola.com/) — Intelligent photo-cropping web app that analyses composition to automatically suggest well-balanced crops based on professional photography principles.
+- [Depix](https://github.com/spipm/Depixelization_poc) — A PoC for a technique to recover plaintext from pixelised screenshots.
+- [Depixelization_poc](https://github.com/spipm/Depixelization_poc) — Depix is a PoC for a technique to recover plaintext from pixelised screenshots.
+- [Dezomify](https://ophir.alwaysdata.net/dezoomify/dezoomify.html) — An easy-to-use tool to download zoomable images.
+- [Erase Bg](https://www.erase.bg) — A smart AI background removal and image editing tool that processes single or bulk images with precision and ease.
+- [Evoto](https://www.evoto.ai) — AI-powered photo editing software tailored for editors and photographers.
+- [Exifer](https://www.thexifer.net) — Online EXIF metadata editor / optimiser supporting local, cloud, Flickr, and Google Drive uploads.
+- [Ezgif.com](https://ezgif.com) — Online GIF maker and image editor.
+- [FastStone](http://www.faststone.org) — Windows screenshot and screen recording tool with annotation, scrolling capture and basic editor.
+- [Flexxi – Batch Image Resizer](https://sourceforge.net/projects/flexxi-image-resizer) — Batch image resizer for Windows that can resize, rotate, rename, and convert images.
+- [FlipA Picture](http://flipapicture.com) — Web-based tool to flip images vertically or horizontally.
+- [Focus Magic](https://www.focusmagic.com) — Software that uses advanced deconvolution technology to undo blur and recover lost image detail.
+- [FotoFlexer](https://fotoflexer.com) — Free, user-friendly online photo editor offering powerful one-click tweaks and advanced tools.
+- [Fotor](https://www.fotor.com/) — Online photo editing platform.
+- [Get IMG AI](https://getimg.ai) — An AI platform offering comprehensive image and video creation tools, from text prompts to editing, upscaling, background removal, model training, inpainting, and consistent character generation.
+- [GFPGAN](https://replicate.com/tencentarc/gfpgan) — AI-based face restoration model for practical restoration of old or AI-generated faces.
+- [Gimp](https://www.gimp.org/) — Free, open-source raster graphics editor for photo retouching, composition, and more.
+- [Green Screen AI](https://greenscreenai.com) — An easy-to-use tool that lets you change a background of any picture.
+- [hama](https://www.hama.app) — A web-based AI image eraser that lets you remove unwanted people, objects, text, or watermarks from photos.
+- [Hotpot AI](https://hotpot.ai) — An AI platform for spark creativity with image generation, headshot creation, and photo editing tools.
+- [hue.tools](https://hue.tools) — An open source toolbox for colors.
+- [Hugin](http://hugin.sourceforge.net) — Cross-platform open-source panorama stitching and HDR merging application.
+- [Image Manipulation](https://29a.ch/sandbox/2012/imageerrorlevelanalysis/) — Web-based forensic tool featuring error-level analysis and clone detection to help identify image manipulations.
+- [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) — Browser-based image anonymisation tool that removes metadata and allows selective face or area blurring.
+- [ImageAmigo](https://imageamigo.com/deblur) — Online AI tool that removes motion blur, camera shake, out‑of‑focus blur from images using deep learning.
+- [ImageEnlarger](https://www.imageenlarger.com) — Free online tool for enlarging small images.
+- [ImBatch](https://www.highmotionsoftware.com/products/imbatch) — Free multithreaded Windows application for batch image processing (resizing, rotating, converting, watermarking, EXIF editing).
+- [IMGCreator](https://www.zmo.ai/imgcreator) — A versatile AI image generator offering text-to-image, image-to-image, background swaps, and diverse model styles.
+- [Imglarger](https://imglarger.com) — An all-in-one online AI image converting, enhancing and editing tool.
+- [IMGonline](https://www.imgonline.com.ua) — Online platform offering a wide range of high-quality JPEG photo processing tools.
+- [In 20 Years](http://in20years.co) — Web-based AI face morphing tool that uses face detection to predict what a person might look like in 20 or 30 years.
+- [Irfanview](https://www.irfanview.com/) — Feature-rich desktop image viewer / editor optimised for Windows.
+- [Krea AI](https://www.krea.ai) — Generate, edit, and enhance images and videos using powerful AI for free.
+- [Let’s Enhance](https://letsenhance.io) — AI-powered image enhancement service.
+- [Lunapic](http://www124.lunapic.com/editor) — Full-featured online image editing tool with filters, effects, animations, and drawing tools.
+- [Magic Eraser](https://magicstudio.com/magiceraser) — An AI “magic eraser” tool that quickly removes unwanted objects, people, text, or blemishes from photos using a brush interface, part of the Magic Studio suite.
+- [Make Photo Gallery](https://makephotogallery.net/) — Web application to generate photo galleries effortlessly from images.
+- [Merge Images](https://onlineconvertfree.com/merge-image/) — Online service to merge multiple images into one composite.
+- [miniPaint](https://viliusle.github.io/miniPaint) — Free, open-source online image editor.
+- [My Heritage: Photo Enhancer](https://www.myheritage.no/photo-enhancer) — AI-enhanced photo restoration tool that sharpens faces and repairs photo quality.
+- [Online Image Enlarger](https://www.imageenlarger.com) — Free online tool for enlarging small images.
+- [OnlineImageSplitter](http://www.htmlkit.com/services/is/) — Online image splitter for optimising or manipulating images.
+- [OpenArt](https://openart.ai) — An AI-powered art platform where users can generate and refine images using pre-built or custom-trained models.
+- [Paint.NET](https://www.getpaint.net/index.html) — Free raster graphics editor for Windows.
+- [Palette](https://palette.fm) — An AI tool that colorises black-and-white photos (and video) using deep-learning algorithms, with options for filters, high-resolution output, and bulk processing.
+- [Photo Joiner](https://www.photojoiner.net) — Online tool to join multiple photos into collages or combined images.
+- [Photo Scissors](https://photoscissors.com) — Remove a background and replace it with a transparent, solid color or background image.
+- [photofunny](https://www.photofunny.net) — Free online photo editor for fun montages, frames, and greeting-card effects.
+- [Photoroom](https://www.photoroom.com) — An AI-powered photo editing suite that removes backgrounds, and  generates and edits visuals for product photos, social posts, and ads.
+- [Photoscape](http://www.photoscape.org/ps/main/index.php) — Easy-to-use free desktop graphics editor for photo enhancements, resizing, GIFs and more.
+- [Photoshop](http://www.photoshop.com) — Adobe’s official Photoshop site offering online and desktop image editing tools and trials.
+- [Photovisi](https://www.photovisi.com) — Online photo collage maker.
+- [Pillow](https://pypi.org/project/Pillow/) — Python imaging library (Pillow) offering image-processing capabilities.
+- [Pink Mirror](https://pinkmirror.com) — AI-powered facial aesthetics analysis web app offering guidance on enhancing your facial features.
+- [Pixlr](https://pixlr.com) — AI image generator and AI video generator.
+- [Polarr](https://www.polarr.com/) — Advanced photo editing tools.
+- [Promo Image Resizer](https://promo.com/tools/image-resizer) — Online image resizer.
+- [PureRef\n](https://www.pureref.com/index.php) — A stand-alone program for Windows, Mac and Linux that keeps track of your images.
+- [Quicktools by Picsart](https://tools.picsart.com) — An online toolkit featuring AI-powered image editing utilities like background removal, resizing, filters, and effects.
+- [Radiant Imaging Labs](https://radiantimaginglabs.com) — AI-powered photo editor that auto-enhances images.
+- [Remini Web](https://app.remini.ai/?v=41f73889-f23e-4577-9a04-43d7c668e509-1727985991568) — AI video and photo enhancer.
+- [Remove.bg](https://www.remove.bg) — A tool to remove image background.
+- [remove.bg](https://www.remove.bg) — Automatic AI background removal tool that isolates subjects in images in seconds.
+- [restorePhotos.io](https://www.restorephotos.io) — Web app for improving quality of photos.
+- [roop](https://github.com/s0md3v/roop) — One-click face swap.
+- [Scale from Image](https://www.blocklayer.com/scale-fixereng) — Image scale measurement and calibration tool for precise dimension measurement from images.
+- [Seahorse](https://apps.apple.com/us/app/seahorse-image-editor/id6742335288?mt=12) — A macOS image and photo editor.
+- [Smart Deblur](http://smartdeblur.net) — Tool for restoring details in blurry or out-of-focus photos.
+- [sPhoto](https://sourceforge.net/projects/s-photo) — Simple, open-source batch photo processor for resizing, renaming, watermarking, cropping, and rotating.
+- [Stability AI](https://stability.ai) — Multimodal media generation and editing tools.
+- [Stickermule: Upscale](https://www.stickermule.com/upscale) — AI-powered image upscaler that enhances resolution, color, and quality of photos and images.
+- [SumoPaint](http://www.sumopaint.com) — Web-based drawing and painting application with brushes, filters, text, and symbol tools.
+- [Tencentarc](https://replicate.com/tencentarc/gfpgan) — AI model for practical face restoration that revives old or AI-generated faces.
+- [The Paint](https://theinpaint.com/) — Online tool for removing unwanted objects or blemishes from photos.
+- [TinyPNG](https://tinypng.com) — Smart compressor for AVIF, WebP, JPEG, and PNG images to reduce file size while preserving quality.
+- [Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai) — Powerful AI-based image enhancement tool.
+- [Upscale Media](https://www.upscale.media/it/upload) — AI-powered image enhancer.
+- [Watermark Remover](https://www.watermarkremover.io/) — AI-powered watermark remover for images, videos, and PDFs.
+- [XnView](https://www.xnview.com) — Versatile image viewer and organiser with support for 500+ formats, batch processing, editing, and conversion.

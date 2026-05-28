@@ -1,0 +1,81 @@
+# Instagram
+
+> 77 tools — [osinthandbook.com/instagram](https://www.osinthandbook.com/instagram)
+
+- [4K Video Downloader (Different Platforms)](https://www.4kdownload.com) — Allows users to download videos and extract audio from YouTube and other popular platforms.
+- [4kStogram](https://www.4kdownload.com/de/products/product-stogram) — Tool for downloading Instagram photos, videos, and stories from public profiles.
+- [007-TheBond](https://github.com/Deadshot0x7/007-TheBond) — A free script that can be used to profile an individual using different sources and techniques.
+- [Bellingcat Insta Location Search](https://github.com/bellingcat/instagram-location-search) — GitHub project for searching Instagram posts by geographic location.
+- [Code of a Ninja: Find Instagram User ID](https://codeofaninja.com/tools/find-instagram-user-id) — Online tool to find the numeric user ID of any Instagram username.
+- [Combin](https://www.combin.com) — Instagram marketing and management tool for audience targeting and engagement.
+- [Display Purposes](https://displaypurposes.com) — Hashtag generator for Instagram to improve post visibility and reach.
+- [Dolphin Radar](https://www.dolphinradar.com/web-viewer-for-instagram) — An Instagram post viewer that lets you view posts, stories, and profiles from public accounts.
+- [doxcord](https://github.com/boringthegod/doxcord) — doxcord is an OSINT tool designed to scan Discord servers for social media links containing tracking parameters. The tool can identify Instagram, TikTok, and Facebook links that include tracking identifiers, and organize them by user and server.
+- [DreDown](https://www.dredown.com) — Allows downloading of videos from a range of websites including social media platforms.
+- [Dumpor](https://dumpor.io) — Anonymous Instagram story viewer.
+- [Export Comments](https://exportcomments.com) — Exports social media post comments into downloadable files for analysis or archiving.
+- [Exportgram](https://exportgram.net/) — A tool to export Instagram comments.
+- [Gebruikersnamen](https://gebruikersnamen.nl) — A Dutch service aimed at enhancing social media presence by offering tools to increase followers, likes, and views on various platforms.
+- [greatfon](https://greatfon.io) — Instagram story viewer.
+- [GrowBot Automator for Instagram](https://chrome.google.com/webstore/detail/growbot-automator-for-ins/abhcgokmndbiegmmbjffdlpihgdmeejf?hl=es-419) — Automatic follow / unfollow / like with advanced filters, randomized timers, and more high-tech features.
+- [Hashtags for Likes](https://www.hashtagsforlikes.co) — Hashtag analytics and growth tool for increasing Instagram reach and engagement.
+- [HypeAuditor](https://hypeauditor.com) — Influencer marketing platform offering Instagram account analysis and audience insights.
+- [I Know Where Your Cat Lives](https://iknowwhereyourcatlives.com/) — Art project visualising publicly available cat photos based on metadata and location.
+- [Iconosquare](https://www.iconosquare.com) — Instagram analytics and management platform for businesses and influencers.
+- [Imgbunk](https://imgbunk.com) — Image hosting and sharing site often used for uploading screenshots and memes.
+- [ImgInn](https://imginn.com) — Tool for viewing and downloading Instagram content without an account.
+- [In Tags](https://play.google.com/store/apps/details?id=com.sunraylabs.socialtags) — Android app for generating effective Instagram hashtags based on content.
+- [INDownloader](https://indownloader.app/instagram-profile-viewer) — Instagram profile viewer.
+- [Inflact](https://inflact.com/tools/instagram-search/) — Search tool for Instagram users, profiles, hashtags, and locations.
+- [INSSIST](https://chrome.google.com/webstore/detail/inssist-post-stories-dm-w/bcocdbombenodlegijagbhdjbifpiijp) — Chrome extension for posting, messaging, and managing Instagram from a desktop browser.
+- [Insta Clip](https://instaclip.app) — Instagram video downloader.
+- [Instafel](https://instafel.app) — A platform that provides a fast and up-to-date Instagram Alpha experience with enhanced features and community-driven development.
+- [Instagram Crawler](https://github.com/hehpollon/Instagram-Crawler) — A tool for crawling Instagram profiles and extracting post data.
+- [Instagram Downloader (Instagram)](https://www.downloadvideosfrom.com/Instagram.php) — Online tool to download videos and photos from Instagram posts and profiles.
+- [Instagram Hunt](https://instahunt.huntintel.io/) — OSINT tool for searching Instagram profiles and posts, with filtering features.
+- [Instagram Location Search\n](https://github.com/bellingcat/instagram-location-search/tree/main) — A tool for searching Instagram posts by geographic coordinates and hashtags.
+- [Instagram Monitor](https://github.com/misiektoja/instagram_monitor) — Real-time tracking of Instagram users activities and profile changes.
+- [Instagram Network Analysis](https://github.com/victor-gurbani/instagram_network_analysis) — Interactive network of your instagram followers and their relations.
+- [Instagram Scraper](https://apify.com/jaroslavhejlek/instagram-scraper) — Instagram scraping actor on Apify for collecting data from profiles and posts.
+- [Instagram Search Tool (Aware Online)](http://www.aware-online.com/en/osint-tools/instagram-search-tool/) — OSINT tool to search Instagram profiles and posts by keyword or hashtag.
+- [Instagram Stories Download](https://storiesig.com/) — Tool to view and download Instagram stories anonymously.
+- [instaloader (Instagram)](https://github.com/instaloader/instaloader) — Open-source tool for downloading Instagram photos, videos, stories, and metadata.
+- [InstaLooter (Instagram)](https://github.com/althonos/InstaLooter) — Instagram media downloader and scraper for public content.
+- [instatracker](https://github.com/ibnaleem/instatracker) — An Instagram tracking script that logs changes to an Instagram account (followers, following, posts, and bio).
+- [InsTrack](https://instrack.app) — In-depth analytics for Instagram.
+- [Izuum](https://izuum.com/) — Service for viewing Instagram profiles, posts, and stories anonymously.
+- [Keep Flick (Different Platforms)](https://www.keepflick.com) — Download social media videos in various formats and resolutions.
+- [Keyhole](https://keyhole.co) — Social media analytics platform for tracking hashtags, keywords, and account performance.
+- [Meta Monetization](https://www.monetization.wtf/monetization-archive) — A transparency project and research tool designed to identify and track monetised social media accounts across Facebook and Instagram, with a focus on uncovering profit-driven misinformation.
+- [MetaHashtags](https://metahashtags.com) — Hashtag research tool for finding top and niche Instagram hashtags.
+- [Minter.io](https://minter.io) — Analytics and performance tracking tool for businesses and influencers.
+- [noninstagram](https://github.com/datvance/noinstagram) — A tool that simulates Instagram profile data for research or testing purposes.
+- [Osi.ig](https://github.com/th3unkn0n/osi.ig) — A tool for gathering information from Instagram profiles.
+- [Osintgram](https://github.com/Datalux/Osintgram) — A tool for collecting, analyzing, and running reconnaissance on Instagram accounts.
+- [Osintgraph](https://github.com/XD-MHLOO/Osintgraph) — An open-source tool that collects Instagram data, followers, and followees, storing them in Neo4j. It helps you easily map and analyse a target's social network, revealing interests, connections, and affiliations for effective OSINT.
+- [Pathsocial](https://www.pathsocial.com) — Instagram growth and scheduling tool.
+- [Phantom Buster](https://phantombuster.com) — A set of tools to extract data from various social media platforms.
+- [Phlanx: Instagram Engagement Calculator](https://phlanx.com/engagement-calculator) — Influencer engagement calculator.
+- [Pixnoy](https://www.pixnoy.com) — Instagram viewer and downloader.
+- [Profile Image Intel](https://profileimageintel.com) — Discover when profile pictures were uploaded across social media platforms.
+- [Random Tools: Instagram](https://randomtools.io/) — Offers a collection of free online utilities including Facebook tools.
+- [Save Free](https://www.save-free.com) — Free Instagram downloader.
+- [Save the Video (Different Platforms)](https://savethevideo.net) — Enables downloading of videos from social media platforms and video sites.
+- [snoopreport](https://snoopreport.com) — Instagram activity tracker.
+- [SNScrape](https://github.com/JustAnotherArchivist/snscrape) — A simple Python script that scrapes user profiles, hashtags, and search results from a variety of social media platforms.
+- [Social Media Sentiment Visualization\n](https://www.csc2.ncsu.edu/faculty/healey/social-media-viz/production/) — A tool to analyze recent posts containing user-defined keywords.
+- [Social-alerts](https://github.com/mamoedo/social-alerts) — Provides a Python-based tool that monitors specified Twitter and Instagram accounts for defined keywords, sending instant email notifications when matches are detected, with customizable filters and configurations.
+- [socialscan](https://pypi.org/project/socialscan/) — Performs username and email address checks across multiple platforms.
+- [socid_extractor](https://github.com/soxoj/socid_extractor) — Extracts social media and personal identifiers from various sources.
+- [SoIG](https://github.com/yezz123/SoIG) — A tool to retrieve a range of information from an Instagram account.
+- [Story Saver\n](https://storysaver.net/) — Download Instagram stories, highlights and videos,
+- [Tailwind](https://www.tailwindapp.com) — Pinterest scheduler with analytics and content suggestions.
+- [Toolzu: Instagram Profile Search](https://toolzu.com/search-instagram-profiles) — A free Instagram profile search tool.
+- [Toutatis](https://github.com/megadose/toutatis/) — A tool to extract information from instagramsaccounts such as e-mails, phone numbers and more.
+- [Ultimate Social Scrapers](https://github.com/harismuneer/Ultimate-Social-Scrapers) — Top-rated tools to scrape all major public sections from Facebook, Instagram, and Twitter / X including posts (likes / comments), photos / videos, contact information, followers, following and much more.
+- [VDownloader (Different Platforms)](https://vdownloader.com) — Enables downloading of online videos including from Facebook and YouTube.
+- [Webstagram](https://webstagram.org) — Instagram viewer and analytics platform.
+- [Who posted what?](https://whopostedwhat.com) — A set of Facebook, Instagram and Twitter tools.
+- [XHunt](https://www.huntintel.io/) — A tool that searches for social media insights for any location.
+- [Yoo Download (Different Platforms)](https://yoodownload.com) — Allows downloading of content from various social and video platforms.
+- [YT5s.com](https://yt5s.com) — Supports high-speed downloads of videos from Instagram and Facebook.

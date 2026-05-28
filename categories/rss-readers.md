@@ -1,0 +1,49 @@
+# Rss Readers
+
+> 45 tools — [osinthandbook.com/rss-readers](https://www.osinthandbook.com/rss-readers)
+
+- [Aggregator](https://play.google.com/store/apps/details?id=com.tughi.aggregator) — Android RSS reader with support for offline access and auto-sync.
+- [Awasu](https://awasu.com/) — Feature-rich desktop RSS reader with advanced filters, plugin support, and automation tools.
+- [BazQux Reader](https://bazqux.com) — Premium web-based RSS reader with full-text extraction and social media integration.
+- [Cappuccino](https://cappuccinoapp.com/) — A feature-rich RSS reader for macOS.
+- [Drop Feeds (Firefox Extension)](https://addons.mozilla.org/en-US/firefox/addon/drop-feeds/) — A lightweight RSS and Atom feed aggregator extension for Mozilla Firefox.
+- [Feedbin](https://feedbin.com) — Premium web-based RSS service with clean interface and email newsletter support.
+- [Feedbro](https://nodetics.com/feedbro/) — Fast and free RSS feed reader available as a browser extension for Chrome, Vivaldi, Edge, Brave and Firefox for reading blogs, news or any RSS, Atom or RDF based feed.
+- [Feeder](https://feeder.co/discover) — Web service for discovering and subscribing to popular RSS feeds.
+- [Feedly](https://www.feedly.com/) — An RSS aggregator, a news monitoring tool, and a threat intelligence platform to collect, analyse, and share actionable insights.
+- [FeedMe](https://play.google.com/store/apps/details?id=com.seazon.feedme) — FeedMe is a simple and full featured offline RSS reader for RSS services, self-hosted RSS and local RSS.
+- [FeedReader](http://www.feedreader.com) — Desktop RSS reader for Windows with folder organisation and offline support.
+- [feeds](https://github.com/felfele/feeds) — A completely free and independent mobile RSS reader with no algorithmic timeline.
+- [Feedspot](https://www.feedspot.com) — RSS reader and content discovery platform that tracks and ranks blogs, podcasts, and RSS feeds.
+- [Fiery](http://cocoacake.net/apps/fiery/) — A highly customisable feed reader and read-it-later client for macOS that syncs with services such as Feedly, Feedbin, Fever, InoReader, NewsBlur, Bazqux, The Old Reader, FeedHQ, FreshRSS.
+- [Fluent Reader](https://hyliu.me/fluent-reader/) — Cross-platform modern desktop reader built with modern look.
+- [fraidycat](https://fraidyc.at) — Lightweight command-line RSS reader written in Go.
+- [FreshRSS](https://freshrss.org) — A self-hosted RSS and Atom feed aggregator.
+- [Inoreader](https://www.inoreader.com) — Web / mobile RSS service with search, advanced filtering, and newsletter integration.
+- [Liferea](https://github.com/lwindolf/liferea) — GTK-based desktop RSS reader for Linux with feed filtering and tagging.
+- [Miniflux](https://miniflux.app) — A simple, free and open source RSS reader focused on privacy.
+- [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) — Open source RSS reader for macOS and iOS.
+- [News Explorer](https://betamagic.nl/products/newsexplorer.html) — MacOS app that aggregates news from RSS and other sources.
+- [Newsblur](http://newsblur.com) — Open-source personal news reader built with simplicity and privacy in mind.
+- [Newsboat](https://newsboat.org) — Terminal-based RSS / Atom reader for Unix-like systems with keyboard navigation.
+- [Nextgen Reader](https://www.microsoft.com/en-us/p/nextgen-reader/9wzdncrfj262) — A fast, clean and powerful RSS news reader for Windows 10.
+- [Protopage](https://protopage.com) — A free personalised start page with RSS support.
+- [Raven Reader](https://ravenreader.app) — An open source desktop news reader with flexible settings.
+- [ReadKit](https://readkitapp.com) — Universal read-later and RSS client for macOS / iOS with support for a number of third-party services, including Feedly, Inoreader, and more.
+- [Reedah](https://www.reedah.com) — A simple, web-based RSS reader.
+- [Reeder](https://reederapp.com/) — RSS reader app for macOS and iOS designed for efficient reading and syncing of feeds
+- [rosselo](https://rosselo.com) — Web-based RSS dashboard with a clean, minimalist interface.
+- [Royal](https://www.the-sz.com/products/royal/) — A simple desktop RSS reader for Windows.
+- [RSS for the rest of us](https://github.com/wilderborn/rss-for-the-rest-of-us) — A simple RSS reader built on Laravel.
+- [RSS Ground](https://www.rssground.com) — All-in-one RSS/Atom feed management and content automation platform for posting to blogs and social networks.
+- [RSS Guard](https://github.com/martinrotter/rssguard) — Feed reader (podcast player and also Gemini protocol client) which supports RSS / ATOM / JSON and many web-based feed services.
+- [RSS Mobile](https://apps.apple.com/us/app/rss-mobile/id533007246) — RSS Mobile is a standalone app for reading news channels that does not depend on any third-party web services.
+- [RSSOwl](http://www.rssowl.org) — Java-based cross-platform RSS reader with powerful search and feed management.
+- [Rufus](https://github.com/jtanza/rufus) — Open-source web-based RSS reader written in Java using Dropwizard.
+- [Selfoss](https://selfoss.aditu.de/) — The ultimate multi-purpose RSS reader, data stream, mash-up, aggregation web application.
+- [The Old Reader](https://theoldreader.com) — Customisable web portal for news, bookmarks and feeds in dashboard layout.
+- [Tiny Tiny RSS](https://tt-rss.org) — A free and open source web-based RSS reader and aggregator.
+- [Trendolizer](http://get.trendolizer.com) — Engine that discovers trending articles, images, and videos going viral across thousands of sources via API or dashboard.
+- [ViennaRSS](https://github.com/ViennaRSS/vienna-rss) — A free and open-source RSS / Atom newsreader for macOS.
+- [weloveRSS](https://weloverss.com) — Simple RSS reader service aggregating feeds into one unified view.
+- [yarr](https://github.com/nkanaev/yarr) — A web-based feed aggregator which can be used both as a desktop application and a personal self-hosted server.

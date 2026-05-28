@@ -1,0 +1,58 @@
+# Social Media Monitoring
+
+> 54 tools — [osinthandbook.com/social-media-monitoring](https://www.osinthandbook.com/social-media-monitoring)
+
+- [Agility PR Solutions](https://www.agilitypr.com) — All‑in‑one AI‑powered PR platform offering media relations, monitoring, analytics, social listening, press release distribution, and custom reporting services.
+- [Agora pulse](https://www.agorapulse.com) — Comprehensive social media platform with publishing, engagement inbox, listening and ROI tracking.
+- [AlphaSense](https://www.alpha-sense.com) — AI‑powered market intelligence platform that uses NLP / ML to surface insights from a variety content.
+- [Atribus](https://atribus.com) — Social intelligence and big‑data analytics platform offering social listening, consumer insight, influencer detection, reputation management, campaign tracking and competitive intelligence.
+- [Awario](https://awario.com) — Real‑time social listening and web monitoring tool.
+- [Brand24](https://brand24.com) — AI‑powered social media and media monitoring platform tracking brand mentions from social media, blogs, news, forums and more.
+- [Brandwatch](https://www.brandwatch.com) — Consumer intelligence and social listening platform for analysing online conversations.
+- [Cision](https://www.cision.com/lp/media-monitoring) — Real‑time, AI‑powered media monitoring service tracking print, broadcast, online and social mentions with sentiment scoring, alert streams, analytics and journalist outreach capabilities.
+- [Citizen](https://citizen.com/explore) — Personal safety network app delivering instant location‑based alerts, live incident videos, crisis responder access and safety tracking for friends and family.
+- [Coosto](https://www.coosto.com) — Data‑driven content and social media tool with scheduling, listening, engagement inbox and dashboards.
+- [Critical Mention](https://www.criticalmention.com) — Tracks and analyses TV, radio, online news, and social media coverage.
+- [CrowdAnalyzer](https://www.crowdanalyzer.com) — Social media analytics and monitoring paltform.
+- [Dataminr](https://www.dataminr.com) — Real-time event and risk detection.
+- [DataScouting](https://datascouting.com) — AI-based media intelligence platform.
+- [determ](https://determ.com) — AI media monitoring and analytics platform delivering real‑time brand and media insights across different channels.
+- [Empilifi](https://emplifi.io) — Social media marketing suite focused on analytics, content performance and benchmarking.
+- [Ferret](https://check-ferret.webflow.io) — AI‑powered relationship intelligence tool providing due‑diligence and risk monitoring on individuals via global data, news archives, legal and corporate records.
+- [Flashpoint](https://flashpoint.io) — Cyber threat intelligence platform combining human‑enriched OSINT, dark‑web and vulnerability data to provide threat analysis, alerts and professional services.
+- [Hootsuite](https://www.hootsuite.com/) — Social media management platform providing scheduling, posting, team workflows and analytics across different social media profiles.
+- [Iconosquare](https://www.iconosquare.com) — Multi-platform social management tool.
+- [Infegy Atlas](https://www.infegy.com/platform/infegy-atlas) — Social media analytics platform focused on consumer behaviour and sentiment analysis.
+- [isentia](https://www.isentia.com) — Media monitoring and intelligence service for brands and PR.
+- [Keyhole](https://keyhole.co) — Social media analytics platform for tracking hashtags, keywords, and account performance.
+- [Meltwater](https://www.meltwater.com) — Media intelligence platform offering news monitoring, social listening, and analytics.
+- [Mention](https://mention.com) — Tracks online mentions of keywords across web and social platforms.
+- [Mentionlytics](https://www.mentionlytics.com) — AI‑powered platform for monitoring web and social media activity including brand mentions, sentiment, influencers, and alerts.
+- [Muck Rack](https://muckrack.com) — Software for managing PR workflows, including media monitoring, journalist outreach, and reporting.
+- [MyNewsdesk](https://www.mynewsdesk.com) — Multimedia public relations platform supporting newsroom creation, press release distribution, and media engagement.
+- [Newslit](https://www.newslit.co) — Tool for tracking news from thousands of sources and summarising updates into digestible briefs.
+- [NewsWhip Spike](https://www.newswhip.com/spike-social-media-monitoring) — Real‑time system for detecting and predicting trending stories across news and social media channels.
+- [Nexis Newsdesk](https://www.lexisnexis.com/en-us/professional/media-intelligence/newsdesk.page) — Media intelligence solution offering global monitoring, analytics, dashboards, and custom alerts.
+- [NexusXplore](https://www.nexusxplore.com) — Open‑source intelligence platform designed for deep investigative research and data exploration.
+- [Onclusive](https://onclusive.com) — Data‑driven media monitoring and measurement system.
+- [PeakMetrics](https://www.peakmetrics.com) — Narrative intelligence engine identifying emerging risks, disinformation, and media trends
+- [PRHive](https://prsoftware.ai) — AI‑driven automation for public relations tasks like media list building, pitch management, and campaign analysis.
+- [Prowly](https://prowly.com) — System supporting press release creation, media outreach, coverage tracking, and performance reporting.
+- [ReviewInc](https://reviewinc.com) — Reputation management software that automates online review collection, listings, and customer interactions
+- [reviewtrackers](https://www.reviewtrackers.com) — Platform for monitoring online reviews, analysing sentiment, and gathering competitor and location insights
+- [SamDesk: Real-Time Crisis Alerts](https://www.samdesk.io) — Real‑time alerting system for monitoring global crises, disruptions, and high‑impact events with geolocation data
+- [Semantrum](https://www.world.semantrum.net) — Multilingual media monitoring platform for analysing online, print, and broadcast sources.
+- [Sendible](https://www.sendible.com) — Agency‑focused social media scheduling, monitoring, collaboration and reporting tool.
+- [SentiOne](https://sentione.com) — AI-powered social listening and customer insights platform.
+- [Signal AI](https://www.signal-ai.com) — AI-powered media monitoring and analysis platform delivering insights on brand visibility, market trends, and reputational risk.
+- [SocialPath](https://github.com/woj-ciech/SocialPath) — Open-source tool for tracking users across multiple social media platforms by analyzing username reuse.
+- [SproutSocial](https://sproutsocial.com) — Enterprise‑grade social media management: publishing, engagement, social listening, analytics, and business intelligence.
+- [Storyful](https://storyful.com) — Verification and strategic intelligence agency tracking social media and user-generated content to provide actionable news and risk insights.
+- [Synthesio](https://www.synthesio.com) — Social listening platform for monitoring brand mentions and sentiment across social media.
+- [Talkwalker](https://www.talkwalker.com) — Social listening and analytics platform for tracking brand performance and trends.
+- [Trendolizer](http://get.trendolizer.com) — Engine that discovers trending articles, images, and videos going viral across thousands of sources via API or dashboard.
+- [TrendSights](https://www.trendsights.ai) — Trend detection and consumer insight analysis platform.
+- [Ubermetrics](https://www.ubermetrics-technologies.com) — Media monitoring and analytics tool for PR and communication professionals.
+- [Webz.io](https://webhose.io) — Data-as-a-service platform providing access to structured web data from forums, news, blogs, and more.
+- [YouScan](https://youscan.io) — Social media intelligence tool using AI for text and image analysis to track brand performance, audience sentiment, visual mentions, and market trends.
+- [Zoho Social](https://www.zoho.com/social/social-media-monitoring.html) — Zoho Social module for brand monitoring, keyword tracking and social listening.

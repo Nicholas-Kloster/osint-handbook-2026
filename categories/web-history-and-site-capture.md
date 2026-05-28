@@ -1,0 +1,54 @@
+# Web History And Site Capture
+
+> 50 tools — [osinthandbook.com/web-history-and-site-capture](https://www.osinthandbook.com/web-history-and-site-capture)
+
+- [Analyst Search Tools](https://analystresearchtools.com) — An extensive collection of OSINT tools and resources.
+- [Archive Page](https://chromewebstore.google.com/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia/related) — A Chrome extension that makes it easy to preserve snapshots of web pages using Archive Today.
+- [Archive-it.org](https://www.archive-it.org/explore?show=Collections) — The leading web archiving service for collecting and accessing cultural heritage on the web.
+- [Archive.fo](http://archive.fo) — An alternative mirror of Archive Today, an on-demand web archiving site that saves snapshots including functional links and screenshots without obeying robots.txt. Also includes a search feature.
+- [Archive.is](http://archive.is) — An alternative mirror of Archive Today, an on-demand web archiving site that saves snapshots including functional links and screenshots without obeying robots.txt. Also includes a search feature.
+- [Archive.today](https://archive.today/) — An on-demand web archiving site that saves snapshots including functional links and screenshots without obeying robots.txt. Also includes a search feature.
+- [Archive.vn](https://archive.vn) — An alternative mirror of Archive Today, an on-demand web archiving site that saves snapshots including functional links and screenshots without obeying robots.txt. Also includes a search feature.
+- [ArchiveBox](https://archivebox.io) — A powerful, self-hosted internet archiving solution to collect, save, and view websites offline.
+- [ArchivedWeb](https://archivedweb.com/) — Web interface for capturing static copies of websites.
+- [Arquivo.pt](https://arquivo.pt) — National Portuguese web archive.
+- [Australia Web Archive](https://webarchive.nla.gov.au/collection?q=) — Australian web archive collection portal for discovery via the National Library of Australia’s archives.
+- [Auto Archiver](https://auto-archiver.bellingcat.com) — Automated archiving of social media accounts and web content for investigative reporting.
+- [Aware Online: Web Archive Search Tool](https://www.aware-online.com/osint-tools/web-archive-search-tool/) — Search tool for web archives facilitating queries across multiple archive services.
+- [Cached View](https://cachedview.nl) — A tool for viewing cached or archived versions of webpages.
+- [Cached Views](https://cachedviews.com) — Cached views of webpages retrieved from multiple cached sources.
+- [Common Crawl](https://index.commoncrawl.org/) — Searchable index of Common Crawl data.
+- [Conifer](https://conifer.rhizome.org) — A web archiving service that creates an interactive copy of any web page that you browse, including content revealed by your interactions such as playing video and audio, scrolling, clicking buttons, and so forth.
+- [Deleted Tweet Finder V2.3](https://cache.digitaldigging.org/) — Search for deleted tweets across multiple archival services.
+- [FAW Project](https://en.fawproject.com) — Forensic-focused browser designed for certified, legally admissible web page capture with timestamping, TOR support, video and network recording.
+- [Ghost Archive](https://ghostarchive.org) — An on-demand web archiving site that saves snapshots including functional links and screenshots without obeying robots.txt. Also includes a search feature.
+- [grep-backURLs](https://github.com/gigachad80/grep-backURLs) — Automated way to extract juicy info with subfinder and waybackurls.
+- [HTTrack](http://www.httrack.com) — Website copier and offline browser for downloading entire websites to view locally.
+- [Internet Archive](https://archive.org) — Digital library offering free access to archived texts, software, music, videos, and websites.
+- [Internet Archives Wayback Machine Link Ripper](https://tools.digitalmethods.net/beta/internetArchiveWaybackMachineLinkRipper) — Tool to extract and list archived URLs from the Internet Archive’s Wayback Machine for a given host or page.
+- [Library of Congress: Archived Websites](https://www.loc.gov/websites) — Library of Congress portal listing archived websites, resources, collections, and initiatives.
+- [List of Web Archiving Initiatives](https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives) — Wikipedia page compiling a list of various web archiving initiatives around the world.
+- [Lookyloo\n](https://lookyloo.circl.lu/capture) — Visual web capture tool that captures a webpage and then displays a tree of the domains, that call each other.
+- [Mass archive](https://github.com/motherboardgithub/mass_archive) — A basic tool for pushing a web page to multiple archiving services at once.
+- [OldWeb.today](https://oldweb.today/) — Browse the internet using emulated legacy browsers (e.g. Mosaic, Netscape, IE) connected to web archives to recreate historical browsing experiences.
+- [PageCached](https://pagecached.com) — Check whether a URL has been cached or archived across services like Wayback Machine, Archive.today, and more.
+- [Pagefreezer](https://www.pagefreezer.com) — A tool for fully automated, compliant archiving of websites and social media for legal, audit, and eDiscovery needs.
+- [PDFMyURL](http://pdfmyurl.com) — A tool for converting web pages or entire websites into high-quality PDFs.
+- [Perma.cc](https://perma.cc) — A tool that generates permanent, archived snapshots of web pages for stable citations and to prevent link rot.
+- [Print Friendly](https://www.printfriendly.com) — Makes web pages printer-friendly with options to convert to PDF, edit, sign, or optimise for printing.
+- [Public Web Archives](https://github.com/webrecorder/public-web-archives) — A listing of world wide web archives, for humans and machines using Web Archive Manifest (WAM) yaml format.
+- [Resurrect Pages](https://addons.mozilla.org/en-US/firefox/addon/resurrect-pages/) — A Firefox extension that searches for versions of websites cached or archived by use of Internet Archive, WebCite, and archive.is.
+- [SingleFile](https://github.com/gildas-lormeau/SingleFile) — Web Extension for saving a faithful copy of a complete web page in a single HTML file.
+- [SiteSucker](https://ricks-apps.com/osx/sitesucker/) — macOS application that downloads entire websites for offline browsing.
+- [The Old Net\n](https://theoldnet.com/) — Web portal recreating the 1990s browsing experience for vintage and modern browsers.
+- [Trove](https://trove.nla.gov.au/search) — A digital archive maintained by the National Library of Australia.
+- [ViewCached.com](http://www.viewcached.com) — Online interface that retrieves cached versions of web pages from sources like Internet Archive.
+- [Wayback Machine](https://web.archive.org/) — Internet Archive’s Wayback Machine for browsing and retrieving archived versions of web pages from across time
+- [Wayback Machine Downloader](https://github.com/hartator/wayback-machine-downloader) — Download an entire website from the Wayback Machine.
+- [Wayback Machine Extension](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak?hl=en-US) — The Official Wayback Machine Extension - by the Internet Archive.
+- [waybackpack](https://github.com/jsvine/waybackpack) — Download the entire Wayback Machine archive for a given URL.
+- [waybackurls](https://github.com/tomnomnom/waybackurls) — Fetch all the URLs that the Wayback Machine knows about for a domain.
+- [Web Archives](https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao/related) — View archived and cached versions of web pages on various search engines, such as the Wayback Machine and Archive.is.
+- [Web2PDF](https://www.web2pdfconvert.com) — Online tool to convert web pages into PDF or image formats.
+- [WebCitation](http://webcitation.org/query) — On-demand archiving service that captures and preserves snapshots of cited web pages for reliable scholarly citation.
+- [Webrecorder](https://webrecorder.io) — Web session recorder and replayable archive platform supporting dynamic, interactive browsing capture.

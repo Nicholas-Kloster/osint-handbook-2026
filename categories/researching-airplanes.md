@@ -1,0 +1,103 @@
+# Researching Airplanes
+
+> 99 tools — [osinthandbook.com/researching-airplanes](https://www.osinthandbook.com/researching-airplanes)
+
+- [360 Radar](https://360radar.co.uk) — Provides real-time aircraft tracking data focused on the UK airspace.
+- [ADS-B](https://globe.adsbexchange.com/) — Displays live global aircraft tracking with extensive flight and aircraft data overlays.
+- [ADS-B Exchange](https://www.adsbexchange.com) — Offers a global, unfiltered view of ADS-B aircraft tracking data for enthusiasts and researchers.
+- [ADS-B.nl](https://www.ads-b.nl) — Tracks aircraft using ADS-B data with a focus on the Netherlands and European region.
+- [AeroTransport Data Bank](https://aerotransport.org) — Maintains an extensive global database of aircraft fleets and operator histories.
+- [Air LIVE](https://cam.airlive.net) — Streams live video feeds from airport cameras around the world.
+- [Aircraft Performance Database](https://contentzone.eurocontrol.int/aircraftperformance/default.aspx?NameFilter=boeing) — Provides detailed aircraft performance data, primarily for operational and planning use.
+- [Aircraft Recognition Guide](https://www.aircraftrecognitionguide.com/) — Helps users visually identify and recognise different types of aircraft.
+- [Aircraft Serial Number Search](http://users.rcn.com/jeremy.k/serialSearch.html) — Allows users to search for military aircraft by serial number using a historical database.
+- [Airfleets.net](https://www.airfleets.net) — Displays comprehensive information on commercial aircraft fleets and airline histories.
+- [Airframes](http://www.airframes.org) — Offers registration and fleet data for individual aircraft worldwide.
+- [AirHistory.net](https://www.airhistory.net) — Archives high-quality photos and historical data of various aircraft.
+- [Airliner Spotter](https://www.airlinerspotter.com) — Provides identification help and visual guides for spotting different types of airliners.
+- [Airliners](http://www.airliners.net) — Hosts one of the largest aviation photography databases and discussion forums online.
+- [Airnav](http://www.airnav.com/airports/) — Offers detailed airport information including runways, radio frequencies and operational stats.
+- [Airnav Radar](https://www.airnavradar.com) — Provides real-time aircraft tracking with data visualisation and analytics tools.
+- [Airport Data](https://www.airport-data.com) — Contains a searchable database of aircraft and related registration information.
+- [Airport Webcams](https://airportwebcams.net/) — Features live webcam streams from various airports for aviation enthusiasts.
+- [Airportdata.com](https://www.airportdata.com) — Lists airport codes and detailed operational data for aviation reference purposes.
+- [Airportia](https://www.airportia.com/) — Provides live flight tracking, airport arrivals and departures, airline schedules, and delay compensation tools.
+- [Airports Worldwide](https://www.airports-worldwide.info) — Offers a global directory of airports with location, contact, and operational details.
+- [Australian Civil Aviation Safety Authority](https://www.casa.gov.au) — Serves as Australia's aviation safety regulator, offering information on aircraft registration, pilot licensing, and drone regulations.
+- [Australian Government: Aircraft Registration](https://www.casa.gov.au/aircraft/aircraft-registration/register-your-aircraft) — Guides users through the process of registering aircraft in Australia, including requirements and application steps.
+- [Aviability](https://aviability.com) — A database with information on flights and airports.
+- [Aviateka](https://aviateka.ru) — Publishes directories and reference materials on airports, airlines, and aviation services in Russia and the CIS.
+- [Aviation DB](https://www.aviationdb.com) — A comprehensive, international aviation database.
+- [Aviation Edge](https://aviation-edge.com/airport-database-api/) — Offers a comprehensive airport database and API access, including IATA and ICAO codes, for aviation software developers.
+- [Aviation Herald](https://www.avherald.com) — Reports on aviation incidents and accidents worldwide, providing detailed summaries and updates.
+- [Aviation News Online](https://www.aviationnews-online.com) — Delivers daily news and analysis on the global aviation industry, covering airlines, finance, leasing, and technology.
+- [Aviation Safety](https://aviation-safety.net) — Maintains a database of aviation accidents and safety information to promote air travel safety.
+- [Aviation Safety Network](https://asn.flightsafety.org) — Provides access to aviation safety data and resources for flight safety professionals and researchers.
+- [Aviation Stack](https://aviationstack.com/) — Offers an API delivering real-time and historical flight data, including schedules, routes, and aircraft information.
+- [AVOSINT](https://github.com/n0skill/AVOSINT) — A tool to search aviation-related intelligence from public sources.
+- [Black Book Online: Free Aviation Public Records](https://www.blackbookonline.info/Aviation-Public-Records.aspx) — Aggregates public aviation records, including aircraft registrations and ownership details, from various sources.
+- [CAA (UK)](http://www.caa.co.uk) — Functions as the UK's aviation regulator, providing information on licensing, safety, and airspace management.
+- [Canadian Civil Aircraft Register](https://wwwapps.tc.gc.ca/saf-sec-sur/2/ccarcs-riacc/RchSimp.aspx) — Allows users to search Canada's civil aircraft register for information on registered aircraft and owners.
+- [CAROL](https://data.ntsb.gov/carol-main-public/basic-search) — Provides access to the U.S. National Transportation Safety Board's database of aviation accident reports and safety recommendations.
+- [CH Aviation Fleets Advanced Module](https://www.ch-aviation.com/premium/aircraft) — Offers detailed information on aircraft fleets, airline operators, and aircraft leasing data.
+- [Combat Aircraft](https://www.combataircraft.com) — Features news, articles, and information on military aircraft and aviation history.
+- [Dictator Alert](https://dictatoralert.org) — Tracks the movements of aircraft used by authoritarian regimes to promote transparency and accountability.
+- [Drone Crash Database](https://dronewars.net/drone-crash-database/) — Provides a comprehensive database of known drone crashes around the world.
+- [FAA Registry](https://registry.faa.gov/aircraftinquiry/) — Allows users to search U.S. civil aircraft registration information by various criteria including N-number and owner name.
+- [Flight Air Map](https://www.flightairmap.com) — A free and Open Source PHP application displaying flights, vessels and / or trackers on a map from source of your choice.
+- [Flight Radar (EU)](https://flight-radar.eu/) — Displays live flight tracking data across Europe using radar and ADS-B data sources.
+- [Flight Radar Live](https://flightradar.live/en/flight-tracker/) — Offers real-time global flight tracking with a map interface and airport information.
+- [Flight Stats](https://www.flightstats.com) — Supplies historical and real-time flight status information including delays, cancellations and departures.
+- [Flight Status Tracker](https://flight-status.com/) — Provides live flight tracking and real-time flight status updates for commercial airline flights worldwide.
+- [FlightAware](https://flightaware.com) — Offers global flight tracking services with detailed data on aircraft routes, positions and historical flights.
+- [FlightConnections](https://www.flightconnections.com) — Enables users to explore and map direct flight connections between airports around the world.
+- [Flightera](https://www.flightera.net) — Get real-time flight status updates, on-time performance statistics, and detailed flight information.
+- [FlightMapper](https://flightmapper.net) — A flight search platform.
+- [FlightMapper](https://flightmapper.io) — Flight mapper and flight path visualizer.
+- [Flightradar24](https://www.flightradar24.com) — Displays real-time flight positions, movements and historical tracking data for both commercial and private flights.
+- [FlightView](https://www.flightview.com) — Provides flight tracking, airport delay status, and live arrival and departure information for airports worldwide.
+- [Flightwise](http://flightwise.com) — Offers flight tracking services including live radar, route mapping and airport information.
+- [Fly Radar](https://fly-radar.no) — Tracks aircraft movements and provides live radar maps with flight path visualisation in the Nordic region.
+- [Flying in Ireland](https://flyinginireland.com/) — Publishes news and information about aviation developments in Ireland, including general aviation and commercial flight updates.
+- [Freedar](https://radar.freedar.uk/VirtualRadar/desktop.html) — Displays virtual radar data from UK-based receivers with real-time aircraft tracking and detailed flight information.
+- [Freedar](https://freedar.uk) — Provides real-time aircraft tracking and radar data from UK-based ADS-B receivers.
+- [G-INFO UK Aircraft Register](https://siteapps.caa.co.uk/g-info) — Allows users to search UK civil aircraft registration details including aircraft type, owner and registration history.
+- [Glider Tracker](https://glidertracker.org) — Tracks glider flights in real time using FLARM and other telemetry data.
+- [Globe ADSB](https://globe.adsb.fi) — Displays real-time ADS-B aircraft tracking data contributed by receivers primarily in Finland and surrounding areas.
+- [Globe ADSB.fi](https://globe.adsb.fi) — Live aircraft tracking.
+- [GPSJam](https://gpsjam.org/) — Monitors and visualises areas of GPS interference and jamming worldwide using crowdsourced and satellite-based data.
+- [GVA Dictator Alert](https://github.com/lefranz/geneva-dictators) — Tracks dictator's jets landing and leaving Geneva Airport
+- [Helicopter Database](https://www.helis.com/database) — Offers a comprehensive helicopter database with information on models, operators, and incidents.
+- [Icarus Flights](https://app.icarus.flights/) — Enables access to a collaborative platform for visualising and analysing aircraft movement and data.
+- [JetPhotos](https://www.jetphotos.com) — Hosts a large aviation photo database featuring images of aircraft from around the world.
+- [LiveATC.Net](https://www.liveatc.net) — Streams live air traffic control communications from airports and control centres globally.
+- [NTSB Carol](https://carol.ntsb.gov/) — Allows users to search NTSB aviation accident reports and related data.
+- [NTSB Investigation Data](https://data.ntsb.gov/carol-main-public/basic-search) — Provides public access to detailed aviation accident information from the NTSB.
+- [OpenSky Network](https://opensky-network.org) — Supplies real-time and historical flight tracking data using a global sensor network.
+- [Our Airports](https://ourairports.com/) — Offers airport data including runways, frequencies, and pilot comments contributed by the aviation community.
+- [Over the North East](https://www.otne.co.uk/eta/) — Displays real-time UK military aircraft movements with interactive tracking tools.
+- [PinkFroot](https://my.pinkfroot.com/photo/Planes) — Features user-submitted photographs of aircraft from around the world.
+- [Plane Flight Tracker](https://www.planeflighttracker.com/) — Tracks global flights in real time with map visualisation and aircraft details.
+- [Plane Logger](https://www.planelogger.com) — A set of tools and services for aircraft logging and fleet tracking.
+- [Plane Mapper](https://www.planemapper.com) — Delivers live flight tracking with detailed aircraft and route information.
+- [Plane Spotters](https://www.planespotters.net) — Maintains a database of aircraft histories, registrations, and spotting photos.
+- [Plane Talking](https://www.nats.aero/discover/plane-talking) — Explains air traffic control concepts and processes for educational and public outreach purposes.
+- [PlaneFinder](https://planefinder.net) — Provides live flight tracking and aircraft information with map-based visualisation.
+- [Radar Freedar UK](https://radar.freedar.uk/VirtualRadar/desktop.html) — Displays live aircraft tracking information using a virtual radar interface.
+- [Radar Virtuel](https://www.radarvirtuel.com/) — Provides real-time flight tracking data and aircraft positions worldwide.
+- [RadarBox](https://www.radarbox.com) — Offers global flight tracking with detailed data on aircraft, airports, and airlines.
+- [rzjets](https://rzjets.net/aircraft/) — Contains a searchable database of jet aircraft with detailed specifications and histories.
+- [Safe Airspace](https://safeairspace.net/) — Provides risk assessments and safety information for airspace around the world.
+- [Scramble](https://www.scramble.nl) — Shares military aviation news, air force updates, and aircraft database resources.
+- [Search Airfields](http://www.pilotweb.aero/airfields/search-airfields) — Lets users search for and view detailed information about UK airfields.
+- [Seatguru](https://www.seatguru.com) — Offers aircraft seat maps and airline seat reviews to help choose the best seats.
+- [SkyVector](https://skyvector.com/) — Provides aviation charts, flight planning tools, and airport information for pilots.
+- [Stack Exchange Aviation Forum](https://aviation.stackexchange.com) — Hosts a Q&A community focused on aviation topics, from flight training to aircraft systems.
+- [Tail Number Lookup](https://aerobasegroup.com/tail-number-lookup) — A tail number lookup tool.
+- [The AiArchive](https://theairchive.net) — Archives aviation history, airline memorabilia, and historic flight timetables.
+- [UK Airfield Guide](https://www.ukairfieldguide.net/database.php) — UK airfields and airports.
+- [ulForum.de](https://www.ulforum.de) — Hosts discussions and resources for ultralight and microlight flying enthusiasts in Germany.
+- [Wikipedia: List of Aircraft Registration Prefixes](https://en.wikipedia.org/wiki/List_of_aircraft_registration_prefixes) — Lists international aircraft registration prefixes assigned by country.
+- [Wikipedia: List of Passenger Airlines](https://en.wikipedia.org/wiki/List_of_passenger_airlines#List_of_passenger_airlines) — Provides a global list of commercial passenger airlines with related data.
+- [World Airport Code Finder](https://www.freightos.com/freight-resources/world-airport-code-finder) — Helps users find IATA and ICAO airport codes and related freight information.
+- [World Airport Codes](https://www.world-airport-codes.com) — Provides comprehensive data and codes for airports worldwide.

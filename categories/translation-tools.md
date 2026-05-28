@@ -1,0 +1,57 @@
+# Translation Tools
+
+> 53 tools — [osinthandbook.com/translation-tools](https://www.osinthandbook.com/translation-tools)
+
+- [2lingual Search](http://www.2lingual.com) — Provides bilingual search with side-by-side Google queries in two languages.
+- [Apertium](https://www.apertium.org) — A free, open-source machine translation platform.
+- [Bab.la](https://en.bab.la) — Includes multilingual dictionaries, phrasebooks, conjugation tables, quizzes, and language forums.
+- [Babelfish](https://www.babelfish.com) — Delivers simple phrase and sentence translation.
+- [Babylon](https://www.babylon-software.com/dictionary/) — Supports instant word translation, reference lookups, voice pronunciation, and document translation.
+- [Baidu Translation](https://fanyi.baidu.com) — A text, speech, image, and document translation from Baidu.
+- [Bing Translator](http://www.bing.com/translator) — Free translation of text, speech, and web pages in many diffetrent languages.
+- [Cambridge Dictionary](https://dictionary.cambridge.org) — Foreign language translation from Cambridge dictionary.
+- [Cevirsozluk](https://cevirsozluk.com/) — A Turkish translation portal that supports many languages.
+- [Deepl Translator](https://www.deepl.com/translator) — Delivers high-quality, natural translations using neural machine translation technology.
+- [Dict.cn](http://dict.cn) — Serves as a Chinese–English dictionary and translator with definitions, examples, and pronunciation.
+- [Farsi Translator](https://aryanpour.com/translator.php) — Offers online text and sentence translation with multiple language options.
+- [Free Website Translation](http://free-website-translation.com) — Free website translation.
+- [Frengly](https://frengly.com/) — Simple, free text translation.
+- [Gengo](https://gengo.com/) — Connects users with professional human translators.
+- [Google Translate](https://translate.google.com) — Offers free translation for text, documents, and websites in numerous languages.
+- [imTranslator](https://imtranslator.net/translation/) — Translation service intended to provide an instant translation of words, phrases and texts in many languages.
+- [Interglot\n](https://m.interglot.com/) — Features a mobile-friendly multilingual dictionary with word lookup and examples.
+- [Irish Translator](http://www.whoohoo.co.uk/irish-translator.asp) — Translates English words and phrases into Irish.
+- [iTranslate](https://www.itranslate.com) — Provides text, voice, and image translation across many languages on desktop and mobile.
+- [Kagi Traanslate](https://translate.kagi.com) — A powerful translation tool from Kagi.
+- [Leo](https://www.leo.org/german-english) — Multilingual translators from LEO.
+- [Lexicool Translation](https://www.lexicool.com/translate.asp) — Aggregates links to multiple online translators and bilingual dictionaries.
+- [Lexilogos](https://www.lexilogos.com) — Provides access to dictionaries, keyboards, and translation tools for numerous world languages
+- [LibreTranslate](https://libretranslate.com/) — Offers an open-source, privacy-focused neural translation API and web interface.
+- [Lingo Jam: Create Your Own Translator](https://lingojam.com) — A platform to create custom translator tools.
+- [Linguee](https://www.linguee.com/) — Bilingual dictionary and translation search engine with example sentences.
+- [LingvoSoftOnline](http://www.lingvozone.com) — Multilingual translation site offering dictionaries and text translation.
+- [Mate Translate](https://chromewebstore.google.com/detail/mate-translate-%E2%80%93-translat/ihmgiclibbndffejedjimfjmfoabpcke) — Chrome extension for translating text and subtitles across multiple languages.
+- [MDBG Chinese Translation](https://www.mdbg.net/chinese/dictionary?page=translate) — Chinese-English dictionary and translation tool.
+- [Microsoft Translator](https://www.microsoft.com/en-us/translator/) — Microsoft's AI-powered translation service for text, speech, and documents.
+- [Online Translator](http://www.online-translator.com) — Online translation tool by PROMT supporting multiple languages.
+- [Pleco](https://www.pleco.com) — Comprehensive Chinese dictionary and translation app for mobile devices.
+- [PONS](https://en.pons.com/translate/german-english) — Online multilingual translation tool and dictionary with contextual examples and audio.
+- [PROMT-Online Translation2](https://translation2.paralink.com/) — Free translation site offering translations in multiple languages.
+- [Reddit/r/translator](https://www.reddit.com/r/translator) — Subreddit for requesting and offering translation help.
+- [Reverso](http://www.reverso.net) — Online translation and language learning platform with grammar, context features, and support for almost 30 languages.
+- [Reverso Dictionary](https://dictionary.reverso.net) — Multilingual dictionary with contextual examples.
+- [Sco Translate](http://www.scotranslate.com) — English-Scottish translation.
+- [Simple Translate](https://simple-translate.sienori.com) — Browser extension for simple and fast in-page translations.
+- [Spanish Dict](https://www.spanishdict.com/) — Comprehensive Spanish-English dictionary and translation resource.
+- [Stars21](https://www.stars21.com/translator/) — Multilingual translation tool powered by Google Gemini.
+- [Systran](https://www.systransoft.com/) — AI-powered translation service for business and personal use.
+- [Translate British](https://www.translatebritish.com) — Translator for converting American English to British English.
+- [Translate Indonesian](http://www.indotranslate.com) — English to Indonesian translation tool and dictionary.
+- [Translate.com](https://www.translate.com) — Online translation service offering traditional and human translation between multiple languages.
+- [Translate.eu](https://www.translate.eu) — Multilingual translator supporting many European languages.
+- [Unbabel](https://unbabel.com) — AI-powered translation platform combining machine and human translation for businesses.
+- [WhatLanguageIsThis](https://whatlanguageisthis.com) — Tool for detecting the language of input text.
+- [Wiktionary](https://www.wiktionary.org) — Collaborative multilingual dictionary from the Wikimedia Foundation.
+- [WorldLingo](http://www.worldlingo.com) — Translation and localisation service for businesses with support for many languages.
+- [WorldReference.com](https://www.wordreference.com/) — Multilingual dictionary and forum for language learners and translators.
+- [Yandex Translate](https://translate.yandex.ru) — Translation service from Yandex.

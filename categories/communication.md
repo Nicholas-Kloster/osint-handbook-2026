@@ -1,0 +1,43 @@
+# Communication
+
+> 39 tools — [osinthandbook.com/communication](https://www.osinthandbook.com/communication)
+
+- [Adobe Connect](https://www.adobe.com/products/adobeconnect.html) — Web conferencing and online training solution.
+- [Briar](https://briarproject.org) — Secure peer-to-peer messaging app that bypasses centralised servers.
+- [Digital Samba](https://www.digitalsamba.com/) — Business social networking and collaboration platform.
+- [Discourse](https://www.discourse.org) — Open-source discussion forum platform.
+- [FaceFlow](https://www.faceflow.com/) — Video chat and instant messaging service.
+- [Fleep](https://fleep.io) — Team messaging and collaboration platform.
+- [FreeConferenceCall](https://www.freeconferencecall.com) — Free conference call and online meeting service.
+- [FreeScreenSharing](https://www.freescreensharing.com) — Free screen sharing and online meeting tool.
+- [Friends](http://moose-team.github.io/friends/) — Open-source chat application project.
+- [GoToMeeting](http://www.gotomeeting.com) — Online meeting and video conferencing software.
+- [Jitsi](https://jitsi.org) — Open-source video conferencing platform.
+- [Jostle](https://jostle.me/) — Employee intranet and engagement platform.
+- [kik](https://www.kik.com) — Instant messaging app for mobile devices.
+- [Let’s Chat](http://sdelements.github.io/lets-chat/) — Self-hosted team chat application for small teams.
+- [Line](https://line.me) — Instant messaging and social app.
+- [Linphone](https://www.linphone.org/) — Open-source VoIP and SIP client.
+- [Lucid Meetings](https://www.lucidmeetings.com/) — Facilitates structured online meetings.
+- [Meet Franz](https://meetfranz.com) — Multi-messenger and collaboration app supporting WhatsApp, Facebook Messenger, Slack, Telegram and many many more.
+- [MeetingOne](https://www.meetingone.com) — Web conferencing and online meeting platform.
+- [MyBB](https://mybb.com/) — Open-source forum software.
+- [RingCentral](https://www.ringcentral.com/) — A business communication platform and phone system.
+- [Rocket.chat](https://www.rocket.chat/) — Secure, feature-rich communication platform for defense, intelligence, and critical infrastructure.
+- [Signal](https://signal.org) — Encrypted messaging and voice call app.
+- [Slack](https://slack.com) — Team communication and collaboration platform.
+- [StartMeeting](https://www.startmeeting.com) — Web conferencing and online meeting tool.
+- [Talky](https://talky.io) — A simple video chat and screen sharing tool.
+- [Teamviewer](https://www.teamviewer.com) — Remote access and support software.
+- [Telegram](https://telegram.org) — A popular instant messaging platform and social network.
+- [Tixeo](https://www.tixeo.com/en/secure-video-conferencing) — Secure video conferencing solution.
+- [Toc](http://toc.im) — Decentralised chat platform.
+- [TrueConf](https://trueconf.com/) — Video conferencing and collaboration software.
+- [Veeting rooms](https://www.veeting.com) — Secure video conferencing solution.
+- [Webex](http://www.webex.com) — Video conferencing and collaboration platform.
+- [WhatsApp](https://www.whatsapp.com) — Encrypted messaging and voice / video calling app.
+- [wire](https://wire.com) — Secure, end‑to‑end‑encrypted communication and collaboration suite featuring messaging, voice / video conferencing, file sharing and guest rooms.
+- [Yammer](https://www.yammer.com) — Enterprise social networking platform.
+- [Zoho Meeting](https://www.zoho.com/meeting/) — Online meeting and webinar software.
+- [Zoom.us](https://zoom.us) — Video conferencing and online meeting platform.
+- [Zulip](https://www.zulip.org) — Open-source team chat with threading.

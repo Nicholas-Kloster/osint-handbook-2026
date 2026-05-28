@@ -1,0 +1,78 @@
+# People Search Tools
+
+> 74 tools — [osinthandbook.com/people-search-tools](https://www.osinthandbook.com/people-search-tools)
+
+- [_IntelligenceX: Person Lookup by Full Name](https://intelx.io/tools?tab=person) — Person lookup by full name from _intelligenceX.
+- [Addresses (US)](https://www.addresses.com/) — Provides address and phone number lookup services using publicly available data.
+- [All People (US)](https://allpeople.com/) — Offers business contact information and professional affiliations in the United States.
+- [Alumni.net](https://www.alumni.net/) — Online community platform that connects alumni from schools and universities worldwide for networking and job opportunities.
+- [Analyst Search Tools](https://analystresearchtools.com) — An extensive collection of OSINT tools and resources.
+- [AnyWho (US)](https://www.anywho.com) — Searches public records sources in the US.
+- [Australia Lookup (Australia)](http://www.australialookup.com) — Australian people finder and reverse telephone directory.
+- [Aware Online: People Search](https://www.aware-online.com/osint-tools/personen-search-tool/) — Person Search Tools from Aware Online.
+- [Been Verified (US)](https://www.beenverified.com/) — Aggregates public records to provide background checks and people search tools.
+- [Bellingcat Name Variant Search](https://bellingcat.github.io/name-variant-search/) — Generates international name variations for investigative purposes.
+- [BrokerCheck (US)](https://brokercheck.finra.org) — Research the background and experience of financial advisers and firms in the US.
+- [Castrick](https://castrickclues.com/) — A set of specialised OSINT tools, including tools to investigate e-mails, phone numbers, and usernames.
+- [Classmates](https://www.classmates.com) — Platform that helps users reconnect with former classmates and friends from school.
+- [CrunchBase](http://www.crunchbase.com) — Tracks business information, funding, and leadership of startups and companies.
+- [cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl) — An Open-Source Intelligence username and phone number search tool that crawls adult content platforms to see if a targeted account or person is present.
+- [Cyber Background Checks (US)](https://www.cyberbackgroundchecks.com) — Provides detailed background check services using aggregated public records.
+- [dataScrape](https://github.com/khayes-r7/dataScrape) — Script that scrapes employee names from connect.data.com for information gathering purposes.
+- [Digital Footprint Check](https://www.digitalfootprintcheck.com) — A people search engine that generates an online profile of an individual based on a provided e-mail or username.
+- [Fast People Search (US)](https://www.fastpeoplesearch.com/) — Finds people using names, addresses, or phone numbers from public records.
+- [Full Contact](https://www.fullcontact.com) — Provides contact enrichment and identity resolution tools using online and offline data sources.
+- [Gravatar](http://en.gravatar.com) — Globally recognized avatar hosting service that links email addresses to user-uploaded images.
+- [hedd (UK)](https://hedd.ac.uk) — Checks UK higher education degree verifications for employers and institutions.
+- [Hitta.se (Sweden)](https://www.hitta.se) — Swedish online directory providing contact information and addresses for individuals and businesses.
+- [IDCrawl (US)](https://www.idcrawl.com) — A free people search engine, username search, reverse phone, and reverse e-mail lookup.
+- [Intelius (US)](https://www.intelius.com) — Delivers identity verification and background check services using a range of data sources.
+- [Itools](http://itools.com/search/people-search) — Offers a suite of search tools for finding people, including reverse phone and email lookups.
+- [Keybase](https://keybase.io) — Connects identities with cryptographic keys to verify users and enable secure communication.
+- [leakpeek](https://leakpeek.com) — A data breach search engine that searches leaked databases for personal information.
+- [LittleBrother](https://github.com/Lulz3xploit/LittleBrother) — Python-based OSINT tool for gathering information on individuals, focusing on European data sources.
+- [LittleSis](https://littlesis.org) — Database that maps relationships among influential individuals and organizations to reveal connections and networks.
+- [NameScan](https://namescan.io) — Provides free PEP, sanctions, and adverse media checks.
+- [National Student Clearinghouse](https://nscverifications.org/welcome-to-verification-services/) — Provides verification services for educational credentials and employment history.
+- [Neighbor Report (US)](https://neighbor.report) — Allows its users to report and share information related to their neighbourhood and / or community.
+- [Nextdoor](https://nextdoor.com) — Connects neighbours and communities for local information and discussions.
+- [NigeriaPhonebook (NIgeria)\n](https://nigeriaphonebook.com/) — Provides phone number lookup and business directory services in Nigeria.
+- [Nuwber (US)](https://nuwber.com) — People search website that compiles public records and online data to provide detailed profiles.
+- [peekyou (US)](https://www.peekyou.com) — A US-focused people search engine, also offering username-based search.
+- [People Data Labs](https://www.peopledatalabs.com) — Data provider offering access to large-scale people and company datasets for developers and businesses.
+- [People Looker (US)](https://www.peoplelooker.com) — Provides access to public records for background checks and contact details.
+- [People Search (Australia)](https://www.peoplesearch.com.au/) — Offers people search services in Australia using public and online data sources.
+- [Peoplefinders (US)](https://www.peoplefinders.com) — Offers background checks and public record searches.
+- [PeopleSmart (US)](https://www.peoplesmart.com) — Delivers people search and background check services using public records.
+- [Person Lookup (South Africa)](https://personlookup.co.za/) — Searches public records and phone directories in South Africa.
+- [Pipl](https://pipl.com) — People search engine that scours the deep web and public records to find detailed personal information.
+- [Private Investigator Tech](https://www.privateinvestigator.tech/search) — Investigative search engine to access over 30,000 global data sources from a single interface.
+- [Qualification Check](https://www.qualificationcheck.com) — Verifies academic and professional qualifications for employment and education checks.
+- [Radaris (US)](https://radaris.com) — Aggregates public records and online information to create detailed profiles for people search and background checks.
+- [Recruit’em](https://recruitin.net) — Tool that generates advanced Google search queries to find profiles on various professional and social networking sites.
+- [Reunion (US)](https://www.reunion.com/) — Social networking site for finding and reconnecting with old friends.
+- [Search (UK)](https://www.searchgb.co.uk) — Finds people in the UK using electoral rolls and other public data.
+- [Search 4 Faces](https://search4faces.com/en/) — Searches for faces across multiple social media platforms using a photo.
+- [Search Systems (US)](https://publicrecords.searchsystems.net) — Comprehensive directory offering access to over 70,000 public record databases organized by location and record type.
+- [SearchBug (US)](https://www.searchbug.com) — Provides tools for people search, email verification, and phone number lookup.
+- [Skipease (US)](https://www.skipease.com/) — Searches for people using various public record databases and search engines.
+- [Skopenow](https://www.skopenow.com) — Analyses open source data to uncover real-world identities and connections for investigations.
+- [Snoop Station (US)](https://snoopstation.com/) — Searches public records sources in the US.
+- [Social Catfish](https://socialcatfish.com) — Service that helps verify identities and prevent scams by searching public records and online information.
+- [Spokeo](https://www.spokeo.com/) — Search engine that compiles social media profiles, public records, and online presence to provide comprehensive people search results.
+- [Spytox (US)](https://www.spytox.com) — An online directory with contact information, personal details and public records
+- [Strava](https://www.strava.com) — Fitness tracking app that records and shares running and cycling routes, allowing users to connect and compete.
+- [TalentBin That’s Them (US)](https://thatsthem.com/reverse-email-lookup) — Tool that performs reverse email lookups to find associated names, addresses, and social profiles.
+- [Trape 2.0](https://www.kitploit.com/2018/11/trape-v20-people-tracker-on-internet.html?amp=0) — Tool designed for real-time tracking and OSINT analysis of individuals' online activities.
+- [TruePeopleSearch (US)](https://www.truepeoplesearch.com) — A popular people search engine.
+- [Truth Finder (US)](https://www.truthfinder.com) — Searches public records to find background details, contact info, and criminal history.
+- [ufind.me](https://ufind.name/) — Finds people globally using social media profiles, public records, and reverse lookup tools.
+- [USA Public Data Search (US)\n](https://usa-official.com/) — Lists US government and official public records search tools.
+- [USSearch (US)](https://www.ussearch.com) — Provides access to US public records to help locate individuals and background information.
+- [WebMii](https://webmii.com/) — Finds public online information linked to a person's name.
+- [Whoxy](https://www.whoxy.com) — Displays detailed WHOIS information and domain history records.
+- [X-Ray](https://x-ray.contact) — The all-in-one platform for social background checks, including a people search engine.
+- [Xlek (US)](https://www.xlek.com) — Offers public records search including criminal, court, and property information.
+- [Yasni](http://www.yasni.com) — Aggregates publicly available web content to show digital footprints and online presence.
+- [Zaba Search (US)](https://www.zabasearch.com) — Searches through public databases to locate people and related information.
+- [Zoominfo](http://www.zoominfo.com) — Business database that provides detailed company and professional profiles for sales and marketing purposes.

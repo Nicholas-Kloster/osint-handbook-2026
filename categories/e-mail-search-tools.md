@@ -1,0 +1,65 @@
+# E Mail Search Tools
+
+> 61 tools — [osinthandbook.com/e-mail-search-tools](https://www.osinthandbook.com/e-mail-search-tools)
+
+- [_intelligenceX: Email](https://intelx.io/tools?tab=email) — Offers a suite of OSINT tools for email-related investigations, including integrations with third-party services.
+- [007-TheBond](https://github.com/Deadshot0x7/007-TheBond) — A free script that can be used to profile an individual using different sources and techniques.
+- [AeroLeads](https://aeroleads.com) — Provides a lead generation platform that helps users find business emails and phone numbers from LinkedIn and company websites.
+- [All People (US)](https://allpeople.com/) — Offers business contact information and professional affiliations in the United States.
+- [Analyst Search Tools](https://analystresearchtools.com) — An extensive collection of OSINT tools and resources.
+- [Anymail Finder](https://anymailfinder.com/) — Offers a comprehensive email finder tool that enables users to discover verified email addresses by name, company, or domain, with a pay-per-result model,and limited free features.
+- [Aware Online: E-mail Search Tool](https://www.aware-online.com/osint-tools/e-mail-search-tool/) — An email search tool from Aware Online.
+- [BlackBird](https://github.com/p1ngul1n0/blackbird) — An OSINT tool to search for accounts by username and email in social networks.
+- [Castrick](https://castrickclues.com/) — A set of specialised OSINT tools, including tools to investigate e-mails, phone numbers, and usernames.
+- [Contact Out](https://contactout.com) — Provides a tool to find and verify professional email addresses and phone numbers, primarily focusing on LinkedIn profiles.
+- [Cyber Background Checks (US)](https://www.cyberbackgroundchecks.com) — Provides detailed background check services using aggregated public records.
+- [DetectDee](https://github.com/piaolin/DetectDee) — Hunt down social media accounts by username, email or phone across social networks.
+- [Digital Footprint Check](https://www.digitalfootprintcheck.com) — A people search engine that generates an online profile of an individual based on a provided e-mail or username.
+- [Email Extractor](http://emailx.discoveryvip.com) — Provides a free online tool to extract email addresses from text, supporting various separators and sorting options.
+- [Email Extractor](https://chromewebstore.google.com/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc) — A Chrome extension that extracts email addresses from web pages, facilitating easy collection of contact information.
+- [Email Extractor](https://convertcsv.com/email-extractor.htm) — Provides an online tool to extract email addresses from text or files, supporting various input formats and output options.
+- [Email Extractor Lite](http://eel.surf7.net.my) — Offers an email extraction tool designed to collect email addresses from text.
+- [Email Format](https://www.email-format.com/) — Provides a database of email formats for various companies, helping users guess or verify professional email addresses.
+- [Email Guesser](http://www.guesser.email) — Offers a tool that generates possible email addresses based on a person's name and company domain.
+- [Email Harvester](https://github.com/maldevel/EmailHarvester) — Provides an open-source tool that harvests email addresses from various sources for penetration testing and OSINT purposes.
+- [Email Permutator+](http://metricsparrow.com/toolkit/email-permutator/) — Offers a tool that generates permutations of email addresses based on a person's name and company domain.
+- [Email Search Engine](https://emailsearch.io/) — Provides a platform to search for and verify email addresses associated with a particular domain or company.
+- [Epieos](https://epieos.com) — Provides a search engine that allows users to find information associated with email addresses, phone numbers, and usernames.
+- [Experte.com: E-mail Finder](https://www.experte.com/email-finder) — Offers a tool to find verified email addresses by entering a domain or website.
+- [FindEmail](https://findemail.io/) — Provides a platform that enables users to find verified email addresses associated with a particular domain or company.
+- [FindEmails](https://www.findemails.com) — Offers a tool to find professional email addresses by entering a person's name and a domain.
+- [FindThatLead](https://findthatlead.com) — Offers a tool that assists in finding email addresses associated with a particular domain or company.
+- [Github-osint](https://github.com/hackstep/github-osint) — Provides an open-source tool that helps users gather information, including e-mail addresses, from GitHub repositories for OSINT investigations.
+- [GitSome](https://github.com/chm0dx/gitSome) — An OSINT tool to extract email addresses and other useful info from various GitHub sources.
+- [gosearch](https://github.com/ibnaleem/gosearch) — An OSINT tool designed for uncovering digital footprints associated with a given username.
+- [Hawker](https://github.com/RetrO-M/Hawker) — A Python script that gathers information on e-mails, phone numbers, IPs, and more.
+- [Hunter](https://hunter.io) — Provides a platform that helps users find professional email addresses associated with a particular domain or company.
+- [IDCrawl (US)](https://www.idcrawl.com) — A free people search engine, username search, reverse phone, and reverse e-mail lookup.
+- [LeadFuze](https://www.leadfuze.com) — Offers a lead generation platform that helps users find business emails and phone numbers from LinkedIn and company websites.
+- [Linkook](https://github.com/JackJuly/linkook) — An OSINT tool for discovering linked social accounts and associated emails across multiple platforms using a single username.
+- [Minelead](https://minelead.io/) — Provides a platform that allows users to find e-mail addresses associated with a particular domain or company.
+- [Minerva](https://minervaosint.com) — An OSINT platform that uses a number of sources and techniques to analyse email addresses.
+- [Name2Email](https://name2email.com) — A Chrome extension that helps Gmail users find email addresses by entering a person's name and domain.
+- [Omail Leads](https://omail.io/leads) — Provides a platform that assists in finding email addresses associated with a particular domain or company.
+- [Orbirtly](https://www.orbitly.io) — Finds e-mails, phone numbers, social media profiles, and more based on a provided e-mail address or phone number.
+- [OSINT Industries\n](https://www.osint.industries) — A comprehensive OSINT platform that provides a number of open source intelligence tools across multiple investigation domains.
+- [Peepmail](http://www.samy.pl/peepmail/) — Offers a tool to find professional email addresses by entering a person's name and a domain.
+- [People Looker (US)](https://www.peoplelooker.com) — Provides access to public records for background checks and contact details.
+- [PeopleSmart (US)](https://www.peoplesmart.com) — Delivers people search and background check services using public records.
+- [Pipl](https://pipl.com) — People search engine that scours the deep web and public records to find detailed personal information.
+- [Private Investigator Tech](https://www.privateinvestigator.tech/search) — Investigative search engine to access over 30,000 global data sources from a single interface.
+- [Profil3r](https://github.com/Greyjedix/Profil3r) — An OSINT tool that allows you to find potential profiles of a person on social networks, as well as their email addresses.
+- [Profiler](https://profiler.me) — Scan over 1500+ sources across the internet using a username, email, or phone number.
+- [SCANNER-INURLBR](https://github.com/googleinurl/SCANNER-INURLBR) — GitHub repository for a tool that searches for and verifies email addresses.
+- [sellhack](https://sellhack.com) — A Chrome extension to find e-mails and phone numbers hidden in social media profiles.
+- [Sherlockeye](https://www.sherlockeye.io) — A platform for investigating companies, individuals, and digital assets.
+- [Skrapp](https://skrapp.io) — A Chrome extension to find e-mails and phone numbers hidden in social media profiles.
+- [Skymem](https://www.skymem.info) — Find email addresses of companies and people based on a provided domain.
+- [Snov.io](https://snov.io) — A prospecting platform with tools to find and verify professional e-mail addresses.
+- [Spy Dialer (US)](https://www.spydialer.com) — A free reverse e-mail search using public data.
+- [Spytox (US)](https://www.spytox.com) — An online directory with contact information, personal details and public records
+- [TalentBin That’s Them (US)](https://thatsthem.com/reverse-email-lookup) — Tool that performs reverse email lookups to find associated names, addresses, and social profiles.
+- [Tomba](https://tomba.io/) — A set of tools to find and verify professional email addresses.
+- [Toofr](https://www.toofr.com) — A platform to find and verify professional e-mail addresses.
+- [USSearch (US)](https://www.ussearch.com) — Provides access to US public records to help locate individuals and background information.
+- [Zen](https://github.com/s0md3v/Zen) — A script to find emails of GitHub users.

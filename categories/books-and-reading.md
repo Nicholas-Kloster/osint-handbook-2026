@@ -1,0 +1,72 @@
+# Books And Reading
+
+> 68 tools — [osinthandbook.com/books-and-reading](https://www.osinthandbook.com/books-and-reading)
+
+- [Amazon Free Popular Classics](http://www.amazon.com/b?tag=mak041-20&linkCode=as2&ie=UTF8&node=2245146011) — Amazon category page showcasing free popular classics.
+- [Apple Books](https://www.apple.com/apple-books/) — Apple’s platform for purchasing and reading digital books.
+- [Audible](https://www.audible.com/) — Audiobook platform with a vast library of spoken books and podcasts.
+- [Blinkist](https://www.blinkist.com) — Service offering condensed versions of nonfiction books in text and audio.
+- [BookBub](https://www.bookbub.com) — Service providing personalised ebook deals and recommendations.
+- [Bookmate](https://bookmate.com) — A mobile reading app that’s filled with thousands of books.
+- [Books on the Knob](http://blog.booksontheknob.org) — Blog sharing ebook deals, news, and reviews.
+- [booksloth](https://www.booksloth.com) — Online community and app that recommends books based on reading preferences.
+- [Bookstr](https://bookstr.com/) — Online platform for book news, recommendations, and lists.
+- [Bookworm](https://babluboy.github.io/bookworm/) — A simple, focused ebook reader.
+- [Calibre](https://calibre-ebook.com/) — Free, open-source ebook manager and converter software.
+- [East view: Books and e-Books](https://www.eastview.com/resources/books-and-e-books/) — Resource providing books and ebooks with a focus on global research and academic works.
+- [Ebooks Searcher](https://ebook-searcher.com) — Search engine for locating ebooks across different sources.
+- [Europeana](https://www.europeana.eu) — Digital platform providing access to millions of cultural heritage items from European institutions.
+- [FBReader](https://fbreader.org) — Ebook reader app supporting multiple formats and devices.
+- [Free eBooks](https://www.free-ebooks.net) — Website providing a variety of free ebooks in multiple genres.
+- [Free Kindle Books](http://freekindlebooks.org) — Site offering free Kindle-compatible ebook downloads.
+- [Gnooks](https://www.gnooks.com/) — Literary recommendation engine.
+- [Goodreads](https://www.goodreads.com/) — Popular social network for readers to track, rate, and review books.
+- [Google Books](https://books.google.com) — Google’s comprehensive search engine and repository for books (preview, buy, and read).
+- [Google Play Books](https://play.google.com/books) — Google Play’s bookstore for buying and reading ebooks.
+- [Hathi Trust Digital Library](https://www.hathitrust.org) — Digital repository of millions of academic and research texts.
+- [How Long to Read This](https://www.howlongtoreadthis.com) — Tool that estimates personalised reading times for millions of books.
+- [Inkitt](https://www.inkitt.com) — Platform for writers to share stories and readers to discover new fiction.
+- [Internet Archive Texts](http://archive.org/details.php?identifier=texts) — Digital library offering millions of free texts.
+- [IT Ebooks](https://it-ebooks-search.info) — Search engine for free IT and programming ebooks.
+- [Jellybooks](https://www.jellybooks.com) — Platform to read, view and listen to ebooks, samples, excerpts, and advance review copies on any connected device with a single click.
+- [Just Free Books](http://www.justfreebooks.info) — Directory of links to free public domain books and ebook resources.
+- [Kindle: First Reads](https://www.amazon.com/firstreads) — Amazon program offering early access to new books for Prime members.
+- [KindleNationDay](https://kindlenationdaily.com/) — Website featuring Kindle book deals, news, and recommendations.
+- [kindleunlimited](https://www.amazon.com/kindle-dbs/hz/subscribe/ku) — Amazon subscription service for unlimited access to Kindle books.
+- [libib](https://www.libib.com) — Personal / cloud-based media cataloging tool for books, movies, music, and games.
+- [LibraryThing](https://www.librarything.com) — A free, library-quality catalog to track reading progress or your whole library.
+- [Librivox](https://librivox.org) — Free public domain audiobooks read by volunteers.
+- [Litsy](https://www.litsy.com) — Social community for book lovers to share reviews and reading experiences.
+- [Loyal Books](http://www.loyalbooks.com) — Collection of free audiobooks in the public domain.
+- [Many Books](https://manybooks.net/) — Free online library offering thousands of eBooks (mostly classics).
+- [Most Recommended Books](https://mostrecommendedbooks.com) — Manually curated book recommendations, lists by people, genres, and series.
+- [OAPEN](https://www.oapen.org) — Online library of open access books.
+- [Open Culture: Free Audiobooks](https://www.openculture.com/freeaudiobooks) — Collection of 1,000+ free classic audiobooks available for download.
+- [Open Library](https://openlibrary.org) — Open, editable library catalog with millions of books to borrow or read.
+- [Openingthebook](https://www.openingthebook.com/) — Blog featuring analyses and explorations of books, reading, and literary topics.
+- [OverDrive](https://www.overdrive.com) — Platform for borrowing digital books, audiobooks, and media via libraries.
+- [Pixel of Ink](http://www.pixelofink.com) — Site highlighting free and discounted Kindle ebooks.
+- [Project Gutenberg](https://www.gutenberg.org/) — Large collection of free public domain ebooks.
+- [Reader IQ](https://www.ereaderiq.com/) — Tool for tracking ebook price drops and deals.
+- [Readgeek](https://www.readgeek.com/) — Personal book recommendations engine.
+- [Readlax](https://chrome.google.com/webstore/detail/readlax-speed-reading/noggimpgfjnknjblddfibbdnocffdoii) — Browser extension for improving speed reading and focus.
+- [Readwise](https://readwise.io) — Service to revisit and retain your reading highlights.
+- [Reddit: 52 Weeks, 52 Books](https://www.reddit.com/r/52book) — Subreddit for the weekly “52-book challenge” readers.
+- [Reddit: Book Club](https://www.reddit.com/r/bookclub) — The Reddit Book Club.
+- [Reddit: Book Quotes](https://www.reddit.com/r/bookquotes) — Community sharing memorable book excerpts and quotes.
+- [Reddit: Books](https://www.reddit.com/r/books) — Reddit community for general discussions about books, reading, and authors.
+- [Reddit: Literature](https://www.reddit.com/r/literature) — A community for deeper discussions of plays, poetry, short stories, and novels.
+- [Reddit: Non-Fiction Book Club](https://www.reddit.com/r/nonfictionbookclub) — Reddit community dedicated to discussing nonfiction books.
+- [Reddit: Nonfiction Books](https://www.reddit.com/r/nonfictionbooks) — Reddit community for nonfiction book discussions.
+- [Reddit: Suggest Me A Book](https://www.reddit.com/r/suggestmeabook) — Reddit community where users ask for and give book recommendations.
+- [Riffle](https://www.rifflebooks.com) — Platform for book discovery and recommendations through lists and communities.
+- [Scribd](https://www.scribd.com/) — Subscription-based digital library hosting books, audiobooks, and documents uploaded by users.
+- [Stack](https://stack.app) — App that lets you record your reads, create your own digital stacks and explore community picks.
+- [Storygraph](https://beta.thestorygraph.com) — Reading tracker and recommendation site focusing on moods and statistics.
+- [TasteDive: Books](https://tastedive.com/books) — Personalised book recommendation engine.
+- [The Getty Research Institute](https://www.getty.edu/research/library/) — Research library offering extensive art and humanities resources.
+- [The Online Books Page](http://digital.library.upenn.edu/books/search.html) — Digital Library at University of Pennsylvania offering searchable access to digitised books.
+- [WhatShouldIReadNext](https://www.whatshouldireadnext.com/) — Book recommendation site suggesting reads based on previous choices.
+- [Whichbook](https://www.whichbook.net) — Book discovery tool that suggests titles based on mood and preferences.
+- [WorldCat](https://www.worldcat.org) — Provides access to a global catalog of library collections, facilitating resource sharing and discovery.
+- [YourNextRead](http://www.yournextread.com) — Book recommendation site suggesting titles similar to ones you like.

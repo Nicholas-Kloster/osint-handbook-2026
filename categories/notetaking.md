@@ -1,0 +1,49 @@
+# Notetaking
+
+> 45 tools — [osinthandbook.com/notetaking](https://www.osinthandbook.com/notetaking)
+
+- [acreom](https://acreom.com) — Open-source, markdown-based second-brain and task manager.
+- [Affine](https://affine.pro) — A workspace with fully merged docs, whiteboards and databases
+- [Agenda](https://agenda.com) — A macOS app that seamlessly integrates calendar events into your note taking, giving you more control over your day-to-day tasks and planning.
+- [Bear](https://bear.app/) — Elegant Markdown note‑taking app for iOS / macOS, with tag‑based organisation and other features.
+- [Brainio](https://brainio.com) — Note-taking and mind-mapping hybrid app for capturing and visualising ideas with templates and real-time collaboration.
+- [Capacities](https://capacities.io) — All-in-one doc and workflow platform combining documents, databases, and automation.
+- [cherrytree](https://www.giuspen.com/cherrytree) — A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in either a single file (xml or sqlite) or multiple files and directories.
+- [CintaNotes](http://cintanotes.com) — Windows app for fast text capture from anywhere, searchable by tags and content.
+- [ClickUp](https://clickup.com) — An all‑in‑one work platform combining tasks, docs, chat, time tracking, whiteboards, AI, calendars and workflows in one unified workspace.
+- [Coda](https://coda.io) — All-in-one collaborative workspace.
+- [Collected Notes](https://collectednotes.com) — Markdown note‑taking platform that doubles as a minimal blogging tool with public or private publishing.
+- [craft](https://www.craft.do) — Personal space for notes, tasks, and ideas.
+- [Evernote](https://evernote.com/) — A widely-known note‑taking and content capture platform.
+- [Google Keep](https://keep.google.com) — Lightweight note-capture app by Google with color-coded notes, reminders, labels, and browser / mobile access.
+- [inkdrop](https://www.inkdrop.app) — Paid Markdown note app with cross-platform consistency, tagging, notebooks, and optional end-to-end encryption.
+- [Joplin](https://joplinapp.org) — Secure open-source Markdown-based note app with notebooks, tags, sync, import / export, and encryption.
+- [KeepNote](http://keepnote.org) — Open-source desktop note-taking app with basic text capture and folder-based organisation.
+- [Logseq\n](https://logseq.com/) — Open‑source outliner and knowledge management tool using local Markdown / Org‑mode files, with PDF / video annotation and flashcards.
+- [Mem](https://get.mem.ai) — AI-based knowledge base and notetaking tool.
+- [Microsoft Loop](https://loop.cloud.microsoft) — AI-powered workspace for seamless collaboration.
+- [Microsoft OneNote](http://office.microsoft.com/en-us/onenote) — A note‑taking app from Microsoft with web clipper, bookmarks and syncing across devices.
+- [Milanote](https://milanote.com/) — Visual board tool for organising notes, images, links, and files in free-form layouts for creative projects.
+- [Note Apps](https://noteapps.info/) — Website indexing dozens of note‑taking apps with summaries and feature comparisons.
+- [Notion](https://www.notion.so) — Versatile workspace combining notes, databases, kanban boards, and collaboration.
+- [Obsidian\n](https://obsidian.md/) — Markdown‑based personal knowledge base with internal links, graph view, plugin support, and local vaults.
+- [Reflect](https://reflect.app/) — A minimalist note‑taking app with AI assistant that improves your writing, organises your thoughts, and helps you link ideas.
+- [Relanote](https://relanote.com) — AI-powered note-taking and personal knowledge management tool with bi-directional links, mind mapping, tags, and markdown support.
+- [RemNote\n](https://www.remnote.com/) — Structured learning and spaced‑repetition note system combining notes and reminders for study workflows.
+- [Roam Research](https://roamresearch.com/) — Collaborative knowledge-management note-taking app built on bidirectional linking and graph visualisation.
+- [Scrintal\n](https://scrintal.com/) — Visual thinking tool combining note‑taking and mind‑map style graphs focused on planning and synthesis.
+- [Simplenote](https://simplenote.com/) — Simple, clean note-taking app with Markdown support, syncing, tags, collaboration, and offline access.
+- [Slite](https://slite.com) — Team knowledge-base and documentation app with real-time collaboration, templates, and AI-powered search.
+- [somnote](https://somcloud.com/about/somnote) — A cross-platform app to easily record and organise information.
+- [Squid](http://squidnotes.com) — Handwritten note‑taking app for Android / Chromebook, with PDF markup and vector‑based drawing.
+- [Standard Notes](https://standardnotes.org) — End‑to‑end encrypted, privacy‑first note‑taking app with cross‑platform sync.
+- [Sublime Text](https://www.sublimetext.com) — Sophisticated cross‑platform text and code editor known for speed, minimal interface, powerful extensibility and syntax support.
+- [TagSpaces](https://www.tagspaces.org) — Open‑source offline file and document manager that tags and organises local files without cloud dependencies.
+- [Tana](https://tana.inc) — AI-native, node-based knowledge-graph and productivity workspace.
+- [Thinkery](https://thinkery.me/) — A fast, lightweight tool for storing notes, bookmarks and todos.
+- [Tomboy](https://wiki.gnome.org/Apps/Tomboy) — GNOME desktop note-taking / wiki app for Linux with simple notebooks and internal linking.
+- [Trilium](https://github.com/zadam/trilium) — A free and open-source, cross-platform hierarchical note taking application with focus on building large personal knowledge bases.
+- [Turtl](https://turtlapp.com) — An encrypted, private-first note-taking app with support for storing bookmarks and files.
+- [Tusk](https://github.com/klauscfhq/tusk) — An unofficial, featureful, open source, community-driven, free Evernote app.
+- [Workflowy](https://workflowy.com) — Clean, distraction‑free outliner for capturing notes, organizing tasks and ideas via nested lists, infinite depth and live collaboration.
+- [Zoho Notebook](https://www.zoho.com/notebook/) — Digital notebook app with customisable note cards, color coding, reminders, audio notes, and cloud sync.

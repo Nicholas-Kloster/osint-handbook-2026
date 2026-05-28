@@ -1,0 +1,44 @@
+# Github
+
+> 40 tools — [osinthandbook.com/github](https://www.osinthandbook.com/github)
+
+- [Awesome Lists](https://awesomelists.top/) — Curated search engine for Awesome GitHub lists.
+- [Code Finder: Github Search](https://codefinder.dev/) — A search engine for finding code across public repositories.
+- [Find Github User ID](http://caius.github.io/github_id/) — Tool to retrieve a GitHub user’s numeric ID from their username
+- [GH Archive](http://www.gharchive.org) — Archive of all GitHub public event data for analysis.
+- [git-hound](https://github.com/tillson/git-hound) — GitHub reconnaissance tool to find exposed credentials.
+- [Gitcolombo](https://github.com/soxoj/gitcolombo) — Extract and analyse contributors info from git repos.
+- [GitGot](https://github.com/BishopFox/GitGot) — Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.
+- [gitGraber](https://github.com/hisxo/gitGraber) — Tool to monitor GitHub for sensitive information.
+- [Github Commits Email Finder](https://ghintel.secrets.ninja) — GitHub commits e-mail finder.
+- [GitHub Compare](https://www.githubcompare.com/) — A platform to search for and compare GitHub repositories and users.
+- [Github Dorks](https://github.com/techgaun/github-dorks) — Collection of GitHub search queries (dorks) for sensitive data discovery.
+- [GitHub Email Finder](https://github-email-finder.netlify.app/) — Find out the email of any GitHub developer.
+- [Github Monitor](https://github.com/misiektoja/github_monitor) — Real-time tracking of Github users activities including profile and repository changes.
+- [Github Notes](https://githubnotes-47071.firebaseapp.com/#/?_k=n0bgxn) — A tool to search for information on Github user.
+- [GitHub Rater\n](https://aykutsarac.github.io/github-rater/) — A web app to rate and analyse GitHub profiles.
+- [Github Stars](http://githubstars.com) — Platform for tracking and discovering top GitHub users
+- [GitHub Trending](https://github.com/willin/github-trending) — Github daily trending archives.
+- [Github Trending RSS](https://mshibanami.github.io/GitHubTrendingRSS/) — GitHub trending RSS.
+- [Github Username Search Engine](https://githubnotes-47071.firebaseapp.com/) — A tool to search for GitHub repositories by username.
+- [Github Username Search Engine](https://jonnygovish.github.io/Github-username-search-engine) — A tool to search within Github resources by username.
+- [GitHut](https://githut.info) — Visualisation of GitHub language and project trends.
+- [GitLive](https://www.gitlive.net) — A visualisation of collaboration and interaction on GitHub.
+- [Gitsearchai](https://www.gitsearchai.com) — Search GitHub repositories using natural language.
+- [GitSome](https://github.com/chm0dx/gitSome) — An OSINT tool to extract email addresses and other useful info from various GitHub sources.
+- [Gitstar Ranking](https://gitstar-ranking.com) — Unofficial GitHub star ranking for users, organisations and repositories.
+- [Gitvio](https://gitvio.vercel.app/) — A tool to analyse and visualise GitHub user activity.
+- [octosuite](https://github.com/bellingcat/octosuite) — A framework for gathering open-source intelligence on GitHub users, repositories and organisations.
+- [OSGINT](https://github.com/hippiiee/osgint) — An OSINT tool to find informations about a GitHub user.
+- [OSS Insight](https://ossinsight.io/) — Analytics platform for GitHub open-source trends and insights.
+- [Profile Summary](https://profile-summary-for-github.com/search) — A search tool to view GitHub user profile summaries.
+- [Recruit’em](https://recruitin.net/) — A free X‑Ray search tool using Google to query profiles across LinkedIn, GitHub, Dribbble, Stack Overflow and more.
+- [RepoAnalyzer](https://app.repoanalyzer.io/) — App for exploring and analysing code repositories.
+- [Repost Timeline](https://repostimeline.nazifbara.com/) — Visualize GitHub repositories through a timeline.
+- [shhgit](https://github.com/eth0izzle/shhgit) — A tool that scans GitHub for secrets and sensitive information in real time.
+- [socialscan](https://pypi.org/project/socialscan/) — Performs username and email address checks across multiple platforms.
+- [socid_extractor](https://github.com/soxoj/socid_extractor) — Extracts social media and personal identifiers from various sources.
+- [Spoonbill](https://spoonbill.io) — A tool to monitor changes to social media profiles.
+- [Starlet\n](https://star-history.com/) — A tool to view GitHub star history over time.
+- [truffleHog](https://github.com/dxa4481/truffleHog) — A tool to monitor Git, Jira, Slack, Confluence, Microsoft Teams, Sharepoint, and more for leaked credentials.
+- [Zen](https://github.com/s0md3v/Zen) — A script to find emails of GitHub users.

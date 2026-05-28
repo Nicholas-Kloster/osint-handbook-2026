@@ -1,0 +1,23 @@
+# Forums And Discussion Boards
+
+> 19 tools — [osinthandbook.com/forums-and-discussion-boards](https://www.osinthandbook.com/forums-and-discussion-boards)
+
+- [/r/OSINT](https://www.reddit.com/r/OSINT)
+- [Bellingcat Discord](https://discord.com/invite/nTaNPmz)
+- [DEFCON](https://discord.com/invite/defcon)
+- [Imaginary CTF](https://discord.com/invite/sjVcTTXg6a)
+- [Limitless OSINT](https://limitless-osint.com)
+- [Open Facto](https://openfacto.fr)
+- [OSINT Editor](https://discord.com/invite/M5pk9rE)
+- [OSINT FR](https://osintfr.com)
+- [OSINT UK](https://www.osint.uk)
+- [OSINT.Team](https://osint.team)
+- [OSINTOPIA](https://www.linkedin.com/company/osintopia/)
+- [OZINT.EU](https://ozint.eu)
+- [Project Fox](https://projetfox.com)
+- [Project Owl](https://discord.com/invite/projectowl)
+- [Reddit Bureau of Investigations](https://www.reddit.com/r/RBI/)
+- [The OSINTion](https://discord.com/invite/p78TTGa)
+- [Trace Labs](https://discord.com/invite/Rn8z2QNAD9)
+- [TraceanObject](https://www.reddit.com/r/TraceAnObject)
+- [UK OSINT Community](https://www.linkedin.com/company/osintuk/)

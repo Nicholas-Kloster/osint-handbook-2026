@@ -1,0 +1,63 @@
+# Checking Cyber Reputation
+
+> 59 tools — [osinthandbook.com/checking-cyber-reputation](https://www.osinthandbook.com/checking-cyber-reputation)
+
+- [apivoid: URL Reputation Check](https://www.apivoid.com/tools/url-reputation-check) — Tool to check URL reputation and detect malicious content.
+- [BBB Scam Tracker](https://www.bbb.org/scamtracker/us/) — A free tool to report and research scams.
+- [Blacklight](https://themarkup.org/blacklight) — A real-time website privacy inspector.
+- [Blacklist Alert](https://blacklistalert.org/) — Checks if a domain or IP is listed in DNS-based blacklists.
+- [Blacklisted IP Check](https://whoisip.ovh/blacklist) — Tool to verify if an IP address is blacklisted.
+- [Blocklist.de](https://www.blocklist.de/en/index.html) — Reports and publishes IPs involved in suspicious activity.
+- [BrightCloud URL or IP Lookup](https://www.brightcloud.com/tools/url-ip-lookup.php) — Webroot’s tool for IP and URL threat classification.
+- [CheckPhish](https://checkphish.ai) — Phishing URL scanner powered by AI detection
+- [Checkphish](https://checkphish.bolster.ai/) — Phishing and scam site detection platform.
+- [Cyscan](https://cyscan.io) — An advanced tool for analysing website security.
+- [Desenmascara](http://desenmascara.me) — Tool to reveal cloaked or hidden phishing websites.
+- [Global Scammer Database\n](https://scamsearch.io/) — Lookup tool for identifying scams and fraudulent websites.
+- [Google Transparency Report](https://transparencyreport.google.com/safe-browsing/search) — Tool to check website safety status using Google's Safe Browsing data.
+- [GooHak](https://github.com/1N3/Goohak) — Tool that automatically launches Google hacking queries against a target domain to find vulnerabilities.
+- [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com) — Threat intelligence portal offering malware and vulnerability data
+- [Immuni Web](https://www.immuniweb.com/radar) — Surface web monitoring tool for attack surface and risk exposure
+- [IPQualityScore: Malicious URL Scanner](https://www.ipqualityscore.com/threat-feeds/malicious-url-scanner) — Malicious URL scanner.
+- [IPVoid](https://www.ipvoid.com/) — IP reputation checker with blacklist and malware checks.
+- [Is It Hacked?](https://www.isithacked.com/) — Checks if a website is hacked or compromised.
+- [Is It Phishing](https://isitphishing.org) — Detects potential phishing URLs or emails.
+- [ISLegitSite](https://www.islegitsite.com) — A tool to check whether the website is legit or scam.
+- [Kaspersky Threat Intelligence Portal](https://opentip.kaspersky.com) — Provides threat intelligence on files, URLs, and hashes.
+- [List of Scam Websites](https://wegetscammedforyou.com/a-list-of-scam-websites/) — A list of scam webites.
+- [List of Scamming Websites](https://www.scam-detector.com/article/list-of-scamming-websites/) — A list of scamming websites.
+- [List of Scams and Fake Online Shops](https://fakeinet.com/list-of-scams-and-fake-online-shops-of-internet) — A list of alerts and unreliable online shops.
+- [MalShare](https://malshare.com) — Community-driven public malware repository with API access to samples.
+- [Malware URL Website Security Status](https://www.malwareurl.com/listing-urls.php) — MalwareURL site reputation lookup.
+- [McAfee URL Checking](https://sitelookup.mcafee.com/en/feedback/url?action=checksingle&url=) — Single‑URL reputation checking tool powered by McAfee
+- [MXToolbox](https://mxtoolbox.com) — A suite of tools to diagnose and monitor mail servers and DNS records.
+- [Norton Site Check](https://safeweb.norton.com) — Norton Safe Web: website reputation checker and safety ratings from Norton.
+- [Palo Alto URL Filtering](https://urlfiltering.paloaltonetworks.com) — Tool for checking URL categories and web reputation.
+- [PhishTank](https://www.phishtank.com) — Community-driven database of reported phishing websites.
+- [Quttera](https://quttera.com) — Website malware scanner and threat intelligence platform.
+- [Scam Adviser](https://www.scamadviser.com) — Website reputation checker focused on identifying scams.
+- [Scamalytics](https://scamalytics.com) — Generates an IP fraud score for a provided IP address.
+- [ScamMinder](https://scamminder.com) — ScamMinder harnesses cutting-edge AI to scrutinise websites in real-time, providing you with a clear safety score and detailed insights.
+- [Scumware](https://www.scumware.org/) — A database of known malicious URLs and software.
+- [Security Headers](https://securityheaders.com) — Tool for analysing HTTP response headers for security best practices.
+- [Spamhaus](https://www.spamhaus.com/) — Reputation-based threat intelligence on IPs, domains, and spam sources.
+- [SubdomainRadar](https://subdomainradar.io) — Discover hidden subdomains, retrieve IP / DNS data, verify URLs, scan ports, capture screenshots, and scan for vulnerabilities.
+- [Subdosec](https://github.com/xcapri/subdosec) — Subdosec is a fast, accurate subdomain takeover scanner with no false positives. It also offers a database of sites vulnerable to subdomain takeover (public results), along with detailed metadata like IP, CNAME, TITLE, and STATUS CODE for reconnaissance to identify potential new vulnerabilities.
+- [Sucuri Free Website and Malware Scanner](https://sitecheck.sucuri.net) — Website security scanner that checks for malware, vulnerabilities, and blacklist status.
+- [Symantec WebPulse Site Review Request](https://sitereview.bluecoat.com) — Blue Coat (Symantec) site categorization and URL safety reputation lookup.
+- [Talos Intelligence](https://www.talosintelligence.com) — Threat intelligence on malware, spam, and network activity.
+- [ThreatLog](https://www.threatlog.com) — A service developed by NoVirusThanks that keeps track of malicious domains detected by internal honeypots, malware sandboxes or submitted by users.
+- [ThreatMiner](https://www.threatminer.org) — Searchable threat intelligence platform with passive DNS and malware data.
+- [Trend Micro Site Safety Center](https://global.sitesafety.trendmicro.com) — Website reputation and safety lookup tool by Trend Micro.
+- [URL Haus](https://urlhaus.abuse.ch) — Repository of malicious URLs used in malware distribution.
+- [URL Query\n](https://urlquery.net/) — Tool for analysing URLs and detecting malicious behaviour.
+- [URLVoid](https://www.urlvoid.com/) — URL reputation checking service using multiple blacklist engines.
+- [Virus Total](https://www.virustotal.com) — Online service for analysing files and URLs for viruses and malware.
+- [Web Filter Lookup](https://www.fortiguard.com/webfilter) — Web filtering and threat intelligence platform.
+- [Web Inspector](https://www.webinspector.com/website-malware-scanner/) — Website malware scanner and vulnerability checker.
+- [WebSitePulse](https://www.websitepulse.com/help/testtools.dbl-test.html) — Online tools for testing and monitoring website availability and performance.
+- [WOT](https://www.mywot.com) — Check safety of a specific website or scan your browsing history and see if you've been exposed to untrusted sites.
+- [WPScan Wordpress Vulnerability Database](https://wpvulndb.com) — WordPress vulnerability database providing details on known plugin, theme, and core issues.
+- [Zone-h: Archive](https://www.zone-h.org/archive) — Archive of defaced websites with hacker attribution.
+- [Zulu URL Risk Analyzer](https://zulu.zscaler.com) — Real-time URL risk analysis and threat detection tool.
+- [ZveloLIVE](https://tools.zvelo.com) — URL categorisation and threat intelligence lookup tool.

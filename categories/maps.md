@@ -1,0 +1,62 @@
+# Maps
+
+> 58 tools — [osinthandbook.com/maps](https://www.osinthandbook.com/maps)
+
+- [_IntelligenceX: Location 2 Map](https://intelx.io/tools?tab=location) — A tool that searches for a given location using multiple mapping platforms based on a provided latitude and longitude.
+- [A to Z Maps](https://www.atozmapsonline.com) — The world's largest database of royalty-free, downloadable maps for academic use.
+- [ArcGIS Online](https://www.arcgis.com) — A GIS platform for creating, analysing, sharing and collaborating on interactive maps and spatial data.
+- [Baidu Maps](https://map.baidu.com) — China’s leading mapping service offering street maps, satellite imagery, street-view, route planning, real-time traffic and more.
+- [Batchgeo](https://batchgeo.com/) — Interactive tool to quickly turn spreadsheet or tabular data into custom pin-based maps.
+- [Bing Maps](https://www.bing.com/maps) — Microsoft’s web mapping service featuring road, aerial, street-side, bird’s-eye and 3D views along with directions, traffic and more.
+- [Copernix](https://copernix.io/) — Geographical search engine that lets you explore the map using free-text queries linked with Wikipedia information.
+- [Dominoc925](https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html) — Browser-based mapplet that overlays Military Grid Reference System (MGRS) coordinates onto Google Maps for any clicked location.
+- [Dual Maps](https://www.mapchannels.com/dualmaps7/map.htm) — Embeddable mapping widget combining synchronised Google Maps, Street View, and Bird’s Eye imagery in a dual-view control with customisation options.
+- [Esri Search](https://esri-es.github.io/arcgis-search/) — Interactive frontend for searching across ArcGIS content (maps, layers, apps, datasets) via text-based queries.
+- [F4map Demo](https://demo.f4map.com/) — WebGL-based 3D map viewer using OpenStreetMap data, offering interactive 2D/3D mapping and geo-localised content display.
+- [Fallingrain Global Gazetteer](http://www.fallingrain.com/world/index.html) — Global directory of cities and towns showing coordinates and basic geographic data, often used as a gazetteer.
+- [GaiaGPS](https://www.gaiagps.com/map) — Online mapping tool focusing on outdoor navigation and tracking.
+- [GaiaGPS](https://www.gaiagps.com/map) — Outdoor navigation web and mobile app offering topographic, trail, and overlay maps.
+- [GeoFabrik](http://www.geofabrik.de) — Provider of OpenStreetMap-based map data extracts and geospatial downloads by region.
+- [gmapcatcher](https://github.com/heldersepu/gmapcatcher) — An offline map viewer.
+- [gmapcatcher](https://github.com/heldersepu/gmapcatcher) — An offline map viewer.
+- [Go KML Maps](http://gokml.net/maps) — Tool for generating KML or KMZ files and viewing geographic data via browser using KML overlays.
+- [Google Maps](https://www.google.com/maps) — Google’s global mapping service offering detailed maps, satellite imagery, route planning, local business search, real-time navigation, street view, and more.
+- [Google Maps Downloader](http://www.allmapsoft.com/gmd/) — A tool that automatically downloads the Google Maps images to your PC.
+- [Google Maps Search Export](https://phantombuster.com/automations/google-maps/23412/google-maps-search-export) — Automation platform tool to search Google Maps and export results.
+- [Gosur Map](http://www.gosur.com/map) — Interactive map of the world.
+- [GPX Editor Map](https://www.gpxeditor.co.uk/map) — Web-based GPX editor with interactive map interface to create, modify, and visualise GPX tracks, routes, and waypoints.
+- [Instant Google Street View](https://www.instantstreetview.com/) — Simply type an address or place name to instantly see it in Google Street View.
+- [KartaView](https://kartaview.org/map) — Free and open crowdsourced street-level imagery platform aimed to enhance OpenStreetMap.
+- [Knoema Atlas](https://knoema.com/atlas) — A portal offering data, maps, and rankings from all across the world.
+- [MAGIC Map](https://magic.defra.gov.uk/MagicMap.aspx) — UK government’s interactive web mapping system offering environmental data (habitats, land designations, marine, rural/urban features) for Great Britain.
+- [Map Flight](https://mapfight.xyz/browse/) — Web app that lets users compare the size of geographic areas, helping visualise real-world scale differences.
+- [Map Overlays for Google Earth](http://www.mgmaps.com/kml/#view) — Simple interface for overlaying KML files onto Google Earth.
+- [Map Puzzle](http://www.mappuzzle.se) — A tool allowing you to save map locations into high resolution images (jpg, gif, png, bmp, tiff).
+- [Map QQ](https://map.qq.com) — Tencent's mapping service for China, offering detailed regional maps, routing, and POI search.
+- [Mapcarta](https://mapcarta.com/) — The open map that aggregates information from OpenStreetMap, Wikipedia, Wikidata, and other open projects.
+- [Mapillary](https://www.mapillary.com) — Community-driven street-level imagery platform that visualises and shares user-contributed photos.
+- [Mappy](http://en.mappy.com/) — European route and travel planning site with map-guided navigation and local directions.
+- [Mapquest](https://www.mapquest.com) — Online mapping service providing driving directions, traffic alerts, and location search.
+- [MapSwitcher\n](https://github.com/david-r-edgar/MapSwitcher) — Chrome extension to switch between different mapping websites.
+- [Maxar Geospatial Platform Xpress](https://xpress.maxar.com) — Maxar Geospatial Platform Xpress uses a suite of search and discovery tools to browse the Maxar image library archives and quickly locate imagery within an area. Filters—such as product type, image type, resolution, date, cloud cover, off-nadir, and sun elevation—can be adjusted to refine search results. The resulting area can be shared, downloaded, or saved.
+- [Multimap(a)s](https://javier.jimenezshaw.com/mapas/mapas.html) — A free tool for comparing online maps side by side.
+- [National Geographic Map Stories](https://www.nationalgeographic.com/maps) — A collection of maps from National Geographic.
+- [Nations Online: Maps](https://www.nationsonline.org/oneworld/maps.htm) — Comprehensive directory of world maps, including political, physical, and regional maps, organised by continent and country.
+- [Old Maps Online](https://www.oldmapsonline.org) — Searchable archive of historical maps that allows you to overlay and compare high-resolution scans from various eras via a timeline interface.
+- [Open Street Map](https://www.openstreetmap.org/) — Free, editable, and community-driven global map database that allows users to view, edit, and download map data.
+- [Open Switch Maps Web](https://tankaru.github.io/OpenSwitchMapsWeb/index.html) — OpenSwitchMaps helps you to switch between map services, such as Google maps, OpenStreetMap, Bing map and so on.
+- [Orienteering Maps](https://omaps.worldofo.com/gmaps.php) — Interactive portal for browsing orienteering maps (competitions, trainings, collections) by region.
+- [OsmAnd](https://osmand.net) — An offline world map application based on OpenStreetMap (OSM), which allows you to navigate taking into account the preferred roads and vehicle dimensions.
+- [Overpass Turbo](https://overpass-turbo.eu) — Web-based data querying and visualisation tool for OpenStreetMap using the Overpass API.
+- [Perry Castaneda Library](https://www.lib.utexas.edu/maps) — Digital collection portal of the Perry–Castañeda Library’s extensive map holdings, including world and historical maps.
+- [Research UN Maps](https://research.un.org/en/maps) — Interactive map platform from the United Nations providing access to UN-produced maps and geospatial data.
+- [Rutmap](https://www.rutmap.com/) — Offline interactive city guide with virtual maps and address / event lookup.
+- [ShowMyStreet](https://showmystreet.com) — Fast, easy street-level viewing front-end using Google Maps Street View.
+- [SOAR Earth](https://soar.earth) — A digital atlas built on maps and imagery from individuals, organisations, and the broader community.
+- [Topography Maps](https://www.topographymaps.com) — Extensive topographic and thematic map collection.
+- [ViaMichelin](https://www.viamichelin.com/) — Europe and worldwide maps provided by ViaMichelin.\n
+- [Wego.here](https://wego.here.com) — Web mapping and navigation service with driving, traffic, and location features.
+- [WhatisWhere](https://www.whatiswhere.com) — A map-based point of interest search platform.
+- [Wikimapia](http://wikimapia.org) — Geographic wiki-enabled map allowing users to view, describe, and edit locations collaboratively.
+- [World Banks](https://maps.worldbank.org/) — A collection of the World Bank projects and datasets to gain insights across areas of interest including regions, countries, custom areas and more.
+- [Yandex Maps](https://yandex.ru/maps) — A cartographic service provided by the Russian Yandex.
